@@ -1,0 +1,15 @@
+{
+  "name": "communicatiekompas",
+  "description": "Plugins voor communicatieprofessionals bij de Nederlandse overheid, gebaseerd op communicatiekompas.nl en communicatierijk.nl.",
+  "owner": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "plugins": [
+    {
+      "name": "woordvoering",
+      "source": "./plugins/woordvoering",
+      "description": "Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl."
+    }
+  ]
+}

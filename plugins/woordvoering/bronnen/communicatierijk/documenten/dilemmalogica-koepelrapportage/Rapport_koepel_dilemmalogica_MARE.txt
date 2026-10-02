@@ -1,0 +1,1014 @@
+[Tekstversie van Rapport_koepel_dilemmalogica_MARE.pdf, omgezet met pdftotext -layout]
+
+               Dilemmalogica
+Koepelrapportage van 4 kwalitatieve deelonderzoeken #2
+
+
+
+
+           Ministerie van Algemene Zaken
+           Dienst Publiek en Communicatie
+                   Kasper Heijting
+
+
+
+
+                       MARE
+                 Sandra van Vemden
+                  Liesbeth Gerritsen
+
+
+
+
+           Projectnummer MARE: 2018115
+
+
+                   11 februari 2019
+Inhoudsopgave
+
+Inleiding                                                                     3
+Achtergrond                                                                   3
+Onderzoeksdoelstellingen                                                      3
+Leeswijzer                                                                    4
+
+Resultaten deelonderzoeken                                                   5
+Casus ‘Lerarentekort’                                                        5
+Casus ‘Brexit’                                                               8
+Casus ‘5G’                                                                  10
+Casus ‘Afrikaanse Varkenspest’                                              12
+
+Analyse van de resultaten                                                   15
+
+Conclusies en aanbevelingen                                                 19
+
+
+
+
+Disclaimer
+Kwalitatief onderzoek is verkennend en inventariserend van aard. Uitkomsten van dergelijk
+onderzoek moeten dan ook in de eerste plaats worden gezien als indicatief en hypothese-
+vormend en niet als (cijfermatig bewezen) feiten. Omwille van de leesbaarheid wordt in deze
+rapportage de stellende vorm gebruikt.
+
+
+
+                                                                                              2
+Inleiding
+
+Achtergrond
+Bij de formatie en installatie van het nieuwe kabinet is er accent komen te liggen op hoe
+communicatie van het kabinet (meer) kan bijdragen aan de volgende aspecten:
+ • Eenheid (van regeringsbeleid);
+ • Contact (met de samenleving c.q. burger);
+ • Herkenbaar (zijn als overheid);
+ • Transparant (helder, toegankelijk en begrijpelijk).
+
+In dit kader overweegt de Rijksoverheid om een nieuwe benadering in haar communicatie toe te
+passen, te weten dilemmalogica. Hiermee worden versterkingen beoogd bij vooral het maken van
+'contact' en vergroten van de 'transparantie'. Deze methode biedt inzicht in de overwegingen van
+de overheid en geeft de zienswijzen van ontvangers van communicatie een nadrukkelijkere
+plaats als (mede)eigenaar van een opgave. Potentieel zorgt dilemmalogica voor meer begrip en
+draagvlak onder de doelgroep(en) van overheidscommunicatie dan de doelredenering die in de
+afgelopen jaren vaak ingezet is, doordat de eigen 'doelredenering' van de overheid wordt
+opgeschort ten gunste van wat in de interactie boven tafel komt.
+
+Dilemmalogica behelst de volgende stappen:
+ 1. Erken de zorgen, aansluiten op wat er leeft (onderstroom);
+ 2. Orden de verschillende perspectieven/zienswijzen (bandbreedte);
+ 3. Bied (handelings)perspectief.
+
+De verwachting is dat door deze aanpak burgers of bedrijven meer bereid zijn de regels na te
+leven en de overheid eerder als legitiem percipiëren, doordat ze de overwegingen van de
+overheid kennen. Dilemmalogica zou een positieve impact op de procedurele rechtvaardigheid
+kunnen hebben (bron: Tyler & Lind, 1992).
+
+Om de effectiviteit van dilemmalogica ten opzichte van doelredenering in kaart te brengen,
+hebben Dienst Publiek en Communicatie (hierna: DPC) en de Rijksvoorlichtingsdienst/
+Communicatie Algemeen Regeringsbeleid (hierna: RVD) kwalitatief communicatie-onderzoek
+geïnitieerd, waarbij het onderzoek is beperkt tot het gebruik van kernboodschappen. In dit kader
+heeft MARE met DPC een Nadere Overeenkomst voor meerdere opdrachten gesloten en dit
+kwalitatieve onderzoek uitgevoerd. In samenwerking met verschillende departementen zijn 4
+casussen (deelonderzoeken) opgesteld. In elke casus zijn steeds 2 kernboodschappen aan de
+doelgroep voorgelegd; 1 kernboodschap met dilemmalogica en 1 kernboodschap zonder
+dilemmalogica.
+
+De volgende casussen zijn behandeld:
+ 1. ‘Lerarentekort’ in samenwerking met ministerie van Onderwijs, Cultuur en Wetenschap;
+ 2. ‘Brexit’ in samenwerking met ministerie van Buitenlandse Zaken;
+ 3. ‘5G’ in samenwerking met ministerie van Economische Zaken en Klimaat;
+ 4. ‘Afrikaanse varkenspest’ in samenwerking met ministerie van Landbouw, Natuur en
+    Voedselkwaliteit.
+
+Per casus is een deelrapportage opgeleverd. In deze koepelrapportage geven wij de
+belangrijkste algehele bevindingen, conclusies en aanbevelingen weer. Een nadere uitwerking
+van de onderzoeksopzet is opgenomen in de bijlagen.
+
+
+
+
+                                                                                                   3
+Onderzoeksdoelstellingen
+• In hoeverre draagt het format van dilemmalogica bij aan meer begrip en draagvlak dan het
+   format van doelredenering?
+       o Primaire stakeholder: DPC.
+       o Beantwoording: evaluatie per test en uiteindelijk een overkoepelende analyse.
+• Hoe worden de kernboodschappen/communicatiemiddelen binnen de case gepercipieerd en
+   welke verbeter- en aandachtspunten zijn er?
+       o Primaire stakeholder: BZ en EZK.
+       o Beantwoording: analyse op basis van deze specifieke test.
+       o Inzicht in de communicatieve werking van de kernboodschappen.
+       o Inzicht in de context waarin de kernboodschappen worden ontvangen en beoordeeld.
+
+Output:
+• Inzicht in de communicatieve werking van de kernboodschap, per format.
+• Inzicht in de invloed van het format dilemmalogica op het begrip en de mate waarin draagvlak
+   wordt gecreëerd onder de doelgroep ondernemers.
+• Concrete aandachts- en verbeterpunten met betrekking tot de kernboodschap, teneinde tot
+   een kernboodschap te komen die optimale aansluiting vindt bij de doelgroep ondernemers.
+
+Leeswijzer
+De resultaten, conclusies en aanbevelingen in dit document zijn gebaseerd op de
+(voortschrijdende) inzichten die zijn opgedaan in de vier verschillende deelonderzoeken. Het
+rapport is als volgt opgebouwd:
+• Om te beginnen worden de resultaten met betrekking tot de principes van dilemmalogica van
+    de vier deelonderzoeken gepresenteerd. Overige resultaten en de
+    onderzoeksverantwoording van de deelonderzoeken zijn te vinden in de deelrapportages.
+• Daarna volgt de analyse van deze uitkomsten. Hierbij gaat het om overkoepelende inzichten
+    waarbij wanneer relevant de verschillende casussen ter illustratie worden aangehaald.
+• Tot slot wordt er afgesloten met de conclusies en aanbevelingen.
+
+
+
+
+                                                                                             4
+Resultaten deelonderzoeken
+
+Casus ‘lerarentekort’
+
+Communicatiedoelstelling kernboodschap:
+• Het creëren van begrip onder de doelgroep leraren voor het gezamenlijke commitment van
+   OCW en relevante (regionale) partners. Namelijk dat er sprake is van gedeelde
+   verantwoordelijkheid om gezamenlijk voortgang/resultaat te boeken.
+• Focus verleggen van financiën (met name geld voor salaris) naar gedeelde
+   verantwoordelijkheid in een regionale aanpak van het lerarentekort. Waarbij OCW de
+   verbinding tussen partijen legt (goede voorbeelden deelt, coördinatiefunctie) en de
+   randvoorwaarden schept waarbinnen besturen en schoolleiders hun verantwoordelijkheid
+   voor goed onderwijs kunnen waarmaken, inclusief goed werkgeverschap.
+
+Getoetste kernboodschappen:
+ Tekst met dilemmalogica                                Tekst zonder dilemmalogica
+
+ We zien dat heel veel leraren zich zorgen maken        Het terugdringen van het lerarentekort vraagt
+ over de kwaliteit van het onderwijs op hun school,     niet alleen om landelijke actie, maar ook om
+ nu het tekort aan leraren op veel plekken groeit. Er   meer maatwerk per regio. De huidige
+ zijn vooral zorgen over werkdruk en over de            maatregelen hebben effect, maar er is meer
+ waardering van het vak. Hoe kun je met de              nodig.
+ middelen die er zijn de beste mensen vinden en
+ behouden? Er is een roep om meer salaris, maar uit     Het lerarentekort is in grote delen van het land
+ de verhalen van leraren spreekt vooral een enorme      inmiddels goed voelbaar. Op een krappe
+ verantwoordelijkheid voor de toekomst van              arbeidsmarkt is het moeilijk om voldoende goede
+ kinderen.                                              mensen te vinden. Vooral in de Randstad
+                                                        hebben veel scholen moeite om voldoende
+ Hoe speelt het ministerie van OCW hierop in? Aan       leraren te vinden.
+ de ene kant zien we dat op een krappe
+ arbeidsmarkt allerlei sectoren (zoals de politie en    Het tekort per regio verschilt, daarom heeft elke
+ zorg) het moeilijk hebben om voldoende goede           regio een eigen aanpak nodig. Hiervoor worden
+ mensen te vinden. Schoolbesturen halen alles uit de    regionale aanjagers aangesteld. Zij gaan scholen
+ kast om leraren aan te trekken, bijvoorbeeld door      stimuleren om meer samen te werken en elkaar
+ werving van zij-instromers uit andere vakgebieden      niet uit de markt te concurreren. En zij zullen
+ en het sneller inzetten van studenten van              afspraken tussen lerarenopleidingen en scholen
+ lerarenopleidingen. Aan de andere kant zien we dat     stimuleren en helpen goede voorbeelden uit te
+ mensen heel gericht voor het leraarschap kiezen        wisselen. Zo hoeft niet overal het wiel opnieuw
+ vanuit een enorme gedrevenheid om kinderen te          uitgevonden te worden. Op landelijk niveau
+ begeleiden in hun groei. We zien scholen die liever    wordt een stuurgroep ingericht om resultaten en
+ een leraar aanstellen die al een volledige             goede voorbeelden te delen tussen regio’s en
+ leraarsopleiding heeft afgerond of meer ervaring       om knelpunten op te lossen.
+ voor de klas heeft. Bestuurders, schoolleiders en
+ leraren willen zorgvuldig omgaan met de                Deze regionale inzet komt bovenop het geld dat
+ verantwoordelijkheid die ze dragen voor de             het Kabinet heeft geïnvesteerd. Het collegegeld
+ ontwikkeling van kinderen.                             voor studenten aan lerarenopleidingen is de
+                                                        eerste twee jaar gehalveerd. 270 miljoen euro is
+ Om scholen optimaal bij te staan in hun                geïnvesteerd in salarissen en 430 miljoen euro in
+ verantwoordelijkheid voor kwalitatief goed             het tegengaan van werkdruk voor leraren op de
+ onderwijs, wil het ministerie van OCW scholen          basisschool. Met het nieuwe cao-akkoord krijgen
+ ondersteunen. Om maatwerk per regio te kunnen          leraren in het basisonderwijs gemiddeld 8,5
+ bieden en regionaal meer samen te werken bij het       procent meer salaris.
+ werven en behouden van goede leraren komen er in
+ alle regio’s aanjagers. Zij gaan alle betrokkenen in
+
+
+
+                                                                                                            5
+ de regio helpen een gezamenlijke aanpak te kiezen,    Daarnaast is er geïnvesteerd in het bevorderen
+ met concrete afspraken. Het komt nu vooral aan op     van instroom uit andere sectoren (zijinstroom) en
+ het regionaal uitwerken van actieplannen, zoals dat   herintreden van leraren. Er zijn subsidies
+ bijvoorbeeld ook al gebeurt in Amsterdam,             beschikbaar om besturen te helpen om die
+ Rotterdam en Den Haag.                                (aankomende) leraren goed te begeleiden.
+
+ Op landelijk niveau zorgt OCW ervoor dat de           Door de gezamenlijke inspanningen vanuit de
+ ervaringen en goede voorbeelden worden                hele sector hoopt OCW het tekort terug te
+ uitgewisseld. Ondertussen blijven we investeren:      dringen, zodat goed onderwijs ook in tijden van
+ 270 miljoen euro in salarissen en 430 miljoen euro    hoogconjuctuur gegarandeerd blijft.
+ in het tegengaan van de werkdruk voor leraren op
+ de basisschool. In het nieuwe cao-akkoord krijgen
+ leraren in het basisonderwijs gemiddeld 8,5 procent
+ meer salaris. Samen blijven we zoeken naar de
+ beste voorwaarden en condities om als leraar je vak
+ waar te kunnen maken.
+
+
+Resultaten:
+De reactie van respondenten op de kernboodschap in twee formats is op detailniveau wellicht
+verschillend, maar op de keper beschouwd kennen ze een sterke overeenkomst; het vertrouwen
+en de geloofwaardigheid in de geboden oplossing om het lerarentekort op te lossen is in beide
+formats laag. De nieuwswaarde van de regionale aanpak is tevens laag (vooral in
+dilemmalogicaformat) en ook te weinig concreet ingevuld, waardoor beide versies van de
+boodschappen nog te veel vragen oproepen.
+
+Wel zien we een duidelijk positieve reactie en waardering van de leraren voor het schetsen van
+de zorgen rondom de kwaliteit van het onderwijs in de eerste alinea van het dilemmalogicaformat;
+hierdoor voelen zij zich geraakt en erkend (“wat goed dat dit nou eindelijk eens benoemd wordt”).
+Ook waarderen docenten het centraal stellen van het oplossen van het lerarentekort in het format
+zonder dilemmalogica, waarbij een daadkrachtige toon wordt aangeslagen.
+    • Het dilemmalogica-format weet de docent emotioneel te raken doordat de boodschap de
+        zorgen van de leraar duidelijk adresseert en daarmee het probleem onder de doelgroep
+        wordt erkend. Vooral het uitspreken over de zorgen omtrent de waardering spreekt
+        docenten aan.
+    • De leraar erkent dat het uiteindelijk om de toekomst van de kinderen gaat (het
+        maatschappelijke belang), maar ook meer salaris is belangrijk (persoonlijk belang). Deze
+        belangen zijn niet per se tegenstrijdig.
+
+Verder kunnen we stellen dat er onder de doelgroep geen duidelijke voorkeur leeft. Oorzaak
+hiervan kan zijn, dat er in het onderzoek een leereffect is opgetreden; de kernboodschappen zijn
+dermate abstract, dat de respondenten meer kennis nodig hebben om de boodschappen op
+waarde te kunnen schatten. Waardoor vaak de voorkeur voor het 2e voorgelegde format werd
+uitgesproken.
+    • In de geschetste problematieken in het krachtenveld wordt door docenten geen dilemma
+        ervaren. Zij zien geen tegenstelling in verschillende bestaande problemen. In de ogen
+        van docenten is er sprake van grote problemen (roep om goede mensen, onwenselijke
+        noodoplossingen, kwaliteit onder druk) die allemaal urgent zijn. Dat heeft in hun ogen
+        niets te maken met het feit dat voor veel mensen het vak van leraar een roeping is.
+             o NB. Deze bevinding kan zijn ontstaan door de formulering, die door de doelgroep
+                 nog wel eens als moeilijk omschreven werd opgevat.
+    • Voor de doelgroep is onduidelijk wat de regionale aanpak inhoudt en welke stappen
+        hierin worden gezet. De omschrijving is dermate abstract dat de regionale aanpak niet
+
+
+                                                                                                           6
+volledig wordt begrepen en nog teveel vragen oproept. Verder wordt het huidige
+maatregelenpakket genoemd en is onduidelijk hoe deze zich verhouden tot de (nieuwe)
+regionale aanpak. Kortom, het is voor leraren onvoldoende duidelijk wat de plannen van
+OCW concreet behelzen en zij zien derhalve geen geboden perspectief.
+
+
+
+
+                                                                                         7
+Casus ‘Brexit’
+
+Communicatiedoelstelling kernboodschap:
+   • Ondernemers activeren om zich voor te bereiden op de gevolgen van de Brexit.
+   • Meer specifiek:
+         o Urgentie creëren om voorbereidingen voor de Brexit te treffen.
+         o Overbrengen dat de overheid kan helpen bij de voorbereidingen.
+         o Activeren om de Brexit Impact Scan in te vullen om inzicht te krijgen in welke
+             maatregelen getroffen kunnen worden in aanloop naar de Brexit.
+
+Getoetste kernboodschappen:
+ Tekst met dilemmalogica                                   Tekst zonder dilemmalogica
+
+ Veel ondernemers vragen zich af wat de gevolgen           Het Verenigd Koninkrijk verlaat op 29 maart
+ zijn van de Brexit. Hoewel de datum van 29 maart          2019 de Europese Unie. Dat is zo goed als
+ 2019 vaststaat, is er nog steeds onzekerheid over         zeker. De gevolgen raken ons allemaal en zoals
+ wat de precieze gevolgen en de risico’s zijn voor uw      het er nu naar uitziet is de impact voor u als
+ bedrijf. Hoe bereidt u zich als ondernemer voor als       ondernemer aanzienlijk. Als u zich nu niet
+ het Verenigd Koninkrijk daadwerkelijk op 29 maart         voorbereidt, bent u mogelijk te laat.
+ vertrekt uit de Europese Unie?
+                                                           Door de Brexit kan ook uw bedrijf te maken
+ We beseffen dat het heel lastig is om u ergens op         krijgen met hogere invoerkosten, complexere
+ voor te bereiden als niet duidelijk is wat er precies     procedures en meer controles aan de grens,
+ gaat veranderen. Dat kan per branche en type              vergelijkbaar met landen buiten de Europese
+ dienst verschillen. Wel is duidelijk dat de Brexit zo     Unie. Dit kan gevolgen hebben voor onder meer
+ goed als zeker is, en dat er nieuwe grenzen               importvergunningen, facturen, belastingen,
+ ontstaan die door hogere invoerkosten, complexere         arbeidscontracten en licenties. Brexit heeft dus
+ procedures en meer controles vergelijkbaar zijn met       gevolgen voor heel veel ondernemingen, die per
+ landen buiten de Europese Unie. Dat kan gevolgen          branche kunnen verschillen. Zelfs als uw bedrijf
+ hebben voor onder meer importvergunningen,                niet rechtstreeks zaken doet met het Verenigd
+ facturen, belastingen, arbeidscontracten en               Koninkrijk, kunt u hiermee te maken krijgen,
+ licenties. Zelfs als uw bedrijf niet rechtstreeks zaken   bijvoorbeeld via uw toeleveranciers. De
+ doet met het Verenigd Koninkrijk, kunt u met de           Rijksoverheid brengt voor zichzelf ook de
+ gevolgen te maken krijgen, bijvoorbeeld via uw            gevolgen en risico’s zo volledig mogelijk in kaart.
+ toeleveranciers. Dat geldt ook voor ons als
+ overheid: ondanks de onzekerheden brengen we              Neem een stuk onzekerheid weg. Kijk voor
+ daarom nu de gevolgen en risico’s zo volledig             actuele informatie op www.brexitloket.nl en doe
+ mogelijk in kaart.                                        de Brexit Impact Scan voor praktische tips.
+                                                           Branche-organisaties en de Rijksoverheid doen
+ Laat u niet verrassen. Branche-organisaties en de         er alles aan om te zorgen voor een goede
+ overheid doen er alles aan om te zorgen voor een          voorbereiding.
+ goede voorbereiding. Ga voor actuele informatie
+ naar Brexitloket.nl. Daar vindt u onder meer een
+ Brexit Impact Scan voor praktische tips over wat u
+ nu al kunt doen.
+
+Resultaten:
+Om de beoogde doelstellingen te behalen (bij ondernemers urgentie creëren om voorbereidingen
+voor de Brexit te treffen, overbrengen dat de overheid hierbij kan helpen en hen activeren om de
+Brexit Impact Scan in te vullen) lijkt in deze casus een combinatie van de empathie en het
+sympathieke/menselijke karakter van de tekst met dilemmalogica en de daadkrachtigheid van de
+tekst zonder dilemmalogica het meest potentievol.
+
+
+
+
+                                                                                                                 8
+Het format dilemmalogica komt niet als duidelijke winnaar naar voren. Onze hypothese is dat de
+toegevoegde waarde van dilemmalogica in deze casus beperkt naar voren komt doordat de twee
+zienswijzen in de tweede alinea (ordening) niet duidelijk genoeg naast elkaar zijn gezet. Tevens
+verwachten we dat de relevantie van dilemmalogica nog hoger is wanneer het een onderwerp
+betreft waarbij de verschillende zienswijzen sterker emotioneel geladen zijn en het (bij een deel
+van de doelgroep) een grotere uitdaging is om draagkracht te creëren voor bijvoorbeeld een
+besluit.
+    • De ordening van relevante zienswijzen komt nu niet sterk genoeg naar voren. Het
+         perspectief ‘voorbereiden is urgent, en er is veel (meer dan je denkt) dat je al kan doen’
+         kan in de tweede alinea van de tekst met dilemmalogica krachtiger naar voren komen en
+         daarmee duidelijker naast het perspectief ‘er is veel onduidelijk, dus ik wacht maar af’
+         geplaatst worden.
+    • Wanneer het lukt om bij ondernemers urgentie te creëren, zijn zij het er allemaal mee
+         eens dat geïnformeerd en (waar mogelijk) voorbereid zijn belangrijk is. Het geboden
+         perspectief (alinea 3) wordt daardoor door alle ondernemers positief ontvangen. Dit geldt
+         zowel voor de tekst met als zonder dilemmalogica. We veronderstellen dat wanneer het
+         geboden perspectief bijvoorbeeld op weerstand kan rekenen, de toevoeging van
+         dilemmalogica meer impact zal hebben.
+             o De tekst zonder dilemmalogica lijkt er beter in te slagen om de urgentie van
+                 voorbereiden op de Brexit over te brengen. De tekst wordt gepercipieerd als
+                 stelliger, krachtiger en zet de overheid als daadkrachtige partij neer. De toon
+                 slaat echter in de huidige uitvoering in perceptie door naar ‘paniekerig’, door
+                 zinnen als: ‘Als u zich nu niet voorbereidt, bent u mogelijk te laat’.
+             o Het wordt als positief ervaren dat de overheid handelingsperspectief biedt.
+                 Wanneer men voldoende urgentie voelt om zich te informeren over/voor te
+                 bereiden op de Brexit, zijn het Brexitloket en de Brexit Impact Scan een relevante
+                 oplossing voor de ondernemers. In de huidige tekst komen de benefits van
+                 beiden echter onvoldoende triggerend naar voren.
+    • Het aansluiten bij de belevingswereld van de ondernemer in het dilemmalogicaformat
+         wordt wel zeer positief ontvangen (en voegt in positieve zin iets toe ten opzichte van de
+         tekst zonder dilemmalogica). Zowel in verbale - als non-verbale communicatie maakt de
+         ondernemer kenbaar het zeer te waarderen dat de overheid zich menselijk opstelt (is
+         sympathiek) en het gevoel geeft de ondernemer te begrijpen. Hoewel de basishouding
+         naar de overheid sceptisch is, komt de empathie in de tekst geloofwaardig over en heeft
+         het een positieve impact op de waardering van de boodschap en het beeld van de
+         Rijksoverheid.
+             o Het wordt positief gevonden dat de Rijksoverheid kenbaar maakt te begrijpen dat
+                 ondernemers zich afvragen wat de gevolgen zijn van de Brexit. Hoewel de tekst
+                 nu inspeelt op een gevoel van onzekerheid waarbij het eigenlijk om
+                 onduidelijkheid gaat, wordt de empathie en de positie/rol die de overheid inneemt
+                 (dichterbij de ondernemer, meer menselijk), gewaardeerd.
+
+
+
+
+                                                                                                 9
+Casus ‘5G’
+
+Communicatiedoelstelling kernboodschap:
+   • Informeren over de status en voortgang van de uitrol van 5G.
+   • Zorgen over antennes en straling erkennen.
+   • Het waarom van (de komst van) 5G en haar consequenties communiceren met het doel
+     meer begrip voor 5G te bewerkstelligen.
+   • Handelingsperspectief bieden door te communiceren waar men met vragen terecht kan.
+
+Getoetste kernboodschappen:
+ Tekst met dilemmalogica                                Tekst zonder dilemmalogica
+
+ Vanaf 2020 komt 5G stap voor stap beschikbaar in       Vanaf 2020 komt 5G stap voor stap beschikbaar
+ Nederland, waardoor het internet sneller en            in Nederland, waardoor het internet sneller en
+ betrouwbaarder wordt. Er zijn ook mensen die zich      betrouwbaarder wordt. Dat is fijn voor thuis: denk
+ zorgen maken. Als er meer antennes worden              aan de slimme koelkast. Het is ook handig voor
+ geplaatst, hoe ziet dat er dan uit op straat? Ook      onderweg; zoals bij het bekijken van video’s in
+ vragen mensen aandacht voor de effecten op de          bijvoorbeeld de trein. Het betekent veel voor
+ gezondheid: zorgen die antennes niet voor teveel       uitvindingen die ons leven makkelijker, gezonder
+ straling? Zoals we ook bij eerdere technologische      en leuker maken. Robots kunnen meer gevaarlijk
+ vernieuwingen hebben gezien, blijkt dat het moeilijk   werk van mensen overnemen, zoals bij een
+ is volledige zekerheid te geven. Er kan wel            lek/roestvorming in een fabriek. Ook kunnen
+ duidelijkheid worden geboden door vroegtijdig te       boeren drones inzetten om de akker te
+ communiceren over de gevolgen en door heldere          monitoren en daarmee water en mest besparen.
+ afspraken over stralingsnormen, regelmatige            Artsen kunnen op afstand spreekuur of consult
+ metingen en snelle maatregelen als dat nodig is. Op    houden en zo meer patiënten helpen. Daardoor
+ dit moment zijn de effecten hiervan voor de            kunnen patiënten ook makkelijker de hulp krijgen
+ gezondheid op korte termijn niet aangetoond.           van specialisten die ver weg zitten. Nederland
+ Effecten op lange termijn lijken onwaarschijnlijk,     heeft het beste internet van Europa en daar
+ maar zijn niet 100% uit te sluiten.                    plukken we economisch de vruchten van.
+                                                        Daarom blijven we altijd vernieuwen.
+ Sneller internet levert thuis voordelen op, denk aan
+ de slimme koelkast. Het is ook handig voor             Onze straten zullen er met de komst van 5G wel
+ onderweg; zoals bij het bekijken van video’s in de     iets anders uitzien. Er komen kleinere antennes
+ trein. Het betekent veel voor uitvindingen die ons     bij, om ervoor te zorgen dat mobiel internet
+ leven makkelijker, gezonder en leuker maken.           overal snel en beschikbaar blijft. Net als bij een
+ Robots kunnen bijvoorbeeld gevaarlijk werk van         babyfoon en een wifi-router creëren antennes
+ mensen overnemen, zoals bij een lek/roestvorming       elektromagnetische velden. Op dit moment zijn
+ in een fabriek. Ook kunnen boeren drones inzetten      de effecten hiervan voor de gezondheid op korte
+ om de akker te monitoren en daarmee water en           termijn niet aangetoond. Effecten op lange
+ mest besparen. Artsen kunnen op afstand                termijn lijken onwaarschijnlijk, maar zijn niet
+ spreekuur houden en zo meer patiënten helpen.          100% uit te sluiten. De Rijksoverheid volgt de
+ Daardoor kunnen patiënten ook makkelijker de hulp      introductie van 5G nauwgezet, draagt bij aan
+ krijgen van specialisten die ver weg zitten.           onderzoek over het effect van straling op
+ Nederland heeft het beste internet van Europa en       mensen en dieren en zal hierover zoveel
+ daar plukken we economisch de vruchten van.            mogelijk communiceren.
+
+ Daarom blijven we altijd vernieuwen, maar wel met      De Rijksoverheid heeft met de Vereniging van
+ oog voor veiligheid en gezondheid. Ook daarom zijn     Nederlandse Gemeenten (VNG) en
+ internationaal afspraken gemaakt over normen voor      telecombedrijven afspraken gemaakt over een
+ straling en worden regelmatig metingen verricht,       zorgvuldige plaatsing van antennes en duidelijke
+ zodat er niet teveel straling in een gebied kan        voorlichting aan iedereen. Meer weten over de
+ ontstaan. De Rijksoverheid heeft met de Vereniging     komst van 5G? Veel informatie staat al op
+ van Nederlandse Gemeenten (VNG) en                     www.antennebureau.nl, of informeer bij uw
+ telecombedrijven afspraken gemaakt over een            gemeente.
+
+
+
+                                                                                                             10
+ zorgvuldige plaatsing van antennes en duidelijke
+ voorlichting aan iedereen. Meer weten over de
+ komst van 5G? Kijk op www.antennebureau.nl. of
+ informeer bij uw gemeente.
+
+
+Resultaten:
+De tekst met dilemmalogica in de 5G-casus wordt als ‘onzeker’ gepercipieerd en creëert zorgen
+bij een deel van de doelgroep, in plaats van het gewenste effect; namelijk meer draagvlak voor
+de komst van 5G. Na het lezen van de tekst blijft een gevoel van onzekerheid hangen doordat de
+verschillende zienswijzen niet op een gelijkwaardige manier naast elkaar staan. Het perspectief
+‘5G levert voordelen op’ komt onvoldoende naar voren. Hierdoor overheerst de zienswijze ‘er zijn
+zorgen over de negatieve effecten van 5G’.
+     • De doelgroep heeft beperkte kennis van 5G. De tekst gaat er vanuit dat men weet wat
+         5G is en sluit daarmee onvoldoende aan bij het kennisniveau van de lezer. De
+         voorbeelden in de tekst die de voordelen van 5G dienen te illustreren, missen bovendien
+         persoonlijke relevantie en zijn in de huidige vorm tevens geen bewijs van de
+         toegevoegde waarde van 5G, omdat deze toepassingen in perceptie ook met 4G
+         mogelijk zijn.
+
+Doordat de verschillende zienswijzen niet gelijkwaardig naar voren komen, wordt het dilemma
+onvoldoende opgepikt. Om het dilemma te begrijpen (en meer ontvankelijk te zijn voor het
+geboden perspectief en de afwegingen die daarin zijn gemaakt), is het van groot belang dat de
+verschillende zienswijzen zo worden gepresenteerd dat deze aansluiten bij het kennisniveau en
+bestaande frames van de lezer. Zeker wanneer men het dilemma zelf niet ervaart (of maar één
+van de zienswijzen), is begrip van alle zienswijzen cruciaal om het dilemma te begrijpen.
+
+Om het geboden perspectief vanuit de overheid vervolgens te accepteren, lijkt het een
+randvoorwaarde dat dit perspectief niet onzeker gebracht wordt. Men wil een ‘overheid in control’:
+stellig, besluitvaardig en met een plan: wij houden het in de gaten, monitoren, meten en zorgen
+voor jouw veiligheid.
+
+Evenwel wordt wel gewaardeerd dat er eerlijk wordt gezegd dat het nog niet allemaal duidelijk is,
+dus ook dat er mogelijk negatieve kanten zijn aan 5G. Dit zorgt ervoor dat men zich serieus
+genomen voelt, de overheid overkomt als transparante partij die het objectieve verhaal vertelt.
+Het erkennen van de zorgen maakt de overheid menselijker en toont aan dat de overheid naar de
+burgers luistert en dat vindt men positief.
+
+Ook in deze casus zit de toegevoegde waarde van dilemmalogica in het meer menselijk en
+sympathiek overkomen van de overheid (geldt ook voor ‘lerarentekort’ en ‘Brexit’). De teksten met
+dilemmalogica slagen er echter niet in om hogere acceptatie / meer draagvlak te creëren dan de
+teksten zonder dilemmalogica. In de Brexit-casus werd met name onvoldoende urgentie gevoeld
+en in deze 5G-casus loopt het spaak op begrip/kennis van het onderwerp.
+
+
+
+
+                                                                                                11
+Casus ‘Afrikaanse Varkenspest’
+
+Communicatiedoelstelling kernboodschap:
+•      Informeren over de maatregelen in het geval er ergens Avrikaanse Varkenspest (AVP) is
+       vastgesteld.
+•      Het bewerkstelligen van acceptatie van/berusting in de maatregelen (met name het doden
+       van gezonde dieren).
+
+Getoetste kernboodschappen:
+    Tekst met dilemmalogica                                   Tekst zonder dilemmalogica
+
+    Afrikaanse varkenspest is vastgesteld bij wilde           Afrikaanse varkenspest is vastgesteld bij wilde
+    zwijnen in Nederland. Om verdere verspreiding van         zwijnen in Nederland. Er zijn varkenshouders en
+    de virusziekte te voorkomen treft de minister van         eigenaren van hobbyvarkens, in het gebied rond
+    Landbouw, Natuur en Voedselkwaliteit (LNV) een            de plek waar de besmetting is aangetroffen, die
+    aantal uitzonderlijke maatregelen. Er wordt een           zich zorgen maken. Het risico bestaat dat de
+    besmet gebied aangewezen en de grenzen                    zeer besmettelijke virusziekte ook overslaat naar
+    daarvan worden kenbaar gemaakt op                         hun varkens. Wilde zwijnen en varkens die
+    Rijksoverheid.nl. In het besmette gebied wordt de         besmet zijn met Afrikaanse varkenspest worden
+    populatie wilde zwijnen zoveel mogelijk afgezonderd       erg ziek en veel gaan dood. De dierziekte, die
+    en worden alle gehouden varkens, inclusief                niet besmettelijk is voor mensen, is in 2014
+    hobbymatig gehouden varkens, geslacht of                  vastgesteld in het oostelijk deel van de EU en is
+    preventief geruimd. De minister heeft daarnaast een
+                                                              nu ook aangetroffen bij wilde zwijnen in
+    buffergebied ingesteld rond het gebied waar de
+                                                              Nederland. De minister van Landbouw, Natuur
+    besmetting is aangetroffen. Alle wilde zwijnen in dit
+                                                              en Voedselkwaliteit (LNV) heeft besloten dat
+    gebied worden afgeschoten.
+                                                              gehouden varkens uit voorzorg geslacht of
+                                                              preventief geruimd worden en wilde zwijnen
+    Het gaat om een zeer besmettelijke virusziekte die
+                                                              afgeschoten worden, om de kans op verdere
+    voorkomt bij varkens en wilde zwijnen. De
+                                                              verspreiding zo klein mogelijk te maken.
+    dierziekte, die niet besmettelijk is voor mensen, is in
+    2014 vastgesteld in het oostelijk deel van de EU en
+    is nu ook aangetroffen bij wilde zwijnen in               De minister realiseert zich dat de bestrijding van
+    Nederland. Besmette dieren worden erg ziek en             Afrikaanse varkenspest grote offers vraagt van
+    veel gaan dood. Er is op dit moment geen effectief        veel gezinnen. Er is veel weerstand tegen het
+    vaccin tegen Afrikaanse varkenspest.                      doden van gezonde dieren. Anderzijds, als we
+                                                              geen maatregelen nemen, bedreigt de
+    De minister realiseert zich dat het preventief ruimen     besmettelijke virusziekte miljoenen gehouden
+    in het besmette gebied een ingrijpende maatregel is       varkens en wilde zwijnen. Het is niet alleen van
+    die veel varkenshouders en gezinnen raakt. Op             belang voor het dierenwelzijn, maar ook het
+    deze manier wordt echter voorkomen dat het virus          behoud van vertrouwen in de export van de
+    naar de gehouden varkens verspreidt, wat grote            Nederlandse varkenssector. Er is op dit moment
+    economische schade zou veroorzaken. De                    geen effectief vaccin tegen Afrikaanse
+    maatregelen en gevolgen van een besmetting in de          varkenspest. Zonder verdere maatregelen
+    varkenshouderij zijn veel groter dan een enkele           verspreidt de dierziekte zich snel en dit zal leiden
+    besmetting bij wilde zwijnen. Het is dus van groot        tot veel meer zieke dieren.
+    belang om de ziekte buiten de gehouden varkens te
+    houden. Door het preventief ruimen van                    Om de grote populaties gehouden varkens en
+    varkenshouderijen in het besmette gebied wordt de
+                                                              wilde zwijnen te beschermen, heeft de minister
+    kans daarop verkleind.
+                                                              een besmet gebied aangewezen. De grenzen
+                                                              van dit gebied worden kenbaar gemaakt op
+                                                              Rijksoverheid.nl. Alle gehouden varkens,
+                                                              inclusief hobbymatig gehouden varkens, in het
+                                                              gebied worden geslacht of preventief geruimd.
+                                                              De minister heeft daarnaast een buffergebied
+                                                              ingesteld rond het gebied waar de besmetting is
+                                                              aangetroffen. Alle wilde zwijnen in dit gebied
+
+
+
+                                                                                                                     12
+                                                   worden afgeschoten. Hierdoor wordt voorkomen
+                                                   dat de virusziekte overslaat naar andere
+                                                   populaties.
+
+
+Resultaten:
+De kernboodschap die is geformuleerd in dilemmalogica-format weet de beoogde
+communicatiedoelstellingen niet beter te behalen dan de kernboodschap geformuleerd zonder
+dilemmalogica. Een mogelijke verklaring hiervoor is dat het dilemma rond het doden van gezonde
+dieren niet echt leeft, maar wel dat van de voedselveiligheid en compensatie van
+varkenshouders.
+
+In het algemeen accepteren deelnemers aan het onderzoek in geval van dierziekten de
+voorgestelde maatregelen (het doden van gezonde dieren om erger te voorkomen). Beide
+teksten (zowel met als zonder dilemmalogica) onderstrepen het belang van deze maatregelen en
+dragen bij aan draagvlak hiervoor. Geen van de twee varianten lijkt voor hogere acceptatie te
+zorgen (behalve bij een sceptische houding t.o.v. de overheid; zie later deze tekst).
+
+Sterker nog, de dilemmalogica-tekst roept meer vragen (en daarmee een gevoel van
+onduidelijkheid) op dan de tekst zonder dilemmalogica.
+Tevens wordt, wanneer men een sceptische basishouding heeft ten aanzien van de overheid, het
+erkennen van zorgen als ongeloofwaardig gepercipieerd. Dit resulteert in dat geval in een
+voorkeur voor de tekst zonder dilemmalogica.
+De dilemmalogicatekst wakkert een gevoel van onduidelijkheid en enig ongenoegen aan omdat:
+• De doelgroep weinig tot geen kennis van het onderwerp heeft. Aangezien de
+    dilemmalogicatekst te snel start met het benoemen van de zorgen en een inleidend kader om
+    AVP te agenderen (wat, wie en waar) mist, sluit de tekst daarmee onvoldoende aan bij het
+    kennisniveau van de lezer.
+• De tekst persoonlijke relevantie mist: het effect van de AVP en de maatregelen voor het
+    eigen leven, met name de gezondheidsaspecten (voedselveiligheid) worden niet beschreven
+    (geldt overigens voor beide varianten van de kernboodschap).
+• De benoemde zorgen niet breed worden gedeeld. Hoewel het kán worden gewaardeerd dat
+    er (door de overheid) eerlijk wordt gezegd dat er zorgen zijn en dat er weerstand is tegen het
+    doden van gezonde dieren, wordt dit nu vooral ervaren als ‘net niet’.
+         o De economische zienswijze overheerst en het enerzijds-anderzijds is niet in balans.
+             De zienswijze van burger én de varkenshouders is onvoldoende aanwezig. De
+             zienswijze van het effect van de AVP op de Nederlandse economie krijgt te veel
+             nadruk in vergelijking met en ten koste van de zienswijze van de burger en de
+             varkenshouder.
+         o De intentie (empathie, verschillende kanten belichten, zorgen benoemen en rekening
+             houden met alle burgers) wordt weliswaar begrepen, maar in de huidige vorm van de
+             tekst ongeloofwaardig overgebracht, zeker met een sceptische, kritische lezer.
+               § Met name in Eindhoven wordt het als ongeloofwaardig gepercipieerd dat de
+                   overheid daadwerkelijk geeft om de boeren of mensen die weerstand ervaren
+                   tegen het doden van dieren. Deze perceptie wordt gevoed door eerdere
+                   voorvallen van grootschalig ruimen van dieren in Brabant, de kwestie
+                   Oostvaardersplassen en bijvoorbeeld de gaswinning in Groningen: “Ze doen
+                   alsof ze luisteren, maar ondertussen doen ze gewoon wat ze zelf willen en gaat
+                   het allemaal om het geld”. De empathie in de tekst schiet bij deze lezers in het
+                   verkeerde keelgat. Benoemen dat boeren een financiële compensatie krijgen
+                   voor de schade door het ruimen, zou wat hen betreft concreet bewijs zijn van
+
+
+                                                                                                  13
+                  het feit dat de overheid zich wel om hen bekommert. Dat hier in de tekst geen
+                  duidelijkheid over wordt geschapen heeft dan ook een negatief effect.
+        o Het is niet zo dat doordat de verschillende zienswijzen niet gelijkwaardig naar voren
+            komen, het dilemma onvoldoende wordt ervaren. Het in de tekst omschreven
+            dilemma wordt niet ervaren, omdat duidelijk is dat de beoogde maatregel (het doden
+            van gezonde dieren) bedoeld is om erger te voorkomen (en men het hiermee eens
+            is) en men ook op basis van het verleden weet dat er geen andere uitkomst dan
+            ruimen mogelijk was.
+•   Het geboden perspectief vanuit de overheid wordt in beide versies dus grotendeels
+    geaccepteerd, al is meer uitleg over het hoe en waarom (is alle gedaan, zijn er geen andere
+    maatregelen mogelijk?) van de besluitvorming wenselijk en, om totale acceptatie te
+    bewerkstellingen, ook noodzakelijk. De ZDL-tekst wordt hierom beter gewaardeerd: zij zet de
+    context korter en duidelijker en daardoor sneller neer, heeft een logische en krachtige
+    opbouw met minder dubbelingen en herhalingen en daardoor een betere structuur.
+
+
+
+
+                                                                                             14
+Analyse van de resultaten
+
+Hoewel de resultaten per casus op detailniveau verschillen, komen er duidelijke overeenkomsten
+naar voren.
+
+Geen evidente ‘winnaar’
+In geen van de vier deelprojecten is er vanuit het perspectief van de doelgroep een duidelijke
+voorkeur voor de kernboodschap met dilemmalogica naar voren gekomen. Dit komt mogelijk
+doordat dilemmalogica in de casussen niet op optimale wijze is toegepast. De deelonderzoeken
+geven ons (mede daardoor echter wel) inzicht in waar het ‘mis’ kan gaan (wat de valkuilen zijn),
+maar tegelijkertijd ook in de potentie van de verschillende elementen van dilemmalogica.
+
+Mismatch van belevingswerelden
+Wanneer het aansluiten bij de belevingswereld en zienswijze van de doelgroep niet ‘spot on’ is,
+lijkt het aansluiten bij wat er leeft eerder een negatieve dan positieve impact te hebben. Hierbij
+gaat het zowel om de inhoud (rekening houden met bestaande kennis en frames en het
+adresseren van de juiste zienswijze) als ook de vorm (bijvoorbeeld woordkeuze en toon).
+      • Hetgeen waar de overheid mee bezig is, blijkt lang niet altijd aan te sluiten bij waar het
+          publiek mee bezig is. Sommige kwesties (bijvoorbeeld ‘5G’ en ‘Afrikaanse Varkenspest’)
+          bleken tegen de verwachting in (ten tijde van het onderzoek) helemaal niet hoog in het
+          bewustzijn van de doelgroep te zitten. Een boodschap waarbij niet precies passend op
+          de doelgroep wordt aangesloten, valt in dorre grond.
+              o In de 5G-casus was de aanname dat mensen zich zorgen zouden maken over
+                   belemmeringen in het uitzicht en de straling die 5G-mastjes veroorzaken. Deze
+                   zorgen bleken echter (nog) helemaal niet te leven; er was weinig kennis over 5G
+                   en de toegevoegde waarde ervan. Men werd door de tekst bewust gemaakt van
+                   mogelijke negatieve gevolgen van iets waar men de voordelen nog niet van
+                   ervaart, zonder dat daar in perceptie vanuit de overheid een passende oplossing
+                   (die deze zorgen weer kon wegnemen) tegenover stond. Hierdoor creëerde de
+                   kernboodschap eerder onrust dan het gewenste effect van meer draagvlak.
+              o In het deelonderzoek ‘Afrikaanse Varkenspest’ is uitgegaan van een mogelijk
+                   scenario, waarbij er bij een uitbraak van de dierziekte waarschijnlijk behoorlijk
+                   wat media-aandacht zal zijn en het onderwerp meer zal leven dan tijdens het
+                   onderzoek. Maar ondanks dat, werd in de tekst niet bij hetgeen dat leeft
+                   aangesloten. De verwachting was dat de burger zich vooral druk zou maken over
+                   het doden van gezonde dieren. Er bleken echter sterkere zorgen te leven op het
+                   gebied van de mogelijke persoonlijke impact van de dierziekte; ‘loop ik het risico
+                   ziek te worden van het eten van besmet vlees?’ en ‘is er een gebied waar ik dan
+                   niet meer naartoe kan?’. Het doden van gezonde dieren werd gezien als
+                   ‘noodzakelijk om erger te voorkomen’. De manier waarop de zorgen hieromtrent
+                   werden gepresenteerd in de tekst percipieerde de doelgroep als
+                   ongeloofwaardig; ‘alsof er een ander alternatief mogelijk is, terwijl iedereen weet
+                   dat het niet zo is’. Het is dus cruciaal om zeer scherp te hebben wat er leeft en
+                   speelt, waar bij dient te worden aangesloten en op welke manier.
+      • Wanneer er voldoende inzicht is in de betreffende zienswijze, dan is het ook van belang
+          dat dit met de juiste woorden en toon wordt geadresseerd. Dit luistert nauw, want met de
+          verkeerde woordkeuze kan de boodschap de verkeerde (of geen) snaar raken.
+              o Zo werd bij ‘Afrikaanse Varkenspest’ de tekst door de woordkeuze soms als
+                   ‘ongeloofwaardig’ gepercipieerd, bij ‘Brexit’ als ‘niet urgent genoeg’ terwijl bij ‘5G’
+                   de toon juist werd omschreven als ‘onrust-zaaiend’. Indien de zienswijze van de
+
+
+
+                                                                                                        15
+                lezer wel met de juiste woorden en toon wordt omschreven, dan kan dit voor
+                herkenning, erkenning en (in positieve zin) emotionele impact zorgen, zoals
+                gebeurde in de casus ‘Lerarentekort’. Kortom, taalgebruik en toon zijn zeer van
+                belang.
+
+Een meer menselijke overheid
+Door het toepassen van dilemmalogica lijkt de overheid een andere positie in te nemen ten
+opzichte van de burger (dan in de huidige communicatie). In vergelijking met het format van
+doelredenering is het in perceptie minder de overheid zoals men gewend is; een overheid die op
+afstand c.q. van bovenaf beleid ‘er doorheen duwt’. Het erkennen dat er zorgen zijn en dat de
+overheid zich bewust is van/er rekening gehouden wordt met het perspectief van de burgers,
+wordt positief ontvangen en zorgt ervoor dat de doelgroep zich serieus genomen voelt. Dat ook
+de overheid weleens dilemma’s ervaart, en hier eerlijk over is, wordt gewaardeerd. Ze voelt
+hierdoor ‘dichterbij’ en ‘menselijker’ en komt over als een transparante partij die het objectieve
+verhaal vertelt. Dit draagt bij aan een meer positieve houding t.o.v. de overheid.
+    • Voorwaarde hiervoor is dat men geen negatieve basishouding ten opzichte van de
+        overheid heeft. Indien dat wel het geval is, kan het erkennen van zorgen als
+        ongeloofwaardig worden gepercipieerd. Het benoemen van enkel de zorgen is in dat
+        geval niet genoeg. Er moet dan ook wat ‘concreets’ tegenover staan om aan te tonen dat
+        de zorgen daadwerkelijk serieus genomen worden (‘praatjes vullen geen gaatjes’).
+             o In de casus ‘Afrikaanse Varkenspest’ stonden sommige Eindhovenaren
+                 wantrouwend tegenover de intenties van de overheid. In perceptie wordt er
+                 weinig rekening gehouden met de belangen van burgers buiten de Randstad en
+                 al helemaal niet met boeren. Door negatieve berichtgeving over bijvoorbeeld de
+                 aardgaswinning in Groningen wordt dit beeld bevestigd. Erkennen dat je je als
+                 overheid bewust bent van de zorgen van varkensboeren, maar geen invulling
+                 geeft aan wat je concreet doet om ‘het leed te verzachten’ (bijv. d.m.v. financiële
+                 compensatie), schiet bij sommigen in het verkeerde keelgat. Het wordt in dat
+                 geval gezien alsof er wordt geprobeerd iets glad te strijken zonder dat er oprecht
+                 om hun wordt gegeven.
+             o Wanneer het lukt om op een oprechte en geloofwaardige manier aan te sluiten
+                 bij het perspectief van een meer sceptische burger en daarmee de beoogde
+                 emotionele snaar te raken, zou het mogelijk wel de negatieve perceptie kunnen
+                 doorbreken.
+
+In potentie meer draagvlak
+Wanneer het lukt om de doelgroep in het hart te raken door op een passende manier aan te
+sluiten bij hun belevingswereld, met rake woorden en toon hun zienswijze te adresseren, dan
+zorgt het dilemmalogica-format voor een grotere emotionele impact dan de teksten zonder
+dilemmalogica. Hoewel dit in de deelonderzoeken niet het geval was (omdat het ‘mis’ ging op
+andere manieren), is de verwachting dat het raken van de juiste emotionele snaar niet alleen
+zorgt voor een positiever beeld van de overheid, maar creëert het in potentie tevens een meer
+ontvankelijke ontvanger van het geboden perspectief vanuit de overheid (bijv. een maatregel).
+     • Het in een passende toon aansluiten bij de zienswijze van de doelgroep, maakt dat men
+         zich (soms ‘eindelijk’) gehoord voelt. ‘Er is in de besluitvorming rekening gehouden met
+         mij’. Indien er tevens andere zienswijzen zijn (die niet aansluiten bij die van de lezer),
+         wordt het nog steeds als positief ervaren dat de overheid hier niet ‘overheen is gestapt’
+         en benoemt dat ze zich hier bewust van is. Om daadwerkelijk te zorgen voor een hogere
+         acceptatie/meer draagvlak voor de boodschap, dient het geboden
+         (handelings)perspectief tevens voldoende rekening te houden met de zienswijze van de
+
+
+
+                                                                                                  16
+        lezer, of heel expliciet gemaakt worden waarom dat niet kan (en waarom deze ‘oplossing’
+        voor de burgers van Nederland beter is).
+            o In de casus ‘Lerarentekort’ was zowel verbaal als non-verbaal merkbaar wat de
+                 emotionele impact was van het schetsen van de zorgen rondom de kwaliteit van
+                 het onderwijs. De doelgroep leraren was hierdoor zichtbaar geraakt en voelde
+                 zich erkend. Het geboden perspectief creëerde echter niet de gewenste
+                 acceptatie. Doordat de waarde van de voorgestelde ‘oplossing’ moeilijk in te
+                 schatten was, riep deze met name veel vragen op en was het draagvlak hiervoor
+                 laag.
+
+Een overheid ‘in control’
+Zeker wanneer de kwestie vragen of onzekerheid oproept, is de doelgroep op zoek naar een
+overheid die stellig en besluitvaardig is. Een overheid met een plan en waar je op kan
+vertrouwen. De situatie is onder controle en er wordt in het belang van de burgers gehandeld: ‘wij
+houden het in de gaten, monitoren, meten en zorgen voor jouw veiligheid’. Kortom; men wil ‘rustig
+kunnen slapen’, wetende dat de overheid ‘in control’ is.
+    • Hierbij lijkt de burger behoefte te hebben aan een middenweg tussen ‘daadkracht’ (te kort
+        door de bocht) en ‘overmatig problematiseren’ (niet krachtig genoeg). Dit pleit ervoor om
+        in een boodschap het element van overwegingen/afwegingen (procedurele
+        rechtvaardigheid) sterker naar voren te brengen.
+            o In de ‘Brexit’-casus kwam de overheid in de dilemmalogica-tekst in perceptie te
+                 onzeker over. Omdat er veel onduidelijkheid heerst rondom Brexit, hadden de
+                 ondernemers juist behoefte aan een overheid die op een stellige, krachtige
+                 manier (handelings)perspectief biedt. De onduidelijkheid (en daarmee gepaard
+                 gaande onzekerheid) vergroten, had een averechts effect op het behalen van de
+                 beoogde doelstelling (ondernemers stimuleren om de Brexit Impact Scan te
+                 doen), omdat daar weinig van verwacht wordt als de overheid ‘het ook allemaal
+                 niet weet’.
+    • Belangrijk is ook dat duidelijk wordt gemaakt dat de overheid daadwerkelijk controle over
+        de situatie kan uitoefenen. Wanneer dit in perceptie onduidelijk is, kan een gevoel van
+        onrust worden gecreëerd, wat uiteraard niet het gewenste effect is.
+            o Ook bij ‘5G’ en ‘Afrikaanse Varkenspest’ werd het perspectief vanuit de overheid
+                 niet krachtig genoeg neergezet. De doelgroep had het idee dat de overheid de
+                 situatie niet goed onder controle had en zette er ook vraagtekens bij of de
+                 overheid dat überhaupt wel zou kunnen, omdat het in perceptie buiten de
+                 invloedsfeer (bijv. boeren in Oost-Europa) ligt.
+
+Behoefte aan structuur
+Wanneer een tekst in perceptie niet logisch is opgebouwd, maakt dit het lastiger voor de
+doelgroep om de beoogde boodschap eruit te halen. De informatieverwerking verloopt minder
+optimaal bij een tekst die ‘van de hak op de tak’ springt dan wanneer deze ‘logisch’
+gestructureerd is.
+    • De elementen ‘erkennen’, ‘ordenen’ en ‘het bieden van perspectief’ hoeven niet per se
+        altijd in die volgorde te worden gepresenteerd. Sterker nog, dit kan soms de
+        informatieverwerking in de weg staan. Als bijvoorbeeld direct begonnen wordt met de
+        ‘zorgen’, zonder dat eerst een duidelijk kader geschetst wordt waar de boodschap over
+        gaat, kan dit ervoor zorgen dat de rest van de tekst door een onzekere bril wordt gelezen.
+              o In de ‘5G’-casus begon de dilemmalogicatekst met het benoemen van de zorgen,
+                  terwijl de tekst zonder dilemmalogica eerst wat meer invulling gaf aan wat 5G is
+                  en wat de toegevoegde waarde ervan is. De doelgroep had een sterke voorkeur
+
+
+
+                                                                                                17
+               voor de eerste alinea van de tekst zonder dilemmalogica, omdat hier eerst het
+               onderwerp werd geïntroduceerd en informatie gegeven werd die men nodig had
+               om de boodschap te kunnen begrijpen (extra belangrijk of zelfs noodzakelijk
+               wanneer het kennisniveau van een onderwerp laag is).
+    •   Ook kan de opbouw van een boodschap het gemakkelijker maken voor de doelgroep om
+        de aandacht erbij te houden.
+            o In verschillende deelonderzoeken ging de voorkeur uit naar de opbouw van de
+               tekst zonder dilemmalogica omdat deze in perceptie ‘korter’, ‘krachtiger’ en
+               ‘minder wollig’ was. Doordat de structuur van deze teksten beter aansloot bij de
+               manier waarop men gewend is een boodschap te verwerken, werden deze
+               teksten als ‘logischer’ en ‘gemakkelijker te lezen’ ervaren.
+
+Timing is belangrijk
+Het moment waarop de boodschap wordt verspreid heeft grote invloed op hoe deze dient te
+worden ingestoken.
+    • Wanneer een maatregel al bepaald is en enkel dient te worden gecommuniceerd, dan is
+        van belang dat de communicatie niet de indruk wekt dat er een dialoog mogelijk is. Een
+        uitnodiging om de discussie aan te gaan is wellicht relevanter in de beginfase van een
+        kwestie dan wanneer de oplossing al bekend is.
+            o Na het lezen van de kernboodschap in de casus ‘Lerarentekort’ ontstond
+                 geregeld een gesprek over beleid, terwijl dat niet op voorhand het gewenste
+                 effect was. De leraren die deelnamen aan het onderzoek waren niet positief over
+                 het geboden perspectief en interpreteerden de tekst als een uitnodiging om het
+                 gesprek aan te gaan over mogelijke andere maatregelen. Door zelf na te gaan
+                 denken over alternatieven, raakte acceptatie van het geboden perspectief een
+                 stap verder weg.
+    • Het kennisniveau van de doelgroep over een onderwerp kan per moment zeer
+        verschillen. Wanneer een onderwerp leeft en bijvoorbeeld veel media-aandacht krijgt,
+        dan kan het kennisniveau snel groeien. Hier bewust van zijn is van belang bij het
+        opstellen van een boodschap. Wanneer deze te ver afstaat van het kennisniveau van de
+        doelgroep, wordt de boodschap als ‘belerend’ of ‘kinderachtig’ gepercipieerd (als het
+        kennisniveau veel hoger is) of begrijpt men de boodschap niet (als men te weinig kennis
+        heeft).
+            o Op het moment van testen was het kennisniveau van de doelgroep over 5G nog
+                 zeer laag. Omdat bij het opstellen van de tekst verwacht was dat er meer
+                 bestaande kennis zou zijn, werden delen van de kernboodschap niet
+                 geïnterpreteerd zoals bedoeld.
+
+
+
+
+                                                                                              18
+Conclusies en aanbevelingen
+
+Dilemmalogica heeft potentie
+Op basis van dit onderzoek kan niet worden geconcludeerd dat het format van dilemmalogica
+zorgt voor meer draagvlak dan het format van doelredenering. De inzichten in de communicatieve
+werking van dilemmalogica roepen echter de verwachting op dat dilemmalogica (wanneer
+optimaal ingezet) wel de potentie heeft om meer draagvlak/acceptatie te creëren dan
+doelredenering. Tevens laat dit onderzoek zien dat de inzet van dilemmalogica een positieve
+impact heeft op het beeld dat men van de overheid heeft.
+
+ We raden aan verder te gaan met het experimenten met - en onderzoeken van de werking van
+ dilemmalogica. We veronderstellen dat, wanneer dilemmalogica optimaal wordt ingezet, in een
+ onderzoek met de opzet zoals in deze vier deelonderzoeken kan worden aangetoond dat het
+ format daadwerkelijk voor meer acceptatie/draagvlak zorgt dan doelredenering. Hiervoor dient
+ meer inzicht gekregen te worden in:
+  • Welke kwesties lenen zich wel/niet goed voor dilemmalogica?
+  • Wat is de impact van dilemmalogica wanneer men echte sterke emoties (bijvoorbeeld boosheid
+     of angst) met betrekking tot een kwestie ervaart?
+  • Voor welke doelgroepen werkt dilemmalogica het beste? Voor een breed publiek, of juist
+     diegenen met zorgen over een onderwerp?
+  • Op welk moment in het proces voegt dilemmalogica het meeste waarde toe?
+  • Wat zijn do’s en don’ts ten opzichte van de volgorde waarin de zienswijzen worden
+     gepresenteerd/geordend. Verschilt dit per kwestie/doelgroep/moment?
+  • Wat is de invloed van de vorm op de werking; is het effect van de boodschap op papier
+     bijvoorbeeld anders dan wanneer iemand deze mondeling brengt? Zijn er in dat geval andere
+     zaken om rekening mee te houden?
+
+
+
+Voor meer draagvlak is begrijpen waar het écht om gaat noodzakelijk
+Om de potentie van dilemmalogica te benutten, is aansluiten bij de belevingswereld van de
+doelgroep cruciaal. Wanneer niet de juiste zienswijze wordt geadresseerd, of dit met de
+verkeerde woorden of toon wordt gedaan, wordt de plank misgeslagen en kan de getoonde
+empathie negatief en als ongeloofwaardig worden ontvangen. Tevens dient er rekening te
+worden gehouden met het bestaande kennisniveau en de frames waarin de communicatie landt,
+om ervoor te zorgen dat de beoogde boodschap wordt overgebracht.
+
+ Om te voorkomen dat de boodschap in dorre grond valt of er onnodige zorgen of
+ tegenstellingen worden gecreëerd, dient er begrip en kennis te zijn van de belevingswereld (en
+ betreffende zienswijze) van de doelgroep. Dit gaat verder dan ervan bewust zijn dat er mensen
+ zijn die zich ergens zorgen over maken. Waar gaan de zorgen nou écht over (en zijn die er
+ überhaupt eigenlijk wel)? Vaak blijkt het eigenlijk te gaan om een gebrek aan bevestiging en
+ erkenning, regie op eigen leven of bijvoorbeeld het gevoel van veiligheid en zekerheid*. Hoe
+ komt dit vervolgens tot uiting? Welke kennis en frames heeft men? Welke woorden gebruikt de
+ doelgroep om de kwestie te omschrijven en welke emoties gaan daarmee gepaard? Kwalitatief
+ onderzoek is een zeer geschikte methode om dergelijke inzichten boven tafel te krijgen. Wij
+ raden aan om bij het opstellen van een boodschap altijd eerst in de doelgroep te duiken (deze
+ idealiter zelf aan het woord te zien) om de zienswijzen écht te begrijpen en een mismatch in
+ belevingswerelden (en daarmee mogelijk gepaarde negatieve impact) te voorkomen.
+
+
+*Zie poster ‘Zo kan het ook’ van Dienst Publiek en Communicatie.
+
+
+
+
+                                                                                              19
+Dilemmalogica kan een positieve impact hebben op het beeld van de overheid
+Dilemmalogica neemt de burger niet alleen mee in de inhoud van een kwestie, maar in zekere zin
+ook in het proces. Het geeft enig inzicht in de stappen die worden gemaakt, hoe je als overheid in
+het onderwerp staat en welke afwegingen er gemaakt zijn. Dat er in besluitvorming stil wordt
+gestaan bij wat er leeft en speelt, dat er verschillende zienswijzen op de kwestie zijn en dat
+expliciet erkend wordt dat sommige burgers wellicht ergens anders over denken (en zorgen over
+hebben), heeft een positieve impact op het beeld van de overheid. Het maakt de overheid
+transparanter, sympathieker en meer menselijk. Bovendien draagt het in potentie (niet expliciet
+uit dit onderzoek naar voren gekomen) bij aan de perceptie van procedurele rechtvaardigheid en
+het creëren van acceptatie/draagvlak.
+
+ Wees niet bang om zorgen (wanneer deze daadwerkelijk spelen) te erkennen. Wees
+ transparant over dat er verschillende zienswijzen zijn en benoem expliciet dat je je als overheid
+ hier bewust van bent. Laat vervolgens ook in het bieden van perspectief merken dat er niet
+ gemakkelijk over de andere zienswijzen is heengestapt (alleen erkennen is soms niet
+ voldoende). Wanneer de empathie in perceptie alleen maar ‘voor de vorm’ is, kan het vanwege
+ de negatieve impact (bevestiging van negatief beeld) beter niet worden gebruikt. Toon zowel
+ qua inhoud als vorm (toon en woordkeuze) dat de burger serieus genomen wordt en dat in hun
+ belang wordt gehandeld.
+
+
+
+Er is behoefte aan een overheid ‘in control’
+De positie die je als overheid inneemt ten opzichte van de burger verschuift. Door het ‘erkennen’
+en ‘ordenen’ van de zienswijzen wordt het geboden perspectief minder ervaren als de overheid
+die van (ver) bovenaf beslissingen er doorheen drukt, zonder rekening te houden met de burgers.
+In perceptie kom de overheid meer ‘naast’ de mensen te staan, wat positief wordt gewaardeerd.
+De verwachte rol blijft wel dat je als overheid vervolgens een oplossing aandraagt in het belang
+van de burgers. De overheid dient de situatie onder controle te hebben, zodat men ‘rustig kan
+slapen’. Wanneer dit niet het geval is, kan het gebruik van dilemmalogica juist een gevoel van
+onrust oproepen.
+
+Maak duidelijk dat je de situatie onder controle hebt; dat er een plan is. Ga in toon op zoek naar
+de balans tussen ‘daadkrachtig’ en ‘overmatig problematiserend’. Wees ook helder wanneer er
+geen ruimte voor dialoog is, om een discussie over beleid te voorkomen op de momenten dat dit
+niet (meer) wenselijk is.
+
+
+
+Zorg voor een heldere structuur in de boodschap
+Om de informatieverwerking zo optimaal mogelijk te laten verlopen dient een boodschap ‘logisch’
+te zijn opgebouwd.
+ De elementen ‘erkennen’, ‘ordenen’ en ‘het bieden van perspectief’ hoeven niet per definitie in
+ deze volgorde te worden gepresenteerd. Bouw een boodschap volgens een voor de doelgroep
+ logische structuur op, waarbij eerst een kader wordt geschetst met betrekking tot het onderwerp.
+
+
+
+
+                                                                                                 20
+Dilemma hoeft geen tegenstelling te zijn
+Tot slot; er hoeft voor de toepassing van dilemmalogica niet altijd sprake te zijn van tegenstrijdige
+belangen. Ook hoeft de doelgroep niet per definitie zelf een dilemma te ervaren. Wel dienen er
+verschillende zienswijzen op een bepaalde kwestie te zijn. Dilemmalogica gaat om aansluiten bij
+deze verschillende zienswijzen, deze ordenen en vervolgens met betrekking tot de kwestie
+(handelings)perspectief bieden.
+
+    Wanneer er geen tegenstelling is, dient deze ook niet te worden gecreëerd. Er moet daarom
+    voorzichtig worden omgegaan met termen als ‘enerzijds’ en ‘anderzijds’. Ook kan het
+    beschrijven van een zienswijze (bijvoorbeeld angst of zorgen die eigenlijk helemaal niet sterk
+    leven) een tegenstelling suggereren, zonder dat die daadwerkelijk bestaat. Inzicht hebben in (en
+    aansluiten bij) de belevingswereld van de doelgroep en welke zienswijzen er zijn is daarom
+    cruciaal.
+
+
+
+.
+
+
+
+
+                                                                                                   21
+Handvatten bij het opstellen van een boodschap met dilemmalogica:
+
+
+    Begrijp wat er echt leeft een speelt bij het publiek om de boodschap te laten aansluiten bij
+                               de belevingswereld van de doelgroep
+
+                                     Welke zorgen zijn er?
+                                  Waar gaat het nou écht om?
+                       Wat is de bestaande kennis? Welke frames zijn er?
+                   Welke woorden worden gebruikt? En welke emoties leven er?
+
+
+
+
+               Bepaal hoe er vanuit de overheid wordt omgegaan met de kwestie.
+               Wat is jouw rol? Welk perspectief biedt de overheid de doelgroep?
+
+      De methodiek van de message box* kan helpen de boodschap te formuleren vanuit de
+       kwestie zoals de doelgroep deze ervaart en verwoordt, alsook om te checken of de
+                                  ‘oplossing’ hierop aansluit.
+
+
+
+
+     Stel een helder gestructureerde boodschap op middels de principes van dilemmalogica
+                                          en check:
+
+                                        Is er een duidelijk kader geschetst m.b.t. het onderwerp?
+     Sluit de boodschap aan bij
+                                             Sluit de informatie aan bij de bestaande kennis,
+          het kennisniveau?
+                                                           meningen en frames?
+
+s
+        Komt de relevantie/             Wordt de persoonlijke- en/of maatschappelijke relevantie
+      urgentie van de kwestie            duidelijk gemaakt middels sprekende voorbeelden die
+               over?                     aansluiten bij de belevingswereld van de doelgroep?
+
+
+     Is op een passende manier           Raakt de communicatie een (emotionele) snaar? Wordt
+       bij de juiste zienswijzen         de kern van het probleem geadresseerd (het ‘hier gaat
+             aangesloten?               het eigenlijk om’), met de passende toon en woordkeuze?
+
+
+       Worden de verschillende
+                                        Wordt er niet te ‘gemakkelijk’ aan een zienswijze ‘voorbij
+    zienswijzen op gelijkwaardige
+                                         gegaan’? Is de empathie vanuit de overheid oprecht?
+        wijze gepresenteerd?
+
+
+                                        Wordt het beeld geschetst dat men er vertrouwen in kan
+    Komt de overheid ‘in control’
+                                        hebben dat de overheid de situatie onder controle heeft
+              over?
+                                               en in het belang van het publiek handelt?
+
+
+
+*www.communicatierijk.nl/vakkennis/f/factor-c/message-box
+
+
+                                                                                                     22
+

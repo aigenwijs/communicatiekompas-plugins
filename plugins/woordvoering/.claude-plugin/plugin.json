@@ -1,0 +1,35 @@
+{
+  "name": "woordvoering",
+  "version": "0.2.0",
+  "description": "Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "dilemmalogica",
+    "framing",
+    "kernboodschap",
+    "kritiek",
+    "nepnieuws",
+    "overheidscommunicatie",
+    "persvraag",
+    "polarisatie",
+    "rijksoverheid",
+    "woordvoering",
+    "crisiscommunicatie",
+    "bewindspersoon",
+    "openbare agenda",
+    "sociale media",
+    "speech",
+    "mediabereik",
+    "media-analyse",
+    "omgevingsanalyse",
+    "MOM",
+    "nieuwsconsumptie",
+    "niet-bereikte groepen"
+  ]
+}

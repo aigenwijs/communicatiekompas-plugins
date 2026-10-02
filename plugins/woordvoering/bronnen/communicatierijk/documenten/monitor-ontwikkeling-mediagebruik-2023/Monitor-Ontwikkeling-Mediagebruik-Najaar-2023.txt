@@ -1,0 +1,1728 @@
+[Tekstversie van Monitor+Ontwikkeling+Mediagebruik+Najaar+2023.PDF, omgezet met pdftotext -layout]
+
+Monitor Ontwikkeling Mediagebruik
+Najaar 2023
+Rapport I&O Research
+
+
+
+
+                             www.ioresearch.nl
+Colofon
+Uitgave
+I&O Research
+Piet Heinkade 55
+1019 GM Amsterdam
+
+Rapportnummer
+2023/217
+
+Datum
+december 2023
+
+Opdrachtgever
+DPC
+
+Auteurs
+Maartje van Will
+Asher van der Schelde
+Peter Kanne
+
+Copyright
+Het overnemen uit deze publicatie is toegestaan, mits de bron duidelijk wordt vermeld.
+
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                  2 van 50
+Inhoudsopgave
+Samenvatting _________________________________________________________________________________ 4
+
+Leeswijzer ____________________________________________________________________________________ 8
+
+1        Overheidsnieuws volgen ____________________________________________________________ 10
+
+2        Rangorde mediatitels _______________________________________________________________ 13
+
+         2.1         Nederlands publiek _________________________________ 13
+         2.2         16 t/m 34 jaar, basisonderwijs of vmbo ______________________ 16
+         2.3         16 t/m 34 jaar, mbo _________________________________ 18
+         2.4         16 t/m 34 jaar, hbo/wo ______________________________ 20
+         2.5         35 t/m 54 jaar, basisonderwijs of vmbo _____________________ 22
+         2.6         35 t/m 54 jaar, mbo ________________________________ 24
+         2.7         35 t/m 54 jaar, hbo/wo ______________________________ 26
+         2.8         55-plus, basisonderwijs of vmbo ________________________ 28
+         2.9         55-plus, mbo ____________________________________ 30
+         2.10        55-plus, hbo/wo ___________________________________32
+
+3        Gebruik kanalen ____________________________________________________________________ 35
+
+4        Doel gebruik ________________________________________________________________________ 42
+
+5        Nieuwsmissers _____________________________________________________________________ 45
+
+6        Onderzoeksverantwoording_________________________________________________________ 48
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                               3 van 50
+Samenvatting
+Over de MOM                                                            Reguliere tv belangrijkste kanaal
+De Monitor Ontwikkeling Mediagebruik (MOM) geeft inzicht in het        Nederlanders gebruiken voor het consumeren van nieuws over de
+gebruik van mediatitels door het Nederlands publiek als het gaat om    overheid met name reguliere tv (86%), internet (66%) en papieren
+overheidsnieuws.                                                       krant (62%). Een derde van de Nederlanders gebruiken hiervoor de
+                                                                       app van de titel (35%) en een even grote groep gebruikt hiervoor
+De centrale vraag van het onderzoek is: Welke mediatitels hebben in    sociale media (32%).
+Nederland het grootste bereik, belang en worden gezien als het meest
+betrouwbaar als het gaat om nieuws over de overheid?
+
+Bijna alle Nederlanders zien nieuws over overheid
+Maar liefst 97 procent van de Nederlanders van 16 jaar of ouder ziet
+of hoort nieuws over wat de Nederlandse overheid doet. Twee op vijf
+(41%) gaan vaak of soms zelf op zoek naar dit nieuws. Ruim de helft
+(56%) gaat niet zelf op zoek, maar krijgt het wel mee.
+
+Naarmate leeftijd en het aandeel hbo/wo-opgeleiden toenemen,
+neemt ook het aandeel dat zelf vaak op zoek gaat naar
+overheidsnieuws toe. Dit betekent dat onder 16- tot 34-jarigen met
+een basis- of vmbo-opleiding het aandeel dat zelf op zoek gaat naar
+overheidsnieuws het kleinst is (7%) en dat onder 55-plussers met
+een hbo- of wo-opleiding dit aandeel het grootst is (33%).
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                        4 van 50
+Belang                                                                   Bereik
+
+NOS belangrijkste voor Nederlanders als het gaat om nieuws over          Meeste Nederlanders gebruiken NOS voor overheidsnieuws
+de overheid                                                                       De NOS heeft verreweg het grootste bereik. Zesentachtig
+We vroegen Nederlanders welke titels voor hen het belangrijkst zijn               procent van de Nederlanders ziet, leest of hoort minimaal
+als het gaat om nieuws over de overheid.                                          een keer per maand nieuws over de overheid via de NOS,
+                                                                                  middels een van de kanalen. Alleen onder 16- tot 34-jarigen
+         Nederlanders hechten het meeste belang aan NOS als het                   met basisonderwijs of een vmbo-opleiding hebben RTL
+         gaat om nieuws over de overheid (69% vindt NOS een                       Nieuws (71%) en Hart van Nederland (65%) een groter bereik
+         belangrijke titel als het gaat om overheidsnieuws). Enkel de             dan NOS (64%). NOS heeft het grootste bereik onder 55-
+         16- tot 34-jarigen met basisonderwijs of een vmbo-                       plussers met een hbo- of wo-opleiding (95%).
+         opleiding hechten meer belang aan RTL Nieuws (49%) dan
+         aan NOS (37%). Nederlanders tussen de 16 en 34 jaar met een              RTL Nieuws komt op de tweede plek qua bereik (60%).
+         hbo- of wo-opleiding hechten het meeste belang aan NOS als               RTL Nieuws wordt meer gezien en gelezen door Nederlanders
+         het gaat om nieuws over de overheid (78%).                               met basisonderwijs of vmbo als opleiding en minder door
+                                                                                  mensen met een mbo-, hbo- of wo-opleiding. RTL Nieuws
+         Qua belang staat RTL Nieuws, op grote afstand van de NOS,                heeft het hoogste bereik onder 16- tot 34-jarigen met
+         op de tweede plek (28%). Nederlanders met basisonderwijs                 basisonderwijs of een vmbo-opleiding (71%).
+         of een vmbo- of mbo-opleiding hechten meer waarde aan
+         RTL Nieuws dan Nederlanders met een hbo/wo-opleiding.                    NU.nl staat wat betreft bereik op de derde plek (59%). Het
+         Jongeren (16 t/m 34 jaar) met basisonderwijs of een vmbo-                bereik van deze titel ligt hoger onder Nederlanders met een
+         opleiding vinden RTL Nieuws het meest belangrijk (49%).                  mbo-, hbo- of wo-opleiding en lager onder Nederlanders
+                                                                                  met basisonderwijs of een vmbo-opleiding. NU.nl heeft het
+         Nieuwsuur staat op de derde plek (27%) als het gaat om het
+                                                                                  grootste bereik onder Nederlanders met een hbo/wo-
+         belang dat Nederlanders hechten aan een titel bij nieuws over
+                                                                                  opleiding tussen de 16 en 34 jaar (68%) en 35 en 54 jaar
+         de overheid. Nederlanders met een hbo/wo-opleiding vinden
+                                                                                  (67%).
+         Nieuwsuur vaker belangrijk dan Nederlanders met
+         basisonderwijs of een vmbo/mbo-opleiding.
+         Vijfenvijftigplussers met een hbo/wo-opleiding hechten in
+         verhouding het meeste belang aan Nieuwsuur (39%).
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                              5 van 50
+Hoog bereik De Avondshow met Arjen Lubach onder jongeren                                         Gebruik kanalen
+Onder 16- tot 34-jarigen met een mbo-, hbo- of wo-opleiding staat
+De Avondshow met Arjen Lubach in de top 3 qua bereik. EditieNL                                   Jongeren meer gericht op online, ouderen meer op tv en krant
+wordt veel gezien (top 3) onder 35- tot 54-jarigen met                                           Nederlanders die nieuws over de overheid tot zich nemen doen dat
+basisonderwijs of een vmbo-opleiding. EenVandaag staat in de top                                 met name via reguliere tv (86%), internet (66%) en de krant (62%).
+3, onder 55-plussers met een hbo/wo-opleiding, deze top 3 wordt -                                Jongeren maken in verhouding met de oudere generaties meer
+na de NOS - aangevuld met Nieuwsuur.                                                             gebruik van sociale media (55%), streamingsdiensten (49%) en
+                                                                                                 podcasts (14%). Tv (74%), radio (47%)en krant (43%) gebruiken zij
+Betrouwbaarheid                                                                                  nog steeds veel, maar minder dan de oudere generaties.
+                                                                                                 Vijfenvijftigplussers zijn (nog) erg gefocust op de reguliere tv (94%)
+Follow The Money beoordeeld als meest betrouwbaar                                                en de krant (75%).
+We vroegen Nederlanders hoe betrouwbaar ze het nieuws van titels
+in het algemeen vinden1. Follow The Money krijgt de hoogste                                      Nederlanders met een hbo/wo-opleiding consumeren in verhouding
+beoordeling op betrouwbaarheid (8,1 op een schaal van 1 tot 10),                                 vaker nieuws over de overheid via het internet (75%), de radio
+gevolgd door NOS Jeugdjournaal (8,0) en Zembla (7,9). NOS scoort                                 (58%), de app van de titel (44%), streamingsdiensten (32%) en
+een 7,7 op betrouwbaarheid.                                                                      podcasts (13%). Nederlanders met basisonderwijs of een vmbo-
+                                                                                                 opleiding maken in verhouding vaker gebruik van de reguliere tv
+                    Top 3 hoogst scorende titels betrouwbaarheid                                 (91%) en de krant (68%).
+
+                                                                                                 Het gebruik van podcasts voor nieuws over de overheid is ruim twee
+                                                                                                 keer zo groot onder mensen met een hbo/wo-opleiding (13%) dan
+                                                                                                 onder mensen met basisonderwijs of een vmbo/mbo-opleiding. Met
+                                                                                                 podcasts kan de overheid met name Nederlanders bereiken die de
+                                                                                                 overheid over het algemeen al goed weet te bereiken.
+
+                                                                                                 Men leest, bekijkt of beluistert nieuws van de NOS met name via de
+                                                                                                 reguliere tv (79%), maar ook via het internet (26%), de NOS app
+                                                                                                 (17%) en sociale media (13%). Nieuws over de overheid wordt via de
+
+
+1
+    Zie hoofdstuk 6 voor een verdere toelichting hoe de verschillende variabelen zijn gemeten.
+
+
+
+             Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                                 6 van 50
+NOS gemiddeld via 1,5 verschillende kanalen gevolgd. Hiermee is      Nieuwsmijders en -missers
+NOS de titel die Nederlanders via het grootst aantal verschillende
+kanalen volgen.                                                      Drie procent Nederlanders is nieuwsmijder
+                                                                     Drie procent van de Nederlanders volgt geen nieuws over wat de
+RTL Nieuws bekijken Nederlanders met name via de reguliere tv        overheid doet in Nederland en zegt er ook niets van mee te krijgen,
+(88%), maar ook via het internet (11%) en sociale media (10%). Het   deze groep noemen we de nieuwsmijders. Als we doorvragen zegt 70
+zwaartepunt van NU.nl ligt op het internet (59%), maar               procent van deze groep wel eens iets mee te krijgen. Ongeveer een
+Nederlanders lezen/kijken/luisteren dit nieuws ook via de app        procent van de bevolking mist dus alles.
+(26%) en sociale media (18%).
+                                                                     Twee vijfde nieuwsmijders ziet/hoort (toch) wel eens iets van NOS
+Doelen mediagebruik                                                  De 3 procent Nederlanders die in de groep nieuwsmijders vallen,
+                                                                     zegt niets mee te krijgen van overheidsnieuws. Maar, als we hen
+NOS meest gebruikt door Nederlanders om zichzelf te informeren       vragen van welke titels ze (ongewild) wel eens iets zien of horen,
+In dit onderzoek vroegen we ook naar het doel van de                 selecteren zeven op tien toch één of meerdere titels. Deze groep
+nieuwsconsumptie: is dat om zich te informeren, een mening te        noemt het vaakst NOS (41%), gevolgd door het Algemeen Dagblad
+vormen of voor het vermaak.                                          (25%) en de Avondshow van Arjen Lubach (21%). De groep die echt
+                                                                     niets meekrijgt noemen we nieuwsmissers. Ongeveer een procent
+Om zich te informeren gebruiken Nederlanders de NOS (96%),           behoort hier toe.
+RTL Nieuws (95%), Nieuwsuur (94%) en NU.nl (94%) het meest. Als
+het gaat om het vormen van een mening, scoren De Correspondent
+(37%), Tegenlicht (37%) en de Volkskrant (37%) het hoogst. De
+avondshow van Arjen Lubach (86%), Vandaag Inside (76%) en Dit
+was het nieuws (66%) scoren het hoogst op het doel ‘om mij te
+vermaken’.
+
+Sommige titels die hoog scoren op vermaak, zoals De Avondshow
+met Arjen Lubach, hebben ook een relatief hoge informerende
+waarde (49%). Titels die hoog scoren op het doel meningsvorming
+zijn - zoals ze ook bedoeld zijn - titels met een meer opiniërend
+karakter (zoals De Correspondent).
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                        7 van 50
+Leeswijzer
+                                                                        Gevolgde opleiding
+Het rapport is als volgt opgebouwd. Hoofdstuk 1 brengt de mate          In dit rapport kiezen we ervoor niet te spreken van lager of hoger
+waarin Nederlanders overheidsnieuws volgen in kaart. Hoofdstuk 2        opgeleid, maar om de precies gevolgde opleidingen te benoemen.
+laat aan de hand van het bereik, belang en betrouwbaarheid van          Een aantal opleidingen is samengenomen tot één groep. Om het
+titels een rangorde van deze titels zien. Dit tonen we voor de totale   rapport leesbaar te houden, kiezen we voor een verkorte aanduiding
+populatie, maar ook per groep naar leeftijd en opleiding. In            van deze categorieën van opleidingen. Zie hoofdstuk 6 voor een
+hoofdstuk 3 tonen we via welke kanalen mensen titels lezen,             toelichting voor deze keuze.
+bekijken of beluisteren. Hoofdstuk 4 gaat in op de doelen van het
+gebruik van de verschillende titels. Hoofdstuk 5 sluit af met meer       Aanduiding in     Hier vallen de volgende hoogst gevolgde
+inzicht in de groep nieuwsmijders en nieuwsmissers. In hoofdstuk 6       rapport           opleiding onder
+de onderzoeksverantwoording.
+                                                                         basisonderwijs/   geen onderwijs / basisonderwijs / cursus
+Indicatieve en niet getoonde resultaten                                  vmbo              inburgering / cursus Nederlandse taal / LBO /
+Resultaten die zijn gebaseerd op 20 tot en met 49 respondenten zijn                        VBO / VMBO (kader- of beroepsgerichte
+indicatief en worden in het rapport schuingedrukt weergegeven.                             leerweg) / MBO 1 (assistentenopleiding) / MAVO
+                                                                                           / HAVO of VWO (eerste drie jaar) / ULO / MULO /
+Resultaten die zijn gebaseerd op minder dan 20 respondenten                                VMBO (TL of GL) / VSO
+worden niet weergegeven in het rapport, dit is een te kleine groep       mbo               MBO 2, 3, 4 (basisberoeps-, vak-,
+om betrouwbare uitspraken over te kunnen doen. Hierdoor zijn er op                         middenkader- of specialistenopleiding) of MBO
+sommige plekken in het rapport lege cellen zichtbaar.                                      oude structuur (vóór 1998) / HAVO of VWO
+                                                                                           (overgegaan naar de 4e klas) / HBS / MMS / HBO
+Om de lengte van de vragenlijst te beperken, beoordeelde elke                              propedeuse of WO Propedeuse
+respondent de betrouwbaarheid van maximaal 5 titels. Bij titels met
+een klein bereik is hierdoor de groep respondenten die de                hbo/wo            HBO / WO-kandidaats -of WO-bachelor / WO-
+betrouwbaarheid beoordeelde vaak te klein om deze resultaten te                            doctoraal of WO-master / postdoctoraal
+kunnen splitsen op achtergrondkenmerken. Om deze reden tonen                               onderwijs
+we de betrouwbaarheid van titels op totaalniveau, maar niet
+gesplitst op achtergrondkenmerken.
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                           8 van 50
+Overheidsnieuws volgen
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   9 van 50
+1         Overheidsnieuws volgen
+Bijna alle Nederlanders zien of horen nieuws over overheid
+Maar liefst 97 procent van de Nederlanders van 16 jaar of ouder ziet of hoort nieuws over wat de Nederlandse overheid doet. Twee vijfde (41%)
+gaat vaak/soms zelf op zoek naar nieuws over wat de overheid doet in Nederland. Meer dan de helft van de Nederlanders (56%) gaat niet zelf op
+zoek naar nieuws hierover, maar krijgt het meestal/soms wel mee. Drie procent van de Nederlanders volgt geen nieuws over wat de overheid
+doet en zegt hier ook niets van mee te krijgen, deze groep noemen we de nieuwsmijders (zie ook hoofdstuk 5).
+
+Volgt u nieuws over wat de overheid doet in Nederland? (n=2.277)
+
+
+      Ja, ik ga vaak zelf op zoek naar nieuws hierover       18%
+
+
+
+
+      Ja, ik ga soms zelf op zoek naar nieuws hierover           23%
+
+
+
+ Ik ga niet zelf op zoek naar nieuws hierover, maar ik
+                                                                       41%
+                krijg het meestal wel mee
+
+
+    Ik ga niet zelf op zoek naar nieuws hierover, maar
+                                                             15%
+                   krijg het soms wel mee
+
+
+    Nee, ik volg geen nieuws hierover en krijg er niets
+                                                            3%
+                         van mee
+
+
+                                                          0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                            10 van 50
+Volgt u nieuws over wat de overheid doet in Nederland? (n=2.277)
+                                                                      16-34                         35-54                         55+
+
+
+                                                NL       basis/vmbo   mbo     hbo/wo   basis/vmbo   mbo     hbo/wo   basis/vmbo   mbo         hbo/wo
+
+ Ja, vaak zelf op zoek                         18%          7%        10%      17%        19%        13%     24%        13%       17%          33%
+
+ Ja, soms zelf op zoek                         23%          31%       17%      33%        20%       19%      27%        16%       25%          29%
+ Niet zelf op zoek, krijgt meestal wel mee     41%          34%       37%      33%        35%       44%      37%        53%       46%          34%
+
+ Niet zelf op zoek, krijgt soms wel mee        15%          23%       28%      13%        18%       23%      12%        15%       10%          4%
+
+ Volgt het niet en krijgt er niets van mee      3%          4%         7%      4%         7%         2%      1%         3%        2%           0%
+
+
+Op welke manier hoort of leest u nieuws over de overheid? (n=2.222)
+                                                                      16-34                         35-54                         55+
+
+
+                                                NL       basis/vmbo   mbo     hbo/wo   basis/vmbo   mbo     hbo/wo   basis/vmbo   mbo         hbo/wo
+
+ Via media                                     91%          77%       81%      92%        80%       89%      92%       94%        97%          96%
+ Gesprekken met familie of vrienden            46%          55%       67%      67%        37%       46%      48%        33%       37%          40%
+ Via sociale media                             40%          58%       70%      58%        48%       50%      34%        26%       25%          24%
+ Op het werk                                   28%          24%       29%      47%        31%       41%      52%        8%        14%          19%
+ Via de overheid                               25%          6%         11%     20%        16%       21%      34%        20%       29%          46%
+ Op school of bij mijn opleiding                6%          27%       35%      10%        0%         2%      1%         0%        0%           1%
+ Via het gebedshuis                             1%          0%         2%      2%         1%         1%      2%         1%        1%           2%
+ Op een andere manier                           1%          0%         1%      1%         4%         1%      1%         2%        2%           2%
+ Op geen enkele manier                          0%          3%         0%      0%         0%         0%      0%         0%        0%           0%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                            11 van 50
+Rangorde
+mediatitels
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   12 van 50
+2        Rangorde mediatitels
+Zesentachtig procent van de Nederlanders kreeg de afgelopen             2.1      Nederlands publiek
+maand minstens 1 keer nieuws over de overheid mee via NOS. Zeven        Titel                           Bereik   Belang   Betrouwbaarheid
+op de 10 Nederlanders (69%) vinden NOS belangrijk als het gaat om
+                                                                        NOS                              86%      69%             7,7
+nieuws over de overheid. De Nederlanders die minstens 1 keer per
+                                                                        RTL Nieuws                       60%      28%             7,2
+maand nieuws over de overheid via de NOS meekregen, beoordelen
+het nieuws van NOS in het algemeen gemiddeld met een 7,7 (op een        NU.nl                            59%      23%             7,1
+
+schaal van 1 tot en met 10). Zie hoofdstuk 6 voor een verdere           EenVandaag                       58%      24%             7,5
+toelichting van hoe de verschillende variabelen in het onderzoek zijn   Nieuwsuur                        52%      27%             7,7
+gemeten.
+                                                                        Huis-aan-huisbladen (gratis)     45%      6%              6,9
+
+                                                                        De Avondshow met Arjen Lubach    45%      13%             7,0
+
+                                                                        Nieuwsbulletins op andere
+                                                                                                         42%      9%              7,6
+                                                                        radiozenders
+
+                                                                        Hart van Nederland               42%      6%              6,6
+
+                                                                        Op1                              42%      11%             7,1
+
+                                                                        Algemeen Dagblad (AD)            41%      16%             6,9
+
+                                                                        Keuringsdienst van Waarde        41%      5%              7,9
+
+                                                                        Regionaal dagblad                39%      12%             7,4
+
+                                                                        Radar                            39%      7%              7,8
+
+                                                                        Dit was het nieuws               37%      4%              6,4
+
+                                                                        Beau/Humberto                    34%      5%              6,7
+
+                                                                        Vandaag Inside                   33%      5%              5,8
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                      13 van 50
+                                        Top 5
+
+                                        Belang                                           Titel                   Bereik   Belang   Betrouwbaarheid
+    1. NOS
+    2. RTL Nieuws                                                                        Telegraaf                32%      11%           6,4
+    3. Nieuwsuur                                                                         NPO Radio 1              30%      15%           7,7
+    4. EenVandaag                                                                        Regionale tv-zender      28%      4%            7,2
+    5. NU.nl
+                                                                                         RTL Z Nieuws             27%      7%            7,3
+    6. Algemeen Dagblad
+    7. NPO Radio 1                                                                       Buitenhof                26%      13%           7,4
+    8. Buitenhof                                                                         Khalid en Sophie         25%      2%            6,8
+    9. De Avondshow met Arjen Lubach
+                                                                                         Goedemorgen Nederland    25%      5%            6,5
+    10. Regionaal Dagblad
+                                                                                         Volkskrant               25%      11%           7,6
+                                                                                         Tijd voor Max            25%      3%            7,1
+                                 Betrouwbaarheid
+    1. Follow the Money                                                                  Shownieuws               25%      1%            5,8
+    2. NOS Jeugdjournaal                                                                 Zembla                   24%      7%            7,9
+    3. Zembla
+                                                                                         NRC                      23%      9%            7,8
+    4. Keuringsdienst van Waarde
+    5. Radar                                                                             NOS Jeugdjournaal        22%      6%            8,0
+
+    6. NRC                                                                               WNL op Zondag            17%      6%            7,6
+    7. De stemming met Vullings en Van der Wulp2                                         Financieel Dagblad       16%      5%            7,4
+    8. Nieuwsuur
+                                                                                         Trouw                    15%      4%            7,4
+    9. Kassa
+    10. NOS                                                                              TV-gids                  15%      1%            7,1
+                                                                                         BNR Nieuws Radio         14%      6%            7,4
+                                                                                         Follow The Money         14%      4%            8,1
+                                                                                         Tegenlicht               14%      3%            7,7
+                                                                                         Geenstijl.nl             14%      2%            5,7
+
+
+
+
+2
+ 30 respondenten hebben de betrouwbaarheid van deze titel beoordeeld, dit resultaat is
+daarom indicatief.
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                 14 van 50
+Titel                                   Bereik           Belang   Betrouwbaarheid
+
+
+Renze op zondag                          14%              1%            6,5
+
+PowNews                                  13%              1%            5,5
+
+#BOOS                                    12%              1%            7,3
+
+De Correspondent                         11%              3%            7,4
+
+Meldpunt!                                11%              2%            7,1
+
+Ongehoord Nieuws                         11%              4%            6,6
+
+De Hofbar                                10%              2%            6,7
+
+Metronieuws.nl                            9%              1%            6,4
+
+Businessclass                             8%              1%            6,4
+
+EW (Elsevier)                             8%              2%            6,8
+
+De stemming van Vullings en               8%              3%            7,7
+Van der Wulp
+
+Groene Amsterdammer                       6%              1%            7,6
+
+Vrij Nederland                            5%              1%            6,8
+
+WNL Opiniemakers                          5%              1%            6,9
+
+Bellingcat.com                            5%              1%            7,1
+
+ThePostOnline                             4%              1%            6,6
+
+Panorama                                  4%               ?            6,0
+
+OneWorld.nl                               4%              0%            6,7
+
+Fok.nl                                    4%              0%
+                                                                                    Door een technische fout is Panorama niet getoond in de vragenlijst voor
+Nieuwe Revu                               3%              0%            6,2         belang. Panorama zou zijn voorgelegd aan 91 respondenten.
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                     15 van 50
+2.2         16 t/m 34 jaar, basisonderwijs of vmbo
+
+
+Titel                                            Bereik   Belang                           Top 10
+                                                  n=40    n=40
+RTL Nieuws                                         71%     49%                              Belang
+Hart van Nederland                                 65%     20%
+                                                                   1 RTL Nieuws
+                                                                   2 NOS
+NOS                                                64%     37%
+                                                                   3 Nu.nl
+Editie NL                                          55%     20%     4 NOS Jeugdjournaal
+Jeugdjournaal                                      52%     21%     5 Editie NL
+                                                                   6 Hart van Nederland
+RTL Boulevard                                      52%     6%
+                                                                   7 Goedemorgen Nederland
+NU.nl                                              51%     24%
+                                                                   8 Nieuwsbulletins op andere radiozenders
+Algemeen Dagblad (AD)                              47%     6%      9 Telegraaf
+Telegraaf                                          45%     11%     10 Arjen Lubach (Avondshow)
+Beau/Humberto                                      36%     8%
+
+Nieuwsbulletins op andere radiozenders             36%     11%
+
+#BOOS                                              36%     11%
+
+Keuringsdienst van Waarde                          36%     0%
+
+RTL Z Nieuws                                       34%     3%
+
+De Avondshow met Arjen Lubach                      33%     11%
+
+Huis-aan-huisbladen (gratis)                       32%     6%
+
+Shownieuws                                         31%     0%
+
+PowNews                                            31%     3%
+
+Volkskrant                                         31%     0%
+
+EenVandaag                                         30%     0%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                         16 van 50
+Titel                                                   Bereik   Belang   Titel                                      Bereik   Belang
+                                                        n=40     n=40                                                n=40     n=40
+Dit was het nieuws                                       29%      0%      De Correspondent                            18%      0%
+
+Radar                                                    26%      1%      ThePostOnline                               18%      0%
+
+Trouw                                                    25%      0%      Renze op zondag                             18%      0%
+
+Goedemorgen Nederland                                    25%      13%     Op1                                         17%      0%
+
+Nieuwsuur                                                25%      1%      Buitenhof                                   17%      0%
+
+Vandaag Inside                                           24%      0%      WNL op Zondag                               17%      0%
+
+Regionale tv-zender                                      23%      0%      BNR Nieuws Radio                            17%      0%
+
+Metronieuws.nl                                           23%      4%      Panorama                                    16%       ?
+
+TV-gids                                                  22%      0%      WNL Opiniemakers                            16%      0%
+
+NPO Radio 1                                              20%      3%      Nieuwe Revu                                 16%      0%
+
+Vrij Nederland                                           20%      0%      Fok.nl                                      16%      0%
+
+Follow The Money                                         20%      4%      Khalid en Sophie                            15%      0%
+
+Geenstijl.nl                                             20%      5%      Meldpunt!                                   15%      0%
+
+Kassa                                                    20%      6%      Groene Amsterdammer                         15%      0%
+
+Financieel Dagblad                                       19%      3%      De stemming van Vullings en Van der Wulp    14%      0%
+
+Ongehoord Nieuws                                         19%      0%      Businessclass                               14%      0%
+
+NRC                                                      19%      1%      Bellingcat.com                              14%      0%
+
+Tijd voor Max                                            19%      0%      Zembla                                      13%      0%
+
+EW (Elsevier)                                            19%      0%      OneWorld.nl                                 13%      0%
+
+Regionaal dagblad                                        19%      0%      De Hofbar                                   11%      5%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          17 van 50
+2.3      16 t/m 34 jaar, mbo
+
+
+Titel                                               Bereik    Belang
+                                                    n=263     n=263                         Top 10
+NOS                                                     83%    74%
+NU.nl
+                                                                                            Belang
+                                                        64%    32%
+                                                                       1 NOS
+De Avondshow met Arjen Lubach                           55%    21%     2 Nu.nl
+RTL Nieuws                                              54%    22%     3 RTL Nieuws
+Algemeen Dagblad (AD)                                   47%    17%     4 De Avondshow met Arjen Lubach
+                                                                       5 NOS Jeugdjournaal
+Jeugdjournaal                                           41%    18%
+                                                                       6 Algemeen Dagblad (AD)
+Hart van Nederland                                      39%    7%      7 Telegraaf
+Telegraaf                                               38%    15%     8 Nieuwsuur
+EenVandaag                                              34%    6%      9 Volkskrant
+                                                                       10 NPO Radio 1
+Nieuwsuur                                               33%    13%
+
+Editie NL                                               32%    6%
+
+RTL Boulevard                                           32%    3%
+
+Volkskrant                                              30%    11%
+Dit was het nieuws                                      29%    4%
+
+NRC                                                     28%    8%
+NPO Radio 1                                             27%    8%
+
+#BOOS                                                   25%    4%
+Op1                                                     24%    4%
+
+Nieuwsbulletins op andere radiozenders                  24%    4%
+Keuringsdienst van Waarde                               24%    2%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                    18 van 50
+Titel                                                   Bereik   Belang   Titel                                      Bereik   Belang
+                                                        n=263    n=263                                               n=263    n=263
+Huis-aan-huisbladen (gratis)                             23%      2%      Zembla                                      7%       1%
+
+Vandaag Inside                                           22%      4%      WNL op Zondag                               6%       2%
+Beau/Humberto                                            22%      2%      Metronieuws.nl                              6%       0%
+
+Regionaal dagblad                                        20%      2%      Meldpunt!                                   6%       1%
+
+RTL Z Nieuws                                             19%      5%      EW (Elsevier)                               5%       1%
+Shownieuws                                               18%      2%      Ongehoord Nieuws                            5%       2%
+
+Goedemorgen Nederland                                    18%      3%      Renze op zondag                             5%       0%
+PowNews                                                  18%      3%      OneWorld.nl                                 5%       0%
+
+Radar                                                    17%      1%      Groene Amsterdammer                         5%       1%
+
+Financieel Dagblad                                       16%      2%      De stemming van Vullings en Van der Wulp    5%       1%
+Trouw                                                    16%      3%      De Hofbar                                   4%       0%
+
+Regionale tv-zender                                      15%      1%      ThePostOnline                               4%       1%
+Kassa                                                    14%      1%      Businessclass                               4%       0%
+
+Khalid en Sophie                                         12%      1%      WNL Opiniemakers                            4%       1%
+
+De Correspondent                                         11%      3%      Bellingcat.com                              4%       0%
+TV-gids                                                  11%      1%      Tegenlicht                                  4%       0%
+
+Geenstijl.nl                                             11%      3%      Fok.nl                                      3%       0%
+Follow The Money                                         11%      3%      Vrij Nederland                              3%       0%
+
+Buitenhof                                                10%      1%      Panorama                                    3%         ?
+
+BNR Nieuws Radio                                         10%      5%      Nieuwe Revu                                 2%       0%
+Tijd voor Max                                            7%       0%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          19 van 50
+2.4      16 t/m 34 jaar, hbo/wo
+
+
+Titel                                               Bereik    Belang                            Top 10
+                                                    n=235     n=235
+NOS                                                     87%    78%                              Belang
+NU.nl                                                   68%    27%     1 NOS
+                                                                       2 Nu.nl
+De Avondshow met Arjen Lubach                           56%    21%
+                                                                       3 RTL Nieuws
+RTL Nieuws                                              53%    16%
+                                                                       4 De Avondshow met Arjen Lubach
+Algemeen Dagblad (AD)                                   47%    13%
+                                                                       5 RTL Nieuws
+Nieuwsuur                                               44%    18%     6 Volkskrant
+EenVandaag                                              42%    12%     7 NRC
+Volkskrant                                              39%    15%     8 Algemene Dagblad (AD)
+Dit was het nieuws                                      38%    4%      9 EenVandaag
+NRC                                                     38%    14%
+                                                                       10 Nieuwsbulletins op andere radiozenders
+
+Nieuwsbulletins op andere radiozenders                  34%    9%
+Keuringsdienst van Waarde                               34%    3%
+RTL Boulevard                                           33%    1%
+Editie NL                                               32%    4%
+Beau/Humberto                                           30%    3%
+Vandaag Inside                                          30%    1%
+Op1                                                     29%    4%
+Telegraaf                                               28%    8%
+#BOOS                                                   26%    4%
+NPO Radio 1                                             26%    9%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                              20 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=235    n=235                                               n=235    n=235
+Regionaal dagblad                                         25%      2%      Tegenlicht                                  11%      2%
+Hart van Nederland                                        24%      1%      WNL op Zondag                               10%      4%
+Huis-aan-huisbladen (gratis)                              23%      1%      De stemming van Vullings en Van der Wulp    8%       5%
+Jeugdjournaal                                             23%      4%      EW (Elsevier)                               8%       1%
+Financieel Dagblad                                        23%      7%      Groene Amsterdammer                         8%       1%
+De Correspondent                                          22%      5%      TV-gids                                     7%       0%
+Radar                                                     21%      1%      Renze op zondag                             7%       1%
+Trouw                                                     20%      6%      Ongehoord Nieuws                            7%       3%
+Geenstijl.nl                                              19%      3%      Tijd voor Max                               6%       0%
+Khalid en Sophie                                          19%      0%      Businessclass                               5%       0%
+Follow The Money                                          17%      4%      ThePostOnline                               5%       2%
+Buitenhof                                                 17%      6%      Bellingcat.com                              5%       1%
+Goedemorgen Nederland                                     17%      1%      Vrij Nederland                              4%       0%
+Kassa                                                     17%      1%      Meldpunt!                                   4%       0%
+Shownieuws                                                16%      0%      Fok.nl                                      4%       0%
+RTL Z Nieuws                                              16%      2%      De Hofbar                                   3%       1%
+BNR Nieuws Radio                                          15%      7%      WNL Opiniemakers                            3%       2%
+PowNews                                                   15%      2%      OneWorld.nl                                 3%       0%
+Metronieuws.nl                                            14%      0%      Nieuwe Revu                                 3%       0%
+Regionale tv-zender                                       12%      1%      Panorama                                    3%        ?
+Zembla                                                    12%      3%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                               21 van 50
+2.5      35 t/m 54 jaar, basisonderwijs of vmbo
+
+
+Titel                                               Bereik     Belang                          Top 10
+                                                        n=92   n=92
+NOS                                                     70%     49%                            Belang
+RTL Nieuws                                              64%     35%     1 NOS
+                                                                        2 RTL Nieuws
+Editie NL                                               55%     17%
+                                                                        3 Nieuwsuur
+NU.nl                                                   53%     18%
+                                                                        4 Kassa
+Hart van Nederland                                      51%     17%     5 EenVandaag
+EenVandaag                                              51%     20%     6 RTL Z Nieuws
+Huis-aan-huisbladen (gratis)                            48%     6%      7 NU.nl
+Keuringsdienst van Waarde
+                                                                        8 Radar
+                                                        46%     13%
+                                                                        9 Hart van Nederland
+Nieuwsuur                                               43%     25%
+                                                                        10 Editie NL
+Algemeen Dagblad (AD)                                   42%     15%
+
+RTL Z Nieuws                                            41%     18%
+
+Telegraaf                                               41%     15%
+
+RTL Boulevard                                           41%     8%
+
+Regionaal dagblad                                       40%     8%
+
+Nieuwsbulletins op andere radiozenders                  39%     5%
+
+Shownieuws                                              39%     6%
+
+Vandaag Inside                                          37%     8%
+
+Radar                                                   37%     17%
+
+De Avondshow met Arjen Lubach                           35%     16%
+
+Kassa                                                   35%     22%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                   22 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=92     n=92                                                n=92     n=92
+Beau/Humberto                                             34%      8%      Tegenlicht                                  22%      3%
+Dit was het nieuws                                        33%      4%      Financieel Dagblad                          21%      8%
+Regionale tv-zender                                       32%      4%      Trouw                                       20%      0%
+Op1                                                       29%      8%      Vrij Nederland                              19%      6%
+Goedemorgen Nederland                                     29%      9%      Businessclass                               19%      3%
+Geenstijl.nl                                              28%      4%      Meldpunt!                                   18%      2%
+NPO Radio 1                                               27%      10%     WNL Opiniemakers                            16%      2%
+Tijd voor Max                                             27%      9%      De Correspondent                            16%      4%
+Metronieuws.nl                                            27%      5%      Fok.nl                                      16%      0%
+Buitenhof                                                 26%      7%      #BOOS                                       16%      5%
+PowNews                                                   26%      2%      ThePostOnline                               16%      4%
+NRC                                                       25%      2%      De Hofbar                                   16%      3%
+Jeugdjournaal                                             25%      8%      EW (Elsevier)                               15%       1%
+TV-gids                                                   24%      3%      De stemming van Vullings en Van der Wulp    13%      5%
+Ongehoord Nieuws                                          24%      11%     Panorama                                    13%        ?
+BNR Nieuws Radio                                          23%      8%      Follow The Money                            13%      0%
+Khalid en Sophie                                          23%      4%      Groene Amsterdammer                         12%      2%
+Renze op zondag                                           23%      2%      OneWorld.nl                                 12%      0%
+Volkskrant                                                23%      2%      Bellingcat.com                              11%      0%
+WNL op Zondag                                             22%      2%      Nieuwe Revu                                 9%       2%
+Zembla                                                    22%      2%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          23 van 50
+2.6      35 t/m 54 jaar, mbo
+
+
+Titel                                               Bereik    Belang                           Top 10
+                                                    n=244     n=244
+NOS                                                     82%    66%                              Belang
+RTL Nieuws                                              66%    42%     1 NOS
+                                                                       2 RTL Nieuws
+NU.nl                                                   62%    27%
+                                                                       3 NU.nl
+EenVandaag                                              57%    20%
+                                                                       4 EenVandaag
+Nieuwsbulletins op andere radiozenders                  49%    14%     5 Nieuwsuur
+Editie NL                                               49%    7%      6 Algemeen Dagblad (AD)
+Hart van Nederland                                      48%    6%      7 Nieuwsbulletins op andere radiozenders
+Huis-aan-huisbladen (gratis)
+                                                                       8 De Avondshow met Arjen Lubach
+                                                        46%    5%
+                                                                       9 Op1
+RTL Boulevard                                           46%    2%
+                                                                       10 NPO Radio 1
+Keuringsdienst van Waarde                               43%    3%
+
+Nieuwsuur                                               41%    18%
+
+Dit was het nieuws                                      41%    2%
+
+Algemeen Dagblad (AD)                                   40%    15%
+
+Radar                                                   37%    6%
+
+Vandaag Inside                                          36%    7%
+
+Beau/Humberto                                           36%    4%
+
+De Avondshow met Arjen Lubach                           36%    12%
+
+Op1                                                     35%    9%
+
+Regionaal dagblad                                       34%    8%
+
+Telegraaf                                               33%    8%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                             24 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=244    n=244                                               n=244    n=244
+Shownieuws                                                32%      0%      Tegenlicht                                  12%      3%
+
+Kassa                                                     30%      3%      Ongehoord Nieuws                            12%      5%
+
+Goedemorgen Nederland                                     26%      6%      Financieel Dagblad                          10%      3%
+
+RTL Z Nieuws                                              26%      7%      #BOOS                                       10%      0%
+
+Regionale tv-zender                                       24%      4%      Meldpunt!                                   8%       1%
+
+Jeugdjournaal                                             24%      6%      TV-gids                                     8%       1%
+
+Khalid en Sophie                                          20%      2%      De Correspondent                            7%       2%
+
+NPO Radio 1                                               19%      8%      ThePostOnline                               6%       0%
+
+Geenstijl.nl                                              18%      2%      Panorama                                    6%        ?
+
+Buitenhof                                                 17%      8%      Fok.nl                                      6%       0%
+
+PowNews                                                   16%      1%      Vrij Nederland                              6%       1%
+
+Zembla                                                    16%      5%      Businessclass                               5%       0%
+
+BNR Nieuws Radio                                          15%      4%      EW (Elsevier)                               5%       0%
+
+Tijd voor Max                                             14%      1%      De Hofbar                                   5%       2%
+
+Volkskrant                                                14%      4%      Bellingcat.com                              5%       0%
+
+WNL op Zondag                                             14%      3%      OneWorld.nl                                 4%       0%
+
+Renze op zondag                                           14%      1%      Groene Amsterdammer                         3%       1%
+
+Metronieuws.nl                                            13%      1%      Nieuwe Revu                                 3%       0%
+
+NRC                                                       13%      2%      WNL Opiniemakers                            3%       0%
+
+Follow The Money                                          13%      5%      De stemming van Vullings en Van der Wulp    2%       1%
+
+Trouw                                                     12%      1%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                               25 van 50
+2.7      35 t/m 54 jaar, hbo/wo
+
+
+Titel                                               Bereik    Belang                          Top 10
+                                                    n=302     n=302
+NOS                                                     86%    69%                            Belang
+NU.nl                                                   67%    27%     1 NOS
+                                                                       2 NU.nl
+RTL Nieuws                                              54%    22%
+                                                                       3 Nieuwsuur
+EenVandaag                                              52%    17%
+                                                                       4 RTL Nieuws
+De Avondshow met Arjen Lubach                           52%    14%     5 EenVandaag
+Nieuwsuur                                               49%    27%     6 NPO Radio 1
+Nieuwsbulletins op andere radiozenders                  45%    9%      7 De Avondshow met Arjen Lubach
+Huis-aan-huisbladen (gratis)
+                                                                       8 NRC
+                                                        43%    4%
+                                                                       9 Algemeen Dagblad (AD)
+Algemeen Dagblad (AD)                                   40%    11%
+                                                                       10 Volkskrant
+Keuringsdienst van Waarde                               38%    4%
+
+Op1                                                     36%    7%
+
+NPO Radio 1                                             34%    16%
+
+Volkskrant                                              33%    11%
+
+Dit was het nieuws                                      33%    3%
+
+Regionaal dagblad                                       32%    9%
+
+NRC                                                     29%    13%
+
+Telegraaf                                               29%    6%
+
+Editie NL                                               28%    4%
+
+Hart van Nederland                                      28%    2%
+
+Radar                                                   27%    3%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                    26 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=302    n=302                                               n=302    n=302
+RTL Boulevard                                             26%      3%      Tijd voor Max                               10%       1%
+
+Beau/Humberto                                             26%      4%      EW (Elsevier)                               9%        1%
+
+Jeugdjournaal                                             26%      4%      #BOOS                                       9%       0%
+
+Vandaag Inside                                            25%      2%      De stemming van Vullings en Van der Wulp    9%       2%
+
+RTL Z Nieuws                                              24%      6%      Groene Amsterdammer                         9%       2%
+
+Buitenhof                                                 23%      10%     Metronieuws.nl                              9%        1%
+
+Financieel Dagblad                                        23%      7%      Meldpunt!                                   8%       0%
+
+Zembla                                                    23%      7%      Renze op zondag                             8%       0%
+
+Follow The Money                                          21%      8%      De Hofbar                                   8%       0%
+
+Kassa                                                     21%      3%      Ongehoord Nieuws                            8%       3%
+
+Regionale tv-zender                                       20%      1%      Businessclass                               7%        1%
+
+Khalid en Sophie                                          20%      3%      Vrij Nederland                              7%        1%
+
+BNR Nieuws Radio                                          19%      9%      TV-gids (bijvoorbeeld Vara-, Veronica-,     6%       0%
+
+Goedemorgen Nederland                                                      VPRO-gids)
+                                                          19%      2%
+                                                                           WNL Opiniemakers                            5%       0%
+Trouw                                                     19%      6%
+                                                                           Bellingcat.com                              5%        1%
+Tegenlicht                                                18%      5%
+                                                                           ThePostOnline                               4%        1%
+De Correspondent                                          18%      5%
+                                                                           Panorama                                    4%         ?
+Geenstijl.nl                                              17%      3%
+                                                                           Fok.nl                                      4%       0%
+Shownieuws                                                16%      1%
+                                                                           Nieuwe Revu                                 3%       0%
+WNL op Zondag                                             13%      2%
+                                                                           OneWorld.nl                                 3%        1%
+PowNews                                                   11%      1%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          27 van 50
+2.8      55-plus, basisonderwijs of vmbo
+
+
+Titel                                               Bereik    Belang
+                                                    n=412     n=412                          Top 10
+NOS                                                     87%    66%
+
+EenVandaag                                              67%    35%                               Belang
+                                                                       1 NOS
+RTL Nieuws                                              64%    34%
+                                                                       2 EenVandaag
+Huis-aan-huisbladen (gratis)                            61%    11%
+                                                                       3 Nieuwsuur
+Nieuwsuur                                               59%    34%     4 RTL Nieuws
+Hart van Nederland                                      56%    14%     5 OP1
+Radar                                                   52%    12%     6 Regionaal dagblad
+                                                                       7 Buitenhof
+Regionaal dagblad                                       50%    19%
+                                                                       8 Algemene Dagblad (AD)
+Op1                                                     50%    20%
+                                                                       9 NU.nl
+Nieuwsbulletins op andere radiozenders                  48%    10%     10 Telegraaf
+Tijd voor Max                                           47%    7%
+
+Kassa                                                   47%    9%
+
+RTL Boulevard                                           44%    3%
+
+Keuringsdienst van Waarde                               44%    7%
+
+Vandaag Inside                                          44%    9%
+
+Regionale tv-zender                                     44%    8%
+
+NU.nl                                                   43%    15%
+
+Editie NL                                               43%    11%
+
+Beau/Humberto                                           42%    9%
+
+Dit was het nieuws                                      38%    6%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                     28 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=412    n=412                                               n=412    n=412
+De Avondshow met Arjen Lubach                             37%      8%      De stemming van Vullings en Van der Wulp    9%       4%
+Shownieuws                                                36%      1%      Geenstijl.nl                                9%       1%
+Goedemorgen Nederland                                     35%      10%     Tegenlicht                                  8%       2%
+Algemeen Dagblad (AD)                                     34%      18%     Financieel Dagblad                          8%       2%
+Buitenhof                                                 32%      18%     EW (Elsevier)                               7%       4%
+Telegraaf                                                 32%      15%     Follow The Money                            7%       2%
+Khalid en Sophie                                          31%      3%      WNL Opiniemakers                            7%       1%
+Zembla                                                    27%      9%      Trouw                                       6%       2%
+RTL Z Nieuws                                              27%      11%     BNR Nieuws Radio                            6%       2%
+NPO Radio 1                                               26%      13%     #BOOS                                       5%       0%
+WNL op Zondag                                             24%      13%     Metronieuws.nl                              4%       0%
+Renze op zondag                                           23%      3%      De Correspondent                            4%       1%
+TV-gids                                                   22%      2%      Panorama                                    4%        ?
+Meldpunt!                                                 18%      4%      Groene Amsterdammer                         3%       1%
+Jeugdjournaal                                             14%      4%      Vrij Nederland                              3%       0%
+De Hofbar                                                 14%      4%      OneWorld.nl                                 2%       0%
+Businessclass                                             12%      2%      Nieuwe Revu                                 2%       1%
+Volkskrant                                                12%      6%      Bellingcat.com                              2%       0%
+Ongehoord Nieuws                                          12%      5%      ThePostOnline                               2%       1%
+NRC                                                       10%      3%      Fok.nl                                      1%       0%
+PowNews                                                   10%      1%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                         29 van 50
+2.9      55-plus, mbo
+
+
+Titel                                               Bereik    Belang                         Top 10
+                                                    n=382     n=382
+NOS                                                     91%    70%                               Belang
+EenVandaag                                              71%    39%     1 NOS
+                                                                       2 EenVandaag
+RTL Nieuws                                              64%    29%
+                                                                       3 Nieuwsuur
+Nieuwsuur                                               62%    36%
+                                                                       4 RTL Nieuws
+Huis-aan-huisbladen (gratis)                            57%    9%      5 Algemeen Dagblad (AD)
+Op1                                                     55%    17%     6 Regionaal dagblad
+Regionaal dagblad                                       55%    21%     7 Buitenhof
+                                                                       8 NPO Radio 1
+Radar                                                   54%    10%
+                                                                       9 NU.nl
+NU.nl                                                   54%    18%
+                                                                       10 Op1
+Hart van Nederland                                      50%    6%
+
+Keuringsdienst van Waarde                               48%    7%
+
+Kassa                                                   48%    7%
+
+Tijd voor Max                                           45%    4%
+
+Nieuwsbulletins op andere radiozenders                  44%    9%
+
+Dit was het nieuws                                      44%    5%
+
+Editie NL                                               40%    6%
+
+Vandaag Inside                                          40%    6%
+
+De Avondshow met Arjen Lubach                           40%    8%
+
+Algemeen Dagblad (AD)                                   40%    23%
+
+Beau/Humberto                                           39%    4%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                     30 van 50
+Titel                                                    Bereik   Belang   Titel                                      Bereik   Belang
+                                                         n=382    n=382                                               n=382    n=382
+Regionale tv-zender                                       39%      8%      Follow The Money                            10%      4%
+Buitenhof                                                 36%      20%     PowNews                                     10%      2%
+RTL Boulevard                                             35%      1%      Geenstijl.nl                                9%       2%
+RTL Z Nieuws                                              35%      8%      Businessclass                               8%       0%
+NPO Radio 1                                               32%      20%     Trouw                                       8%       3%
+Zembla                                                    32%      9%      EW (Elsevier)                               8%       4%
+Goedemorgen Nederland                                     32%      8%      Financieel Dagblad                          7%       1%
+Khalid en Sophie                                          31%      2%      #BOOS                                       7%       0%
+Telegraaf                                                 29%      11%     De stemming van Vullings en Van der Wulp    5%       2%
+Shownieuws                                                25%      1%      WNL Opiniemakers                            5%       0%
+WNL op Zondag                                             22%      11%     Metronieuws.nl                              5%       0%
+TV-gids                                                   18%      2%      De Correspondent                            3%       1%
+Meldpunt!                                                 17%      2%      Panorama                                    3%        ?
+Renze op zondag                                           16%      1%      ThePostOnline                               2%       1%
+Volkskrant                                                16%      10%     Bellingcat.com                              2%       1%
+Tegenlicht                                                14%      3%      Vrij Nederland                              2%       0%
+De Hofbar                                                 14%      3%      Fok.nl                                      1%       0%
+Jeugdjournaal                                             13%      3%      Groene Amsterdammer                         1%       0%
+Ongehoord Nieuws                                          12%      7%      OneWorld.nl                                 1%       0%
+BNR Nieuws Radio                                          12%      5%      Nieuwe Revu                                 1%       0%
+NRC                                                       10%      5%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          31 van 50
+2.10      55-plus, hbo/wo
+
+
+Titel                                                Bereik    Belang                   Top 10
+                                                     n=303     n=303
+NOS                                                      95%    71%                     Belang
+EenVandaag                                               77%    26%     1 NOS
+                                                                        2 Nieuwsuur
+Nieuwsuur                                                76%    39%
+                                                                        3 NPO Radio 1
+NU.nl                                                    64%    19%
+                                                                        4 Volkskrant
+Op1                                                      62%    15%     5 EenVandaag
+RTL Nieuws                                               57%    19%     6 Buitenhof
+De Avondshow met Arjen Lubach                            56%    11%     7 NRC
+                                                                        8 RTL Nieuws
+Huis-aan-huisbladen (gratis)                             54%    7%
+                                                                        9 NU.nl
+Radar                                                    52%    10%
+                                                                        10 Op1
+NPO Radio 1                                              50%    30%
+
+Regionaal dagblad                                        48%    15%
+
+Nieuwsbulletins op andere radiozenders                   48%    9%
+
+Keuringsdienst van Waarde                                47%    5%
+
+Zembla                                                   46%    13%
+
+Khalid en Sophie                                         43%    3%
+
+Buitenhof                                                43%    22%
+
+Volkskrant                                               41%    27%
+
+NRC                                                      40%    22%
+
+Algemeen Dagblad (AD)                                    39%    12%
+
+Dit was het nieuws                                       39%    2%
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                           32 van 50
+Titel                                                   Bereik   Belang   Titel                                      Bereik   Belang
+                                                        n=303    n=303                                               n=303    n=303
+Kassa                                                    35%      6%      Jeugdjournaal                               16%      1%
+Beau/Humberto                                            34%      2%      Renze op zondag                             15%      1%
+Hart van Nederland                                       34%      1%      De stemming van Vullings en Van der Wulp    14%      2%
+RTL Z Nieuws                                             30%      8%      Ongehoord Nieuws                            12%      3%
+Telegraaf                                                30%      10%     Geenstijl.nl                                11%      1%
+RTL Boulevard                                            29%      0%      Groene Amsterdammer                         11%      4%
+Regionale tv-zender                                      29%      4%      PowNews                                     10%      0%
+Tijd voor Max                                            28%      3%      Vrij Nederland                              10%      3%
+Tegenlicht                                               27%      9%      Meldpunt!                                   9%       1%
+Vandaag Inside                                           26%      1%      Bellingcat.com                              8%       2%
+Financieel Dagblad                                       26%      11%     Businessclass                               8%       1%
+Trouw                                                    25%      13%     Metronieuws.nl                              7%       0%
+Goedemorgen Nederland                                    24%      2%      EW (Elsevier)                               7%       1%
+BNR Nieuws Radio                                         24%      9%      OneWorld.nl                                 6%       1%
+Editie NL                                                24%      1%      WNL Opiniemakers                            5%       0%
+WNL op Zondag                                            23%      6%      #BOOS                                       4%       0%
+Follow The Money                                         22%      6%      Panorama                                    4%         ?
+TV-gids                                                  22%      2%      ThePostOnline                               4%       0%
+De Correspondent                                         18%      7%      Nieuwe Revu                                 3%       0%
+Shownieuws                                               18%      0%      Fok.nl                                      2%       0%
+De Hofbar                                                17%      1%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                          33 van 50
+Gebruik kanalen
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   34 van 50
+3          Gebruik kanalen
+Nederlanders consumeren hun nieuwsbronnen over de overheid met name via de kanalen reguliere tv (86%), internet (66%) en de papieren
+krant (62%). Jongeren en jongvolwassenen (tot en met 34 jaar) maken in verhouding met de oudere generaties meer gebruik van social media
+(55%), streamingsdiensten (49%) en podcasts (14%). Vijfenvijftigplussers zijn (nog) erg gefocust op de reguliere tv (94%) en de papieren krant
+(75%).
+
+Totale gebruik mediatitels per kanaal (n=2.191) – gesplitst op leeftijd
+ 100%                        94%
+
+  90%      86%
+                       82%
+  80%            74%                     75% 74%                            75%
+
+  70%                              66%
+                                                          62%
+                                                   57%                                         58%
+  60%                                                                 55%          54%               55%                                 55%
+                                                                                         47%                                                                     49%
+  50%                                                           43%                                                    41%
+                                                                                                                 38%
+  40%                                                                                                      35%
+                                                                                                                                   32%         33%
+                                                                                                                             31%
+  30%                                                                                                                                                      24%         26%
+                                                                                                                                                     21%
+  20%                                                                                                                                                                                  14%
+                                                                                                                                                                             9%   8%         9%
+    10%                                                                                                                                                                                            5%
+
+    0%
+
+
+
+
+                                                                                  Totaal       16-34       35-54       55+
+
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                                                                35 van 50
+Nederlanders met een hbo/wo-opleiding consumeren in verhouding vaker nieuws over de overheid via het internet (75%), de radio (58%), de
+app van de titel (44%), streamingsdiensten (32%) en podcasts (13%). Nederlanders met basisonderwijs of een vmbo-opleiding, maken in
+verhouding vaker gebruik van de reguliere tv (91%) en de papieren krant (68%).
+
+Totale gebruik mediatitels per kanaal (n=2.191) – gesplitst op opleiding
+
+
+ 100%
+                91%
+                      87%
+  90%     86%
+                            81%
+  80%                                               75%
+                                  66%                           68%
+  70%                                         64%         62%         61% 59%                   58%
+  60%                                   56%                                     54%
+                                                                                      51% 52%
+  50%                                                                                                                   44%
+  40%                                                                                                 35%         34%         32%
+                                                                                                                                          35%
+                                                                                                                                                32%                     32%
+                                                                                                                                    28%
+  30%                                                                                                       24%                                       24%         22%
+  20%                                                                                                                                                       14%                          13%
+                                                                                                                                                                              8% 6%
+  10%                                                                                                                                                                               6%
+
+   0%
+
+
+
+
+                                                                         Totaal       basis/vmbo       mbo         hbo/wo
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                                                               36 van 50
+Leeswijzer: 79 procent van de Nederlanders die weleens nieuws over de overheid kijken/luisteren/lezen via de NOS doet dit via de reguliere tv,
+5 procent doet dit via streaming, 10 procent via de radio etc.
+
+Mensen kunnen van één titel via verschillende kanalen nieuws consumeren. Gemiddeld gebruiken Nederlanders 1,51 kanalen (zie factor) om het
+nieuws van NOS te consumeren. Hoe hoger de factor, hoe meer kanalen Nederlanders gebruiken om nieuws van de titel te consumeren.
+
+Kunt u voor iedere titel aangegeven op welke manier u dit leest, bekijkt of beluistert? 3
+                                                                                                                        Papieren
+                                                                 Reguliere                                    Via                                    Sociale      App van        Aantal
+Titel                                               Bereik                    Streaming        Radio                     krant of      Podcast
+                                                                     tv                                    internet                                  media         de titel     kanalen
+                                                                                                                        tijdschrift
+NOS                                                  86%           79%            5%           10%           26%            1%           1%            13%          17%           1,51
+
+RTL Nieuws                                           60%           88%            2%            2%           11%            1%           0%           10%            4%           1,18
+
+NU.nl                                                59%            11%           1%            2%           59%            1%           0%           18%           26%           1,19
+
+EenVandaag                                            58%          87%            3%            2%            7%            1%           1%            4%            1%           1,05
+
+Nieuwsuur                                             52%          86%            5%            2%            8%           0%            0%            5%            1%           1,08
+
+Huis-aan-huisbladen                                  45%            4%            1%            1%            7%           90%           0%            4%            1%           1,07
+
+De Avondshow met Arjen Lubach                        45%           70%           24%            1%           11%            1%           1%            11%           1%           1,21
+
+Nieuwsbulletins op andere radiozenders               42%            12%           2%           83%            6%            1%           1%            3%            2%           1,11
+
+Hart van Nederland                                   42%           90%            1%            1%            5%            1%           1%            5%            1%           1,05
+
+Op1                                                  42%           89%            3%            3%            5%           0%            0%            4%            1%           1,06
+
+Algemeen Dagblad                                      41%           5%            2%            3%           55%           20%           1%           22%           18%           1,27
+
+Keuringsdienst van Waarde                             41%          85%            8%            1%            8%            1%           0%            6%            1%           1,11
+
+
+
+
+3
+ Het is mogelijk dat respondenten bij sommige titels kanalen hebben aangegeven die niet in eerste instantie voor de hand liggen. Elf procent van de respondenten die nieuws volgen via Follow
+The Money, geeft bijvoorbeeld aan dit via de reguliere tv te doen. Maar, Follow The Money heeft geen tv-programma. Het is mogelijk dat deze respondenten een item via een andere titel op tv
+hebben gezien waarin nieuws van Follow The Money werd besproken. Er zal ook een kleine groep zijn die de vraag niet goed heeft gelezen en onjuist heeft beantwoord.
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                                                       37 van 50
+                                                                                                      Papieren
+                                                           Reguliere                         Via                              Sociale   App van
+Titel                                             Bereik               Streaming   Radio               krant of     Podcast                            Factor
+                                                              tv                           internet                           media     de titel
+                                                                                                      tijdschrift
+Regionaal dagblad                                  39%       5%           1%        1%       31%        64%          0%        9%        11%            1,23
+
+Radar                                              39%       87%          4%        1%       8%          1%           1%       6%         1%            1,09
+
+Dit was het nieuws                                 37%       82%          8%        3%       8%          1%           1%       6%         1%            1,08
+
+Editie NL                                          37%       85%          3%        2%       6%          1%           1%       7%         1%            1,05
+
+RTL Boulevard                                      36%       92%          3%        1%       4%          1%          0%        8%         1%            1,10
+
+Beau/Humberto                                      34%       90%          4%        2%       5%          1%          0%        5%         1%            1,07
+
+Vandaag Inside                                     33%       87%          9%        1%       6%          1%           2%       7%         1%            1,15
+
+Kassa                                              32%       88%          4%        1%       8%          1%           1%       4%         0%            1,08
+
+Telegraaf                                          32%       7%           3%        2%      52%          28%          3%       19%       14%            1,29
+
+NPO Radio 1                                        30%       10%          2%       82%       7%          1%           3%       4%         3%            1,13
+
+Regionale tv-zender                                28%       81%          3%        3%      15%          2%           1%       7%         6%            1,17
+
+RTL Z Nieuws                                       27%       87%          3%        2%       7%          2%           1%       7%         1%            1,09
+
+Buitenhof                                          26%       83%          7%        1%       9%          2%           1%       4%         1%            1,07
+
+Khalid en Sophie                                   25%       90%          3%        2%       4%          2%          0%        4%         1%            1,06
+
+Goedemorgen Nederland                              25%       87%          2%        2%       6%          1%           1%       4%         1%            1,05
+
+Volkskrant                                         25%        3%          1%        1%      52%          42%          3%       19%       15%            1,34
+
+Tijd voor Max                                      25%       91%          3%        1%       4%          3%           1%       2%         1%            1,05
+
+Shownieuws                                         25%       91%          3%        2%       4%          2%           1%       7%         1%            1,10
+
+Zembla                                             24%       84%          9%        2%       9%          1%           2%       5%         1%            1,13
+
+NRC                                                23%       12%          1%        2%      52%          25%          5%       21%       12%            1,30
+
+NOS Jeugdjournaal                                  22%       73%         12%        2%       13%         1%          0%        18%        2%            1,21
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                             38 van 50
+                                                                                                       Papieren
+                                                            Reguliere                         Via                              Sociale   App van
+Titel                                              Bereik               Streaming   Radio               krant of     Podcast                            Factor
+                                                               tv                           internet                           media     de titel
+                                                                                                       tijdschrift
+WNL op Zondag                                       17%       85%          4%        2%       6%          2%           2%       4%         2%            1,06
+
+Financieel Dagblad                                  16%       6%           1%        2%      60%          16%          3%       18%       10%            1,16
+
+Trouw                                               15%       6%           4%        3%      58%          30%          1%       19%       10%            1,30
+
+TV-gids                                             15%       13%          3%        4%      12%          73%          2%       5%         3%            1,15
+
+BNR Nieuws Radio                                    14%       8%           7%       70%      12%          3%          12%       7%         3%            1,22
+
+Follow The Money                                    14%       11%          7%        5%      52%          5%          4%        27%        2%            1,13
+
+Tegenlicht                                          14%       73%         12%        3%       13%         2%           3%       7%         1%            1,15
+
+Geenstijl.nl                                        14%       13%         11%        3%      55%          2%           3%       31%        3%            1,21
+
+Renze op zondag                                     14%       85%          4%        2%       4%          3%           1%       5%         1%            1,05
+
+PowNews                                             13%       41%         21%        3%      21%          2%           1%       26%        2%            1,16
+
+#BOOS                                               12%       22%         41%        5%      18%          5%           2%       31%        2%            1,26
+
+De Correspondent                                     11%      6%           3%        6%      58%          5%          8%        28%        5%            1,18
+
+Meldpunt!                                            11%      75%          5%        5%      10%          3%           1%       8%         1%            1,09
+
+Ongehoord Nieuws                                     11%      65%         13%        5%      21%          2%           2%       13%        2%            1,23
+
+De Hofbar                                           10%       77%          5%        5%       7%          2%           2%       5%         2%            1,05
+
+Metronieuws.nl                                       9%       10%          5%        3%      48%          14%          2%       30%        4%            1,15
+
+Businessclass                                        8%       71%          6%        5%       11%         4%           3%       13%        2%            1,14
+
+EW (Elsevier)                                        8%       11%          8%        5%      41%          24%          2%       19%        6%            1,15
+
+De stemming van Vullings en Van der Wulp             8%       26%         13%        8%      10%          2%          38%       12%        4%            1,15
+
+Groene Amsterdammer                                  6%       9%           4%        3%      51%          29%          7%       22%        5%            1,30
+
+Vrij Nederland                                       5%       18%          4%        7%      43%          24%          3%       22%        5%            1,27
+
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                             39 van 50
+                                                                                                      Papieren
+                                                           Reguliere                         Via                              Sociale   App van
+Titel                                             Bereik               Streaming   Radio               krant of     Podcast                            Factor
+                                                              tv                           internet                           media     de titel
+                                                                                                      tijdschrift
+WNL Opiniemakers                                    5%       43%         14%        9%      23%          9%           5%       11%        5%            1,19
+
+Bellingcat.com                                      5%       12%         10%       11%      49%          6%           2%       21%        7%            1,17
+
+ThePostOnline                                       4%       14%          8%        9%      47%          12%         14%       27%        3%            1,33
+
+Panorama                                            4%       13%          6%       11%      25%          36%          2%       18%        1%            1,13
+
+OneWorld.nl                                         4%       6%          10%       10%      55%          9%           2%       24%        2%            1,19
+
+Fok.nl                                              4%       10%         10%        8%      54%          7%           5%       14%        5%            1,11
+
+Nieuwe Revu                                         3%       11%         13%        5%      30%          32%         4%        16%        4%            1,17
+
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                             40 van 50
+Doel gebruik
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   41 van 50
+4            Doel gebruik
+Met welk doel gebruikt u deze titel?
+ Titel                                        Bereik     Informeren   Mening   Vermaak                       Top 5
+                                                                      vormen
+
+ NOS                                           86%         96%         22%       6%
+                                                                                                      Om mij te informeren
+ RTL Nieuws                                    60%          95%        15%       7%
+                                                                                         1   NOS
+ NU.nl                                         59%         94%         17%      11%      2   RTL Nieuws
+ EenVandaag                                    58%          93%        18%       5%      3   Nieuwsuur
+ Nieuwsuur                                     52%         94%         24%       5%
+                                                                                         4   NU.nl
+                                                                                         5   EenVandaag
+ Huis-aan-huisbladen                           45%          87%        9%       17%
+ De Avondshow met Arjen Lubach                 45%         49%         21%      86%
+ Nieuwsbulletins andere radiozenders           42%          89%        13%      14%
+ Hart van Nederland                            42%          75%        7%       32%                 Om een mening te vormen
+                                                                                         1   De Correspondent
+ Op1                                           42%          89%        24%      13%
+                                                                                         2   Tegenlicht
+ Algemeen Dagblad (AD)                         41%          88%        18%      16%
+                                                                                         3   Volkskrant
+ Keuringsdienst van Waarde                     41%         86%         21%      31%      4   Groene Amsterdammer
+ Regionaal dagblad                             39%          92%        18%      16%      5   Trouw
+ Radar                                         39%          91%        17%      12%
+ Dit was het nieuws                            37%          44%        8%       66%
+ Editie NL                                     37%          84%        9%       22%                   Om mij te vermaken
+ RTL Boulevard                                 36%          58%        7%       60%      1   De Avondshow met Arjen Lubach
+ Beau/Humberto                                 34%          59%        16%      55%      2   Vandaag Inside
+ Vandaag Inside
+                                                                                         3   Dit was het nieuws
+                                               33%          45%        15%      76%
+                                                                                         4   Shownieuws
+ Kassa                                         32%          91%        15%      13%
+                                                                                         5   RTL Boulevard
+
+
+
+         Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                        42 van 50
+Titel                                  Bereik      Informeren   Mening   Vermaak   Titel                         Bereik   Informeren   Mening         Vermaak
+                                                                vormen                                                                 vormen
+
+Telegraaf                               32%           89%        19%      20%      Geenstijl.nl                   14%        54%        15%            60%
+
+NPO Radio 1                             30%           90%        26%      20%      Renze op zondag                14%        68%        18%            50%
+
+Regionale tv-zender                     28%           88%        11%      21%      PowNews                        13%        56%        18%            55%
+
+RTL Z Nieuws                            27%           93%        15%       8%      #BOOS                          12%        55%        26%            47%
+
+                                                                                   De Correspondent               11%        79%        37%             11%
+Buitenhof                               26%           84%        29%       8%
+                                                                                   Meldpunt!                      11%        87%        13%            10%
+Khalid en Sophie                        25%           77%        16%      36%
+                                                                                   Ongehoord Nieuws               11%        74%        26%            22%
+Goedemorgen Nederland                   25%           83%        12%      18%
+                                                                                   De Hofbar                      10%        60%        18%            37%
+Volkskrant                              25%               91%    37%      14%
+                                                                                   Metronieuws.nl                 9%         79%        10%            20%
+Tijd voor Max                           25%           74%        11%      44%
+                                                                                   Businessclass                  8%         56%        16%            29%
+Shownieuws                              25%           50%        7%       62%
+                                                                                   EW (Elsevier)                  8%         72%        28%            12%
+Zembla                                  24%           89%        32%      10%
+                                                                                   De stemming van Vullings en
+NRC                                     23%           89%        33%      12%      Van der Wulp                   8%         70%        32%            29%
+
+NOS Jeugdjournaal                       22%           80%        12%      28%
+                                                                                   Groene Amsterdammer            6%         82%        36%            15%
+WNL op Zondag                           17%           87%        30%      15%      Vrij Nederland                 5%         68%        26%            22%
+Financieel Dagblad                      16%           89%        21%       6%      WNL Opiniemakers               5%         70%        29%            18%
+
+Trouw                                   15%           87%        34%      12%      Bellingcat.com                 5%         68%        25%            14%
+
+TV-gids                                 15%           78%        9%       36%      ThePostOnline                  4%        69%         30%            19%
+
+BNR Nieuws Radio                        14%           87%        29%      15%      Panorama                       4%         47%        24%            43%
+
+Follow The Money                        14%           87%        32%       8%      OneWorld.nl                    4%        66%         25%            17%
+
+Tegenlicht                              14%               81%    37%      16%      Fok.nl                         4%         43%        19%            46%
+
+                                                                                   Nieuwe Revu                    3%         59%        15%            33%
+
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                   43 van 50
+Nieuwsmissers
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   44 van 50
+5         Nieuwsmissers
+                                                                            Titels waarvan nieuwsmissers wel eens iets zien of horen
+Drie procent volgt geen nieuws en krijgt ook niks mee. Deze nieuwsmijders   Top 20 (n=55)
+vroegen we of er toch bepaalde bronnen zijn waar zij wel eens iets van       Titel                                       % krijgt er wel eens
+meekrijgen. Een op drie (30%) van de nieuwsmijders krijgt echt niks mee.                                                    iets van mee
+Oftewel, circa een procent van de bevolking.
+                                                                             NOS                                                 41%
+
+                                                                             Algemeen Dagblad (AD)                              25%
+Volgt u nieuws over wat de overheid doet in Nederland? (n=2.277)
+                                                                             De Avondshow met Arjen Lubach                       21%
+
+                Vaak zelf op zoek      18%                                   Editie NL                                           17%
+                                                                             Keuringsdienst van Waarde                           16%
+               Soms zelf op zoek          23%                                RTL Boulevard                                       15%
+                                                                             NOS Jeugdjournaal                                   14%
+ Niet zelf op zoek, krijgt meestal
+                                             41%
+              wel mee                                                        Hart van Nederland                                  14%
+
+    Zelf niet op zoek, krijgt soms                                           Radar                                               14%
+                                       15%
+               wel mee                                                       Volkskrant                                          13%
+     Volgt geen nieuws en krijgt                                             NU.nl                                               12%
+                                       3%
+              niets mee
+                                                                             RTL Nieuws                                          12%
+                                     0%      20% 40% 60% 80% 100%
+                                                                             Telegraaf                                           10%
+
+                                                                             Beau/Humberto                                       9%
+
+                                                                             Op1                                                 9%
+                                                                             Nieuwsuur                                           9%
+
+                                                                             Shownieuws                                          9%
+                                                                             #BOOS                                               8%
+
+                                                                             Andere nieuwsbulletins op de radio                  8%
+
+                                                                             Nee, ik zie of hoor niets van deze titels          30%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                         45 van 50
+Redenen om het nieuws niet te volgen onder nieuwsmissers (n=55)
+
+ Reden                                                                      %
+
+ Ik ben moe van het nieuws over brand, ongelukken, en andere ellende        30%
+
+ Het interesseert me niet                                                   27%
+
+ Ik geloof nieuws van de media niet                                         27%
+
+ Ik word er verdrietig van                                                  25%
+
+ Ik ben te druk met andere dingen                                           22%
+
+ Ik heb betere dingen te doen dan het nieuws volgen                         20%
+
+ Het levert me te veel stress op                                            17%
+
+ Het nieuws geeft mij een machteloos gevoel                                 16%
+
+ Ik krijg het wel mee van familie, vrienden, en dergelijke                  12%
+
+ Mijn meningen en belangen krijgen geen aandacht in het nieuws              10%
+
+ Ik lees of kijk liever alleen nieuws over mijn eigen hobby of interesses   9%
+
+ Ik kom geen nieuws tegen                                                   8%
+
+ Vind het te moeilijk                                                       7%
+
+ Het nieuws is te oppervlakkig en geeft onvoldoende om over na te denken    7%
+
+ Ik begrijp of versta de taal niet goed                                     5%
+
+ Anders                                                                     5%
+
+
+
+
+          Monitor Ontwikkeling Mediagebruik Najaar 2023                           46 van 50
+Onderzoeksverantwoording
+
+
+
+
+ Monitor Ontwikkeling Mediagebruik Najaar 2023   47 van 50
+6        Onderzoeksverantwoording
+Achtergrond                                                            Steekproef en respons
+De Monitor Ontwikkeling Mediagebruik (MOM) geeft inzicht in het        Het veldwerk liep van 19 oktober tot en met 22 oktober 2023. Voor
+gebruik van mediatitels door het Nederlands publiek als het gaat om    dit onderzoek is het I&O Research Panel ingezet. Om ook voldoende
+overheidsnieuws.                                                       respondenten in het onderzoek mee te nemen met een niet-
+                                                                       westerse migratieachtergrond, hebben we samengewerkt met
+De centrale vraag van het onderzoek is: Welke mediatitels hebben in    PanelClix. Aan het onderzoek deden na opschoning van de data 2.277
+Nederland het grootste bereik, belang en worden gezien als het meest   respondenten mee. Van deze respondenten komen 2.072 uit het I&O
+betrouwbaar als het gaat om nieuws over de overheid?                   Research Panel, 205 respondenten zijn geworven via PanelClix.
+
+Vooronderzoek                                                          De data zijn gewogen naar leeftijd, opleiding, geslacht, regio en
+De huidige meetmethode wijkt fors af van die van de voorgaande         politieke voorkeur. Voor populatiecijfers is gebruikgemaakt van de
+jaren. Deze nieuwe meetmethode is gebaseerd op een vooronderzoek       cijfers van de Gouden Standaard van het Centraal Bureau voor
+dat I&O Research, in opdracht van DPC, uitvoerde in de eerste helft    Statistiek.
+van 2023. Hierdoor kunnen de resultaten van de huidige MOM niet
+1-op-1 vergeleken worden met de uitkomsten van de MOM van              Ongewogen responsverdeling naar achtergrondkenmerken
+voorgaande jaren.                                                       Achtergrondkenmerk        Absoluut           Relatief
+                                                                        16-34 jaar - basis/vmbo              40                 2%
+                                                                        16-34 jaar - mbo                     263                12%
+                                                                        16-34 jaar - hbo/wo                  235                10%
+                                                                        35-54 jaar - basis/vmbo              92                 4%
+                                                                        35-54 jaar - mbo                     244                11%
+                                                                        35-54 - hbo/wo                       302                13%
+                                                                        55+ - basis/vmbo                     412                18%
+                                                                        55+ - mbo                            382                17%
+                                                                        55+ - hbo/wo                         303                13%
+
+
+
+
+        Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                           48 van 50
+                                                                                   berekend ten opzichte van de groep die de betrouwbaarheidsvraag
+Bereik, belang en betrouwbaarheid                                                  voor de titel voorgelegd kreeg.
+In de nieuwe meetmethode gebruiken we bereik, belang en
+betrouwbaarheid als vervanger van de impactscore uit de oude
+MOM. Deze drie variabelen kunnen naast elkaar gelegd worden voor                   Terminologie opleiding
+een genuanceerd beeld van de titel.                                                We hebben ervoor gekozen in het rapport de daadwerkelijke
+                                                                                   opleidingen te benoemen, met een verkorte aanduiding, in plaats
+Bereik meten we met de vraag: 'Kreeg u de afgelopen maand nieuws                   van het gebruik van praktisch en theoretisch opgeleiden.
+over de overheid mee via onderstaande titels? Zo ja hoe vaak?'.
+Onder de groep die is bereikt door de titel tellen we respondenten die             De indeling naar praktisch/theoretisch-opgeleiden leent zich
+'ongeveer één keer per maand' tot 'meerdere keren per dag' nieuws                  minder om te duiden wie op een bepaalde manier denken of
+meekregen van de titel. Het bereik is berekend ten opzichte van de                 bepaalde (financiële) problemen hebben. Het CBS concludeert in een
+totale groep respondenten.                                                         publicatie4 over de vraag of de indeling in praktisch- en theoretisch
+                                                                                   opgeleiden een bruikbaar alternatief is voor de indeling van
+Belang meten we met de vraag: 'U kijkt of luistert of leest dus wel                onderwijsniveau in laag, middelbaar en hoog dat deze indeling
+eens naar onderstaande titels: Welke titels zijn voor u het                        (praktisch/theoretisch) ‘niet toereikend is om de indeling op basis
+belangrijkst als het gaat om nieuws over de overheid?'. Het belang is              van onderwijsniveau te vervangen.’ Volgens UvA-wetenschappers5
+berekend ten opzichte van de totale groep respondenten.                            is het beter om heel concreet te benoemen over welke opleiding het
+                                                                                   gaat: hbo/wo-opgeleiden, vmbo-geschoolden, etc.
+Betrouwbaarheid meten we met de vraag: 'Hoe betrouwbaar vindt u
+het nieuws van <titel> in het algemeen?'. De respondent moet de
+betrouwbaarheid aangeven op een schaal van 1 tot 10. Om de lengte
+van de vragenlijst te beperken krijgt elke respondent maximaal
+5 titels voorgelegd via waar de respondent minstens 'één keer per
+maand' nieuws over de overheid mee kreeg. De betrouwbaarheid is
+
+
+
+
+4                                                                                  5
+    CBS 15 december 2021: Invulling praktisch en theoretisch opgeleiden (cbs.nl)    UvA 9 maart 2023: Benoem opleidingen gewoon bij hun naam - Universiteit van
+                                                                                   Amsterdam (uva.nl)
+
+
+
+             Monitor Ontwikkeling Mediagebruik Najaar 2023                                                                                              49 van 50
+Contactgegevens
+I&O Research Enschede
+Zuiderval 70
+Postbus 563
+7500 AN Enschede
+053 - 200 52 00
+KVK-nummer 08198802
+info@ioresearch.nl
+www.ioresearch.nl
+
+I&O Research Amsterdam
+Piet Heinkade 55
+1019 GM Amsterdam
+020 – 308 48 00
+info@ioresearch.nl
+www.ioresearch.nl
+
+
+
+
+      Monitor Ontwikkeling Mediagebruik Najaar 2023   50 van 50
+

@@ -1,0 +1,45 @@
+---
+title: Bewindspersonen op sociale media | CommunicatieRijk
+bron: https://www.communicatierijk.nl/documenten/2021/03/08/bewindslieden-op-sociale-media
+site: communicatierijk
+categorie: documenten/2021
+laatst_gewijzigd: 2026-03-06T12:36:35.652Z
+rol_tags: ['online-social-media', 'bewindspersonencommunicatie']
+---
+
+Sociale media worden in de overheidscommunicatie ingezet om met de samenleving te communiceren. Denk aan het toelichten van beleid, het ophalen van signalen en het in contact staan met stakeholders en publieksdoelgroepen. Ook bewindspersonen maken veel gebruik van sociale media. Meer dan ooit tevoren fungeren zij daarmee als boegbeeld van beleid en geven zij het departement en kabinet ook op de sociale media een gezicht.
+
+  * ## [Download: Onepager Bewindspersonen op sociale mediaPublicatie06-03-2026PDF-document140.87 KB1 pagina](https://www.communicatierijk.nl/site/binaries/site-content/collections/documents/2021/03/08/bewindslieden-op-sociale-media/onepager-bewindspersonen-op-de-sociale-media.pdf)
+
+
+
+## Corporate accounts
+
+Bewindspersonen maken op de sociale media vanuit het ambt gebruik van een corporate social media account. Corporate accounts zijn accounts die in eigendom zijn van het ministerie en gedurende de kabinetsperiode worden ingezet voor de communicatie van de bewindspersoon en uitsluitend worden beheerd door het ministerie.
+
+  
+Het gebruik van persoonlijke accounts voor communicatie over beleid en ambtsgerelateerde zaken kan bij volgers onduidelijkheid opleveren over het afzenderschap. Daarom gebruiken bewindspersonen corporate accounts voor communicatie over beleid en ambtsgerelateerde zaken. Het reposten van content van het corporate bewindspersonenaccount op een persoonlijk account is desgewenst mogelijk, mits het afzenderschap voor volgers duidelijk herkenbaar is.
+
+## Uitgangspunten overheidscommunicatie
+
+De [Uitgangspunten overheidscommunicatie](/documenten/2017/04/11/uitgangspunten-overheidscommunicatie) gelden voor alle communicatie van het kabinet en de Rijksoverheid. Ook voor communicatie via sociale media vormen deze uitgangspunten het kader. De onderstaande uitgangspunten zijn hierbij het meest relevant:
+
+  * **Recht op communicatie** : het hoofddoel van de communicatie van de Rijksoverheid is te voldoen aan het recht van de burger op communicatie met en informatie van de Rijksoverheid.
+  * **Actieve voorlichting** : de regering brengt haar beleid, alsmede de motieven en de overwegingen die daaraan ten grondslag liggen, op actieve wijze onder de aandacht van een zo breed mogelijk publiek. Zij kan daarbij in beginsel van alle beschikbare communicatiemiddelen gebruik maken.
+  * **Herkenbaarheid** : de burger heeft recht op informatie van de Rijksoverheid. Om verkapte beïnvloeding te voorkomen, moet de communicatie te allen tijde herkenbaar zijn als afkomstig van de overheid.
+  * **Overheidscommunicatie gaat over beleid en organisatie** : Overheidscommunicatie dient over beleid en organisatie te gaan en wordt niet gericht op persoonlijke ‘imagebuilding’ van bewindspersonen.
+  * **Geen vermenging** : de communicatie van de Rijksoverheid wordt niet vervlochten met partijpolitieke of persoonlijke belangen.
+
+
+
+## Uitgangspunt: corporate bewindspersonenaccount
+
+Bewindspersonen gebruiken sociale media om te communiceren met de samenleving en kunnen hiermee ook groepen bereiken, die met meer traditionele communicatie moeilijker te bereiken zijn. Zij zetten sociale media onder andere in om beleid toe te lichten en de activiteiten als bewindspersoon te belichten.  
+  
+In lijn met wat de Uitgangspunten Overheidscommunicatie voorschrijven is het afzenderschap bij de inzet van corporate accounts volstrekt helder. Mogelijke verwarring onder volgers over (vermeende) vermenging op het account van de bewindspersoon wordt voorkomen, omdat partijpolitieke content op corporate accounts niet is toegestaan. De ambtelijke ondersteuning maakt of plaatst dan ook nooit partijpolitieke content of content die gericht is op profilering van de bewindspersoon.  
+  
+Corporate accounts hangen aan het ambt en blijven na het aftreden van de bewindspersoon in eigendom van het departement. Dit draagt bij aan de opbouw van bereik. Een eenduidige naam- en vormgeving van de corporate bewindspersonenaccounts draagt bij aan herkenbaarheid en een eenduidige uitstraling.
+
+## Meer informatie
+
+Neem voor meer informatie contact op met het secretariaat van de Voorlichtingsraad: [__car@minaz.nl](mailto:car@minaz.nl).

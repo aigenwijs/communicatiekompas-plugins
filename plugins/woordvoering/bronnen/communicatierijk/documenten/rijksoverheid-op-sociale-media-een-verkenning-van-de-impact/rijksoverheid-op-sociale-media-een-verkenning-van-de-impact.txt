@@ -1,0 +1,1346 @@
+[Tekstversie van rijksoverheid-op-sociale-media-een-verkenning-van-de-impact.pdf, omgezet met pdftotext -layout]
+
+              Rijksoverheid
+                  op sociale
+                      media
+                                           Een verkenning van de impact
+
+
+
+Aan:      Ministerie van Algemene Zaken
+Van:      Menno van Tartwijk en Menno Jacobs
+Datum:    8 mei 2026, Amsterdam
+Status:   Eindverslag
+Inhoudsopgave
+
+
+1.      Samenvatting ..................................................................................................... 3
+2.      Inleiding ............................................................................................................. 5
+3.      Doel, vraagstelling en methode ........................................................................... 7
+     3.1 Doelstelling ...................................................................................................... 7
+     3.2 Vraagstelling ..................................................................................................... 7
+     3.3 Methode .......................................................................................................... 7
+     3.4 Doelen overheidscommunicatie ........................................................................ 8
+     3.5 De doelgroep .................................................................................................... 9
+     3.6 Het sociale medium.......................................................................................... 9
+     3.7 Resultaat, waardering en impact ....................................................................... 9
+     3.8 Opzet vignetten ...............................................................................................10
+     3.9 Verantwoording ...............................................................................................10
+4.      Resultaten.........................................................................................................12
+     4.1 Algemeen publiek: volwassenen.......................................................................12
+     4.2 Algemeen publiek: jongvolwassenen ................................................................16
+     4.3 Ondernemers ..................................................................................................19
+     4.4 Experts............................................................................................................22
+5.      Conclusie .........................................................................................................26
+     5.1 De resultaten in het kort ...................................................................................26
+     5.2 Impact ............................................................................................................27
+     5.3 Dilemma’s .......................................................................................................28
+     5.4 Aanbeveling ....................................................................................................29
+6.      Bijlage 1 | Opbrengsten voorstudie......................................................................31
+7.      Bijlage 2 | Vignetten ...........................................................................................33
+
+
+
+
+                                                                                                                               2
+1. Samenvatting
+Aanleiding
+
+Bij een groeiend aantal ambtenaren bij de Rijksoverheid bestaat de behoefte om zich te
+heroriënteren op het gebruik van sociale media bij publiekscommunicatie. Mede vanuit
+die constatering heeft de Voorlichtingsraad opdracht gegeven tot een verkenning van de
+behoefte daaraan vanuit de samenleving.
+
+Verkenning
+
+Adviesbureau Van Tartwijk heeft in samenwerking met bureau EMMA daartoe een
+zogenoemde vignettenstudie uitgevoerd. In verschillende sessies werden experts,
+(jong)volwassenen en ondernemers bevraagd op behoeften en verwachtingen als het
+gaat om overheidsinformatie op sociale media. Speciale aandacht ging daarbij uit naar
+de impact van de communicatie via verschillende sociale-mediakanalen, inclusief de
+zogeheten open source media. Dat laatste met het oog op de afhankelijkheid van big
+tech-bedrijven zoals Meta en Microsoft.
+
+Resultaten van de verkenning
+
+De deelnemers aan de sessies zijn over het algemeen kritisch op het gebruik van sociale
+media door de overheid. Het imago van sociale media als bron van of vehikel voor
+criminele activiteiten, fake news en marketing brengt met zich mee dat men niet wil dat
+de Rijksoverheid daarmee geassocieerd kan worden. De Rijksoverheid moet te allen
+tijde duidelijk, herkenbaar en betrouwbaar overkomen.
+
+Communicatie van de Rijksoverheid via sociale media heeft voor veel mensen vooral
+een attenderende functie. Dat betekent dat het mensen (vooral ook ondernemers) die
+een speciﬁeke informatiebehoefte hebben op een idee kan brengen waar die informatie
+te vinden is. Content waar niet direct behoefte aan is, wordt over het algemeen niet
+gelezen of bekeken.
+
+Om bepaalde doelgroepen te bereiken is het verstandig daarbij passende sociale media
+te kiezen. Open source media zijn daarbij vooralsnog niet echt een optie doordat zeer
+weinigen ze kennen en ze vrijwel niet worden gebruikt. Kansen liggen bij een intensievere
+toepassing van spots op YouTube en streamingsdiensten. Tegelijkertijd mag de rol en
+betekenis van het gebruik van traditionele media, en ook communicatie per brief, niet
+worden onderschat.
+
+Conclusie: 3 dilemma’s
+
+Uit de verkenning komt het beeld naar voren dat de Rijksoverheid de impact van haar
+communicatie via sociale media lijkt te kunnen maximaliseren door (1) blijvend
+
+
+
+
+                                                                                         3
+betrouwbaar over te komen en (2) vooral functioneel en attenderend (in plaats van
+informerend) via sociale media te communiceren.
+
+De resultaten geven aanleiding tot het formuleren van drie dilemma’s die de
+Rijksoverheid zou kunnen wegen.
+
+   1. Meest belangrijk is de vraag of en wanneer de overheid zich verplicht voelt (of is)
+      om haar burgers via sociale media te informeren. Sociale media moeten daarbij
+      niet als een must worden gezien.
+   2. Op de tweede plaats vinden we de vraag in hoeverre de overheid afhankelijk kan
+      blijven van big tech. Moet de overheid daarin een voorbeeldfunctie vervullen, ook
+      als dat ten koste gaat van bereik (met name onder jongeren)?
+   3. En op de derde plaats staat de vraag welk imago de Rijksoverheid zich moet
+      aanmeten bij haar communicatie via sociale media, uiteenlopend van
+      ‘betrouwbaar maar saai’, tot ‘leuk maar frivool’.
+
+Hoe de Rijksoverheid goed in contact kan blijven met mensen is voor de
+Voorlichtingsraad geen nieuw vraagstuk, maar een permanent agendapunt. Het gesprek
+daarover blijven voeren en scenario’s verkennen voor een meerjarenstrategie is daarbij
+aangewezen en inspiratie door experts en kennisinstituten onontbeerlijk.
+
+
+
+
+                                                                                        4
+2. Inleiding
+Vijftien jaar geleden betraden ministeries en uitvoeringsorganisaties voorzichtig het
+terrein van sociale media. Wat begon als experiment, is inmiddels niet meer weg te
+denken uit de overheidscommunicatie. En dat terwijl de wereld van sociale media
+ingrijpend is veranderd.
+
+De invloed van sociale media is inmiddels zo groot dat dit directe gevolgen heeft voor
+hoe de Rijksoverheid in contact staat met de samenleving. Denk aan de verschuiving van
+het publieke debat naar de digitale ruimte en het groot aantal plaatsen waar de burger
+zich daarbinnen begeeft.
+
+Intussen wordt steeds vaker discussie gevoerd over de afhankelijkheid van Nederland,
+en andere Europese landen, van big tech (bedrijven zoals Meta, Alphabet en Microsoft)
+als het gaat om het gebruik van sociale media. De roep om duidelijk beleid daarin wordt
+steeds luider gehoord. Het is tijd voor een (her)oriëntatie van de Rijksoverheid op het
+gebied van sociale media.
+
+Onderdeel van die heroriëntatie is het gebruik van sociale media. Sociale media zijn
+onderling sterk gaan verschillen over wat er wel en niet op gepubliceerd kan worden, en
+voor wie. Daarom wordt het tijd voor de Rijksoverheid om te bezien wat waarbij het beste
+past. En meest belangrijk is natuurlijk de vraag: wat verwacht de samenleving eigenlijk
+daarin? Op welke manier en via welke sociale media willen verschillende groepen
+Nederlanders aangesproken worden door de Rijksoverheid?
+
+Die vraag verdient geen gehaast antwoord. Daarom voert de Rijksoverheid eerst een
+verkenning uit over die verwachtingen. De Voorlichtingsraad gaf adviesbureau Van
+Tartwijk Advies, Strategie & Communicatie de opdracht deze verkenning uit te voeren.
+Samen met bureau EMMA werden zogenoemde vignettenstudies uitgevoerd met een
+dwarsdoorsnede van Nederlandse burgers (uitgesplitst in jongeren en volwassenen) en,
+meer speciﬁek, ondernemers. Voor de doelgroep ondernemers is gekozen omdat zij
+soms heel speciﬁeke informatie van de overheid nodig hebben.
+
+Deze verkenning moet worden gezien als één van de bouwstenen voor uiteindelijk een
+nieuwe strategie voor online communicatie via sociale media door de Rijksoverheid.
+Want daar bestaat behoefte aan, zo bleek uit een eerste rondgang langs professionals
+van ministeries en uitvoeringsorganisaties. Men is niet alleen geïnteresseerd in
+behoeften en wensen van hun doelgroepen, men wil ook meer in contact met ze staan –
+online, maar zeker ook ofline. En niet alleen meer, maar vooral ook beter, directer en
+met een menselijke maat.
+
+In dit document doen we verslag van onze verkenning onder de drie doelgroepen.
+Voorafgaand aan de dialoogsessies die we hielden, spraken we met experts, alsook
+daarna. Op die manier hebben we de verkenning zoveel mogelijk willen inbedden in
+
+
+                                                                                          5
+discussies zoals die rondom het gebruik van sociale media bij de Rijksoverheid en
+daarbuiten worden gevoerd.
+
+De opbouw van het verslag bestaat uit drie delen. Allereerst presenteren we in hoofdstuk
+2 doelstelling, vraagstelling en de gebruikte methode. In hoofdstuk 3 beschrijven we de
+resultaten. Dit doen we in eerste instantie door heel dicht op de empirisch verkregen
+inzichten te blijven. Op die manier kan de lezer goed zelf de opbrengsten wegen.
+
+In het concluderende hoofdstuk 4 hebben we voor een meer interpretatief kader
+gekozen. Hoe kunnen de resultaten worden geduid en vooral, wat betekenen ze voor de
+heroriëntering van de Rijksoverheid op sociale media.
+
+
+
+
+                                                                                      6
+3. Doel, vraagstelling en methode
+In dit hoofdstuk gaan we in op de doelstelling, de vraagstelling en de gebruikte methode
+voor deze verkenning.
+
+3.1 Doelstelling
+Het doel van de verkenning is tweeledig:
+
+   1. Zicht krijgen op de behoeften en verwachtingen die leven in de samenleving bij
+      het gebruik van sociale media door de Rijksoverheid voor overheidsinformatie;
+   2. Zicht krijgen op de impact die het gebruik van sociale media voor
+      overheidsinformatie door de Rijksoverheid heeft voor de samenleving.
+
+3.2 Vraagstelling
+Om dit in beeld te krijgen staan drie vragen centraal:
+
+   -   Wat zijn de behoeften en verwachtingen van de samenleving als het gaat om
+       overheidsinformatie op sociale media?
+   -   Wat is de relatie tussen overheidsinformatie en het gebruik van sociale media
+       door de samenleving?
+   -   Wat zijn mogelijke gevolgen als de Rijksoverheid niet of minder gebruikmaakt van
+       traditionele sociale media (zoals Instagram en LinkedIn) voor
+       overheidsinformatie?
+
+3.3 Methode
+Om een antwoord te vinden op deze vragen zijn vier sessies georganiseerd met een
+drietal doelgroepen.
+
+De vier sessies omvatten:
+
+   1. Twee keer een sessie met volwassenen, ofwel een dwarsdoorsnede van inwoners
+      van Nederland, ouder dan 24 jaar;
+   2. Een sessie met jongvolwassenen, 18 tot en met 24 jaar;
+   3. Een sessie met ondernemers.
+
+Aansluitend op de dataverzameling is een vijfde sessie georganiseerd met sociale media
+experts en communicatiedeskundigen om de opbrengsten te bespreken en te wegen.
+
+Met elk van de drie doelgroepen is een op de betrefende doelgroep toegesneden
+vignettenstudie uitgevoerd. Aan de deelnemers werden hypothetische situaties
+voorgelegd (de vignetten – zie bijlage 2). Het ging daarbij om korte beschrijvingen van
+hypothetische maar realistische situaties waarbij aan de deelnemers werd gevraagd
+zich in te leven in de boodschap en de situatie. Aan de hand daarvan werd aan de
+
+
+
+                                                                                           7
+deelnemers gevraagd een aantal vragen te beantwoorden. Deze vragen dienden als
+gespreksstarter voor de dialogen die daarop volgden.
+
+Om de vignetten te ontwerpen werd een voorstudie uitgevoerd, bestaande uit een desk
+research en interviews met communicatiedeskundigen en sociale media experts,
+werkzaam binnen of rondom de Rijksoverheid.
+
+Bij het ontwerpen van de vignetten is uitgegaan van een viertal kernbegrippen, namelijk:
+
+   1. Het doel van de communicatie: wat moet worden gecommuniceerd?
+   2. De doelgroep: voor wie is de communicatie bedoeld?
+   3. Het medium: welk sociaal medium is hiervoor geschikt?
+   4. Het resultaat en de waardering ofwel de impact.
+
+De opbrengsten van de sessies formuleren we uiteindelijk in termen van dilemma’s: met
+welke dilemma’s moet de Rijksoverheid rekening houden bij diverse communicatie-
+doelen, doelgroepen, typen sociale media en gewenst resultaat / impact?
+
+We bespreken de vier kernbegrippen afzonderlijk, hierbij gebruikmakend van de
+uitgevoerde voorstudie.
+
+3.4 Doelen overheidscommunicatie
+We onderscheiden vier doelen die met overheidscommunicatie kunnen worden
+nagestreefd. Allereerst noemen we een heel belangrijke en voor de hand liggende:
+gedragsbeïnvloeding en bewustwording. De overheid heeft veel aan de samenleving uit
+te leggen, niet alleen over wet- en regelgeving, maar ook vanuit een zorgplicht voor haar
+burgers. Het gaat dan om campagnes die onder Informatie Rijksoverheid 1400
+publiekelijk worden gemaakt. Bekende gedragsbeïnvloedende communicatie zijn BOB-
+campagnes tegen alcohol in het verkeer. Een bekende bewustwordingscampagne is
+bijvoorbeeld “Met elkaar trekken we de grens” over grensoverschrijdend gedrag.
+
+Een tweede belangrijk doel van overheidscommunicatie is kennisgeven en informeren.
+Bij de invoering van nieuwe wet- en regelgeving is het belangrijk dat de overheid de
+bevolking, of bepaalde doelgroepen daarbinnen, zoals ondernemers, daarover goed en
+actief informeert. Ook als het gaat om bepaalde verplichtingen, zoals het doen van
+belastingaangifte.
+
+Als derde doel noemen we werven en reputatie. De Rijksoverheid is een grote werkgever
+en moet dus vaak personeel werven. Denk daarbij ook aan het leger en het onderwijs.
+Het kan gaan om het actief en gericht werven van personeel, maar ook om
+imagoverbetering, bijvoorbeeld van het leger, de zorg of het onderwijs, opdat er ‘vanzelf’
+mensen naar een bepaalde beroepsgroep worden toegetrokken.
+
+
+
+
+                                                                                            8
+Als vierde communicatiedoel noemen we participatie en dialoog. Hierbij gaat het om het
+directe gesprek met burgers, via telefoon of chat. Of door middel van bepaalde
+participatie- en inspraaktrajecten, zoals internetconsultatie.
+
+Dit vierde communicatiedoel noemen we volledigheidshalve; het maakt geen onderdeel
+uit van onderhavige studie, omdat die niet gericht is op individuele communicatie.
+
+3.5 De doelgroep
+Elke communicatie-uiting heeft een doelgroep – is ergens opgericht. Bij
+overheidscommunicatie gaat het altijd om bepaalde subdoelgroepen.
+
+Voor onderhavige verkenning hebben we er drie gekozen. Eerder noemden we ze al:
+algemeen publiek (verdeeld in jongvolwassenen en volwassenen) en ondernemers. Alle
+drie gaan ze heel verschillend met sociale media om, van wat je zou kunnen omschrijven
+als mainstream tot een way of life.
+
+3.6 Het sociale medium
+Hoewel er vaak gesproken wordt over sociale media als één eenheid (“de sociale
+media”) is er een grote verscheidenheid aan platforms. Van Facebook tot Instagram, van
+TikTok tot Snapchat. We noemen deze de ‘traditionele sociale media’, in beheer van big
+tech, zoals Meta en Alphabet, niet te verwarren met de traditionele media, namelijk
+radio en televisie en de gedrukte pers.
+
+Naast de traditionele sociale media zijn er de open source sociale media. Dat zijn
+sociale mediakanalen die werken volgens het open source principe. Dat wil zeggen dat
+de broncode van de applicaties vrij toegankelijk is voor iedereen en in principe ook kan
+worden aangepast door iedereen.1 Bekende voorbeelden van open source sociale media
+zijn Bluesky (vergelijkbaar met X) en Mastodon (vergelijkbaar met Facebook). In deze
+verkenning nemen we zowel traditionele sociale media als open source sociale media
+mee.
+
+3.7 Resultaat, waardering en impact
+Uiteindelijk heeft elke communicatie-uiting via sociale media een bepaald resultaat en
+een bepaalde waardering bij de ontvanger. Kortom, een bepaalde impact. Bij de bepaling
+van de waardering zijn er twee componenten te onderscheiden. De objectief-meetbare
+component, bestaande uit aantallen views, clicks, likes, e.d., en de subjectieve
+component, ofwel de mate waarin de content aansprekend, doeltrefend, relevant e.d.
+wordt gevonden door de doelgroep. In onderhavige verkenning richten we ons alleen op
+de subjectieve component.
+
+
+
+1
+ Deze open source sociale media zijn dus geen verdienmodel voor een bedrijf. Wel moeten de open
+source applicaties worden beheerd en daarvoor worden soms vrijwillige bijdragen gevraagd aan de
+gebruikers ervan.
+
+
+                                                                                                  9
+3.8 Opzet vignetten
+In de vignetten wordt gevarieerd op bovenstaande kernbegrippen. Zo is er een vignet dat
+gaat over gedragsbeïnvloeding als doel, voor jongeren als doelgroep en met Instagram
+als medium. Gevraagd wordt naar de aansprekendheid ervan. Er is ook een vignet dat
+gaat over het werven van personeel als doel, onder volwassenen als doelgroep, via
+LinkedIn als medium, waarbij gevraagd wordt naar de efectiviteit ervan. Enzovoort. Op
+die manier zijn in totaal 9 vignetten ontworpen, te vinden in bijlage 3.
+
+Als we de kernbegrippen in een schema plaatsen, ontstaat het volgende beeld (ﬁguur 1).
+
+COMMUNICATIEDOEL               DOELGROEP          MEDIUM             RESULTAAT EN WAARDERING
+
+1. Gedragsbeïnvloeding       1. Algemeen       Traditionele media      Objectieve component:
+   (actie gevraagd),            publiek        - Fysiek (Abri’s)       • Bereik / zichtbaarheid
+   bewustwording (geen          (volwassenen   - Online (Websites)     • Engagement (kliks,
+   actie gevraagd)              en jongeren)   - Kranten, lineair          likes, e.d.)
+                             2. Ondernemers                            • Conversieratio
+2. Kennisgeven en                              Big tech platforms      ...
+   Informeren                                  Facebook, Instagram,
+                                               TikTok, Google Ads,    Subjectieve component:      IMPACT
+3. Werving en reputatie                        Whatsapp, X, LinkedIn, • Aansprekend
+                                               anders…                • Doeltreffend
+4. Participatie en dialoog                                            • Relevant
+                                               Alternatieve           • …
+                                               sociale media
+                                               Open source:
+                                               Bluesky, Mastodon,
+                                               Signal, anders…
+
+
+
+Figuur 1- Conceptueel kader
+
+
+3.9 Verantwoording
+Zoals gezegd zijn er voor de verkenning vijf sessies georganiseerd in vier vignettenstudies
+en een expertmeeting. Aan iedere sessie namen gemiddeld 8 personen deel. Ze duurden
+elk twee uur. De deelnemers kregen reiskosten vergoed, een maaltijd en een vergoeding.
+Bij twee van de vier sessies was een vertegenwoordiger van de opdrachtgever als
+toehoorder aanwezig. De sessie met jongeren werd online gehouden. De sessies werden
+opgenomen met instemming van de deelnemers. De opnames zijn gebruikt voor het
+uitwerken van de sessies en zijn daarna gewist. In het verslag zijn geen citaten
+opgenomen die op enigerlei wijze tot de deelnemers te herleiden zijn. De sessie met
+experts waren vier organisaties vertegenwoordigd.
+
+De resultaten uit deze verkenning zijn niet representatief te noemen voor de beoogde
+doelgroepen, maar wel indicatief. Bij de analyse van de gegevens is vooral gezocht naar
+de argumentatie die werd gegeven, meer dan naar de grootste gemene deler.
+
+Argumenten voor en argumenten tegen zijn zo goed als mogelijk samengebracht in
+dilemma’s, die we als belangrijkste opbrengst van de verkenning zien. Door de
+dilemma’s te wegen en er mogelijk ook al keuzes in te maken, kan een afwegingskader
+
+
+
+                                                                                                           10
+worden ontworpen dat als basis kan dienen voor het toekomstige gebruik van sociale
+media door de Rijksoverheid.
+
+
+
+
+                                                                                     11
+           4. Resultaten
+           In dit hoofdstuk bespreken we de resultaten van de vignettenstudies die tijdens de
+           sessies zijn uitgevoerd. We beschrijven de resultaten zoals ze uit de sessies naar voren
+           kwamen, per doelgroep en gerangschikt per onderzoeksvraag.
+
+           4.1 Algemeen publiek: volwassenen
+           Er zijn twee sessies gehouden met mensen die je als een dwarsdoorsnede van inwoners
+           van Nederland kunt zien. De deelnemers varieerden qua leeftijd (wel ouder dan 24 jaar)
+           en opleidingsniveau (zowel praktisch als theoretisch opgeleiden). De meeste
+           deelnemers hadden betaald werk, enkelen waren op zoek naar een baan. Aan deze twee
+           groepen zijn dezelfde vignetten voorgelegd.
+
+           De gesprekken laten zien hoe mensen sociale media gebruiken, hoe zij aankijken tegen
+           overheidsinformatie op deze platforms en wat hun verwachtingen daarbij zijn.
+
+          Uit beide sessies komt een vrij duidelijk beeld naar voren. De deelnemers gebruiken
+          sociale media veelvuldig, vooral voor persoonlijke interesse, contact met anderen,
+          ontspanning en voor nieuws. Facebook, Instagram en in mindere mate YouTube, TikTok
+                                  en LinkedIn worden het meest genoemd. Tegelijkertijd
+“Ik ben niet afhankelijk van gebruiken de meeste deelnemers sociale media niet als
+sociale media voor info van primaire bron voor informatie van de overheid. Als zij echt
+ de Rijksoverheid, maar het informatie van de overheid nodig hebben, bezoeken ze eerder
+                                  de oficiële websites zoals Rijksoverheid.nl, Belastingdienst.nl,
+     werkt wel het snelst.”
+                                  DUO of Werken voor Nederland.
+
+           Gebruik van sociale media en houding tegenover overheidscommunicatie
+           De deelnemers herkennen overheidscommunicatie doorgaans aan “formeel
+           taalgebruik” en een “ambtelijke toon”. Voor de deelnemers nodigt het niet altijd uit tot
+           lezen of delen. Enkele deelnemers zeggen advertenties of berichten van de overheid
+           direct weg te klikken, vaak uit gewoonte, wantrouwen of overprikkeling. Over het ﬁctieve
+           vignet over oplichting, stelt een deelnemer dat “een post over oplichting meestal zelf
+           oplichting is”. Toch vinden de meesten het wel belangrijk dat de Rijksoverheid aanwezig
+           is op sociale media om betrouwbare informatie te bieden, zeker in tijden van crisis, bij
+           waarschuwingen of rond belangrijke maatschappelijke onderwerpen, zoals
+           nepwebshops, pandemieën of ernstige gebeurtenissen.
+
+           De deelnemers zien sociale media als een snelle en laagdrempelige mogelijkheid voor
+           de Rijksoverheid om mensen te attenderen op overheidsinformatie, zeker bij urgente of
+           maatschappelijk relevante onderwerpen, zoals corona, nieuwe overheidsmaatregelen,
+           reisadviezen, online oplichting of vacatures. In dat opzicht hebben sociale media
+           volgens de deelnemers vooral een signaalfunctie. Het brengt een onderwerp onder de
+           aandacht, waarna mensen eventueel verder lezen op een website. Tegelijk geven
+
+
+                                                                                                      12
+deelnemers aan dat ze vanuit sociale media liever niet doorklikken naar de verwijzende
+website van de Rijksoverheid. Zij willen eerst weten waarom een bericht relevant voor
+hen is en of het betrouwbaar is. Het “waarom, hoe en wat” (aanleiding, tips en
+handelingsperspectief) zien deelnemers bij voorkeur in een post terug, bijvoorbeeld in
+een infographic, video of simpele tekst.
+
+Betrouwbaarheid en geloofwaardigheid
+Voor de deelnemers zijn betrouwbaarheid en herkenbaarheid veruit de belangrijkste
+voorwaarden voor de Rijksoverheid om sociale media efectief te gebruiken. Berichten
+van de Rijksoverheid moeten professioneel ogen, serieus overkomen en duidelijk
+herkenbaar zijn als afkomstig van de Rijksoverheid. 2 Ambtelijke taal kan vaag
+overkomen en het vertrouwen in de inhoud ondermijnen.
+
+Over het efect van comments onder een post van de Rijksoverheid, denken deelnemers
+wisselend. Negatieve reacties onder een post, kunnen zorgen voor aﬂeiding. Is het wel
+zo betrouwbaar wat de Rijksoverheid mij wil vertellen? Terwijl positieve reacties de
+geloofwaardigheid van de boodschap niet direct hoeven te versterken. Toch zeggen
+meeste deelnemers zich niet te laten leiden door de
+reacties van het publiek. De één zegt: “zet er een slot      “Ik zie het gebruik van sociale
+op” (zet de mogelijkheid van comments uit), terwijl de
+                                                               media door de Rijksoverheid
+ander zegt: “we leven in een democratie en de vrijheid
+van meningsuiting is een groot goed. Het geven van een                      vooral als service.”
+reactie moet mogelijk zijn.”
+
+Sociale media als aanvulling
+Deelnemers vinden dat de Rijksoverheid mensen goed moet informeren en zien sociale
+media vooral als aanvullend kanaal, niet als het belangrijkste communicatiekanaal.
+Voor echt belangrijke, essentiële of crisisgevoelige informatie vinden zij websites,
+brieven, radio, tv en andere directe of traditionele kanalen betrouwbaarder. “Als het er
+echt toe doet: dan geen sociale media” is een terugkerende gedachte. Al vinden de
+deelnemers ook dat sociale media in tijden van crises juist nuttig kunnen zijn om snel
+veel mensen te bereiken.
+
+Alternatieve platforms
+Over een eventuele overstap naar open source of alternatieve sociale media zijn
+deelnemers verdeeld. Men begrijpt de wens van de Rijksoverheid om minder afhankelijk
+te zijn van big tech en hecht waarde aan privacy en veiligheid. Tegelijk verwachten de
+deelnemers niet dat mensen zomaar overstappen naar nieuwe platforms. Ze zijn van
+mening dat het gebruik van alternatieve platforms (logischerwijs) pas kansrijk wordt als
+
+
+
+2
+ Nuance: in deze studie zijn sommige vignetten (deels) met AI gemaakt. Daardoor bevatten enkele afbeeldingen taalfouten;
+deelnemers merkten dit terecht op. Dit zegt niets over de zorgvuldigheidsnormen die de Rijksoverheid in haar eigen communicatie
+hanteert.
+
+
+
+                                                                                                                              13
+        die “breed zijn ingeburgerd”. Dit gaat volgens de deelnemers jaren duren. De
+        Rijksoverheid moet daarom nu al gebruik van gaan maken van alternatieve platforms.
+
+        Echter, een exclusieve overstap van de Rijksoverheid van traditionele socials naar zulke
+        platforms zien de deelnemers niet zitten. De deelnemers voorzien dat het groepen zal
+        uitsluiten. Daarbij wordt gedacht aan mensen die laaggeletterd zijn, niet of minder
+        digitaal vaardig zijn en weinig tot geen nieuws volgen via traditionele media (kranten, rtv).
+        Deze “groep” heeft doorgaans ook moeite om de overheid te bereiken. De Rijksoverheid
+        moet daarom de aspecten bereik, veiligheid en inclusiviteit goed tegen elkaar afwegen.
+
+                                        Deelnemers kijken bij het gebruik van social media-
+“Overstappen?! Eigenlijk zit
+                                        kanalen duidelijk naar de functionaliteit en de aard van
+ik daar niet op te wachten              elk platform. Zo is LinkedIn de plek voor vacatures en
+want we hebben al zoveel                professionele communicatie, terwijl Instagram wordt
+                                        gebruikt voor trends, hobby’s en memes. WhatsApp is
+social- media-app’s…”
+                                        voor de deelnemers nuttig voor delen van content binnen
+        eigen kring (vanuit platforms). Volgens de deelnemers moet de Rijksoverheid voor elk
+        onderwerp en doelgroep bewust kiezen welk kanaal het beste past en het meeste bereik
+        oplevert. Overal dezelfde content delen raden de deelnemers af.
+
+        1. Relatie
+        De deelnemers gebruiken sociale media intensief, maar vrijwel nooit om actief
+        overheidsinformatie op te zoeken.
+
+           -   Sociale media zijn niet de natuurlijke plek waar deelnemers naar
+               overheidsinformatie zoeken. Ze komen het toevallig tegen.
+           -   Een kleine minderheid volgt ministeries, uitvoeringsorganisaties en/of
+               bewindslieden actief. Ze noemen zich “news junky” of hebben interesse in de
+               politiek.
+           -   Sociale media hebben vooral een signaalfunctie: mensen zien iets voorbijkomen
+               en worden gewezen op een onderwerp op een website van de Rijksoverheid.
+           -   Voor verdieping of zekerheid gaan de deelnemers liever op zoek naar oficiële
+               bronnen, zoals Rijksoverheid.nl en Belastingdienst.nl (al is het daar soms ook
+               zoeken).
+           -   Bij urgente of maatschappelijke onderwerpen kan sociale media wel belangrijk
+               zijn, omdat het snel bereik heeft.
+           -   Het daadwerkelijke gedrag is passief: de meeste deelnemers reageren niet op
+               berichten en klikken ook niet gemakkelijk door.
+           -   Het platform bepaalt mede de functie: LinkedIn past bij vacatures, Instagram
+               meer bij bereik en visuele uitleg, terwijl Facebook onder (oudere) volwassenen
+               nog populair is, wordt het platform onder jongere doelgroepen als verouderd
+               gezien.
+
+
+
+                                                                                                  14
+2. Behoefte en verwachtingen
+Voor de doelgroep volwassen zijn de behoeften en verwachtingen bij het gebruik van
+sociale media door de Rijksoverheid als volgt:
+
+    -   Inhoud en vorm moeten professioneel, foutloos en serieus zijn. Dit versterkt de
+        betrouwbaarheid van de communicatie.3
+    -   Een duidelijk afzenderschap van de Rijksoverheid, met het lint en de
+        Rijkshuisstijl.
+    -   De boodschap moet in de content op socials panklaar worden aangeboden.
+        Korte, heldere en concrete informatie werkt beter dan vage of algemene
+        boodschappen.
+    -   Er is behoefte om zo min mogelijk door te klikken naar andere ander websites: de
+        kernboodschap en handelingsperspectief zijn bij voorkeur in het bericht zelf al
+        duidelijk zijn.
+    -   Er wordt praktische tips en handelingsperspectieven verwacht, bijvoorbeeld hoe
+        je nepwebshops herkent of wat je concreet moet doen.
+    -   De content, zowel in boodschap als in vorm, moeten passen bij het onderwerp en
+        bij het platform: reels, stories, explainers of tekst, afhankelijk van doel en
+        doelgroep.
+    -   Een Rijksoverheid die niet alleen zendt. Onder enkele deelnemers werd de
+        behoefte aan een responsieve overheid genoemd: ministeries,
+        uitvoeringsorganisaties of bewindslieden die reageren op comments van
+        anderen.
+    -   Bereik onder verschillende doelgroepen is belangrijk: de Rijksoverheid mag niet
+        alleen via kanalen communiceren die een deel van de bevolking niet gebruikt.
+    -   Veiligheid en inclusiviteit zijn belangrijke randvoorwaarden, zeker als nieuwe of
+        open source platforms worden overwogen.
+    -   Essentiële informatie moet ook altijd buiten sociale media beschikbaar zijn,
+        bijvoorbeeld via websites, brieven, radio of tv.
+    -   De Rijksoverheid moet zo veel mogelijk mensen bereiken en toegankelijke
+        informatie bieden. Burgers verwachten niet dat zij zelf actief accounts volgen of
+        nieuwe platforms installeren om belangrijke informatie te ontvangen; de
+        Rijksoverheid moet gebruikmaken van platforms waar mensen al aanwezig zijn,
+        zonder groepen uit te sluiten.
+
+3. Gevolgen
+Wat zijn de gevolgen als de Rijksoverheid niet meer aanwezig is op sociale media met
+overheidsinformatie?
+
+
+
+3
+  Sommige vignetten werden met AI gegenereerd die soms taalfouten bevatten en waar de deelnemers
+(terecht) op aan sloegen.
+
+
+                                                                                                   15
+   -   Als de Rijksoverheid niet meer aanwezig is op sociale media, kan dat negatieve
+       gevolgen hebben volgens de deelnemers.
+   -   Hoewel de meeste deelnemers via de socials bij voorkeur “volledig
+       geïnformeerd” willen worden (en vanuit de socials niet willen doorklikken naar
+       bijvoorbeeld RO.nl), wijzen de deelnemers ook op de afname van de
+       zichtbaarheid van de belangrijke informatie van de Rijksoverheid.
+   -   Minder bereik van publiek bij urgente situaties bijvoorbeeld. Bij crises, zoals een
+       pandemie, nieuwe maatregelen of veiligheidswaarschuwingen, kan sociale
+       media helpen om snel breed aandacht te krijgen en te verwijzen naar oficiële
+       websites.
+   -   Minder bereik van doelgroepen die nieuws en oficiële aankondiging van de
+       Rijksoverheid vooral via sociale media tot zich nemen.
+   -   Meer ruimte voor onjuiste of misleidende informatie doordat oficiële
+       overheidsinformatie minder zichtbaar is in dezelfde informatiestroom.
+   -   Minder laagdrempelige toegang tot campagnes, waarschuwingen en
+       publieksinformatie, zoals over bijvoorbeeld online-fraude of vacatures.
+   -   Publiek wordt gedwongen om zelf meer een beroep te doen op oficiële en
+       betrouwbare communicatiekanalen, zoals websites, brieven, radio en tv.
+
+De afwezigheid van sociale media door de Rijksoverheid hoeft voor de deelnemers geen
+ramp te zijn voor hun informatiebehoefte van de overheid, zolang andere kanalen goed
+blijven functioneren. Voor de behoefte aan informatie van de Rijksoverheid gebruiken de
+deelnemers doorgaans geen sociale media. Echter, de afwezigheid van de Rijksoverheid
+op de grotere platforms leidt wel tot minder bereik, minder snelheid en minder
+zichtbaarheid, vooral bij actuele of urgente informatie. Sociale media zijn dus niet
+onmisbaar als belangrijkste bron, maar wel waardevol als extra distributie- en
+attentiekanaal.
+
+4.2 Algemeen publiek: jongvolwassenen
+In een online dialoogsessie spraken acht jongvolwassenen tussen de 18 tot 22 jaar over
+het gebruik van sociale media door de Rijksoverheid. De deelnemers volgen een mbo- of
+hbo-opleiding, zitten in het voortgezet onderwijs of hebben een tussenjaar. Ze zijn vooral
+actief op Instagram, TikTok, Snapchat, YouTube en WhatsApp. Sommigen volgen
+accounts van politieke organisaties, de Tweede Kamer en overheidsinstanties. Een
+deelnemer sprak de waardering uit voor het account van
+Rijkswaterstaat. De meeste deelnemers komen                         “Neem jongeren serieus,
+overheidsinformatie toevallig tegen via betaalde content (zoals                dan nemen zij de
+recent over belastingaangifte), in plaats van dat ze actief
+overheidsaccounts volgen.
+                                                                       overheid ook serieus.”
+Volgens de deelnemers is sociale media de plek waar de jongeren dagelijks zijn. Om die
+reden moet Rijksoverheid volgens hen daarom aanwezig zijn en blijven. Naar aanleiding
+
+
+                                                                                         16
+van de vignetten hebben de deelnemers een aantal suggesties voor het gebruik van
+sociale media door de Rijksoverheid.
+
+Uit de bespreking van de vignetten komt het volgende beeld naar voren:
+
+   -   De deelnemende jongeren geven aan dat een kinderlijke of betuttelende toon of
+       druk vormgegeven boodschappen online niet werken voor jongeren.
+   -   Een boodschap hoeft niet in 3 seconden verteld te worden. Deelnemers geven
+       aan dat de Rijksoverheid de spanningsboog van jongeren niet hoeft te
+       onderschatten.
+   -   De deelnemers zeggen dat jongeren liever niet doorklikken naar achterliggende
+       websites of naar lange lijstjes met tips.
+   -   Voor hen moet en boodschap moet direct duidelijk, relevant en persoonlijk zijn.
+   -   Ervaringsdeskundigheid werkt beter dan een zakelijke stem en een online-video,
+       hoeft voor de deelnemers qua beeld, regie, etc. niet perfect te zijn.
+   -   Humor helpt alleen als het bij het onderwerp past.
+
+Voor gevoelige en maatschappelijke thema’s, zoals gezondheidszorg, schulden en
+ethische kwesties, roepen de deelnemers op om jongeren in communicatie serieus te
+nemen en geen lollige of grappig bedoelde boodschappen voor te schotelen. Ze
+verlangen serieuze, duidelijk en geloofwaardige communicatie.
+
+Bij het vignet over “Betaal later Kater” vonden jongeren de toon te belerend en de vorm
+te kinderachtig. De boodschap sloot onvoldoende aan op hun leefwereld en nodigde
+niet uit om verder te lezen. Een persoonlijke insteek, bijvoorbeeld via iemand met
+ervaring of een inﬂuencer, zou beter kunnen werken.
+
+Bij het vignet over alternatieven van big tech zijn jongeren nauwelijks bekend met
+alternatieve platforms, zoals BlueSky of Mastodon. Een enkeling kent Signal of gebruikt
+Reddit. Zij verwachten niet dat jongeren massaal overstappen als vervanging van hun
+gebruik van ‘traditionele’ sociale media. De deelnemers zien daarbij mogelijkheden:
+wanneer de Rijksoverheid via alternatieve kanalen gaat communiceren, kan zij die
+overstap via campagnes ook aankondigen via billboards, radio, nieuwssites (bijv. NU.nl)
+en op led-schermen in bussen en treinen.
+
+Volgens de deelnemers zijn leeftijdsgenoten zich nauwelijks bewust van de risico’s van
+big tech. Sociale media van grote platforms worden als relatief onschuldig en
+onbelangrijk ervaren. Tenzij radicale content verschijnt, dan verdwijnt die onschuld.
+Maar zonder aanwezigheid van de Rijksoverheid op de grote platforms denkt de groep
+dat de Rijksoverheid jongeren veel moeilijker kan bereiken.
+
+Bij het vignet over werving voor het leger kwam naar voren dat sociale media vooral
+kunnen helpen als er al enige interesse bestaat. De verpakking is dan ondersteunend,
+niet doorslaggevend. Te luchtige of lollige communicatie over serieuze onderwerpen kan
+
+
+
+                                                                                          17
+           averechts werken. Goede, informatieve en visueel sterke content kan wel degelijk efect
+           hebben.
+
+           In de nabeschouwing benadrukken de deelnemers dat de overheid belangrijk is, maar
+           geen centrale rol speelt in hun dagelijks leven. Juist daarom moet de overheid zichtbaar
+           zijn op de platforms waar jongeren al zitten. Sociale media zijn voor deze doelgroep geen
+           extra kanalen, maar een vanzelfsprekend onderdeel van hun informatieomgeving.
+
+         1. Relatie
+         De deelnemers zijn onlosmakelijk verbonden met sociale media, maar zoeken daar
+         zelden naar informatie van de Rijksoverheid. Ze gebruiken sociale media vooral voor
+         ontspanning, contact met anderen, entertainment en voor onderwerpen die ze direct
+         interesseren. Voor overheidsinformatie volgen ze geen accounts van de Rijksoverheid;
+                         als overheidsinformatie hen bereikt is dat meestal indirect, vluchtig en
+“Sociale media is tussen andere content door, vaak via betaalde content. Tegelijk zien ze
+wat wij zijn.”           sociale media wél als een plek waar de Rijksoverheid jongeren kan
+                         bereiken en mee in contact kan komen.
+
+           Volgens de deelnemers moet de content van de Rijksoverheid snel herkenbaar, relevant
+           en geloofwaardig zijn om op te vallen tussen al dat contentgeweld. De deelnemers
+           willen de overheid dus wel op sociale media zien, mits de communicatie aansluit bij hun
+           mediagedrag. Dus kort, direct, passend bij het platform, zonder betutteling.
+
+           2. Behoeften en verwachtingen
+           Wat zijn de behoeften en verwachtingen van doelgroepen als het gaat om
+           overheidsinformatie op sociale media?
+
+           Bij het gebruik van sociale media door de Rijkoverheid verwachten deelnemers vooral:
+
+              -   Duidelijkheid, de kern van de boodschap moet meteen zichtbaar zijn.
+              -   Authenticiteit, geen geforceerde jongerentaal of een “grappige toon”.
+              -   Respectvolle benadering, niet belerend of kinderachtige communicatie.
+              -   Passende vorm voor elk onderwerp, dus serieuze onderwerpen serieus brengen.
+              -   Relevantie, informatie moet aansluiten op hun leven van jongeren of de
+                  actualiteit.
+              -   Persoonlijkheid en herkenbaarheid: bijvoorbeeld via echte ervaringen of
+                  geloofwaardige gezichten.
+              -   Liever geen doorklikplicht naar lange webpagina’s. Alle informatie in een post,
+                  bijvoorbeeld met explainer.
+
+           Ondanks dat de jongvolwassenen de Rijksoverheid niet actief volgen, komen ze er wel
+           mee in aanraking – zij het gering. Voor efectieve online-communicatie verwachten de
+           deelnemers een Rijksoverheid die zichtbaar, betrouwbaar en begrijpelijk is op sociale
+           media.
+
+
+
+                                                                                                    18
+           3. Gevolgen
+           Als de Rijksoverheid verdwijnt op sociale media, wordt het volgens de deelnemers
+           lastiger om jongeren te bereiken. Jongeren gaan niet snel uit zichzelf naar websites van
+           ministeries of uitvoeringsorganisaties. De verwachting is dat het bereik van belangrijke
+           informatie af zal nemen, zeker bij onderwerpen die jongeren niet actief opzoeken maar
+           die wel relevant voor ze zijn, denk aan het vaccinatieprogramma tijdens Covid.
+
+           Mogelijke gevolgen zijn:
+
+              -   Minder zichtbaarheid van overheidsinformatie bij jongeren.
+              -   Grotere afhankelijkheid van derden, zoals inﬂuencers, nieuwsaccounts of
+                  vrienden, voor uitleg en duiding.
+              -   Meer kans op de invloed van desinformatie, anderen zullen het “informatiegat”
+                  vullen.
+              -   De afstand tot de Rijksoverheid wordt, terwijl (meer) zichtbaarheid juist kan
+                  bijdragen aan vertrouwen in de Rijksoverheid.
+
+           Voor de jongeren die deelnamen aan de vignettenstudie geldt: “de Rijksoverheid is
+           belangrijk, maar niet belangrijk in mijn leven”. Wanneer de Rijksoverheid stopt met
+           sociale media wordt de relatie met de jongeren generatie zwakker: “het is wat wij
+           gebruiken, het is wat wij zijn.” Ook al volgen jongeren de Rijksoverheid vrijwel niet,
+           politiek geïnteresseerd daargelaten, verwachten zij de Rijksoverheid wel op de grote
+           platforms. Als de Rijksoverheid daar verdwijnt, kan de relatie met jongeren verzwakken
+           en neemt hun interesse af, terwijl juist deze generatie bepalend is voor de toekomst en
+           de Rijksoverheid hen nodig heeft.
+
+           4.3 Ondernemers
+         Er is een sessie gehouden met zes ondernemers met uiteenlopende achtergronden: een
+         MKB-ambassadeur, een marketingondernemer, CIO van landelijk telecombedrijf, een
+         ondernemer van een design- en brandingbureau dat veelal voor overheden werkt, een
+         retailondernemer en een fotograaf. Hun gebruik van sociale media loopt sterk uiteen:
+                                       van vrijwel niets tot intensief gebruik, voornamelijk voor
+“Nuttig om op een                      zakelijke doeleinden. LinkedIn wordt het meest gebruikt
+                                       voor professionele doeleinden.
+laagdrempelige manier
+                                          Vrijwel niemand van de deelnemers volgt accounts van
+LinkedIn voorzien te worden
+                                          de (Rijks)overheid op sociale media. Pas wanneer er een
+van nuttige informatie voor               concrete aanleiding is, denk aan een belastingbrief, dan
+bedrijven en ondernemers,                 wordt informatie van de Rijksoverheid online opgezocht.
+                                          Er is weinig behoefte om proactief overheidsaccounts te
+bijvoorbeeld op LinkedIn.”
+                                          volgen.
+
+
+
+
+                                                                                                      19
+Voor de deelnemende ondernemers zijn sociale media vooral relevant bij urgente zaken
+of bij kwesties over rechten en plichten, mits ook andere communicatiekanalen, zoals e-
+mail, post en nieuwsbrieven van brancheverenigingen, worden ingezet.
+
+De deelnemers gebruiken sociale media mondjesmaat voor privégebruik, sommigen
+gebruiken Instagram zakelijk als marketingkanaal, terwijl LinkedIn gezien wordt als het
+meest geschikte zakelijke platform.
+
+Vertrouwen in overheidscommunicatie komt door herhaling, oficiële logo's en een
+duidelijk handelingsperspectief. De groep geeft aan een duidelijk voorkeur te hebben
+voor oficiële websites (betrouwbaarder, completer, actiegerichter), dan te moeten
+vertrouwen op de boodschap die via sociale media wordt verspreid.
+
+Ook voor ondernemers dienen sociale media vooral als signaleringskanaal, niet als
+primaire informatiebron. Zij zoeken bij voorkeur informatie op oficiële kanalen en
+bronnen via Google of chatbots, zoals ChatGPT, worden gevonden. In de content moet
+er bij voorkeur altijd een handelingsperspectief zitten. Zonder concrete actiepunten zien
+de deelnemers de boodschap "te veel als marketing".
+
+De ondernemers benadrukken dat de overheid een belerende toon moet vermijden. Ook
+een (te) luchtige boodschap of inzet van inﬂuencers (als niet-gezaghebbende
+ondernemers) heeft weinig efect. Tegelijkertijd hechten de deelnemers wel waarde aan
+peers, ondernemers die de boodschap op basis van ervaringen (van regelingen,
+subsidies, etc.) delen met anderen. En buiten de sociale media waarderen de
+ondernemers ﬁnancieel adviseurs en brancheverenigingen als cruciale intermediairs
+van overheidsinformatie.
+
+Ondernemers willen worden ontlast – “de overheid vraagt immers al veel ondernemers”.
+Er wordt daarom waarde gehecht aan concrete tools, zoals rekenmodellen,
+beslisbomen, tijdlijnen die via sociale media worden aangeboden. Ook hechten de
+deelnemers waarde aan menselijk contact en een
+benaderbare dienstverlening vanuit de overheid.                   “Communiceer ook via
+De deelnemers beschouwen zichzelf als zelfredzame            betrouwbare partners, zeker
+ondernemers, ook online. Ze dragen veel                       als je ook ondernemers wilt
+verantwoordelijkheid en hebben doorgaans weinig tijd.                                  bereiken.”
+Om hen te ontlasten adviseren zij dat de Rijksoverheid
+investeert in betere vindbaarheid van overheidsinformatie en in automatisering (bijv. AI
+en QR-codes). Voor efectieve communicatie moet de Rijksoverheid zorgen voor een
+goede communicatiemix: kanalen die zijn afgestemd op de doelgroep. De efectiviteit
+van sociale media neemt volgens de groep ondernemers toe als de Rijksoverheid deze
+consequent gebruikt en de content herkenbaar maakt.
+
+
+
+
+                                                                                          20
+1. Relatie
+De relatie tussen ondernemers en het sociale-mediagebruik door de Rijksoverheid is
+zwak en reactief. Ondernemers gebruiken sociale media vooral voor zakelijke
+doeleinden (met name LinkedIn), maar volgen de overheid nauwelijks via sociale media.
+Overheidsinformatie wordt pas gezocht bij een concrete aanleiding of trigger.
+Overheidsinformatie wordt niet via sociale media gelezen, maar via zoekmachines en
+oficiële websites. Sociale media spelen hooguit een rol als signaleringskanaal, niet als
+primaire informatiebron.
+
+2. Behoeften en verwachtingen
+De ondernemers verwachten:
+
+   -   Korte, duidelijke boodschappen met een concreet handelingsperspectief.
+       Duidelijke informatie over wat bijvoorbeeld een regeling inhoudt. Communiceer
+       als Rijksoverheid de voordelen, maar ook de nadelen. Een ondernemer wil
+       argumenten over waarom ze wel of niet zouden instappen.
+   -   Een duidelijke doorverwijzing naar betrouwbare, complete informatie op oficiële
+       websites. Daarbij helpen interactieve rekenmodellen (voor return-on-
+       investment), tijdlijnen of verschillende scenario’s die de Rijksoverheid
+       beschikbaar stelt.
+   -   Beslisboom op de website om keuzes te maken. Dan weet je als ondernemer
+       bijvoorbeeld of het interessant is en of je ﬁnancieel adviseur moet bereiken; die
+       zijn de betrouwbaarste bron als ondernemer.
+   -   Consistente en herkenbare communicatie met logogebruik en huisstijl.
+   -   Geen belerende toon en content dat als reclame overkomt.
+   -   Gezagsgetrouwe peers, ondernemers met ervaring van bijvoorbeeld een
+       overheidsregeling of -subiside.
+   -   Sociale mediakanalen die afgestemd zijn op het communicatiemodel en de
+       doelgroep.
+   -   Betrokkenheid van intermediairs zoals brancheverenigingen en ﬁnancieel
+       adviseurs.
+
+3. Gevolgen
+De directe impact lijkt voor ondernemers beperkt als de Rijksoverheid niet of minder
+gebruikmaakt van traditionele sociale media:
+
+   -   Ondernemers hechten simpelweg meer waarde aan websitebezoek via Google-
+       zoekopdrachten of een chatbot.
+   -   Ondernemers waarderen berichten met een duidelijk handelingsperspectief die
+       sommige uitvoeringsorganisaties nu al beschikbaar stellen via e-mailservices;
+       een terugtrekking van de grote sociale mediaplatforms heeft daar geen directe
+       consequenties voor volgens deze deelnemers.
+
+
+
+
+                                                                                       21
+    -   Ondernemers willen op de hoogte worden gehouden over voor hen relevante
+        zaken, bijvoorbeeld rondom belastingen; als de Rijksoverheid zich terugtrekt van
+        sociale media, gaat een signaalfunctie of extra notiﬁcatie op een telefoon
+        verloren. Tegelijk geven zij aan dat andere kanalen en hun netwerken (bijv.
+        ﬁnancieel adviseur) hen wijzen op zaken die geregeld moeten worden.
+
+Voor de ondernemers hoeft de Rijksoverheid de sociale media niet te verlaten.
+Ondernemers noemen ook de maatschappelijke en sociale functie van sociale media,
+zeker voor jongeren. Wat hun doelgroep betreft is de aanwezigheid van de Rijksoverheid
+niet noodzakelijk, maar wel behulpzaam. Belangrijk is dat de Rijksoverheid sociale
+media strategisch inzetten, toegespitst op subdoelgroepen, ook binnen de brede
+doelgroep “ondernemers”, bijvoorbeeld jongeren die net begonnen zijn aan ondernemen
+en wel veel sociale media gebruiken. De gedachte van de ondernemers is: als de
+Rijksoverheid de overstap naar alternatieve platforms overweegt, dan vraagt dat om een
+strategische, geleidelijke aanpak waarbij het gebruik van de grotere sociale
+mediaplatforms voorlopig wordt voortgezet.
+
+4.4 Experts
+Na de vignettenstudie met de drie doelgroepen zijn experts gevraagd naar hun
+opvattingen over het gebruik van sociale media door de Rijksoverheid. De expertmeeting
+vond plaats met vertegenwoordigers van Sociaal Werk Nederland, Public Spaces en Bits
+of Freedom.4 Aan hen zijn ook de belangrijkste uitspraken van de vignettenstudie
+voorgelegd.
+
+De vraag die boven het gesprek met de experts hing was: hoe het komt dat de
+Rijksoverheid er onvoldoende in slaagt om de samenleving, of speciﬁeke doelgroepen,
+te bereiken? In de oplossing zijn sociale media slechts een deel van de puzzel.
+
+Aanwezigheid op sociale media
+Over de aanwezigheid op de grote platforms riepen experts op om je als Rijksoverheid
+volledig terug te trekken van sociale media. Daarmee zou de Rijksoverheid het goede
+voorbeeld geven en de afhankelijkheid van grote Amerikaanse technologiebedrijven zo
+snel mogelijk af te bouwen. De big tech-bedrijven dragen volgens hen bij aan polarisatie,
+ondermijnen ze de democratische rechtsstaat en
+beperken ze onze vrijheden. Daarom adviseren deze                   “Sociale media zijn geen
+experts om nu te investeren in alternatieve                   onmisbaar middel op zichzelf,
+sociale-mediaplatforms die (beter) veiligheid en
+privacy waarborgen en in eigen beheer kunnen
+                                                          maar hooguit een klein stukje van
+worden ingericht.                                           een grotere communicatiemix.”
+
+
+4
+ De vertegenwoordiger van het Verweij Jonker Instituut was op het laatste moment verhinderd. Er waren
+afzeggingen van Open State Foundation en Commissariaat voor de Media.
+
+
+                                                                                                        22
+          Aan de andere kant geven experts aan dat de Rijksoverheid aanwezig moet zijn op de
+          platforms waar het publiek zich bevindt, en dat zijn vooralsnog vooral de grote, door big-
+          tech bedrijven beheerde platforms. Daarom klinkt ook een pleidooi om deze platforms
+          te blijven gebruiken: ze stellen de Rijksoverheid in staat om in contact te komen en te
+          blijven met burgers. Nu al afscheid nemen van sociale media zou betekenen dat je
+          bepaalde groepen mensen (nog verder) uit het oog verliest.
+
+          Daartegenover wordt gesteld dat er geen doelgroepen zijn die uitsluitend via sociale
+          media bereikbaar zijn. Het bereiken van doelgroepen vraagt dan wel om meer
+          inspanning, bijvoorbeeld via persoonlijk contact: lokale aanwezigheid, buurthuizen,
+          brieven en bibliotheken. Daarbij beschikt de overheid over unieke middelen (zoals
+          adresgegevens, capaciteit en legitimiteit). Met die mogelijkheden zou de overheid
+          ambitieuzer mogen omgaan.
+
+         Invloed van algoritmes
+         Volgens sommige experts zijn de grote sociale platforms schadelijk voor het publieke
+         debat. Algoritmes bepalen welke thema’s dominant worden en versterken polarisatie en
+         ongenuanceerde content. De verdienmodellen draaien vooral om aandacht in plaats van
+                                publieke waarden. Door als Rijksoverheid op deze platforms
+“Je moet vooral zijn waar aanwezig te zijn en daar te communiceren, zou – volgens de
+je doelgroep al is, en niet experts - de Rijksoverheid die afhankelijkheid mede legitimeren
+                                en versterken. Experts stellen dat de Rijksoverheid vanuit haar
+verwachten dat zij zich         voorbeeldfunctie geen gebruik moet maken van platforms die
+aanpassen aan jouw              privacy ondermijnen, macht concentreren bij techbedrijven en
+kanaalkeuze.”                   burgers dwingen in te stemmen met ondoorzichtige
+                                voorwaarden.
+
+          Het gebruik van de grote sociale media platforms druisen in tegen de waarden en
+          principes die de Rijksoverheid voor zichzelf hanteert in overheidscommunicatie. Een
+          integere overheid die transparant communiceert, is volgens experts ongeloofwaardig als
+          die gebruik maakt van big tech: “een politicus kan transparant zijn en zijn agenda en
+          werkbezoeken met een video delen, maar heeft daarin nog steeds de keuze om hiervoor
+          een “verantwoord” kanaal te gebruiken.”
+
+          De experts onderschrijven het belang van de Nederlandse Digitaliseringsstrategie (NDS)
+          en de visie om de afhankelijkheid van big tech af te bouwen. Volgens experts ontbreekt
+          het alleen aan een langetermijnstrategie met concrete stappen om die afhankelijkheid
+          daadwerkelijk te verminderen. Hun pleidooi is om te beginnen met laaghangend fruit.
+          Zet bijvoorbeeld vacatures niet alleen op LinkedIn, maar ook op alternatieve (open
+          source) platforms. Biedt een uitlegﬁlmpje over een aanvraagprocedure niet alleen op
+          YouTube, maar ook op een alternatief platform aan.
+
+
+
+
+                                                                                                  23
+Zolang er urgentie is en content voor doelgroepen relevant is, dan zijn die doelgroepen
+zeker bereid om over te stappen naar een ander platform, zo luidt de gedachte. Dat geldt
+ook voor jongeren. Maar, zeggen de experts, neem hier wel de tijd voor.
+
+Afscheid nemen van big tech-bedrijven en hun platforms vraagt om een
+meerjarenaanpak. De experts stellen dat in de tussentijd de grote platforms kunnen
+dienen als doorverwijskanaal naar eigen of publieke omgevingen. Deze aanpak moet
+onderdeel zijn van een bredere strategie om mensen te bereiken en met hen in contact
+te blijven: een communicatiemix waarin kanalen elkaar
+versterken.                                                         “Zodra de Rijksoverheid
+Net als de Rijksoverheid worstelen ook andere
+                                                                   deze platforms gebruikt,
+maatschappelijke organisaties met de vraag over hoe je             helpt zij hun dominantie
+doelgroepen bereikt. Vaak staan deze organisaties wel                   in stand te houden.”
+dichter op doelgroepen dan de Rijksoverheid. Veel
+maatschappelijke organisaties hebben een eigen achterban en hebben ook meer
+ervaring met efectieve communicatie met speciﬁeke doelgroepen. Volgens de experts
+moet de Rijkoverheid ook zeker niet het wiel gaan uitvinden, maar vooral optrekken met
+maatschappelijke organisaties.
+
+Een ander genoemd probleem is de invloed van desinformatie op de platforms op het
+publieke debat. De experts stellen dit op zichzelf geen nieuw fenomeen is; het bestaat al
+zolang mensen kunnen communiceren. Het huidige probleem ontstaat echter doordat
+een de dominante platforms, zoals Instagram, Facebook en Google, content zeer snel
+viraal kunnen laten gaan en via hun algoritmes bepaalde (soms misleidende) berichten
+prioriteit geven. Daardoor wordt desinformatie versterkt en moeilijk te beheersen.
+
+Het lijkt logisch om als Rijksoverheid meer te doen tegen desinformatie, maar de experts
+benadrukken dat dit een onbevredigende strijd wordt. Dit komt omdat overheden geen
+controle hebben over welke informatie de platforms tonen. Een efectievere aanpak is
+volgens hen om de oorzaak aan te pakken door zelf een divers aanbod van (open-
+source) platformen te bieden. Daarbij kan elk platform eigen waarden en normen
+hebben, zodat zowel burgers als overheden kunnen kiezen welke omgeving het beste
+past. Volgens Public Spaces voorkom je als Rijksoverheid dat je te veel energie steekt in
+het weerleggen van individuele valse berichten, maar juist inzet op het verminderen van
+de structurele macht van big tech.
+
+Advies experts
+Ondanks dat de impact van het gebruik van sociale media door de Rijksoverheid relatief
+beperkt is, lijken overheidsinstellingen niet meer zonder te kunnen. Volgens Public
+Spaces en Bits of Freedom geeft de Rijksoverheid - die transparantie, integriteit en
+betrouwbaarheid als belangrijke waarden ziet - geen goed voorbeeld. De beperkte
+impact is voor experts juist een reden om de afhankelijkheid van big tech via een
+meerjarenstrategie af te bouwen.
+
+
+                                                                                       24
+Sociaal Werk Nederland benadrukt hierbij dat kwetsbare doelgroepen, waarmee de
+Rijksoverheid toch al moeilijk in contact staan, niet vergeten wordt. Daarom het pleidooi
+om voorlopig de grote platforms nog te gebruik als doorgeeﬂuik en tegelijk doelgroepen
+met relevante content stapsgewijs te laten wennen aan alternatieve platforms.
+
+Om als Rijksoverheid beter in contact te staan met de samenleving is het raadzaam om
+ook met maatschappelijke organisaties samen te werken en mogelijk op te trekken.
+Hiertoe zou de Rijksoverheid het gesprek kunnen aangaan met maatschappelijke
+organisaties. Zo wordt voorkomen dat de Rijksoverheid het wiel opnieuw gaat uitvinden,
+aldus experts. Door samen met uitvoeringsorganisaties en decentrale overheden te
+onderzoeken hoe gericht kan worden geïnvesteerd in de relatie met doelgroepen, kan
+het vertrouwen in de (Rijks)overheid (opnieuw) worden versterkt.
+
+
+
+
+                                                                                       25
+5. Conclusie
+In hoofdstuk twee van dit verslag hebben we uiteengezet hoe we vanuit een aantal
+kernbegrippen toewerken naar dilemma’s waarin een afweging zou moeten worden
+gemaakt voor de toekomst van het gebruik van sociale media door de Rijksoverheid.
+
+De kernbegrippen waren:
+
+   1. Het doel van de communicatie: wat moet worden gecommuniceerd?
+   2. De doelgroep: voor wie is de communicatie bedoeld?
+   3. Het medium: welk sociaal medium is hiervoor geschikt?
+   4. Het resultaat en de waardering ofwel de impact.
+
+De onderlinge samenhang en dynamiek van de kernbegrippen zijn bekeken aan de hand
+van (ﬁctieve) vignetten die in verschillende sessies zijn besproken. Voordat we in dit
+hoofdstuk ingaan op de impact van overheidscommunicatie en de bijbehorende
+dilemma’s, noemen we hieronder de belangrijkste resultaten van de dialoogsessies.
+Belangrijk daarbij is zich te realiseren dat de uitspraken een beperkte geldigheid hebben.
+Enerzijds omdat we resultaten bij elkaar proberen te brengen en er (onze) duiding aan
+geven. Anderzijds omdat die resultaten afkomstig zijn van vier groepen mensen die niet
+representatief zijn voor de Nederlandse samenleving.
+
+5.1 De resultaten in het kort
+De deelnemers aan de dialoogsessies zijn over het algemeen kritisch op het gebruik van
+sociale media door de overheid. Belangrijk daarbij is dat de Rijksoverheid duidelijk en
+herkenbaar moet blijven in haar rol als overheid. De deelnemers ervaren veel marketing
+op hun tijdlijnen. Ministeries en uitvoeringsorganisaties lopen daardoor het risico ook
+voor een soort marketeer te worden aangezien. Van de Rijksoverheid wordt een andere
+rol verwacht dan van peers en zij moet zich volgens sommigen dus ook niet als zodanig
+proberen te gedragen.
+
+Soms lijkt het erop of de Rijksoverheid nut en noodzaak van het (veel) op sociale media
+aanwezig zijn overschat. Daarnaast wordt bij die aanwezigheid de tone of voice niet altijd
+juist ingeschat. Dat geldt met name ten aanzien van jongeren. Die worden niet altijd
+(goed) bereikt met wat zij soms ervaren als een overkill aan catchy lettertypes of
+grappige video’s. Sommige van de deelnemers haken daarop juist af.
+
+Wil je als Rijksoverheid gebruikmaken van sociale media en een breed publiek bereiken,
+dan worden korte, goed informerende video’s op prijs gesteld. Bijvoorbeeld op
+Instagram. Voor speciﬁeke doeleinden kunnen meer speciﬁeke media worden gebruikt
+zoals LinkedIn en Facebook, of bepaalde platforms. Open source media zijn voor veruit
+de meesten, zo men al weet waar het over gaat, nog een ver-van-mijn-bed-show.
+
+
+
+
+                                                                                        26
+De meeste mensen willen goed en op een betrouwbare manier benaderd worden op
+sociale media door de Rijksoverheid, zo blijkt. Jongvolwassenen zijn over het algemeen
+gevoeliger voor wat andere leeftijdsgenoten vinden dan volwassenen dat zijn voor wat
+andere volwassenen vinden als het gaat om overheidsinformatie. Jongvolwassenen
+gebruiken sociale media dus ook echt als sociaal medium en minder als objectieve
+informatiebron. Daardoor telt de mening van anderen over wat een goede en
+betrouwbare benadering is voor jongvolwassenen dus ook zwaarder dan voor
+volwassenen.
+
+Volwassenen en zeker ook ondernemers bepalen over het algemeen graag zelf wat ze
+volgen en wat niet, ook als het om overheidsinformatie gaat. Ongevraagde content wordt
+over het algemeen niet gelezen of bekeken. Uitgangspunt is dat men weet wat men wil
+en daarvoor naar informatie op zoek gaat als dat nodig is. Mensen die niet
+geïnteresseerd zijn in overheidsinformatie zijn daardoor heel moeilijk te bereiken.
+
+Sociale media lijken per deﬁnitie een beperkte betrouwbaarheid te kennen. Gebruikers
+zijn vaak beducht op criminele activiteiten en fake news. Dat geeft sociale media een
+onbetrouwbaar imago, terwijl van de overheid juist een grote mate van betrouwbaarheid
+wordt verlangd.
+
+Sociale media hebben vooral een attenderende rol. Voor betrouwbare en echte
+informatie gaat men naar bekende en betrouwbare websites of vertrouwt men op
+gedrukte informatie. Afstappen van traditionele sociale media door de overheid betekent
+dus dat een alternatief nodig is voor het attenderen, maar niet zozeer voor het
+informeren.
+
+Voor de jongere generatie betekent geen gebruik van (traditionele) sociale media door de
+Rijksoverheid vrijwel geen bereik meer onder jongeren. Uit de sessie met
+jongvolwassenen blijkt dat ze nauwelijks gebruikmaken van / letten op ‘ouderwetse’
+informatiebronnen zoals RTV, krant en billboard. Hierin liggen volgens sommige
+deelnemers overigens nog wel kansen, door intensievere toepassing van spots op
+YouTube en streamingsdiensten bijvoorbeeld.
+
+Alternatieve open source media zijn vooralsnog geen alternatief voor de nu veel
+gebruikte sociale media apps. Jongvolwassenen zeggen ze niet te gebruiken, en ze
+kennen ze ook niet. Volwassenen kennen ze ook nauwelijks en zouden ze alleen
+gebruiken als ze gemeengoed zijn geworden. De rol van big tech interesseert mensen
+niet zoveel, een enkeling daargelaten.
+
+5.2 Impact
+De Rijksoverheid wil (logischerwijs) impact genereren met haar communicatie en die
+impact maximaliseren. Om de impact te maximaliseren staan twee parameters ter
+beschikking: bereik van de communicatie en de kwaliteit van de communicatie. Zonder
+bereik en kwaliteit is de impact nul. Zoveel is duidelijk. Maar bereik en kwaliteit kennen
+
+
+                                                                                         27
+gradaties. Het gaat om wat we eerder de objectieve component hebben genoemd
+(aantallen views, clicks, likes, e.d.) en de subjectieve component (ofwel de mate waarin
+de communicatie ook echt aankomt en begrepen wordt).
+
+Kijken we naar de resultaten van deze verkenning, die gericht is op de subjectieve
+component, dan stellen we vast dat de impact van overheidscommunicatie over het
+algemeen gering te noemen is. Dit heeft te maken met het feit dat deelnemers aan de
+dialoogsessies vaak kritisch naar informatie van de Rijksoverheid kijken. Men neemt niet
+zomaar alles aan, wat de overheid wil overbrengen, tenzij er vanuit burgers actief vraag
+naar is. Overheidsinformatie heeft dus vooral impact wanneer die informatie gewenst is.
+Zo bezien heeft informatie van de overheid primair een attenderingsfunctie. Mensen
+kunnen geattendeerd worden op iets, maar het heeft pas impact als er behoefte is aan
+de gepresenteerde informatie.
+
+5.3 Dilemma’s
+Tot welke dilemma’s leiden deze vaststellingen? Meest belangrijk is de vraag of en
+wanneer de overheid zich verplicht voelt (of is) om haar burgers via sociale media te
+informeren. Op de tweede plaats vinden we de vraag in hoeverre de overheid afhankelijk
+kan blijven van veel gebruikte sociale media platforms die door grote bedrijven worden
+gerund – de big tech. En op de derde plaats staat de vraag welk imago de Rijksoverheid
+zich moet aanmeten bij haar communicatie via sociale media. We bespreken deze drie
+dilemma’s één voor één.
+
+1. Informatie en communicatie als dienst of als verplichting
+Het blijkt van belang te zijn om zich als Rijksoverheid rekenschap te geven van de
+noodzaak tot het communiceren van bepaalde informatie via sociale media. Hard
+noodzakelijke overheidscommunicatie (over bepaalde dreigingen bijvoorbeeld) vraagt
+om andere communicatiemethoden dan minder hard noodzakelijke communicatie (over
+leefstijladviezen bijvoorbeeld). Sociale media zijn daarbij geen must. Om de impact te
+maximaliseren kan het soms zelfs goed zijn om te kiezen voor een brief in plaats van
+voor sociale media. Sterker, het gebruik van sociale media blijkt soms averechts te
+kunnen werken, als op de een of andere manier de geloofwaardigheid van de
+Rijksoverheid ermee wordt aangetast.
+
+2. Bereik versus afhankelijkheid van big tech
+De ‘afhankelijkheid van big tech’ is pas zeer recent een onderwerp van betekenis
+geworden. Experts wijzen erop dat het noodzakelijk is om als Europa niet langer (of in elk
+geval minder) afhankelijk te zijn van grote bedrijven in de digitale wereld. De
+Rijksoverheid zou zich een morele plicht kunnen aanmeten om daarin een
+voorbeeldfunctie te vervullen.
+
+Tegelijkertijd zien we dat deze afhankelijkheid van big tech onder de deelnemers geen rol
+van betekenis heeft, op een enkele uitzondering na. Gebruikmaken van alternatieve
+
+
+                                                                                        28
+sociale media zal dus ten koste kunnen gaan van het bereik, en dus van de impact, van
+de communicatie. De impact van de overheidscommunicatie lijkt niet groot genoeg om
+ervan uit te kunnen gaan dat als de overheid kiest voor andere sociale media dan de
+‘traditionele sociale media’ de gebruikers van die media vanzelf wel zullen volgen.
+
+Natuurlijk is een ‘tweesporenbeleid’ mogelijk (én op traditionele sociale media én op
+alternatieve (open source) media aanwezig zijn) maar dat bespoedigt een overgang naar
+onafhankelijkheid van big tech niet direct. Tegelijkertijd waarschuwen sommige experts
+voor fatalisme op dit gebied.
+
+3. Imago van de overheid als betrouwbaar en ‘saai’ of als leuk en ‘frivool’
+Het blijkt dat mensen in de eerste plaats van de Rijksoverheid verwachten dat deze
+betrouwbaar is. Zoals we bij het eerste dilemma hebben gezien is de geloofwaardigheid
+van de Rijksoverheid een essentieel gegeven. Uit de sessie met jongvolwassenen bleek
+dat zij het idee hebben dat de Rijksoverheid haar bereik (en daarmee haar impact)
+probeert te vergroten door ‘leuk’ te doen in haar communicatie-uitingen, dit over het
+algemeen slecht ontvangen wordt. Overheidscommunicatie moet vooral functioneel
+zijn.
+
+Functionele, betrouwbare (en betrouwbaar ogende) overheidscommunicatie kan ‘saai’
+overkomen. Maar veel mensen verwachten niet anders. Wat dat betreft sloeg de slogan
+“leuker kunnen we het niet maken, wel makkelijker” de spijker wel op zijn kop. De
+Rijksoverheid moet dienstbaar en functioneel zijn in haar communicatie via sociale
+media. Juist dat genereert impact, zo klinkt het.
+
+Door verantwoorde keuzes te maken op deze drie dilemma’s kan de impact van de
+overheidscommunicatie worden gemaximaliseerd, rekening houdend met de (morele)
+doelen en verplichtingen die een Rijksoverheid zich moet stellen. Een zekere
+terughoudendheid van de overheid met het gebruik van sociale media lijkt daarbij wel op
+zijn plaats te zijn. Vertrouwen komt te voet en gaat te paard, luidt het gezegde, en dat
+geldt ook voor overheidscommunicatie via sociale media. Vertrouwen is essentieel, zo
+blijkt uit onze sessies, en als je dat verliest door een paar verkeerde keuzes kan het lang
+duren voordat dat, en dus ook je impact, hersteld is.
+
+5.4 Aanbeveling
+Deze vignettenstudie is een bouwsteen voor een breder onderzoek en maatschappelijk
+debat. De studie bevestigt de behoefte, die zowel binnen als buiten de Rijksoverheid
+breed leeft, om ons te heroriënteren op het gebruik van sociale media en dan in het
+bijzonder big tech. Sociale media maken onmiskenbaar deel uit van het dagelijks leven,
+maar de vraag is of en hoe alternatieven mogelijk zijn: platforms in (meer) eigen beheer
+die beter aansluiten bij publieke waarden en de afhankelijkheid van buitenlandse
+bedrijven kunnen verkleinen. Telkens hing één vraag boven de markt: hoe komt de
+Rijksoverheid beter in contact met mensen?
+
+
+                                                                                         29
+Gezien de snelle ontwikkelingen verwachten we dat de Voorlichtingsraad hier al op
+anticipeert. Onze aanbevelingen zijn:
+
+1. Verken via een reeks dialogen binnen de Rijksoverheid enkele scenario’s om de
+   behoefte aan een “meerjarenstrategie” te peilen en uit te werken. Laat je daarbij
+   inspireren door experts en kennisinstituten.
+
+2. Hoe de Rijksoverheid zo goed mogelijk in contact moet komen met mensen, is voor
+   de Voorlichtingsraad geen nieuw vraagstuk, maar een permanent agendapunt.
+   Desondanks onderschrijven we het advies van de experts om hierover het gesprek
+   aan te gaan met medeoverheden, brancheorganisaties, vakbonden en
+   kennisinstituten. Trek samen op en verken met elkaar hoe de Rijksoverheid met
+   andere partners gerichter kan inspelen op de informatiebehoefte van verschillende
+   doelgroepen, hoe je dit (technisch) faciliteert en mogelijk zo beter in contact blijft
+   met mensen/doelgroepen.
+
+
+
+
+                                                                                            30
+6. Bijlage 1 | Opbrengsten voorstudie
+Belangrijkste opbrengsten uit fase 1. Er is gesproken met vertegenwoordigers van UWV,
+LVVN, SZW, O&P, RVO, Belastingdienst en media-inkoopbureau Initiative. De
+vertegenwoordigers zijn werkzaam als contentmanager, contentcreator, accounthouder
+Rijksoverheid (Initiative) en afdelingshoofd communicatieadvies en omgevingskennis.
+
+1. Vergroten van bereik
+     Content wordt doorgezet op sociale mediakanalen om zoveel mogelijk mensen in de
+     doelgroep te bereiken. Ook het bereiken van de media (vooral op X) speelt een rol.
+     Voor ministeries is de communicatie sterk gericht op bewindspersonen en
+     beleidsinformatie.
+1.   Aanwezig waar de doelgroep is
+     De Rijksoverheid gebruiken sociale media om burgers, bedrijven en stakeholders te
+     bereiken op de plekken waar zij zich al bevinden. De kanalen dienen niet alleen voor
+     zenden, maar ook voor dialoog, contact en signaalfunctie.
+2.   Reputatie en vertrouwen als centraal doel
+     De inzet van sociale media kan het vertrouwen in de overheid versterken, het
+     draagvlak vergroten en zich laten zien van de menselijke en maatschappelijke kant
+     van beleid en uitvoering.
+3.   Beperkte en versnipperde middelen
+     De respondenten ervaren structurele beperkingen in budget, capaciteit en regie. Dit
+     leidt tot versnippering in campagnes en kanalen en bemoeilijkt consistentie en
+     samenhang in communicatie.
+4.   Impact en eIectmeting nog onvoldoende ontwikkeld
+     Alle organisaties meten wel prestaties (bereik, clicks, volgers), maar nauwelijks de
+     impact op gedrag, begrip of maatschappelijke doelen. Het gaat hier om kleinere
+     online-campagnes. (Er is behoefte aan structurele impactanalyses en
+     datakoppeling. Ook kan het ontbreken aan doelstellingen, soms is hier bewust voor
+     gekozen (“kwaliteit boven kwantiteit”).
+5.   Van organisatiegericht naar ‘outside-in’
+     Er is een duidelijke beweging van interne zenderlogica naar denken vanuit behoeften,
+     leefwereld en levensmomenten van burgers. Doel is meer relevantie en
+     contextgevoelige communicatie.
+6.   Afhankelijkheid van big tech
+     De afhankelijkheid van platforms als Meta en Alphabet wordt breed als risicovol
+     gezien. Er leeft zorg over privacy en autonomie van de overheid. De respondenten
+     geven aan alternatieven of strategieën om die afhankelijkheid te verkleinen, te
+     (willen) onderzoeken.
+7.   Kanaalstrategieën verschuiven
+     LinkedIn blijft voor professionals het belangrijkste platform; Instagram en Facebook
+
+
+                                                                                       31
+    worden gebruikt voor verhalen en human interest; YouTube en Reddit komen op als
+    aanvullende kanalen. X (voorheen Twitter) staat onder druk.
+8. Gebruik van onderzoek en data groeit, maar is versnipperd
+    Er vinden uiteenlopende onderzoeken plaats (UX-onderzoek bij RVO,
+    leefstijlsegmentatie bij UWV, trendanalyse bij SZW), maar structurele koppeling met
+    socialmediadata is nog beperkt.
+9. Menselijke maat en begrijpelijkheid centraal
+    De respondenten benadrukken het belang van heldere, toegankelijke informatie,
+    minder stappen in klantreizen en minder complexiteit: communicatie als onderdeel
+    van goede dienstverlening.
+10. Gebrek aan structurele samenwerking en kennisdeling
+    Hoewel elke overheidsorganisatie in het gebruik van sociale media vergelijkbare
+    uitdagingen kent, vindt weinig onderlinge kennisdeling plaats. Er ligt potentieel in
+    gecoördineerde strategie en gezamenlijke analyses.
+11. Moeilijk bereikbare doelgroepen
+    Het gebruik van sociale media zorgt er niet automatisch voor dat moeilijk bereikbare
+    doelgroepen ineens wél worden bereikt. Voor uitvoeringsorganisaties, zoals de
+    Belastingdienst, blijft dit een belangrijk aandachtspunt. Er is behoefte om ook
+    andere vormen van communicatie te onderzoeken.
+
+
+
+
+                                                                                      32
+7. Bijlage 2 | Vignetten
+                                    Stel je het volgende voor:
+
+                                    Je scrolt ’s avonds door je social media en ziet een bericht van een o5icieel
+                                    account van de Rijksoverheid. In het bericht staat dat er de afgelopen
+                                    weken meer gevallen zijn van online oplichting via nepwebshops, en dat
+                                    de overheid mensen wil helpen om dit te voorkomen.
+
+                                    Komt de boodschap over? Werkt dit? Waarom wel/niet?
+
+                                    - Vind je het doeltre5end, relevant?
+                                    - Vind je dit een goede manier van communiceren?
+
+                                    Daarna verdiepende vragen naar aanleiding van reactie respondenten.
+
+
+
+                                    Vraag aan de deelnemers:
+                                    Wat vind jij ervan dat de Rijksoverheid dit open source sociale netwerk gaat
+                                    gebruiken om burgers te informeren? Voor wie werkt dit?
+
+                                    Heeft dit toekomst? Waarom wel? Waarom niet?
+
+                                    - Welke sociale media passen hier het beste?
+                                    - Wanneer zou jij de overstap op open source platforms maken?
+                                    - Ben jij afhankelijk van sociale media om geïnformeerd t worden door de
+                                      Rijksoverheid?
+                                    - Etc.
+
+
+
+
+                                     Vraag aan de deelnemers:
+
+                                     Welk medium (Instagram of LinkedIn) vind je het meest geschikt voor deze
+                                     post? En waarom?
+
+                                     - Via welk medium zou jij de post doorsturen?
+                                     - Blijft dat in de toekomst ook zo?
+                                     - Etc.
+
+
+
+
+Vignetten dialoog jongvolwassenen
+
+
+
+
+                                                                                                   33
+Vignetten dialoog ondernemers.
+
+
+
+
+                                 34
+

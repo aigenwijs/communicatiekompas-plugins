@@ -1,0 +1,50 @@
+{
+  "name": "woordvoering",
+  "version": "0.2.0",
+  "description": "Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "dilemmalogica",
+    "framing",
+    "kernboodschap",
+    "kritiek",
+    "nepnieuws",
+    "overheidscommunicatie",
+    "persvraag",
+    "polarisatie",
+    "rijksoverheid",
+    "woordvoering",
+    "crisiscommunicatie",
+    "bewindspersoon",
+    "openbare agenda",
+    "sociale media",
+    "speech",
+    "mediabereik",
+    "media-analyse",
+    "omgevingsanalyse",
+    "MOM",
+    "nieuwsconsumptie",
+    "niet-bereikte groepen"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Woordvoering",
+    "shortDescription": "Woordvoering zoals de Rijksoverheid het afspreekt.",
+    "longDescription": "Zeven skills voor woordvoerders en communicatieadviseurs bij de overheid: persvragen beantwoorden (kijk-want-dus), dilemmalogica toepassen, reageren op kritiek en frames, crisiscommunicatie, persregels checken, bewindspersoon in de media, en mediabereik en media-analyse (Monitor Ontwikkeling Mediagebruik). Elke skill werkt met een leestabel naar de meegeleverde bronteksten van communicatiekompas.nl en communicatierijk.nl (CC0).",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Schrijf een persreactie van drie zinnen op deze persvraag: ...",
+      "Pas dilemmalogica toe op dit besluit met nadelen: ...",
+      "Moeten we reageren op deze kritiek op sociale media en hoe? ..."
+    ],
+    "developerName": "Aigenwijs",
+    "websiteURL": "https://github.com/aigenwijs/communicatiekompas-plugins"
+  }
+}
