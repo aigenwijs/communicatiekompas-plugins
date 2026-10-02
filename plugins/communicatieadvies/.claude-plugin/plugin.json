@@ -1,0 +1,34 @@
+{
+  "name": "communicatieadvies",
+  "version": "0.1.0",
+  "description": "Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "communicatieadvies",
+    "communicatieadviseur",
+    "factor c",
+    "intake",
+    "debriefing",
+    "omgevingsanalyse",
+    "krachtenveld",
+    "stakeholders",
+    "communicatieonderzoek",
+    "communicatiestrategie",
+    "kernboodschap",
+    "communicatieplan",
+    "evaluatie",
+    "accountability",
+    "overheidscommunicatie",
+    "rijksoverheid",
+    "beleid",
+    "dilemmalogica",
+    "casi",
+    "gedrag"
+  ]
+}

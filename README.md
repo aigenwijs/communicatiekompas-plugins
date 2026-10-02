@@ -9,7 +9,7 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### `woordvoering` (versie 0.2.0)
+### `woordvoering` (versie 0.2.1)
 
 Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -26,6 +26,24 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
+### `communicatieadvies` (versie 0.1.0)
+
+Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
+
+Skills:
+
+- `communicatieadvies-geven`: Communicatieadvies geven
+- `communicatieplan-schrijven`: Communicatieplan schrijven
+- `communicatiestrategie-bepalen`: Communicatiestrategie bepalen
+- `evaluatie-en-verantwoording`: Evaluatie en verantwoording
+- `intake-en-debriefing`: Intake en debriefing
+- `kernboodschap-ontwikkelen`: Kernboodschap ontwikkelen
+- `omgevingsanalyse-maken`: Omgevingsanalyse maken
+- `publieksonderzoek-opzetten`: Publieksonderzoek opzetten
+
+Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
+De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
+
 ## Installeren in de Codex-app (ChatGPT)
 
 Open **Instellingen → Plug-ins → Plug-in-marktplaats toevoegen** en vul in:
@@ -34,7 +52,7 @@ Open **Instellingen → Plug-ins → Plug-in-marktplaats toevoegen** en vul in:
 |---|---|
 | Bron | `aigenwijs/communicatiekompas-plugins` (of `git@github.com:aigenwijs/communicatiekompas-plugins.git`) |
 | Git-referentie | `main` |
-| Sparse-paden | leeg laten, of `plugins/woordvoering` voor alleen die plugin |
+| Sparse-paden | leeg laten, of `plugins/<naam>` (bijvoorbeeld `plugins/woordvoering`) voor alleen die plugin |
 
 Daarna verschijnt de marktplaats **communicatiekompas** met de plugins hierboven; klik op *Installeren*.
 
@@ -49,6 +67,7 @@ codex plugin marketplace add aigenwijs/communicatiekompas-plugins --ref main
 ```
 /plugin marketplace add aigenwijs/communicatiekompas-plugins
 /plugin install woordvoering@communicatiekompas
+/plugin install communicatieadvies@communicatiekompas
 ```
 
 ## Kosten
@@ -61,9 +80,9 @@ Claude Code-omgeving nodig; daarvoor gelden de voorwaarden en eventuele abonneme
 De teksten in `bronnen/` zijn kopieën van pagina's van communicatiekompas.nl en communicatierijk.nl,
 waarvan de tekst onder een CC0-verklaring is gepubliceerd, plus tekstversies van PDF-publicaties
 van die sites die hergebruik met bronvermelding toestaan. Elke kopie vermeldt de bron-URL in de
-frontmatter. Twee publicaties met een beperkende rechtenvermelding (*Monitor Ontwikkeling
-Mediagebruik 2025* en *Moet dat nou zo?!*) zijn **niet** opgenomen; de skills verwijzen voor die
-twee naar de downloadlink op de publicatiepagina.
+frontmatter. Vier publicaties met een beperkende rechtenvermelding (*Monitor Ontwikkeling
+Mediagebruik 2025*, *Moet dat nou zo?!*, *Leidraad Communicatieonderzoek 2017* en *Blijf bevragen*)
+zijn **niet** opgenomen; de meegeleverde paginateksten noemen ze wel, met de bron-URL in de frontmatter.
 
 Alles in deze repository (skills, manifesten, README) is vrijgegeven onder
 [CC0 1.0 Universal](LICENSE): doe ermee wat je wilt, zonder bronvermelding of toestemming.

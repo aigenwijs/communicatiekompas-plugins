@@ -1,0 +1,1887 @@
+[Tekstversie van Handreiking+Public+Design.pdf, omgezet met pdftotext zonder -layout (meerkoloms opmaak, leesvolgorde per kolom)]
+
+Design bij de
+(Rijks)overheid
+Hoe public design kan helpen bij de aanpak van complexe
+opgaven bij de (Rijks)overheid
+
+Voorwoord
+Voor wie is deze handreiking?
+Deze handreiking is bedoeld voor iedereen die
+het belangrijk vindt om de mens centraal te
+zetten in de aanpak van een vraagstuk, of dit
+nou eindgebruikers, collega’s of andere
+belanghebbenden zijn. Het uitgangspunt van
+deze handreiking is dat verschillende
+perspectieven optimaal bijdragen aan het
+vinden van mogelijke oplossingen en dat je
+leert door (samen) te experimenteren. De
+eerste ervaringen met het toepassen van deze
+manier van werken hebben ons veel energie
+gebracht. We zijn uitgekomen op verrassende
+inzichten, nieuwe samenwerkingsverbanden
+en verschillende oplossingsrichtingen.
+Hoe werkt deze handreiking?
+In deze handreiking lees je meer over design
+denken, de vraagstukken waarbij je dit kunt
+toepassen en hoe je hiermee aan de slag kunt
+gaan binnen de context van de
+(Rijks)overheid. We noemen dit public design.
+
+We hopen je hiermee te enthousiasmeren
+voor een aanpak waarin alle betrokken
+partijen een rol hebben bij het vinden van de
+juiste opgave van een vraagstuk. Maar ook bij
+het herkennen van een goede oplossing bij
+deze opgave. Een aanpak waarin recht wordt
+gedaan aan de behoeften, gevoelens en
+onderliggende emoties van de diverse
+belanghebbenden.
+We presenteren ook onze eigen werkwijze het
+‘Public Design Wiel’. Deze werkwijze is niet in
+beton gegoten. Sterker nog: de werkwijze is
+wat ons betreft nooit af. Van elk vraagstuk
+leren we namelijk bij. Maar omdat we het
+toepassen van design denken binnen de
+(Rijks)overheid graag een stapje verder willen
+helpen, delen we graag onze eerste inzichten
+door middel van deze handreiking.
+Het Public Design Wiel bestaat uit zes fases.
+Per fase beschrijven we wat het doel is van
+deze fase en waarom bepaalde werkvormen/
+
+canvassen daar goed bij aansluiten. Ook
+bespreken we een aantal cases waarop het ‘Public
+Design Wiel’ binnen het publieke domein is
+toegepast en wat dit heeft opgeleverd. Tot slot
+bevat deze handreiking een aantal praktische
+tips.
+Wie zijn wij?
+Het cluster communicatieonderzoek van de Dienst
+Publiek en Communicatie (DPC) werkt aan het
+toepassen van het design denken bij
+maatschappelijke vraagstukken met veel
+betrokkenen. We hopen dat deze handreiking
+ideeën geeft voor jouw werk. Op
+www.communicatierijk.nl/vakkennis/publicdesign
+vind je meer informatie over design denken bij de
+(Rijks)overheid.
+Veel leesplezier!
+Marit Groeneveld, Lizet van Tilburg en
+Margot Lagendijk
+
+Inhoud
+1. Design
+
+p. 4 – 11
+
+Wat is design denken, wanneer is het geschikt en wat levert het op
+
+2. Cases
+
+p. 12 – 22
+
+Public design cases: aanleiding, aanpak, opbrengsten en leerpunten
+
+3. Public Design Wiel
+
+p. 23 – 35
+
+Een praktisch toepasbaar proces voor het toepassen van design:
+• De juiste uitdaging vinden
+• De uitdaging juist oplossen
+
+4. En nu aan de slag…
+
+p. 36 – 43
+
+O.a. draagvlak en commitment, teamsamenstelling, tools en middelen
+> Leestips & bronnen
+
+p. 44
+
+Deel 1:
+DESIGN
+Wat is design denken, wanneer is het geschikt en wat levert het op
+
+Design: een nieuw perspectief
+Complexe vraagstukken
+Je ziet steeds vaker dat vraagstukken zo
+verweven zijn met de wereld om ons heen dat
+er geen snelle of eenvoudige oplossingen zijn.
+Voorbeelden van dit type vraagstukken zijn:
+hoe kan de overheid de dalende vaccinatiegraad in Nederland tegengaan? Of: wie
+kan/moet wat doen in de klimaattransitie?
+Dit type vraagstukken, door André Schaminée
+(1) ook wel ‘wicked problems’ genoemd, kent
+een aantal kenmerken:
+• Complexiteit – het is lastig om grip krijgen
+op de aard van de uitdaging en mogelijke
+oplossingen.
+• Contextualiteit - Je kunt het vraagstuk niet
+los zien van de brede context. Er zijn veel
+betrokkenen, waardoor je met elkaar moet
+optrekken. Soms is het eigenaarschap
+diffuus.
+• Dynamisch – het vraagstuk staat niet stil
+als je ermee bezig bent. Nieuwe
+ontwikkelingen doen zich voor.
+
+Deze vraagstukken benadrukken het belang
+van andere manieren van samenwerken en
+onderzoek doen, ook over organisatiegrenzen
+heen. Het betrekken en begrijpen van
+iedereen die met het vraagstuk te maken
+heeft, is daarbij van belang. Pas dan krijg je
+met elkaar zicht op het grotere plaatje en
+wordt het mogelijk om vanuit een breder
+perspectief naar het vraagstuk te kijken en
+een strategie te bepalen.
+
+Het met alle belanghebbenden samen het
+vraagstuk duiden is hierbij misschien wel
+belangrijker dan het komen tot oplossingen.
+Het toepassen van design denken waarin niet
+alleen met belangen rekening wordt gehouden
+maar ook met drijfveren en onderliggende
+behoeftes, biedt dit type uitdagingen een
+nieuw perspectief.
+
+In de basis gaat het om een manier van samenwerken waarbij je met
+elkaar op zoek gaat naar een ander ‘frame’ om naar het
+oorspronkelijke probleem te kijken en te komen tot mogelijke
+oplossingen.
+Prof. Dr. Ir. K. Dorst | Hoogleraar Design aan de University of Technology Sydney (2)
+
+Wat is design?
+Design betekent ontwerp of vormgeving. Bij design denken is het uitgangspunt dat
+‘iedereen die onderdeel is van de uitdaging ook onderdeel moet (kunnen) zijn van de
+oplossing’. In de basis gaat het om een andere manier van samenwerken waarbij je
+met elkaar op zoek gaat naar een ander ‘frame’ om naar de oorspronkelijke uitdaging
+te kijken en te komen tot oplossingen.
+Het is mogelijk om op verschillende niveaus naar design te kijken (Buchanan (3)):
+
+Interactie
+Interaction
+
+Systeem
+System
+
+Industrial
+Industrieel
+Graphic
+Grafisch
+
+Niveau 1: Grafisch design
+Op het niveau van grafisch design gaat het om het vormgeven van communicatie door middel van tekst en beeld.
+Dat kan via ieder gewenst medium: offline of online.
+Niveau 2: Industrieel design
+Industriële vormgeving is het ontwerpen van producten, bestemd voor (massa)productie. Industrieel ontwerpers
+geven vorm aan de wereld om ons heen.
+Niveau 3: Interactie design
+Bij interactie design gaat het om de interactie tussen mensen en tussen mensen en technologieën, zoals
+bijvoorbeeld gebruikersinterfaces van overheidsdiensten en communicatie.
+Niveau 4: Systeem design
+En bij de buitenste ring gaat het om het (her)ontwerpen van systemen zoals organisaties en beleid, maar ook
+netwerken van verschillende organisaties (bijv. een sector).
+
+Orders of design
+Richard Buchanan | professor in ontwerp-,
+beheer- en informatiesystemen (3)
+
+Het toepassen van de uitgangspunten van design denken op vraagstukken binnen de
+context van de (Rijks)overheid hebben wij public design genoemd. Het gaat hierbij
+om het toepassen van design op de niveaus van interactie en systeem design.
+
+Uitgangspunten public design
+Bij public design staan vijf uitgangspunten centraal :
+Mens
+centraal
+
+Co-creatief
+
+Toetsen van
+tastbare
+concepten
+
+Het design denken kenmerkt zich door actieve betrokkenheid van alle
+partijen. Dit houdt in: een samenwerking waarin alle deelnemers invloed
+hebben op het proces en het resultaat.
+
+Iteratief
+
+Product/
+dienst in
+context
+
+Het begint met het centraal stellen van alle betrokken mensen, denk
+aan eindgebruikers, collega’s of andere belanghebbenden. Tijdens een
+public design traject uit zich dat in betrokkenheid van, en empathie
+voor iedereen die bij het vraagstuk betrokken is. Daarnaast is een
+public design proces co-creatief en iteratief van aard. Je gaat met
+elkaar aan de slag in kleine stappen in een proces dat op zichzelf
+voortborduurt. Het is de bedoeling dat je je eerst inleeft om te
+bedenken wat het precieze vraagstuk is voordat je in de oplossingsmodus schiet. Tijdens dit proces richt je je met elkaar op de
+ontwikkeling van tastbare concepten. Het tastbaar maken van de
+ideeën, plannen die op papier staan, et cetera creëert een gedeeld
+beeld en zorgt ervoor dat je de ideeën meteen kunt testen binnen de
+context waarin het vraagstuk is ontstaan, dus in de werkelijkheid.
+
+Bij public design doorloop je met elkaar op een zorgvuldige manier een
+proces dat gebaseerd is op deze design uitgangspunten. Wij maken bij
+public design gebruik van de double diamond. Deze diamond geeft de
+verschillende fases van het proces aan, waarbij afwisselend wordt
+gedivergeerd en geconvergeerd. Divergerend denken kenmerkt zich door
+het breed ophalen van inzichten en het genereren van verschillende
+oplossingsrichtingen. Met convergerend denken wordt vervolgens de
+probleemstelling aangescherpt en worden de meest kansrijke inzichten
+en ideeën geselecteerd.
+
+Ambitie
+Empathie
+
+Ideeën
+generatie
+(Her)definitie
+
+Tastbaar
+concept
+
+Test en
+evaluatie
+
+Wat levert public design op?
+Het toepassen van public design kan voor een overheidsorganisatie wennen zijn, omdat het kan botsen met de uitgangspunten die veel overheidsorganisaties hebben, zoals efficiëntie en voorspelbaarheid. Het perspectief van betrokkenen voorop stellen en in latere stadia experimenteren
+(en daarmee mogelijk ook fouten maken) kan een verwarrend proces zijn. Daar tegenover staat dat het toepassen van public design ook veel kan
+opleveren. Het hoeven geen werelden te zijn die botsen.
+
+Vergroten empathisch vermogen
+Doordat je je in de empathiefase verdiept
+in de belevingswereld van andere
+belanghebbenden ontstaat er meer
+empathie voor andere opvattingen en
+meningen. ‘Ik vond het proces op zichzelf
+al waardevol. Er ontstaat meer begrip
+voor elkaar.’ (deelnemer case EZK)
+Meer vertrouwen & breder gedragen
+oplossingsrichtingen
+Alle belanghebbenden worden op
+verschillende momenten in het proces
+betrokken, zowel bij het vinden van de
+juiste uitdaging, als bij het bedenken van
+een oplossing. Dit zorgt voor een breder
+draagvlak van de oplossingen en meer
+vertrouwen.
+
+Gedeeld beeld
+Gesprekken in de empathiefase of testfase
+worden gezamenlijk uitgevoerd. Zo worden
+de verschillende inzichten door het hele
+team opgehaald en gedeeld met elkaar,
+zodat iedereen steeds eenzelfde
+vertrekpunt heeft.
+Meer samenwerking & reductie
+doorlooptijden
+Tijdens de gezamenlijke werksessies wordt
+veel werk verzet dat anders door
+individuen zou worden verricht. De sessies
+zijn geen extra werkuren, maar zorgen
+juist voor een heel effectief proces. Door
+minder te vergaderen en te praten kun je
+sneller stappen maken.
+‘Het lijkt veel tijd te kosten maar bespaart
+juist tijd.’ (deelnemer case SZW)
+
+Nieuwe ideeën
+Ons zicht is beperkt doordat wij door
+bepaalde frames naar de werkelijkheid
+kijken. Dat is menselijk. Door deze frames
+expliciet te maken en met elkaar op zoek
+te gaan naar nieuwe frames (reframing)
+kunnen wij met elkaar tot nieuwe ideeën
+komen en nieuwe oplossingen vinden voor
+bestaande problemen.
+Oplossing die aansluit bij behoeften
+Omdat er in kleine stappen naar de
+oplossing wordt toegewerkt en je een
+oplossing steeds test, kun je sneller
+denkfouten opsporen en onderliggende
+uitdagingen ontdekken. Hierdoor kom je
+tot een oplossing die goed aansluit bij de
+behoeften.
+
+Wanneer wel
+Complexe maatschappelijke vraagstukken
+Public design kan een geschikt alternatief zijn bij complexe
+maatschappelijke vraagstukken die lastig te overzien zijn en/of niet
+door één ministerie of organisatie effectief kunnen worden aangepakt.
+Om deze problemen met elkaar aan te pakken is er vaak een andere
+manieren van samenwerken nodig dan een projectmatig of een op
+belangen gestoeld proces. In dat geval leidt overleg en het herhaald
+uitwisselen van standpunten vaak niet tot de gewenste oplossing. Er
+is een aanpak nodig waarin recht wordt gedaan aan de behoeften,
+gevoelens en emoties van de diverse betrokkenen.
+
+De beschikbare ruimte bestaat dan misschien alleen nog uit het
+uitdenken of implementeren van de ‘HOE’. Op het moment dat je hier
+aan de voorkant open over bent, dan hoeft dit geen probleem te zijn in
+het doorlopen van het verdere proces . Zie sheet 38 om te bepalen aan
+de hand van een aantal vragen in hoeverre jouw vraagstuk geschikt is
+voor public design. Als je wilt leren, innoveren en openstaan voor andere
+perspectieven is public design een geschikte aanpak.
+
+Ruimte voor een nieuwe oplossing
+Elke public design opgave is in essentie te herleiden tot de formule:
+Wat + Hoe = Waarde. Een designopgave wordt ‘idealiter’ gekenmerkt
+door het idee dat de ‘WAARDE’ al bekend is (stijgende
+vaccinatiegraad, klimaatbestendigheid). Maar nog onbekend is wie
+wat moet gaan doen en op welke manier. Op dat moment is de ruimte
+voor een nieuwe oplossing het grootste. Hoe eerder in het proces hoe
+beter. Het kan natuurlijk voorkomen dat je een vraagstuk hebt waarin
+je al verder bent: je hebt een duidelijk beeld van de aard van het
+vraagstuk en/of er zijn al ideeën of mogelijke oplossingsrichtingen, of
+je weet eigenlijk al wel wie er met dit vraagstuk aan de slag zou
+moeten.
+
+Door de interactie die je samen hebt en de manier
+waarop je samen een proces doorloopt leer en groei
+je allemaal.
+Hans Vermaak | adviseur complexe verandervraagstukken (4)
+
+Wanneer niet
+Onvoldoende draagvlak
+Voor het inzetten van public design ga je een brede samenwerking
+aan vaak met meerdere betrokken partijen. Het is belangrijk om
+steun te hebben vanuit je eigen organisatie om op deze manier te
+werken. Daarnaast moeten andere organisaties bereid zijn om deel te
+nemen aan het proces. Als deze bereidheid er niet is, dan heeft het
+toepassen van public design weinig kans van slagen.
+
+Geen ruimte voor andere ideeën/oplossingen
+Zoals al eerder aangegeven is public design niet geschikt als zowel de
+oplossing als hoe deze oplossing tot stand moet komen al geheel
+vastligt. Er moet nog enige ruimte beschikbaar zijn voor andere ideeën
+en oplossingen, anders heeft het toepassen van public design weinig
+toegevoegde waarde en kan het in het slechtste geval zelfs een nadelig
+effect hebben.
+
+Te weinig openheid
+Ook is het belangrijk om open en eerlijk met elkaar te kunnen
+samenwerken. Beschikbare informatie moet met verschillende
+betrokkenen gedeeld kunnen worden. Het moet voor alle betrokken
+partijen duidelijk zijn welke ruimte er is om met nieuwe ideeën en
+oplossingen te kunnen komen. Als dat niet mogelijk is, dan is public
+design niet de juiste aanpak.
+
+Teamleden hebben geen tijd
+Public design trajecten besteed je niet (geheel) uit, maar je participeert
+er als organisatie actief in. Dit betekent tijd vrij maken om mee te
+kunnen doen aan verschillende werksessies en hieraan actief
+deelnemen. Actieve deelname van betrokken teamleden aan de
+verschillende fases is essentieel!
+
+Raakvlakken met…
+Public design heeft raakvlakken met andere
+werkwijzen binnen de overheid. Welke
+werkwijze het best past bij jouw vraagstuk is
+maatwerk. Het een sluit het ander ook niet
+uit.
+… strategisch omgevingsmanagement
+Deze werkwijze is bedoeld om een dialoog
+aan te gaan en belanghebbenden te
+betrekken bij beleids- en
+besluitvormingsprocessen. Het bouwt voort
+op de Mutual Gains Approach (MGA). Er wordt
+gekeken naar de belangen achter de
+standpunten om zo tot een gedragen
+oplossing voor alle partijen te komen. Bij
+strategisch omgevingsmanagement (SOM),
+werk je net als bij public design, ook op een
+gestructureerde procesmatige manier aan het
+oplossen of voorkomen van conflicten met de
+omgeving. Maar bij public design ligt de
+nadruk op co-creatie om te komen tot
+oplossing die uitgewerkt kan worden in een
+tastbaar concept aan de hand van creatieve
+werksessies. Bij SOM ligt de nadruk meer op
+het analyseren van belangen en projectmatig
+werken.
+
+… gedragskennis
+Als het gaat om gedrag wordt er binnen de overheid
+gewerkt met CASI (= Communicatie Activatie Strategie Instrument. Je zet dit in als de focus ligt op het
+(veranderen van) gedrag en waarbij communicatie
+een belangrijk instrument is, al dan niet in combinatie met andere beleidsinstrumenten. Er worden
+een aantal stappen doorlopen om met het betrokken
+team tot onderbouwde keuzes te komen en vanuit de
+beleidsopgave kansrijke communicatiestrategieën en
+gedragsinterventies te ontwikkelen. CASI wordt dus
+ingezet als het gaat om een vraagstuk waarbij de
+oplossing gezocht wordt op het gebied van gedrag(sverandering). Bij public design staat de oplossingsrichting van het vraagstuk open, gedurende het
+proces werk je naar een bepaalde oplossingsrichting
+toe. Binnen een proces met public design kunnen gedragsinzichten (bijvoorbeeld uit CASI) rondom een
+vraagstuk wel meegenomen worden, bijv. in de empathiefase of bij het vinden van oplossingen. Daarnaast is het een belangrijk uitgangspunt van public
+design dat alle belanghebbenden (dus bijv. ook gebruikers, inwoners, etc.) actief betrokken worden bij
+alle fases van het proces, ook het meedenken over
+ideeën en oplossingen voor een vraagstuk. Bij CASI
+kan dit ook, maar wordt dit nu nog weinig gedaan.
+
+…dilemmalogica
+Dilemmalogica staat voor actief en vroegtijdig het
+contact aangaan met betrokkenen. Het is vooral
+een houding, hoe je werkt met de verwachtingen,
+voorkeuren en aannames van de mensen en groeperingen waar je mee te maken hebt. Er wordt
+gewerkt met een drieslag: (I) erken de zorgen,
+boven- en onderstromen, (II) help de zienswijzen
+van burgers, ondernemers of organisaties te koppelen aan die van de overheid en (III) bied perspectief, help uitkomsten te benoemen. Bij Dilemmalogica ligt de nadruk erop om de communicatie
+vanuit de overheid zo goed mogelijk te laten
+aansluiten bij diegenen waarop de communicatie
+gericht is. Public design kan ook betrekking hebben op communicatie, maar de insteek is vaak
+breder. Vaak is van tevoren immers nog niet
+bekend welke mogelijke oplossing wordt gevonden
+voor een vraagstuk. Bij Dilemmalogica kunnen in
+het proces net als bij public design verschillende
+belanghebbenden meegenomen worden in het
+proces. Bij public design speelt de betrokkenheid
+van belanghebbenden (bijv. inwoners, gebruikers,
+etc.) een nog prominentere rol, zij worden in alle
+fases van het proces actief betrokken.
+
+Deel 2:
+CASES
+Public design cases: aanleiding, aanpak, opbrengsten en leerpunten
+
+Case 1: Informatiemarkt gaswinning
+Aanleiding
+EZK organiseert jaarlijks een groot aantal informatiemarkten betreffende besluiten over
+winningsplannen van kleine gasvelden. Zowel omwonenden als EZK waren niet gelukkig met
+het verloop van deze avonden. Bewoners voelden zich vaak niet gehoord in hun zorgen
+rondom gaswinning. Hierdoor werd het draagvlak voor het ter plaatse winnen van gas niet
+vergroot en werden er zienswijzen ingediend die geen betrekking hadden op het besluit.
+Doelstelling
+Een verbeterde opzet voor lokale informatie bij gaswinning, die bijdraagt aan het vertrouwen
+in de omgeving rond de gaswinning in de regio. Omwonenden worden gehoord en zijn goed
+geïnformeerd.
+Betrokken partijen
+Bij deze case waren de volgende partijen betrokken: EZK, RVO, Vermilion, SODM, TNO, de
+gemeente Westerveld en de omwonenden.
+Er is gezamenlijk gewerkt aan een verbeterde opzet van de lokale informatievoorziening
+rondom gaswinning in het algemeen en het besluit in het bijzonder. De bewoners zijn actief
+betrokken en uitgenodigd.
+
+Case 1: Informatiemarkt gaswinning
+Onderstaand de stappen die we hebben doorlopen voor dit project. De fases komen overeen met de stappen uit het Public Design Wiel. Afwisselend is
+er gedivergeerd (creëren van opties: empathie en ideeëngeneratie) en geconvergeerd (keuzes maken: (her)definitie, tastbaar concept en test).
+
+Ambitie
+
+Empathie
+
+Werksessie van 3 uur met
+het kernteam:
+
+Deel 1:
+• Etnografisch onderzoek in
+Diever en omgeving door
+Perspective
+• Kernteam zelf in gesprek
+met omwonenden
+
+• Gezamenlijk scherp
+krijgen uitdaging
+en formuleren van
+Design vraag
+• Praktische planning en
+rolverdeling
+
+Deel 2:
+• Interviews met experts
+burgerparticipatie door
+Perspective
+
+(Her)definitie
+Dag 1: overdag
+• Delen inzichten etnografisch onderzoek
+• Expliciet maken denkkader omwonenden
+• Herdefiniëren nieuw kader en design vraag
+• Genereren ideeën opzet informatiemarkt
+
+Tastbaar concept
+
+Test & evaluatie
+
+Dag 2: overdag
+• Ontwikkelen nieuwe opzet
+informatiemarkt aan de hand van
+ideeën en inzichten empathiefase
+en co-creatie sessie
+• Concrete uitwerking en
+vormgeving acties
+
+• Eerste keer doorvoeren
+nieuw ontwikkelde opzet
+informatiemarkt
+• Evaluatie met team van
+betrokkenen
+• Advies opzet toekomstige
+markten (learnings)
+
+Ideeën
+generatie
+Dag 1: avond
+• Co-creatie sessie omwonenden:
+Voorleggen ideeën en optimaliseren
+
+2-daagse pressure cooker
+
+Case 1: Informatiemarkt gaswinning
+Opbrengsten:
+Het public design traject heeft in 5 weken een verbeterde opzet van
+de lokale informatievoorziening rondom gaswinning opgeleverd die
+aandacht geeft aan zowel het proces voor en tijdens de informatiemarkt als aan het doorlopende contact. De behoeften van de
+omwonenden staan in deze opzet centraal. Het traject heeft veel
+energie en nieuwe ideeën opgeleverd.
+Een deelnemer aan de co-creatiesesie:
+‘Het eerste half uur dacht ik: wat doe ik hier. Zes bewoners tegenover
+twintig ambtenaren. Maar ik merkte dat mensen echt naar elkaar
+luisterden. We kwamen samen tot goede ideeën. Zoals: nodig mensen
+voor de informatiemarkt uit met een persoonlijke brief, in plaats van
+een advertentie in een krantje. Zorg dat mensen kunnen zien, ruiken
+en voelen waar het over gaat. Zorg dat ze één op één hun vragen
+kunnen stellen. En geef informatie over eventuele schaderegelingen.’
+De opzet van de informatiemarkt is wezenlijk veranderd. In plaats van
+per organisatie zijn er nu standjes per thema. Bij de standjes staan
+nu verschillende deskundigen samen de bijna tweehonderd bezoekers
+te woord. De thema’s zijn afgeleid van de vragen die omwonenden
+hebben over de gaswinning. Hierdoor sluiten ze beter aan op de
+zorgen en vragen van omwonenden, zodat inwoners zich beter
+
+gehoord voelen en gerichter naar gewenste informatie kunnen zoeken
+op de markt. TNO liet met proefopstellingen zien hoe gaswinning in zijn
+werk gaat. Ook actiegroepen hebben voortaan een eigen plek op de
+informatiemarkt.
+
+Case 2: Omvorming ProRail
+Aanleiding
+In 2021 moet de omvorming van ProRail tot een zelfstandig bestuursorgaan (ZBO) rond zijn.
+ProRail valt dan onder de directe verantwoordelijkheid van het ministerie van Infrastructuur
+en Waterstaat. Onderdeel daarvan is het verder ontwikkelen van een communicatieaanpak
+om medewerkers van ProRail mee te nemen in de omvorming en de aanpak goed te laten
+aansluiten bij het gevoel en de behoeften van de medewerkers.
+Doelstelling
+Gedurende het traject is gezamenlijk met het team bepaald dat de communicatieaanpak moet
+leiden tot: Medewerkers van ProRail voelen zich geïnformeerd en weten wat de omvorming
+voor hen betekent. Ze weten waar ze heen moeten met opmerkingen en vragen. Ze voelen
+zich gehoord en zien dat de omvorming wordt gesteund door de top. En ze hebben er
+vertrouwen in dat de omvorming bijdraagt aan een goed functionerend ProRail, met ruimte
+voor zelfontplooiing en erkenning van vakkundigheid.
+Betrokken partijen
+Het kernteam is bij alle fases betrokken geweest en bestond uit verschillende
+(communicatie)medewerkers van ProRail en het ministerie van Infrastructuur en Waterstaat.
+Bij alle sessies was, naast het kernteam, een breder, multidisciplinair team aanwezig, met
+onder andere leden van de Ondernemingsraad van ProRail. Gedurende het traject is HR
+geregeld bijgepraat. Ook medewerkers van ProRail zijn actief betrokken gedurende het
+traject.
+
+Case 2: Omvorming ProRail
+Onderstaand de stappen die we hebben doorlopen voor dit project. De fases komen overeen met de stappen uit het Public Design Wiel. Afwisselend is
+er gedivergeerd (creëren van opties: empathie en ideeëngeneratie) en geconvergeerd (keuzes maken: (her)definitie, tastbaar concept en test).
+
+Ambitie
+
+Empathie
+
+• Werksessie (3 uur) met
+kernteam
+• Delen van relevante
+informatie, ervaringen
+met vergelijkbare cases,
+stappen die al zijn
+doorlopen, gevoeligheden
+en onderzoeken
+• Vaststellen doel,
+deliverables en scope
+• Bespreken planning en
+vervolgstappen
+• Samenstellen
+multidisciplinair
+projectteam
+
+• 8 werkplekgesprekken op
+verschillende locaties
+• Wat speelt er los van de
+verzelfstandiging? Wat
+zijn persoonlijke ambities?
+Voelt men zich gehoord,
+gezien, betrokken, veilig,
+gesteund, etc.?
+
+• een insights sessie
+(2,5 uur) met 7
+medewerkers van ProRail
+• M.b.v. design thinking
+canvassen en design
+sprint technieken
+• Welke behoeftes heeft
+men? Framing / reframing
+uitdaging
+
+(Her)definitie
+• Werksessie (3 uur) met
+projectteam
+• Delen resultaten
+• Formulering heldere
+probleemdefinitie
+
+Ideeëngeneratie
+• 2 x co-creatie sessie van
+3 uur met projectteam en
+ieder 6 ProRailers
+• Genereren van
+interventies (input voor
+communicatie of
+ontwerpoplossingen),
+selectie en uitwerken van
+geselecteerde interventies
+(tastbare concepten)
+
+Tastbaar concept
+• Werksessie (3 uur) met
+projectteam, keuze en
+uitwerking meest
+kansrijke interventies
+
+Test & evaluatie
+• 14 individuele interviews
+met medewerkers ProRail
+op verschillende locaties
+• Voorleggen aantal
+uitgewerkte interventies
+• Tussentijds aanpassen en
+aanscherpen (itereren)
+
+• Werksessie (3 uur) met
+kernteam
+• Terugkijken op het proces
+en methodiek, delen
+inzichten en leerpunten
+• Vaststellen roadmap voor
+next steps +
+verantwoordelijken
+• Opleveren rapportage
+door Perspective
+
+Case 2: Omvorming ProRail
+Opbrengsten:
+Dit public design traject heeft concrete input opgeleverd voor de
+communicatieaanpak van ProRail en IenW over de omvorming van
+ProRail tot ZBO. Samen met medewerkers en het betrokken team zijn
+er verschillende ideeën bedacht. De ideeën waren gericht op de drie
+invalshoeken die voor medewerkers belangrijk zijn:
+1.Motivatie: Waarom vindt de omvorming plaats?
+2.Anticiperen: Wat betekent het voor mij? Er is gebrek aan kennis
+over en de impact op werkzaamheden, waardoor men niet kan
+anticiperen op wat komen gaat.
+3.Trots: Hoe behouden we onze trots? ProRail is (weer) een
+organisatie met een sterke identiteit en trots.
+De meest kansrijke ideeën zijn uitgewerkt tot concrete concepten,
+getest en aangescherpt door medewerkers. Hierdoor sluiten ze goed
+aan bij de behoeften van de medewerkers van ProRail.
+‘Je haalt op hoe mensen er echt in staan en dat werkt,
+onderbuikgevoel ophalen werkt!’ (deelnemer ProRail)
+Het traject heeft daarnaast een voorzet opgeleverd voor de volgorde
+waarin de (communicatie)concepten door de tijd heen ingezet kunnen
+worden. Het heeft ook een eerste opzet opgeleverd hoe het effect van
+de concepten gemeten kan worden.
+
+‘Deze manier van werken geeft veel kwalitatieve informatie die concreet
+kan worden toegepast.’ (deelnemer ProRail)
+
+Case 3: Respectvol samenleven
+Aanleiding
+De directie Samenleving en Integratie (S&I) van het ministerie van Sociale Zaken en
+Werkgelegenheid (SZW) werkt aan vraagstukken als gevolg van migratie, zodat mensen in
+Nederland in al hun verscheidenheid met respect met elkaar leven en iedereen zich thuis
+voelt, ongeacht herkomst, religie of levensovertuiging. Dit verloopt redelijk goed in
+Nederland, maar er blijven uitdagingen bestaan.
+Doelstelling
+In dit project lag de focus op onderstaande (design)vragen:
+1. Hoe kunnen we gunstige omstandigheden creëren voor het realiseren van initiatieven die
+er aan bijdragen dat Nederlanders respectvol met elkaar leven?
+2. Hoe kunnen we hierin de rol van de Rijksoverheid duidelijk definiëren?
+Het project dient bij te dragen aan het lange termijn doel: Alle Nederlanders leven respectvol
+met elkaar.
+Betrokken partijen
+Het kernteam is bij alle fases betrokken geweest en bestond uit verschillende medewerkers
+van de directie S&I van SZW. Bij alle werksessies zijn, naast het kernteam, medewerkers van
+verschillende gemeenten, (sociaal) ondernemers en (sociaal) designers aangesloten.
+Daarnaast is er in de empathiefase gesproken met initiatiefnemers, (wetenschappelijke)
+experts op gebied van samenleven en jongerenwerkers. De co-creatiesessies zijn uitgevoerd
+met jongeren in de leeftijd van 17-24 jaar uit de omgeving van Amsterdam en Tilburg.
+
+Case 3: Respectvol samenleven
+Onderstaand de stappen die we hebben doorlopen voor dit project. De fases komen overeen met de stappen uit het Public Design Wiel. Afwisselend is
+er gedivergeerd (creëren van opties: empathie en ideeëngeneratie) en geconvergeerd (keuzes maken: (her)definitie, tastbaar concept en test).
+
+Ambitie
+
+Empathie
+
+• Kick-off van 3 uur
+• Afstemmen designvraag,
+scope, doelgroep en
+deliverables
+• Praktische planning en
+rolverdeling
+
+• Face-to-face en
+telefonische interviews
+van 30-45 minuten met
+experts en
+initiatiefnemers
+aangedragen door
+deelnemers
+uitdagingkadersessie
+• Teamleden interviewen
+zelf, Perspective begeleidt
+en helpt
+• Perspective neemt ook
+deel interviews op zich
+• Perspective stelt vragen
+en registratieformulier op
+
+• Kadersessie
+• Scherp krijgen van de
+uitdaging
+• Delen beschikbare kennis
+• Gezamenlijk afstemmen
+doel en succesfactoren
+
+(Her)definitie
+• (Her)definitie: dag
+Ochtend:
+• Delen inzichten uit
+de empathiefase
+• Uitdaging herdefiniëren:
+wat is de uitdaging achter
+de uitdaging
+• Herdefiniëren nieuw doel
+en designvraag
+Middag:
+• Genereren van
+oplossingsrichtingen en
+ideeën
+
+Ideeëngeneratie
+
+Tastbaar concept
+
+Test & evaluatie
+
+• 2 co-creatie sessies (ieder
+n=8) van 3 uur met team
+en jongeren
+• Groepsdiscussie: hoe
+ervaart men het
+samenleven?
+• Welke kansen/ ideeën
+ziet men
+• Co-creatie: voorleggen
+bedachte ideeën
+• Optimaliseren ideeën
+• 1 sessie in Tilburg en
+1 in Amsterdam
+
+• Sessie van 3 uur
+met team
+• Samenvoegen kansrijke
+ideeën tot één concreet
+tastbaar concept
+• Start uitwerking tastbaar
+concept
+• Verdere taakverdeling en
+next steps bepalen
+
+• Sessie met het team van
+2 uur: evaluatie van het
+traject
+
+Case 3: Respectvol samenleven
+Opbrengsten:
+De opbrengst van deze aanpak op de case is enerzijds dat het
+vraagstuk gezamenlijk met externen tot de kern is afgepeld en dat
+hierdoor een nieuwe doelgroep in beeld is gekomen, namelijk
+jongeren. Anderzijds zijn er een aantal oplossingen bedacht, waarvan
+die voor jongeren nader zijn uitgewerkt in concepten met een aantal
+kernelementen. De concepten zijn gebaseerd op de ideeën die zijn
+bedacht om jongeren, die mogelijk een initiatief willen starten op
+gebied van ‘respectvol samenleven’, te activeren. De ideeën zijn deels
+bedacht, getoetst en verbeterd door de jongeren zelf. De concepten
+heeft SZW gebruikt in een projectplan.
+Er wordt nu in samenwerking met collega’s van de maatschappelijke
+diensttijd een vervolg gegeven aan het verder uitwerken van de
+concepten.
+‘Het helpt de beleidsvorming verder te brengen. En je ontwikkelt in
+interactie met externen.’ (deelnemer directie S&I SZW)
+‘Hiermee kom je tot een concrete oplossing die aansluit bij de
+behoeften van de doelgroep.’ (deelnemer directie S&I SZW)
+
+Een van de winnende concepten houdt globaal in dat ‘respectvol samenleven’ en
+‘sociaal ondernemerschap’ op de middelbare school worden behandeld. Middelbare
+(havo- en/of vwo) scholieren die in het laatste jaar voor hun eindexamen zitten
+kunnen kiezen voor een opdracht waarin zij in groepjes in aantal weken een
+initiatief bedenken waarmee zij bijdragen aan ‘respectvol samenleven’. Vervolgens
+is het de bedoeling dat zij het idee ook daadwerkelijk uitvoeren. De scholieren
+worden begeleid bij het bedenken en uitvoeren van hun idee door
+ervaringsdeskundigen en/of kunnen peers inschakelen ter inspiratie, motivatie en
+eventueel is er extra begeleiding beschikbaar vanuit school. Er is ook een centraal
+punt voor vragen.
+
+Leerpunten
+Uit de verschillende cases zijn een aantal leerpunten naar voren gekomen. Hieronder de succesfactoren, valkuilen en tips:
+Succesfactoren
+
+->
+
+Aandacht voor verwachtingsmanagement aan het begin
+van het project
+
+Valkuilen
+
+Tips
+
+- Als het team niet goed weet wat te verwachten kan dit
+leiden tot weerstand. Men is gewend om anders te werken.
+- Als externe partijen pas later in het proces worden
+betrokken, kan dit het proces (onnodig) ophouden.
+
+- Neem genoeg tijd in de opstartfase en wees realistisch in
+tijdsinvesteringen en planning. Benoem de principes van design
+denken en de voordelen ervan.
+- Breng goed in kaart welke externe partijen je wilt betrekken en
+zorg voor commitment.
+
+Commitment vanuit management op de uitkomst geeft
+energie en neemt onzekerheid weg.
+
+->
+
+Te weinig aandacht voor draagvlak gedurende het traject
+kan zorgen voor verrassingen en minder support en
+commitment bij het management.
+
+Manage de verwachtingen voor de start van het project en spreek
+duidelijke punten af wanneer er updates volgen. Maak vooraf
+afspraken over commitment op resultaat.
+
+Een betrokken team is noodzakelijk voor een goed resultaat
+en een goede opvolging nadien.
+
+->
+
+Betrokkenheid is soms moeilijk gezien de duur en soms de
+opbouw (individuele onderdelen) van het traject. Ook
+kunnen wisselingen in het team voor oponthoud zorgen.
+
+Verricht veel werk gezamenlijk in sessies en laat niet te veel tijd
+tussen sessies komen. Indien zelfstandig werk: hou elkaar op een
+laagdrempelige manier op de hoogte, bijv. via Signal.
+
+Een gevoel van tijdsdruk draagt bij aan de productiviteit,
+het zorgt ervoor dat de groep in beweging blijft.
+
+->
+
+Wanneer dit doorslaat naar te veel tijdsdruk, doet dit
+afbreuk aan de kwaliteit van de oplossing.
+
+Plan strak, zowel het overall project als binnen sessies. Blijf wel
+flexibel in je opzet, zeker als er meer tijd nodig is.
+
+Door in kleine stappen naar het resultaat te werken,
+iteratief werken, leer je meer, verminder je risico en werk je
+transparanter.
+
+->
+
+In kleine stappen werken kan zorgen voor ongeduld. Het is
+mensen eigen om snel in oplossingen te willen denken en de
+oplossing direct allesomvattend te willen maken.
+
+Wees er scherp op dat je de uitdaging eerst goed begrijpt, blijf je
+langetermijndoel en designvraag aanscherpen. Creëer begrip
+waarom iteratief werken belangrijk is bij het team.
+
+Empathisch vermogen vergroten door zelf actief te
+participeren, dit heeft veel en langdurig impact op het team
+
+->
+
+Zelf met de doelgroep in gesprek gaan is spannend en
+vraagt tijd, waardoor men er snel vanaf kan zien.
+
+Doe het gezamenlijk (team en specialisten) om de drempel te
+verlagen.
+
+Slim resources gebruiken om je eigen tijd zo efficiënt
+mogelijk in te zetten
+
+->
+
+Alles zelf willen oppakken, waardoor er veel tijd verloren
+gaat en het goed onder de knie krijgen van de aanpak en
+verschillende nieuwe vaardigheden.
+
+Vraag DPC (cluster communicatieonderzoek) om tips rondom het
+wel en niet uitbesteden van specifieke elementen.
+
+De uitkomst staat niet vast en in iedere fase leer je nieuwe
+dingen. Dit vraagt om een flexibele mindset en een
+flexibele agenda
+
+->
+
+Volle agenda’s en gemaakte afspraken brengen de
+flexibiliteit in gevaar. Je kunt dan niet snel schakelen bij
+veranderingen.
+
+Probeer agenda’s niet vol te plannen gedurende een public design
+traject. Plan vooruit, maar pas aan wanneer nodig. Sta open voor
+veranderingen.
+
+Deel 3:
+PUBLIC DESIGN
+WIEL
+Een praktisch proces voor het toepassen van public design
+
+Public Design Wiel
+Het Public Design Wiel geeft de verschillende fases van public design weer. In de
+eerste stappen ligt de focus op de juiste uitdaging vinden door o.a. het begrijpen van
+de context, de belevingswereld van betrokkenen en het vinden van de juiste uitdaging.
+Pas als dat duidelijk is, kan er gewerkt worden aan een oplossing. Dit gebeurt in
+verschillende iteraties waarbij mogelijke oplossingsrichtingen op basis van feedback
+van betrokkenen wordt aangescherpt.
+In totaal worden zes stappen doorlopen, waarbij iedereen actief wordt betrokken:
+1. Ambitie: formuleren designvraag
+2. Empathisch onderzoek: ophalen inzichten
+3. (Her)definitie: reframen designvraag
+4. Ideeëngeneratie: bedenken mogelijke oplossingsrichtingen
+5. Tastbaar concept: tastbaar maken oplossingsrichtingen
+6. Test & evaluatie
+Onderzoek is een belangrijk onderdeel binnen public design. In de verschillende fases
+wordt (empathisch) onderzoek toegepast. Denk hierbij o.a. aan etnografisch
+onderzoek, diepte-interviews, gedragsanalyses en gebruikerstests.
+Op de volgende pagina worden de verschillende fases van het Public Design Wiel
+verder toegelicht. Er wordt beschreven wat de stappen per fase zijn, wat het oplevert
+en waar je op moet letten.
+
+De juiste
+uitdaging
+vinden
+
+Ambitie
+Doel van deze fase
+De eerste fase draait om het scherp krijgen van wat de opgave is, hoe dit
+zich manifesteert en wie ermee te maken hebben. Het team wordt
+samengesteld (zie p. 40), rollen verdeeld en een grove planning gemaakt.
+Stappen
+• Opstarten (zie p. 37-44): intern draagvlak creëren, samenstellen intern
+team, grove planning bepalen, keuze wel/niet uitbesteden.
+• Project aftrap: bepalen scope, doelgroep en wat het project moet
+opleveren (grofweg). Afstemmen praktische zaken: uitgewerkte
+planning, aanpak en rollen.
+• Ambitie scherp krijgen: definiëren van het gezamenlijke vertrekpunt en
+lange termijn doel. In kaart brengen wat wel en niet bekend is en het
+formuleren van hypotheses over de verschillende doelgroepen en/of
+betrokken partijen en uitdaging.
+Tips en tricks
+• Neem voldoende tijd voor deze fase en licht het team goed in over wat
+een public design traject inhoudt en wat het van ze vraagt. Dit voorkomt
+later veel vragen en eventuele weerstand (zie p. 22 en 37).
+• Breng mogelijke obstakels in kaart; wat kan ervoor zorgen dat het
+traject strandt (bijv. geen draagvlak, geen fouten durven maken,
+voorschrijven i.p.v. luisteren)? Dit helder voor ogen hebben, zorgt ervoor
+dat het team hier gedurende het project scherp op kan letten.
+
+Een essentieel onderdeel van de ambitiefase is de sessie, waarin de uitdaging wordt
+uitgediept. Die is nodig om goed voorbereid de empathiefase in te gaan en daar bij de
+juiste mensen de juiste informatie op te halen.
+In de sessie breng je aan de hand van een aantal canvassen (werkbladen) de situatie in
+kaart. Dit doe je op basis van al beschikbare informatie (eerdere onderzoeken, data) en je
+eigen hypotheses. In de empathiefase check je deze hypotheses.
+Bij public design kijk je naar de gehele context van de uitdaging. Met behulp van het
+Stakeholder mapping canvas breng je in kaart wie er betrokken zijn bij de uitdaging en
+hoeveel invloed zij hebben. Het Context map canvas helpt je na te denken welke
+ontwikkelingen en trends zich allemaal afspelen rondom het thema / bij de doelgroep.
+Daarnaast is er een aantal canvassen dat je helpt hypothese rondom de doelgroep te
+formuleren: de Empathy map en het Persona canvas. Twee belangrijke canvassen die
+zich richten op het gedrag van de doelgroep zijn het Customer insights Canvas en het
+Customer journey canvas (zie p. 27). Deze kunnen je in deze fase al helpen om
+hypotheses te formuleren.
+Stakeholder mapping canvas
+
+Empathy map
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 26 -
+
+Empathie
+Doel van deze fase
+Door empathisch onderzoek onder belanghebbenden (burgers en/of experts)
+wordt hun belevingswereld in kaart gebracht. Begrip van hun ervaringen,
+wensen en behoeften geeft inzicht in de context van de uitdaging.
+
+Empathy is at the heart of design.
+Tim Brown | ontwerper en voorzitter van IDEO (5)
+
+Stappen
+• Gesprekken met de doelgroep: begrijpen wat er ten grondslag ligt aan
+de uitdaging, welke problemen de doelgroep ervaart, wat ze willen
+bereiken en welke behoeften zij hebben. Valideren van hypotheses.
+
+Tips en tricks
+• Zoek je doelgroep bij voorkeur op in hun eigen omgeving: etnografisch
+onderzoek. Dit zorgt ervoor dat je mensen in hun eigen context ziet, ze
+meer op hun gemak zijn en vrijer over het onderwerp praten. Zo krijg je
+diepgaander inzicht in beweegredenen en emoties.
+• Naast gesprekken met de doelgroep kan het nuttig zijn om een aantal
+gesprekken te voeren met experts op het gebied van het onderwerp.
+• Steek de interviews breed in: kijk verder dan alleen het onderwerp en
+begrijp de context van het vraagstuk. Dit is van belang om later met de
+juiste oplossing te kunnen komen.
+
+De inzichten uit de gesprekken vastleggen en analyseren kan door middel van een aantal
+canvassen. De canvassen die je eerder in de ambitiefase hebt ingevuld kunnen aangevuld
+worden met nieuwe inzichten en de hypotheses die weerlegd zijn, kunnen worden
+verwijderd. Zo heb je een nieuw overzicht van de situatie.
+Twee canvassen in het bijzonder zijn handig om de situatie en gedrag van de doelgroep in
+kaart te brengen: het Customer journey canvas en het Customer insights canvas. Het
+Customer journey canvas geeft de reis die de doelgroep doorloopt in fases weer met
+daarbij de pijnpunten, positieve punten en behoeften per fase. Het geeft daarmee een
+overzicht waar verbetering nodig is en waar kansen liggen om een goede ervaring nog
+beter te maken.
+Het Customer insights canvas helpt je in kaart te brengen welke elementen van invloed
+zijn op bepaald gedrag. Wat is de achterliggende te volbrengen taak (Job-to-be-Done),
+wat zorgt ervoor dat mensen hun huidige gedrag in stand houden en wat zijn redenen/
+motivaties om juist wel het gewenste gedrag te vertonen? Door dit gestructureerd weer te
+geven, weet je op welke elementen je kan inspelen, welke barrières je moet wegnemen
+en welke rituelen je moet doorbreken om gewenst gedrag teweeg te brengen.
+Customer journey canvas
+
+Customer insights canvas
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 27 -
+
+Empathie
+Varianten empathisch onderzoek
+In de empathiefase gaat het om begrijpen.
+Kwalitatief onderzoek is hiervoor het meest
+geschikt. Dit kan op verschillende manieren
+worden uitgevoerd o.a. door:
+• Diepte-interviews: één op één interviews
+van 40 tot 60 minuten (vaak de beste
+keuze met meest diepgaande inzichten).
+• Observatie met aanvullend de mogelijkheid
+om vragen te stellen.
+• Straatinterviews: kortere gesprekken op
+straat kunnen veel en waardevolle input
+geven. Dit kan lastiger zijn bij een
+specifieke doelgroep.
+• Expertinterviews ter aanvulling
+Groepsdiscussies hebben minder de voorkeur
+omdat het gaat om de context en de
+individuele gedachten en gevoelens.
+Kwantitatieve data wordt in de ambitiefase al
+meegenomen maar kan in de analyse helpen
+prioriteiten te stellen.
+
+Voorbereiding
+• Deelnemers: indien je een specifieke
+doelgroep hebt, kan je de selectie via een
+selectiebureau doen. Voordelen: ze
+beschikken over grote panels, waardoor ze
+de juiste deelnemers kunnen vinden, het is
+makkelijk, de afspraken zijn betrouwbaar
+(weinig afzeggingen), er is spreiding in
+algemene criteria (geslacht, leeftijd, etc.)
+en de anonimiteit is geborgd.
+• Gespreksleidraad: op basis van ambitiefase, begin breed en open, werk richting
+specifieke vragen (test je hypotheses).
+Creëer verschillende hoofdstukken. Let op:
+het is geen vragenlijst, maar een leidraad.
+• Bedankje: vergoeding is gebruikelijk,
+indien op straat voldoet een kleinigheid,
+bijvoorbeeld iets lekkers.
+
+Interviewtips
+Interviewen is multitasken: de sfeer bewaken,
+vragen stellen, de deelnemer begrijpen,
+observeren, het gesprek op gang houden, je
+bewust zijn van je eigen rol en attitude,
+anticiperen en analyseren. Je kan ervoor
+kiezen om deze fase uit te besteden, maar het
+kan ook leuk/leerzaam zijn om het zelf of
+gezamenlijk te doen, hier een paar tips:
+•
+•
+•
+•
+•
+•
+
+•
+•
+•
+
+Creëer een comfortabele, open en positieve sfeer
+Wees open, nieuwsgierig en oprecht geïnteresseerd
+Wees bewust van je eigen mening, vermijd deze te tonen
+Stop niet bij het eerste antwoord, vraag door
+Wees geduldig, geef mensen de tijd om na te denken en
+te antwoorden
+Ga verder dan alleen het valideren van je eigen
+assumpties, wees niet alleen geïnteresseerd in
+onderwerpen waarvan jij denkt dat ze belangrijk zijn
+Vul geen antwoorden of stiltes in
+Kijk ook naar emotie en ervaringen, niet alleen naar de
+functionele processen
+Bij onderzoek thuis of op werk: observeer de context
+
+Voor meer interviewtips kan je terecht bij DPC cluster
+communicatieonderzoek.
+
+- 28 -
+
+(Her)definitie
+Doel van deze fase
+In een sessie met het team wordt de uitdaging ge(her)definieerd op basis van
+inzichten uit de empathiefase: wat is de uitdaging achter de uitdaging?
+Volgens dit nieuwe denkkader worden het doel en de aanpak aangescherpt.
+Stappen
+• Delen inzichten uit de empathiefase; gedeeld beeld krijgen
+• Vanuit empathiefase in kaart brengen van grote thema’s, barrières en
+kansen (Waar overlappen behoeften van belanghebbenden? En waar
+niet?), keuze voor één (of soms meerdere) thema(‘s) waar je de rest van
+het traject op wil focussen.
+• Check en indien nodig formuleren van een nieuwe uitdaging/ designvraag.
+• Indien nodig: aanscherpen doelstellingen, kaders, aanpak en planning
+Tips en tricks
+• Het kan moeilijk zijn een keuze te maken in welke uitdaging je wel en
+welke je niet oppakt. Om echter voldoende de aandacht te kunnen geven
+aan de gekozen uitdaging, en niet een overdaad aan vele verschillende
+oplossingen te creëren, adviseren we hier scherp in te kiezen.
+• De keuze voor een thema/uitdaging betekent niet dat de rest blijft liggen.
+De andere uitdagingen kunnen na het public design traject opgepakt
+worden in aparte projecten.
+• Hou bij het maken van je keuze rekening met het langetermijndoel en de
+belevingswereld van de doelgroep: wat is de belangrijkste uitdaging?
+
+De canvassen uit de ambitie- en empathiefase helpen met het analyseren van de
+inzichten en bieden daarmee ook de basis voor de (her)definitiefase. Het Define
+challenge canvas kan daarnaast helpen met het formuleren van de uitdaging.
+Een uitdaging formuleren begint bij de doelgroep. Door het invullen van de vier vakken
+(doelgroep, behoefte, te volbrengen taak (Job-to-be-Done) en barrières) beschrijf je de
+uitdaging. Het formuleren van de uitdaging /designvraag doe je vervolgens op basis van
+de vier vakken. Je begint met de woorden ‘Hoe kunnen we’:
+Hoe:
+Kunnen:
+We:
+
+gaat ervan uit dat er mogelijkheden zijn
+zegt dat we niks moeten
+staat voor het samen doen
+
+Bijvoorbeeld: Hoe kunnen we jongere potentiele initiatiefnemers helpen hun idee uit te
+werken en stimuleren een initiatief te starten?
+Dit dient als basis voor de volgende fase: de ideeëngeneratie.
+Define challenge canvas
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 29 -
+
+De uitdaging
+JUIST oplossen
+
+Ideeëngeneratie
+Doel van deze fase
+Pas als de juiste uitdaging gevonden en omschreven is, kan er gewerkt
+worden aan oplossingen. In deze fase worden zo veel mogelijk ideeën
+gegenereerd. Zo heb je de grootste kans om tot goede oplossing(en) te
+komen. De beste ideeën worden uitgewerkt en vervolgens samen met de
+doelgroep geoptimaliseerd.
+Stappen
+• Eerste ideeëngeneratie met het team: bedenken van heel veel ideeën,
+waarna de beste uitgewerkt worden
+• In co-creatie met de doelgroep worden de ideeën beoordeeld, verbeterd
+en worden er nieuwe ideeën bedacht
+• De doelgroep stemt (door middel van dots) op de beste ideeën
+Tips en tricks
+• Ga voor kwantiteit boven kwaliteit, daarna kan je selecteren en
+optimaliseren
+• Stimuleer out-of-the-box en wilde ideeën, hier zitten vaak leuke of
+nuttige elementen in waar je op voort kan borduren
+• Zet hulpmiddelen in (zie volgende pagina) die helpen vanuit de
+doelgroep te denken
+• Blijf bij het onderwerp en dwaal niet af, houd de gesprekken centraal
+
+Een techniek die je bij het genereren van ideeën (en bij het invullen van canvassen en
+veel andere oefeningen) kan inzetten is brainwriten: ieder schrijft voor zichzelf in stilte
+zijn gedachten op post-its. Na een aantal minuten deelt ieder zijn belangrijkste post-its.
+Ideeëngeneratie gebeurt vaak in meerdere rondes. Door iedere ronde te brainwriten,
+krijgt ieder de kans om zelf na te denken en ideeën te opperen (niet één persoon die
+overheerst). Door de ideeën per ronde ook met elkaar te delen, wordt het
+gedachtenproces op gang geholpen en kan het team voortborduren op ideeën uit eerdere
+rondes. De Wall of ideas vormt de verzamelplek waar alle post-its met
+ideeën/gedachtenspinsels worden opgehangen tussen de rondes door.
+Een andere tip is om de ideeën visueel te maken. Mensen vinden het makkelijker om iets
+visueels te begrijpen dan iets tekstueels. De Ideation sketch geeft een format weer
+waarin je je idee kan uitwerken. Het bevat slechts drie onderdelen: een tekening van het
+idee, een korte toelichting waar het idee over gaat en een titel.
+
+Wall of ideas
+
+Ideation sketch
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 31 -
+
+Ideeëngeneratie
+Ideeëngeneratie hacks
+Er zijn verschillende manieren om creativiteit te stimuleren en mensen op
+ideeën te laten komen:
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Inspireren en leren - Ga opzoek naar voorbeelden van andere
+bedrijven/branches
+TYPE (Through Your Persona’s Eyes) - Bekijk de uitdaging vanuit een
+persona
+MAYA (Most advanced yet acceptable) - Zoek het randje op
+Muziek denken - Laat muziek je ideeën beïnvloeden
+Doemdenken - Bedenk het slechtst mogelijke idee en vervolgens het
+tegenovergestelde daarvan
+Denk als een startup - Kijk naar de uitdaging door de ogen van een
+startup, hoe zouden zij het aanpakken?
+Ongebruikelijke deelnemers - Vraag de niet voor de hand liggende
+collega’s/mensen om mee te doen (bijvoorbeeld projectondersteuner)
+CRAZY 8’S - Schets in acht minuten acht ideeën, denk verder dan je
+eerste oplossing
+Extreem gemak - Focus op ideeën waarbij het uitvoeren zo gemakkelijk
+mogelijk wordt gemaakt
+
+De ideeëngeneratie hacks helpen je om:
+De norm en de huidige veronderstellingen uit te dagen
+Verder te kijken dan de voor de hand liggende oplossingen
+Nieuwe en/of onverwachte innovatiegebieden te ontdekken
+
+Veel en verschillende ideeën te creëren
+Perspectieven en sterke punten van je team samen te brengen
+
+Making something look simple is easy. Making
+something simple to use is much harder especially when the underlying systems are
+complex - but that’s what we should be doing.
+Government Digital Services (GDS) | GDS is een onderdeel van het
+kabinet van de regering van het Verenigd Koninkrijk en moet de levering van
+online openbare diensten transformeren.
+- 32 -
+
+Tastbaar concept
+Doel van deze fase
+Het tastbare concept (prototype) geeft een eerste testbare versie van de
+oplossing weer; het is nog niet ‘af’. ‘Je moet snel falen als je sneller wil
+slagen’. Het maken van een tastbaar concept helpt om een gezamenlijk
+vertrekpunt te creëren, concrete feedback te ontvangen en nieuwe vragen
+en uitdagingen te ontdekken.
+Stappen
+• Keuze van idee/ideeën die uitgewerkt worden in een tastbare concept.
+• Check op bijdrage van het idee aan het langetermijndoel.
+• Kernelementen bepalen: welke elementen moet het tastbare concept
+bevatten? Welke elementen wil je testen bij de doelgroep?
+• Eventueel: storyboard tekenen. Een storyboard is een stapsgewijze
+visualisatie van hoe een tastbaar concept eruit gaat zien.
+• Uitwerken van het tastbare concept.
+Tips en tricks
+• Een manier om ideeën te prioriteren en tot een keuze te komen is de
+impact / effort matrix. Daarin plot je de ideeën op twee assen. Eén as
+geeft aan hoeveel impact het idee heeft op je doelgroep. De andere as
+hoeveel je moet investeren (geld/ tijd/ middelen). Met deze structuur
+ontdek je snel de ideeën met de hoogste impact en laagste effort.
+
+Een tastbaar concept geeft een eerste versie van je oplossing weer. Het type concept dat
+je maakt hangt dan ook erg van je oplossing af. Dit kan een digitale oplossing zijn, maar
+ook de weergave van een dienst (plan van aanpak, belscript, propositieteksten, scenario,
+beeldverhaal) of een fysiek concept (zie ook volgende pagina). De hulpmiddelen die je
+hierbij kan inzetten hangen af van het type tastbaar concept dat je ontwikkelt.
+Voor een digitaal concept kan het Digital prototype canvas een uitkomst bieden. Deze
+geeft de contouren van een telefoonscherm en dwingt je binnen vier schermen tot de kern
+van het tastbaar concept te komen.
+Voor alle tastbare concepten gelden een aantal ontwikkeltips:
+•
+Hou het simpel. Maak genoeg dat je ervan kan leren, maar niet meer. Zorg dat je de
+kernelementen opneemt, daar wil je feedback op.
+•
+Neem alleen elementen op in je tastbare concept die ook onderdeel zijn van de
+‘echte’ oplossing (geen ruis).
+•
+Hoe echter het lijkt, hoe concreter de feedback.
+•
+Maar, het hoeft niet af te zijn. Het is een iteratief proces waarin je steeds verder
+werkt en steeds verder invult.
+Digital prototype canvas
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 33 -
+
+Tastbaar concept
+Waarheidsgetrouw & iteratie
+De term prototype wordt veel gebruikt in de digitale wereld. De
+onderstaande grafiek geeft weer hoe een digitaal prototype zich
+over tijd ontwikkelt. Ook andere vormen van prototypes / tastbare
+concepten ontwikkelen zich. Naar aanleiding van de feedback uit de
+test wordt deze steeds aangescherpt en verder uitgewerkt; het
+wordt steeds waarheidsgetrouwer.
+Het iteratief werken zorgt ervoor dat je tijd en geld bespaart. Je
+leert sneller of je op de goede weg zit (minder risico) en komt
+sneller met een eerste versie van je oplossing (meer transparantie).
+
+Prototype
+Tijd
+
+Verschillende vormen voor een tastbaar concept
+Een tastbaar concept kan op veel verschillende manieren vormgegeven
+worden. Een tastbaar concept (prototype) kan een digitaal product zijn,
+maar dat is zeker niet altijd het geval. Zo bestond het tastbaar concept in
+de case rondom informatievoorziening over gaswinning (zie slide 13-15) uit
+een pilot van de informatiemarkt. De bedachte nieuwe opzet werd direct in
+het echt getest en geëvalueerd. Verbeteringen konden voor de volgende
+informatiemarkt al worden meegenomen.
+
+Mock-up
+Wireframe
+
+If a picture is worth a
+thousand words,
+a prototype is worth a
+thousand meetings.
+IDEO | IDEO is een internationaal
+bureau dat design denken toepast.
+
+Schets
+
+Waarheidsgetrouwheid
+
+- 34 -
+
+Test en evaluatie
+Doel van deze fase
+Het tastbare concept wordt aan de doelgroep voorgelegd. Met deze input
+wordt het concept verbeterd. De fase herhaalt zich tot het tastbare concept,
+de oplossing, klaar is voor implementatie. Aan het eind wordt het gehele
+proces geëvalueerd om van te leren voor een volgende keer.
+Stappen
+• Testen van het tastbaar concept door middel van gesprekken met de
+doelgroep. Ophalen van feedback en testen van hypothesen.
+• Verwerken van de inzichten in nieuwe versie van het tastbaar concept.
+• Eventueel: verder testen en aanscherpen, tot het concept klaar is voor
+implementatie.
+• Evaluatie van het gehele proces: wat ging goed? Waar kunnen we van
+leren?
+Tips en tricks
+• Het testen van een tastbaar concept vraagt een ander type gesprek dan
+in de empathiefase. Het is specifieker toetsen i.p.v. open en begrijpen.
+• Een aantal tips: benoem dat het concept is (nog niet af), leg niet te veel
+uit, laat het de doelgroep zelf ontdekken. Verdedig het idee niet, en leg
+niet uit hoe het bedoeld was. Als mensen het niet snappen, is er iets
+mis met het ontwerp en moet je terug naar de tekentafel.
+
+Het Experiment canvas helpt je voorafgaand aan de test om in kaart te brengen wat je
+hypotheses zijn en welke vragen je in ieder geval in je gesprek behandeld wilt hebben.
+De linkerkant van het canvas vul je in voor de test. Het beschrijft de opzet van het
+experiment, de hypotheses en de meest risicovolle assumptie. Met name de laatste is
+belangrijk om vooraf te definiëren. Als er een onderliggende assumptie is waarmee je
+oplossing valt of staat, wil je die zeker gevalideerd hebben onder de doelgroep. De
+rechterkant van het canvas beschrijft de resultaten.
+Tijdens de iteraties op het tastbare concept is het nuttig om het Business model canvas
+voor je oplossing in te vullen. Door dit te doen krijg je, naast inzicht in de wenselijkheid
+van de oplossing, ook inzicht in de maakbaarheid en in de levensvatbaarheid van je
+oplossing. Dit inzicht kan leiden tot nieuwe aanpassingen in je tastbare concept.
+Een onderdeel van het Business model canvas is de waardepropositie. Om dit goed te
+formuleren kan het Value proposition canvas van pas komen.
+
+Experiment canvas
+
+Business model canvas
+
+Alle canvassen zijn op de vragen bij DPC communicatieonderzoek of zie de separate
+bijlage met alle canvassen.
+
+- 35 -
+
+Deel 4:
+EN NU AAN DE SLAG…
+O.a. draagvlak en commitment, teamsamenstelling, tools en middelen
+
+Hoe kan je met vraagstukken om gaan?
+Om complexe vraagstukken effectief met elkaar aan te pakken zijn er andere manieren van samenwerken nodig dan een projectmatig
+of een op belangen gestoeld proces:
+
+Projectmanagement
+
+Onderhandelen
+
+Design denken
+
+Start
+
+Vraagstuk
+
+Probleem of conflict
+
+Complex vraagstuk
+
+Doel
+
+Verklaren, oplossen
+
+Standpunten, belangen
+
+Creëren gemeenschappelijke
+probleemdefinitie en oplossing(en)
+
+Werkwijze
+
+Systematische aanpak
+
+Coalitievorming, overleggen
+
+Co-creatie, iteratief
+
+Actoren
+
+Projectteam, doelgroep(en)
+
+Procesbegeleider, beïnvloeders,
+belanghebbenden en omstanders
+
+Eindgebruikers en overige
+belanghebbenden
+
+Resultaat
+
+Kennis, model, oplossing
+
+Overeenstemming, compromis
+
+Aan de slag met de ‘juiste’ uitdaging,
+nieuwe ideeën, breder gedragen
+oplossingsrichtingen
+
+De beschikbare designruimte
+Niet alle vraagstukken hebben evenveel designruimte, oftewel de
+ruimte om met verschillende betrokkenen tot een mogelijke oplossing
+te komen voor een vraagstuk. Vraag je daarom aan het begin af of
+het vraagstuk geschikt is voor public design, door de volgende vragen
+met ja/nee te beantwoorden:
+1.Is het vraagstuk complex? Is het lastig om grip krijgen op de aard van de
+uitdaging en mogelijke oplossingen?
+2.Zijn er bij het vraagstuk meerdere organisaties of perspectieven die een rol
+spelen?
+3.Staat bij het vraagstuk (voor een groot deel) nog open wie wat moet gaan
+doen om een oplossing te bereiken?
+4.Staan de betrokken organisaties (ambtelijk en/of bestuurlijk) open voor
+vernieuwing?
+5.Is er (ambtelijk en/of bestuurlijk) ruimte om een andere mogelijke oplossing
+(dan de organisatie zelf had bedacht) ook echt uit te voeren?
+6.Zijn er mensen binnen je organisatie die lef en doorzettingsvermogen hebben
+om door middel van een andere aanpak met het vraagstuk aan de slag te gaan?
+7.Is er de wil en mogelijkheid om transparant te zijn zowel binnen als buiten de
+overheid?
+
+Hoe meer vragen je met ‘Ja’ hebt beantwoord hoe groter de kans dat
+jouw organisatie er klaar voor is om public design op een vraagstuk
+toe te passen.
+
+Heb je 4 of meer vragen met ‘Nee’ beantwoord, bedenk dan nog goed of
+public design een geschikte aanpak is voor het vraagstuk. In dat geval is
+het nog wel steeds mogelijk om bepaalde onderdelen (bijv. een cocreatiesessie of ideeëngeneratie) van het Public Design Wiel in te zetten.
+Op het moment dat je kiest voor public design is het belangrijk om de
+verwachtingen van de betrokkenen duidelijk te krijgen. Zowel voor jezelf
+als bij iedereen die je gedurende het proces aanhaakt. Dit doe je door
+aan het begin van het proces met elkaar stil te staan bij de beschikbare
+designruimte. Maak hierover duidelijke afspraken over.
+‘In de case van EZK waarin we public design hebben toegepast om te
+komen tot een verbeterde opzet van de informatievoorziening rondom
+kleinschalige gaswinning. Vanaf begin af aan is duidelijk gemaakt aan
+alle betrokkenen dat het besluit zelf (om op die plaats gas te winnen)
+niet teruggedraaid kon worden. We konden wel de informatievoorziening
+verbeteren.’ (deelnemer EZK)
+Bij vraagstukken met voldoende designruimte is het van belang om op
+een andere manier samen te werken en onderzoek te doen, ook over
+organisatiegrenzen heen. Het betrekken en begrijpen van iedereen die
+met het vraagstuk te maken heeft, is daarbij van belang. Pas dan krijg je
+met elkaar zicht op het grotere plaatje en wordt het mogelijk om vanuit
+een breder perspectief naar het vraagstuk te kijken en een strategie te
+bepalen.
+
+Draagvlak & Commitment
+Omdat public design projecten gepaard gaan met een andere manier van
+werken is het voor het slagen van een project allereerst cruciaal om
+ambtelijk en/of bestuurlijk draagvlak te hebben (zie ook vragen over de
+designruimte, sheet hiervoor). De uitkomst van public design projecten
+staat op voorhand niet vast, er kan tijdens het project een andere
+oplossing naar voren komen dan de organisatie zelf had bedacht. Dit is
+inherent aan het iteratief proces waarin samen met de betrokkenen eerst
+de uitdaging wordt vastgesteld en daarna oplossingen worden
+ontworpen. Wees hier heel helder in naar alle betrokkenen. Als een
+bestuurder zich uiteindelijk niet wil conformeren aan de uitkomst van
+een project, bijvoorbeeld door aan het einde van het project toch een
+andere oplossing te kiezen, kan dat veel weerstand geven. In dat geval
+kan public design juist contraproductief werken.
+Funders & directie: Geef helder beeld van de noodzaak om het project op een andere, nieuwe
+manier aan te vliegen. Waarom loop je nu vast en hoe kan public design hierbij helpen? Hou hen
+op sleutelmomenten op de hoogte van voorgang en beslissingen zodat de oplossing niet als een
+verrassing komt. En ze ook commitment uitdragen op de uitkomst.
+Multidisciplinair team: Om het team goed voor te bereiden op deze andere manier van werken,
+is het belangrijk de principes van public design te delen. Benoem wat er anders is en wat men
+kan verwachten. Leg uit waarom bepaalde tijdsinvesteringen nodig zijn en verzoek er open in te
+gaan. Houd er rekening mee dat mensen snel de neiging terug te gaan naar wat ze kennen.
+
+Daarnaast is het van belang commitment te hebben van alle
+betrokkenen op het proces, de actieve betrokkenheid van het team en
+op de uitkomsten. Commitment is een van de sleutelwoorden voor
+een succesvol project. Ook vraagt deelname aan een project van elk
+lid van het projectteam tijd en focus. Meer tijd dan men nu gewend is
+en met een hogere intensiteit. Maar hier ligt juist een van de
+succesfactoren. Actieve participatie zorgt voor echte empathie en
+betere oplossingen die door het hele team gedragen worden. En voor
+minder individueel werk en afstemmingsuren. Het toepassen van
+design denken waarin niet alleen met belangen rekening wordt
+gehouden maar ook met drijfveren en onderliggende behoeftes, biedt
+dit type problemen een nieuw perspectief. Hoogleraar Bestuurskunde
+aan de Erasmus Universiteit, Arwin van Buuren, zegt daarover het
+volgende:
+
+Als je alle noodgrepen hebt uitgeprobeerd, dan ben je misschien
+niet bezig met het oplossen van het juiste probleem. Design
+Thinking dwingt zowel de burger als de overheid om uit het
+standaard verwachtingspatroon te stappen.
+Prof. dr. M.W. van Buuren | Hoogleraar Bestuurskunde aan de Erasmus Universiteit Rotterdam
+
+Wie moet je betrekken?
+Public design trajecten besteed je niet (geheel) uit, maar je
+participeert er als organisatie actief in. Dit zorgt mede voor het
+verhogen van het empathisch vermogen van de organisatie.
+Aanwezigheid en actieve deelname aan de verschillende fases is
+essentieel, maar ook inspirerend en geeft een boost aan de energie.
+Tijdens de gezamenlijke werksessies wordt veel werk verzet dat
+anders door individuen zelfstandig zou worden verricht. De sessies
+zijn dus geen extra werkuren, maar zorgen juist voor een heel
+effectief proces waar met zo min mogelijk uren een maximaal
+eindresultaat wordt gehaald.
+Iedereen binnen het multidiciplinaire team is betrokken om een reden
+en heeft een actieve rol. Zie de verschillende rollen hiernaast.
+Het RASCI-model is een hulpmiddel om verantwoordelijkheden in een
+team of organisatie op een eenvoudige manier in kaart te brengen.
+Werken met het RASCI-model zorgt ervoor dat het voor iedereen
+helder is welke rol verantwoordelijkheid hebben en wat er van ze
+verwacht wordt. R=Responsible, A=Accountable, S=Supportive,
+C=Consulted en I=Informed.
+
+Multidisciplinair team
+Beslisser (Accountable)
+Dit is de eindverantwoordelijke voor het project binnen het team. Het is de persoon die
+goedkeuring moet geven aan het resultaat en beslissingen neemt bij een impasse.
+Vaardigheden: beslisvaardig, kennis van organisatie, politiek-bestuurlijke sensitiviteit, lef
+Projectleider / Procesbegeleider (Responsible)
+Dit zijn de trekkers en eigenaren van het project, de motor. Zij zijn verantwoordelijk voor
+de uitkomst en zorgen dat het traject on track blijft. Indien een externe partij de
+procesbegeleider is, is er altijd een projectleider binnen het team om mee te schakelen.
+Vaardigheden: faciliteren, organisatorisch sterk, communicatief
+Teamlid/leden (3-5) (Supportive)
+Hier sluiten mensen aan die een (inhoudelijke) expertise hebben op een bepaald gebied
+dat valt binnen het public design traject. Van de teamleden is er minimaal één met de rol
+van vertegenwoordiger; zij houden de belangen van de betrokkenen/ eindgebruikers
+extra in het oog gedurende het proces.
+Vaardigheden: nieuwsgierig, open-minded, coöperatief, inlevingsvermogen
+Flexibele schil
+Betrokkenen/eindgebruikers (voor wie doe je het?)
+Tijdens de onderzoeksmomenten worden overige actoren (burgers, belanghebbenden,
+betrokkenen) om hun input gevraagd.
+Overige actoren (Consulted & Informed)
+Vaak is er op specifieke momenten een bijdrage gewenst van mensen buiten het
+projectteam, denk bijvoorbeeld aan experts, designers, collega’s of andere
+overheidsorganisaties. Deze personen zijn Consulted. Externen die puur op de hoogte
+gehouden worden van de voortgang (i.v.m. commitment) vallen onder Informed.
+
+Voorbeeldaanpak
+Hieronder een voorbeeldaanpak met de concrete werkzaamheden per stap. In de praktijk kunnen de stappen en werkzaamheden deels overlappen en
+- afhankelijk van de vraagstelling - aangepast worden. Per project wordt bepaald welke tijdspanne gewenst is. Er kan gekozen worden om dit in
+enkele weken of maanden op te pakken, of om het in een pressure cooker (korte tijd met veel focus) opzet te doen.
+De juiste uitdaging vinden
+Ambitie
+Opstarten
+• Draagvlak en commitment
+• Team samenstellen
+• Keuze uitbesteden of niet
+Werksessie
+• Gezamenlijk kaderen van
+uitdaging en formuleren
+design vraag
+• Verwachtingen
+deliverables en
+handelings-perspectieven
+• Praktische planning en
+rolverdeling
+
+Empathie
+Werksessie
+• Hypothese formuleren
+
+Research moment:
+Etnografisch onderzoek
+• Onder belanghebbenden:
+Diepte interviews,
+participerende observatie,
+straat interviews etc.
+
+De uitdaging juist oplossen
+(Her)definitie
+Werksessie
+• Delen inzichten
+etnografisch onderzoek
+• Expliciet maken
+denkkader
+belanghebbenden
+• Herdefiniëren nieuw
+denkkader en design
+vraag (reframen)
+
+Ideeëngeneratie
+Werksessie
+• Genereren ideeën en
+ontwerp
+conceptoplossingen
+
+Research moment:
+Co-creatie
+• Met belanghebbenden:
+voorleggen en verder
+optimaliseren
+conceptoplossingen
+
+Tastbaar concept
+
+Test & evaluatie
+
+Werksessie
+• Kiezen meest kansrijke
+ontwerpoplossing
+• Oplossing zo goed
+mogelijk in een tastbaar
+concept uitwerken
+(oplossing tastbaar
+maken)
+
+Research moment:
+Interviews
+• Testen tastbaar concept in
+bijvoorbeeld single
+interviews met
+belanghebbenden
+
+Werksessie
+• Evaluatie met team van
+betrokkenen
+• Advies optimalisatie en
+implementatie
+
+Uitbesteden
+Organisaties en teams met weinig ervaring met de public design
+aanpak is het aan te raden hulp in te roepen van specialisten.
+Begeleiding door mensen met ervaring met de aanpak en manier van
+werken zorgt voor een soepel verloop en meer tempo op projecten.
+Onderdelen waar specialistische kennis van pas komt zijn: empathisch
+onderzoek (empathiefase), het faciliteren van workshops/sessies
+(iedere fase), maken van een prototype (tastbaar conceptfase) en het
+testen van het tastbare concept (test en evaluatie), zie kader
+hiernaast. Dit zijn vaardigheden die doorgaans niet veel beschikbaar
+zijn binnen publieke organisaties, al zijn hier natuurlijk uitzonderingen
+op. Zo hebben DUO en de gemeenten Amsterdam en Rotterdam eigen
+public designers in dienst en begint dit steeds meer gemeengoed te
+worden.
+Het advies is om alles uit te besteden bij één bureau en niet per
+onderdeel te wisselen. Dit zorgt voor consistentie, en minder
+tijdsverlies aan overdracht. DPC cluster communicatieonderzoek kan
+helpen om in contact te komen met andere overheden die ervaring
+hebben met deze aanpak. DPC heef ook ervaring met diverse bureaus
+
+die gespecialiseerd zijn in public design binnen de context van de
+(rijks)overheid. Overweeg je een bureau in te zetten dan kan DPC cluster
+communicatieonderzoek je hierbij adviseren.
+Empathisch onderzoek
+De empathiefase draait om het in kaart brengen van de belevingswereld van de actoren
+waar de uitdaging betrekking op heeft. Het creëren van begrip en empathie voor deze
+groep vraagt om specifieke interviewvaardigheden: doorvragen, het achterhalen van de
+Job-to-be-Done en het blootleggen van emoties.
+Facilitator werksessies
+Een public design traject bevat een aantal werksessies waarin je met het team aan de
+slag gaat met de resultaten uit de vorige fase. Het faciliteren van deze sessies vraagt
+veel kennis van de methodiek, een (redelijk) onafhankelijke positie (als facilitator mag je
+je immers beperkt met de inhoud bemoeien, je kan alleen bijsturen) en vaardigheden als
+team management, snel kunnen in en uitzoomen en structuur en overzicht houden.
+Tastbaar concept maken
+Het omzetten van een idee naar een tastbaar concept (prototype) kan, naast een
+facilitator, nog een andere expertise vragen: een (UX) designer. Deze helpt met de
+inrichting en vormgeving van het tastbare concept en het benadrukken van de
+kernelementen.
+Tastbaar concept testen
+Bij het testen van het tastbaar concept komen grofweg dezelfde vaardigheden kijken als
+bij de empathisch onderzoek. Er ligt minder focus op het achterhalen van emoties, maar
+doorvragen en begrijpen waarom iemand bepaalde aspecten wel of niet waardeert is
+essentieel bij het testen van je oplossing.
+
+Tools voor sessies
+Canvassen en
+templates
+
+Canvassen en templates
+geven structuur aan de
+sessies en stimuleert om
+over bepaalde aspecten in
+een situatie na te denken.
+Per fase zijn er andere
+canvassen of templates
+die je in kan zetten.
+
+Post-its
+
+Time timer
+
+Dots
+
+Iedereen krijgt dezelfde tijd om
+zijn/haar ideeën op papier te
+zetten en zorgt dat elk
+onderwerp de juiste hoeveelheid
+tijd krijgt. De timer voorkomt
+ook (lange) discussies.
+
+Door middel van de dots wordt
+er gestemd en wordt bepaald
+met welke ideeën verder wordt
+gewerkt. Deze dots geven
+iedereen evenveel invloed.
+
+Alle ideeën worden op
+post-its gedeeld in plaats
+van mondeling. Iedereen
+krijgt zo dezelfde ruimte
+om ideeën te delen en
+ideeën zijn daardoor
+makkelijk te vergelijken,
+clusteren ed.
+
+Sharpies
+
+Er wordt gewerkt met dikke
+stiften. Dit bevordert de
+leesbaarheid van de ideeën
+en voorkomt een
+uitgebreide en
+uitgeschreven uitleg.
+
+Fysieke objecten
+om te testen
+
+Lexicon
+
+Om een tastbaar concept te
+testen is het handig een fysieke
+presentatie te hebben. Dit kan
+zijn een plattegrond van een
+wijk, formulier, poppetjes,
+auto’s, etc.
+
+Iedereen heeft zijn eigen
+achtergrond. Door het hebben
+van een lexicon wordt duidelijk
+wat er met verschillende termen
+wordt bedoeld, zodat iedereen
+dezelfde taal spreekt.
+
+Leeslijst / bronnen
+Bronnen/ boeken:
+1.André Schamineé, Designing with- in Public Organizations, building
+bridges between public sector innvators and designers (2018)
+2.Kees Dorst, Frame Innovation-Create New Thinking by Design (2015)
+3.Richard Buchanan, Wicked Problems in Design Thinking, in Design
+Issues, Vol. 8, No. 2, pp. 5-21 (1992)
+4.Hans Vermaak, Iedereen verandert. Nu wij nog. Een gids voor
+veranderaars, werkers, leiders, activisten, adviseurs, begeleiders,
+docenten, onderzoekers, studenten, innovators (2017)
+5.Tim Brown, Change by Design: How Design Thinking Transforms
+Organizations and Inspires Innovation (2019)
+6.Marc Stinkdorn, This is Service Design Doing (2018)
+7.Ben Reason, Lavrans Lovlie, Melvin Brand Flu; Service Design for
+Business (2015)
+8.Vera Winthagen, Doendenken (2017)
+9.Suzanne Potjer, Experimenteel bestuur, van mogelijke naar haalbare
+naar gangbare vernieuwing (2019)
+Toolkits:
+1.Nesta, Practical tools to trigger & support social innovation,
+https://diytoolkit.org/
+2.Nesta en IDEO, Designing for Public Services,
+https://www.ideo.com/post/designing-for-public-services
+
+3.
+4.
+
+5.
+
+Namahn en Flanders DC, Service design toolkit:
+https://servicedesigntoolkit.org/
+Overheid van British Columbia:
+https://www2.gov.bc.ca/gov/content/governments/services-forgovernment/service-experience-digital-delivery/servicedesign/service-design-in-the-bc-public-service
+Methoden uit boek This is service design doing:
+https://www.thisisservicedesigndoing.com/methods
+
+Overige bronnen:
+1. Omooc: https://www.digitaleoverheid.nl/nieuws/hoe-lean-agile-endesign-thinking-elkaar-versterken/
+2. Enschede Lab: https://www.enschedelab.nl/
+3. Beleidslab:
+https://www.rijksoverheid.nl/documenten/publicaties/2016/02/02/bel
+eidslab
+4. Klimaatadaptatie:
+https://ruimtelijkeadaptatie.nl/voorbeelden/overzichtprojecten/@213279/design-thinking/
+5. Erasmus Government Design Studio: https://www.erasmusgds.com
+
+Colofon
+Dit project is een initiatief van:
+Ministerie van Algemene Zaken
+Dienst Publiek en Communicatie, cluster communicatieonderzoek
+communicatieonderzoek@minaz.nl
+In samenwerking met:
+Perspective (www.perspective.amsterdam)
+Vormgeving: VALLEYFIVE
+Mei 2020
+
+
