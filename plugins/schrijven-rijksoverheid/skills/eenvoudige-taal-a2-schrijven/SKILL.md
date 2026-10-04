@@ -22,6 +22,7 @@ Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md
 | Kanalen: niet alleen digitaal, helpers, beeldbrieven | `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/bereikbare-communicatie.md` |
 | Vertalen, kort | `bronnen/communicatierijk/vakkennis/taalkompas/stijl/vertalen.md` |
 | Vertalen, het hele beleid met afwegingskader | `bronnen/communicatierijk/documenten/vertaalbeleid-rijksoverheid/Vertaalbeleid-Rijksoverheid.txt` (vastgesteld 2021) |
+| Controle op onjuistheden als je met AI schrijft | `bronnen/communicatierijk/vakkennis/taalkompas/hulpmiddelen-gebruiken/ai-gebruiken-bij-het-schrijven.md` (controleer de resultaten op onjuistheden) |
 | Praktijktips uit een weblog | `bronnen/communicatierijk/actueel/3-tips-voor-betere-communicatie-met-laaggeletterden.md` (2017) |
 
 Bronverschillen, niet stil gladstrijken:
@@ -37,22 +38,23 @@ Niet in deze map: taalniveautoetsen en woordenlijsten per niveau, de communicati
 ## Recept: zo schrijf je op A2
 
 1. **Lezer en kanaal.** Wie leest dit, in welke situatie, en is een tekst het goede middel? Denk aan beeld, een gesprek, een helper of een niet-digitaal kanaal.
-2. **Selecteer.** Alleen de informatie die de lezer nodig heeft om te begrijpen of te handelen. Uitzonderingen en achtergrond gaan naar een verdiepende laag op B1. Wat je weglaat, meld je aan de inhoudelijk verantwoordelijke.
+2. **Selecteer.** Alleen de informatie die de lezer nodig heeft om te begrijpen of te handelen. Uitzonderingen en achtergrond gaan naar een verdiepende laag op B1. Laat je een voorwaarde, uitzondering of gevolg weg uit de A2-tekst, dan staat in de A2-tekst een zin dat er meer regels zijn en waar de lezer die vindt of wie hij kan vragen. Wat je weglaat, meld je aan de inhoudelijk verantwoordelijke.
 3. **Structuur.** Duidelijke titel. Het belangrijkste bovenaan. Maximaal vijf alinea's van twee tot tien zinnen. Tussenkopjes van maximaal drie woorden. Herhaal de belangrijkste boodschap. Opsommingen in bullets, niet alfabetisch.
 4. **Zinnen.** Maximaal tien woorden, liever minder. Tegenwoordige tijd, actief, vaste woordvolgorde. Elke zin begint links op een nieuwe regel.
 5. **Woorden.** Dagelijkse woorden, geen vaktaal, geen uitdrukkingen of beeldspraak. Eén woord voor één ding, geen synoniemen. 'Maar', 'want', 'als'; niet 'daarentegen', 'immers', 'indien'. Voorkom woorden zonder Nederlandse opbouw, zoals cadeau of management.
 6. **Toon.** Volwassen en respectvol, niet neerbuigend of kinderachtig.
 7. **Handelen en contact.** Zeg precies wat de lezer moet doen en wanneer. Bied meer dan één manier van contact, ook niet-digitaal.
 8. **Beeld en opmaak.** Alleen functioneel beeld, voor of boven de tekst. Niet onderstrepen, geen cursief, geen woorden in hoofdletters.
-9. **Tel na.** Controleer elke zin op het aantal woorden en rapporteer de uitkomst. Tel titel, tussenkopjes en bullets apart en zeg hoe je hebt geteld. Schrijf niet 'deze tekst is A2' als gemeten feit.
-10. **Vertalen?** Uitgangspunt is 'niet vertalen, tenzij'. Loop de drie vragen van het afwegingskader in het beleid letterlijk na en geef de uitkomst per vraag. Bij de derde vraag noemt het kader alleen vertaling in het Engels; over andere talen zegt het kader niets. De keuze, de talen en het actueel houden zijn aan het beleidsverantwoordelijke departement; jij levert de afweging, niet het besluit.
-11. **Testen.** A2-teksten test je bij de lezers zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen-en-controleren`.
+9. **Vergelijk met het origineel.** Leg origineel en A2-tekst naast elkaar. Loop elk feit, bedrag, termijn, voorwaarde, uitzondering en woord als 'kan', 'ten minste' of 'in beginsel' uit het origineel na. Noteer per element: gelijk, versimpeld, verplaatst naar de B1-laag of weg. Toets daarna elke zin van de A2-tekst: klopt hij voor elke lezer, ook voor de lezer op wie een weggelaten of verplaatste uitzondering van toepassing is? Klopt een zin voor een deel van de lezers niet, dan herstel je de zin.
+10. **Tel na.** Controleer elke zin op het aantal woorden en rapporteer de uitkomst. Tel titel, tussenkopjes en bullets apart en zeg hoe je hebt geteld. Schrijf niet 'deze tekst is A2' als gemeten feit.
+11. **Vertalen?** Uitgangspunt is 'niet vertalen, tenzij'. Loop de drie vragen van het afwegingskader in het beleid letterlijk na en geef de uitkomst per vraag. Bij de derde vraag noemt het kader alleen vertaling in het Engels; over andere talen zegt het kader niets. De keuze, de talen en het actueel houden zijn aan het beleidsverantwoordelijke departement; jij levert de afweging, niet het besluit.
+12. **Testen.** A2-teksten test je bij de lezers zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen-en-controleren`.
 
 ## Output: dit lever je op
 
-- De A2-tekst, met zo nodig een aparte verdiepende laag op B1.
+- De A2-tekst. Is er iets weggelaten of versimpeld, dan ook de verdiepende laag op B1 met al die onderdelen.
 - Tellijst: langste zin, aantal alinea's, kopjes boven drie woorden.
-- Wat is weggelaten of verplaatst, met vragen voor de inhoudelijk verantwoordelijke.
+- Vergelijkingstabel: per feit, bedrag, termijn, voorwaarde, uitzondering en woord als 'kan' of 'in beginsel' de formulering in het origineel, de formulering in de A2-tekst en het oordeel gelijk, versimpeld, verplaatst of weg, met vragen voor de inhoudelijk verantwoordelijke.
 - Advies over kanaal, beeld en contact.
 - Bij een vertaalvraag: de afweging per vraag van het kader en wie beslist.
 - Testadvies.
@@ -67,6 +69,9 @@ Niet in deze map: taalniveautoetsen en woordenlijsten per niveau, de communicati
 | Cijfer zonder bron of jaar | Cijfer met bestand en jaar; verschil tussen bronnen melden |
 | 'Vertalen mag gewoon' of 'vertalen mag niet' | 'Niet vertalen, tenzij': afwegingskader nalopen |
 | Alles willen vertellen | Selecteren; verdieping in een aparte laag |
+| Uitzondering weggelaten en de tekst zwijgt erover | Eén zin in de A2-tekst: er zijn meer regels, en waar de lezer ze vindt |
+| Versimpeling die niet meer klopt: 'ten minste twaalf maanden ononderbroken' werd 'twaalf maanden', 'niet, tenzij' werd 'meestal niet', 'alles moet kloppen' terwijl er een uitzondering is | Vergelijken met het origineel; de zin herstellen |
+| Alleen weglatingen gemeld, versimpelingen niet | Elke versimpeling in de vergelijkingstabel |
 | Kinderachtige toon | Volwassen lezer, eenvoudige woorden |
 | Synoniemen voor de afwisseling | Eén woord voor één ding |
 | Geen bron genoemd | Noem per onderdeel het bestand uit de leestabel |
