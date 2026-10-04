@@ -9,7 +9,7 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### `woordvoering` (versie 0.2.1)
+### Woordvoering bij de Rijksoverheid (`woordvoering`, versie 0.2.2)
 
 Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -26,7 +26,7 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### `communicatieadvies` (versie 0.1.0)
+### Communicatieadvies bij de Rijksoverheid (`communicatieadvies`, versie 0.1.1)
 
 Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -40,6 +40,24 @@ Skills:
 - `kernboodschap-ontwikkelen`: Kernboodschap ontwikkelen
 - `omgevingsanalyse-maken`: Omgevingsanalyse maken
 - `publieksonderzoek-opzetten`: Publieksonderzoek opzetten
+
+Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
+De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
+
+### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.1.0)
+
+Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.
+
+Skills:
+
+- `beslisnota-schrijven`: Beslisnota schrijven
+- `burgerbrief-schrijven`: Burgerbrief schrijven
+- `eenvoudige-taal-a2-schrijven`: Eenvoudige taal op A2 schrijven
+- `inclusief-schrijven`: Inclusief schrijven
+- `kamerbrief-schrijven`: Kamerbrief schrijven
+- `tekst-begrijpelijk-herschrijven`: Tekst begrijpelijk herschrijven
+- `tekst-opzetten-en-structureren`: Tekst opzetten en structureren
+- `tekst-testen-en-controleren`: Tekst testen en controleren
 
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
@@ -68,6 +86,7 @@ codex plugin marketplace add aigenwijs/communicatiekompas-plugins --ref main
 /plugin marketplace add aigenwijs/communicatiekompas-plugins
 /plugin install woordvoering@communicatiekompas
 /plugin install communicatieadvies@communicatiekompas
+/plugin install schrijven-rijksoverheid@communicatiekompas
 ```
 
 ## Kosten

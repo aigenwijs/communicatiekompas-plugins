@@ -1,6 +1,6 @@
 {
   "name": "communicatieadvies",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.",
   "author": {
     "name": "Aigenwijs",
@@ -33,7 +33,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Communicatieadvies",
+    "displayName": "Communicatieadvies bij de Rijksoverheid",
     "shortDescription": "Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C).",
     "longDescription": "Acht skills voor communicatieadviseurs bij de overheid, langs de Factor C-werkwijze: intake en debriefing, omgevingsanalyse (actoren, macht en invloed, belangen en vertrouwen, ringen van invloed), publieksonderzoek opzetten, communicatiestrategie bepalen (rollen van de overheid, framing, CASI, participatie), kernboodschap ontwikkelen (kijk-want-dus, kritiek-repliek, message house), communicatieplan schrijven (tien bouwstenen), evaluatie en verantwoording (leidraad accountability) en communicatieadvies geven in een politiek-bestuurlijke omgeving. Elke skill werkt met een leestabel naar de meegeleverde bronteksten van communicatiekompas.nl en communicatierijk.nl (CC0).",
     "category": "Productivity",

@@ -15,6 +15,11 @@
       "name": "communicatieadvies",
       "source": "./plugins/communicatieadvies",
       "description": "Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl."
+    },
+    {
+      "name": "schrijven-rijksoverheid",
+      "source": "./plugins/schrijven-rijksoverheid",
+      "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl."
     }
   ]
 }
