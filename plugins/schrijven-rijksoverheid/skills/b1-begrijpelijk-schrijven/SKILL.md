@@ -1,9 +1,9 @@
 ---
-name: tekst-begrijpelijk-herschrijven
-description: "Use when iemand bij de Rijksoverheid een bestaande tekst begrijpelijker moet maken of op taalniveau B1 moet brengen: ambtelijke taal, jargon, vaktermen, lange zinnen, tangconstructies, lijdende vorm, naamwoordstijl, afkortingen, vage of negatieve formuleringen, u of je, juridische tekst uitleggen, webtekst voor Rijksoverheid.nl redigeren. Ook bij 'herschrijf dit naar B1', 'maak dit duidelijker', 'dit is te ambtelijk', 'redigeer deze tekst' of 'is dit begrijpelijke taal'. Voor taalniveau A2 en lezers die moeite hebben met lezen gebruik schrijven-rijksoverheid:eenvoudige-taal-a2-schrijven; voor woordkeuze over groepen mensen schrijven-rijksoverheid:inclusief-schrijven; voor opbouw en tussenkopjes schrijven-rijksoverheid:tekst-opzetten-en-structureren."
+name: b1-begrijpelijk-schrijven
+description: "Use when iemand bij de Rijksoverheid een bestaande tekst begrijpelijker moet maken of op taalniveau B1 moet brengen: ambtelijke taal, jargon, vaktermen, lange zinnen, tangconstructies, lijdende vorm, naamwoordstijl, afkortingen, vage of negatieve formuleringen, u of je, juridische tekst uitleggen, webtekst voor Rijksoverheid.nl redigeren. Ook bij 'herschrijf dit naar B1', 'maak dit duidelijker', 'dit is te ambtelijk', 'redigeer deze tekst' of 'is dit begrijpelijke taal'. Voor taalniveau A2 en lezers die moeite hebben met lezen gebruik schrijven-rijksoverheid:a2-eenvoudig-schrijven; voor woordkeuze over groepen mensen schrijven-rijksoverheid:inclusief-schrijven; voor opbouw en tussenkopjes schrijven-rijksoverheid:tekst-opzetten-en-structureren."
 ---
 
-# Tekst begrijpelijk herschrijven
+# Begrijpelijk schrijven op B1
 
 Generiek herschrijven is zinnen inkorten op gevoel, met een zelfbedachte woordnorm. Zoals de Rijksoverheid het afspreekt, is taalniveau B1 de richtlijn en loop je de stijladviezen van het Taalkompas één voor één langs: eenvoudige zinnen, actieve zinnen, alledaagse taal, concrete taal, consistent taalgebruik, geen afkortingen, positieve taal, persoonlijke taal en foutloze taal. De inhoud blijft gelijk.
 
@@ -57,7 +57,7 @@ Niet in deze map: de schrijfwijzer en richtlijnen van het KCBR, de woordenlijst 
 
 | Fout | Herstel |
 |---|---|
-| Zelfbedachte norm zoals 'maximaal 15 woorden' | De bron noemt zinnen tot 25 woorden; voor A2 gelden eigen regels, zie `schrijven-rijksoverheid:eenvoudige-taal-a2-schrijven` |
+| Zelfbedachte norm zoals 'maximaal 15 woorden' | De bron noemt zinnen tot 25 woorden; voor A2 gelden eigen regels, zie `schrijven-rijksoverheid:a2-eenvoudig-schrijven` |
 | 'Dit is nu B1' zonder test | Zeg dat het volgens de B1-adviezen is herschreven en laat testen |
 | Inhoud of termijn mee veranderd | Feiten vastzetten vóór het herschrijven |
 | Juridische term geschrapt | Laten staan en uitleggen |

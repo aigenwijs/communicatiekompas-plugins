@@ -32,7 +32,7 @@ Niet in deze map: het Kamerbriefsjabloon en de schrijfafspraken van het eigen de
 6. **Onderbouwing.** Eén alinea per vraag die de lezer heeft, kernzin eerst, witregels. Tussenkopjes zijn informatief en uitnodigend en maken de rode draad zichtbaar, zoals in het voorbeeld ('Ambtelijke teksten moeten begrijpelijker'). Opsommingen van meer dan twee delen in bullets.
 7. **Slot.** Bondig: wat mag de Kamer van de bewindspersoon verwachten, en eventueel andersom? Wat is het vervolg en wanneer? Het voorbeeld heeft geen kopje boven het slot en sluit af met functie en naam van de bewindspersoon.
 8. **Bijlagen** vermelden. De belangrijkste informatie uit de beslisnota komt terug in de brief.
-9. **Toon en taal.** Zakelijk, in de ik-vorm van de bewindspersoon, begrijpelijk voor lezers buiten het vakgebied: alledaagse taal, vaktermen alleen als het moet, afkortingen eerst voluit. Ken je de volledige naam niet uit het aangeleverde materiaal, vraag hem na. Redigeren: `schrijven-rijksoverheid:tekst-begrijpelijk-herschrijven`.
+9. **Toon en taal.** Zakelijk, in de ik-vorm van de bewindspersoon, begrijpelijk voor lezers buiten het vakgebied: alledaagse taal, vaktermen alleen als het moet, afkortingen eerst voluit. Ken je de volledige naam niet uit het aangeleverde materiaal, vraag hem na. Redigeren: `schrijven-rijksoverheid:b1-begrijpelijk-schrijven`.
 10. **Checklist** uit de bron langslopen.
 
 ## Output: dit lever je op

@@ -28,7 +28,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/rijkswebsites/verplichte-richtlijnen/portable-document-format-pdf.md` — Portable Document Format (pdf) | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/rijkshuisstijl.md` — Rijkshuisstijl | CommunicatieRijk
 
-## tekst-begrijpelijk-herschrijven
+## b1-begrijpelijk-schrijven
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl.md` — Stijl | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/taalniveaus.md` — Taalniveaus | CommunicatieRijk
@@ -87,7 +87,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-taalgebruik.md` — Tips voor inclusief taalgebruik | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-beeldgebruik.md` — Tips voor inclusief beeldgebruik | CommunicatieRijk
 
-## eenvoudige-taal-a2-schrijven
+## a2-eenvoudig-schrijven
 
 - `bronnen/communicatierijk/documenten/factsheet-schrijven-voor-laaggeletterden/factsheet-schrijven-voor-laaggeletterden.md` — Factsheet schrijven voor laaggeletterden | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/eenvoudige-taal.md` — Eenvoudige taal | CommunicatieRijk
