@@ -20,6 +20,11 @@
       "name": "schrijven-rijksoverheid",
       "source": "./plugins/schrijven-rijksoverheid",
       "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl."
+    },
+    {
+      "name": "factorc-hulpmiddelen",
+      "source": "./plugins/factorc-hulpmiddelen",
+      "description": "De hulpmiddelen van Factor C, de werkwijze voor communicatie van de Rijksoverheid, als losse skills: per tool van communicatiekompas.nl/hulpmiddelen (intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, persona, klantreis, communicatiestrategie, framing, CASI, communicatieplan, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, teksten, middelenkeuze, briefing, evenementen, communicatiekalender, media-analyse) een eigen skill, plus een skill die per fase het passende hulpmiddel kiest."
     }
   ]
 }

@@ -39,6 +39,18 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "factorc-hulpmiddelen",
+      "source": {
+        "source": "local",
+        "path": "./plugins/factorc-hulpmiddelen"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }

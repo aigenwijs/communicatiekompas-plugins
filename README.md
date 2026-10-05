@@ -62,6 +62,50 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
+### Factor C-hulpmiddelen bij de Rijksoverheid (`factorc-hulpmiddelen`, versie 0.1.0)
+
+De hulpmiddelen van Factor C, de werkwijze voor communicatie van de Rijksoverheid, als losse skills: per tool van communicatiekompas.nl/hulpmiddelen (intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, persona, klantreis, communicatiestrategie, framing, CASI, communicatieplan, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, teksten, middelenkeuze, briefing, evenementen, communicatiekalender, media-analyse) een eigen skill, plus een skill die per fase het passende hulpmiddel kiest.
+
+Skills:
+
+- `actoren-inventariseren`: Actoren-inventarisatie
+- `belangen-en-vertrouwenmatrix-invullen`: Belangen- en vertrouwenmatrix
+- `beweegredenen-matrix-invullen`: Beweegredenen-matrix
+- `briefing-communicatiemiddel-schrijven`: Briefing communicatiemiddelen
+- `casi-toepassen`: CASI
+- `communicatiekalender-maken`: Communicatiekalender
+- `communicatieplan-opbouwen`: Bouwstenen van een communicatieplan
+- `communicatiestrategie-uitwerken`: Communicatiestrategie
+- `debriefing-maken`: Debriefing
+- `dilemmalogica-doorlopen`: Dilemmalogica
+- `evenement-organiseren`: Evenementen en congressen
+- `factor-c-hulpmiddel-kiezen`: Factor C-hulpmiddel kiezen
+- `framing-toepassen`: Framing
+- `intake-voeren`: Intake (checklist)
+- `interdisciplinair-werken`: Interdisciplinair werken
+- `kijk-want-dus-formuleren`: Kijk-want-dus
+- `klantreis-maken`: Klantreis
+- `kritiek-repliek-maken`: Kritiek-repliek
+- `macht-en-invloedanalyse-maken`: Macht- en invloedanalyse
+- `media-analyse-uitvoeren`: Media-analyse en omgevingsonderzoek
+- `message-box-invullen`: Message box
+- `message-house-bouwen`: Message house
+- `middelenkeuze-maken`: Middelenkeuze
+- `netwerkanalyse-sociogram-maken`: Netwerkanalyse of sociogram
+- `omgevingsscan-maken`: Omgevingsscan
+- `persona-maken`: Persona's
+- `projectorganisatie-inrichten`: Inrichten projectorganisatie
+- `ringen-van-invloed-tekenen`: Ringen van invloed
+- `swot-analyse-maken`: SWOT-analyse
+- `teksten-schrijven`: Teksten schrijven
+
+Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
+De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
+
+In Claude Code meldt deze plugin bij de start van elke sessie (SessionStart-hook) welke
+hulpmiddelen er zijn, zodat de assistent ze uit zichzelf kan aanbieden. De hook voert alleen
+een `echo` uit en verstuurt niets.
+
 ## Installeren in de Codex-app (ChatGPT)
 
 Open **Instellingen → Plug-ins → Plug-in-marktplaats toevoegen** en vul in:
@@ -87,6 +131,7 @@ codex plugin marketplace add aigenwijs/communicatiekompas-plugins --ref main
 /plugin install woordvoering@communicatiekompas
 /plugin install communicatieadvies@communicatiekompas
 /plugin install schrijven-rijksoverheid@communicatiekompas
+/plugin install factorc-hulpmiddelen@communicatiekompas
 ```
 
 ## Kosten
@@ -103,7 +148,15 @@ frontmatter. Vier publicaties met een beperkende rechtenvermelding (*Monitor Ont
 Mediagebruik 2025*, *Moet dat nou zo?!*, *Leidraad Communicatieonderzoek 2017* en *Blijf bevragen*)
 zijn **niet** opgenomen; de meegeleverde paginateksten noemen ze wel, met de bron-URL in de frontmatter.
 
-Alles in deze repository (skills, manifesten, README) is vrijgegeven onder
+De plugin `factorc-hulpmiddelen` bevat naast de tekstversies ook de originele PDF's (blanco
+invulformulieren en CASI-publicaties). **Uitzondering op CC0:** de *Handleiding CASI*
+(`plugins/factorc-hulpmiddelen/bronnen/communicatierijk/documenten/handleiding-casi/`) valt niet onder CC0.
+Volgens het colofon mogen delen ervan met vermelding van auteur en bron worden gebruikt voor
+niet-commerciële doeleinden; voor ander gebruik is toestemming nodig van de Dienst Publiek en
+Communicatie (Ministerie van Algemene Zaken). Zie `bronnen/OVERZICHT.md` in die plugin.
+
+Alles in deze repository (skills, manifesten, README) is, met uitzondering van de hierboven genoemde
+Handleiding CASI, vrijgegeven onder
 [CC0 1.0 Universal](LICENSE): doe ermee wat je wilt, zonder bronvermelding of toestemming.
 Aigenwijs geeft geen garanties; controleer feiten en cijfers altijd in de aangewezen bron.
 

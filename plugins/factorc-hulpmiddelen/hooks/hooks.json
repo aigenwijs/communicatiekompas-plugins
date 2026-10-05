@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'De plugin factorc-hulpmiddelen is geinstalleerd: de Factor C-hulpmiddelen van communicatiekompas.nl (o.a. intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, sociogram, persona, klantreis, framing, CASI, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, middelenkeuze, briefing, communicatiekalender, media-analyse) als coachende skills. Werkt de gebruiker aan een communicatievraag bij de overheid (opdracht, omgeving, doelgroep, strategie, boodschap, middelen, planning of monitoring), noem dan proactief en in een zin welk Factor C-hulpmiddel kan helpen en bied aan de gebruiker er stap voor stap doorheen te begeleiden (skill factorc-hulpmiddelen:factor-c-hulpmiddel-kiezen of de skill van dat hulpmiddel). Vul een hulpmiddel niet in en maak geen keuzes namens de communicatieprofessional zonder diens input.'"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "factorc-hulpmiddelen",
+  "version": "0.1.0",
+  "description": "De hulpmiddelen van Factor C, de werkwijze voor communicatie van de Rijksoverheid, als losse skills: per tool van communicatiekompas.nl/hulpmiddelen (intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, persona, klantreis, communicatiestrategie, framing, CASI, communicatieplan, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, teksten, middelenkeuze, briefing, evenementen, communicatiekalender, media-analyse) een eigen skill, plus een skill die per fase het passende hulpmiddel kiest.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "factor c",
+    "hulpmiddelen",
+    "communicatiekompas",
+    "overheidscommunicatie",
+    "rijksoverheid",
+    "intake",
+    "swot",
+    "actoren-inventarisatie",
+    "omgevingsscan",
+    "stakeholderanalyse",
+    "persona",
+    "klantreis",
+    "casi",
+    "framing",
+    "kijk-want-dus",
+    "message house",
+    "message box",
+    "kritiek-repliek",
+    "dilemmalogica",
+    "middelenkeuze",
+    "communicatiekalender",
+    "media-analyse"
+  ]
+}
