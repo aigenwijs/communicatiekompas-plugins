@@ -54,7 +54,7 @@ Doe één stap tegelijk en wacht op antwoord: per beurt hoogstens één vraag of
 - **Intake:** intake-voeren, debriefing-maken, swot-analyse-maken, projectorganisatie-inrichten, interdisciplinair-werken
 - **Onderzoek en analyse:** actoren-inventariseren, persona-maken, klantreis-maken, omgevingsscan-maken, belangen-en-vertrouwenmatrix-invullen, macht-en-invloedanalyse-maken, ringen-van-invloed-tekenen, beweegredenen-matrix-invullen, netwerkanalyse-sociogram-maken
 - **Strategie:** communicatiestrategie-uitwerken, framing-toepassen, casi-toepassen, communicatieplan-opbouwen
-- **Realisatie:** kritiek-repliek-maken, kijk-want-dus-formuleren, message-box-invullen, message-house-bouwen, dilemmalogica-doorlopen, teksten-schrijven, middelenkeuze-maken, briefing-communicatiemiddel-schrijven, evenement-organiseren, communicatiekalender-maken, media-analyse-uitvoeren
+- **Realisatie:** kritiek-repliek-maken, kijk-want-dus-formuleren, message-box-invullen, message-house-bouwen, dilemmalogica-doorlopen, teksten-schrijven, middelenkeuze-maken, briefing-communicatiemiddel-schrijven, evenement-organiseren, communicatiekalender-maken, media-analyse-aanvragen
 
 ## Output: dit lever je op
 

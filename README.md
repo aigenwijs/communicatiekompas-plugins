@@ -4,6 +4,9 @@ Plugins met skills voor communicatieprofessionals bij de Nederlandse overheid, g
 openbare vakkennis van [communicatiekompas.nl](https://www.communicatiekompas.nl) en
 [communicatierijk.nl](https://www.communicatierijk.nl). Werkt in **Codex / ChatGPT** en in **Claude Code**.
 
+Geen plugins beschikbaar in je account? In `losse-skills/` staat elke skill als losse ZIP, met de
+bronteksten die de skill gebruikt. Die kun je bijvoorbeeld in Claude uploaden via **Customize > Skills**.
+
 Dit is een onafhankelijk project van [Aigenwijs](https://aigenwijs.com). Het is geen uitgave van de
 Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
@@ -26,7 +29,7 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### Communicatieadvies bij de Rijksoverheid (`communicatieadvies`, versie 0.1.1)
+### Communicatieadvies bij de Rijksoverheid (`communicatieadvies`, versie 0.1.2)
 
 Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -62,7 +65,7 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### Factor C-hulpmiddelen bij de Rijksoverheid (`factorc-hulpmiddelen`, versie 0.1.0)
+### Factor C-hulpmiddelen bij de Rijksoverheid (`factorc-hulpmiddelen`, versie 0.2.0)
 
 De hulpmiddelen van Factor C, de werkwijze voor communicatie van de Rijksoverheid, als losse skills: per tool van communicatiekompas.nl/hulpmiddelen (intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, persona, klantreis, communicatiestrategie, framing, CASI, communicatieplan, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, teksten, middelenkeuze, briefing, evenementen, communicatiekalender, media-analyse) een eigen skill, plus een skill die per fase het passende hulpmiddel kiest.
 
@@ -87,7 +90,7 @@ Skills:
 - `klantreis-maken`: Klantreis
 - `kritiek-repliek-maken`: Kritiek-repliek
 - `macht-en-invloedanalyse-maken`: Macht- en invloedanalyse
-- `media-analyse-uitvoeren`: Media-analyse en omgevingsonderzoek
+- `media-analyse-aanvragen`: Media-analyse en omgevingsonderzoek
 - `message-box-invullen`: Message box
 - `message-house-bouwen`: Message house
 - `middelenkeuze-maken`: Middelenkeuze

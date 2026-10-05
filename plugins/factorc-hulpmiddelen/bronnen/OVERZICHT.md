@@ -210,7 +210,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/communicatiekalender.md` — Communicatiekalender
 - `bronnen/communicatiekompas/hulpmiddelen/middelenkeuze.md` — Middelenkeuze
 
-## media-analyse-uitvoeren
+## media-analyse-aanvragen
 
 - `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` — Realisatie - toelichting
 - `bronnen/communicatiekompas/hulpmiddelen/media-analyse-en-omgevingsonderzoek.md` — Media-analyse en omgevingsonderzoek

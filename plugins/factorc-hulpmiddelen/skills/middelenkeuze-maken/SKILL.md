@@ -30,7 +30,7 @@ Doe één stap tegelijk en wacht op antwoord: per beurt hoogstens één vraag of
 3. **Opties ophalen.** Vraag wat het inleven opleverde, langs de lijnen uit de bron: visueel of tekst; plek of kanaal (offline of online); een meer opvallende, ludieke aanpak; een combinatie van middelen; iets anders of extra voor specifieke groepen. Spiegel wat je hoort. Ideeën van jou alleen als 'suggestie'.
 4. **Toetsen.** Laat de professional elke optie langs de vier aspecten halen: strategie (sluit het aan?), budget (financiële ruimte?), capaciteit (genoeg tijd, eventueel met collega's of partners?), planning (op tijd klaar gelet op productie- en levertijden?). Reflectievraag: welke optie valt af en waarom?
 5. **Keuze.** De professional kiest het middel of de mix. Jij vraagt naar de onderbouwing in eigen woorden.
-6. **Toetsen bij de doelgroep.** Vraag of en wanneer de keuze getoetst wordt: vooraf en of achteraf, op meerdere niveaus (bereikt? boodschap duidelijk? iets gemist?). Zie `factorc-hulpmiddelen:media-analyse-uitvoeren` voor onderzoekers.
+6. **Toetsen bij de doelgroep.** Vraag of en wanneer de keuze getoetst wordt: vooraf en of achteraf, op meerdere niveaus (bereikt? boodschap duidelijk? iets gemist?). Zie `factorc-hulpmiddelen:media-analyse-aanvragen` voor onderzoekers.
 7. **Hulp bij beeld en planning.** Noem de middelenkiezer op Beeldkompas (externe site, niet in deze map) en bij meerdere middelen de communicatiekalender.
 
 **Vraagt de gebruiker 'kies jij het middel maar'?** Vraag eerst de minimale input: doel, doelgroep, strategische keuze, budget, deadline. Daarna hoogstens een conceptvergelijking van twee of drie opties langs de vier toetsaspecten, gelabeld als concept, zonder definitieve keuze.

@@ -15,7 +15,7 @@ Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md
 |---|---|
 | Opbouw van een kernboodschap, kijk-want-dus, toepassing | `bronnen/communicatiekompas/hulpmiddelen/kernboodschap.md` en `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` (Kernboodschap) |
 | Message box als werkvorm | `bronnen/communicatiekompas/hulpmiddelen/kernboodschap_l3cceil63vk.md` |
-| Zorgen en vragen van de doelgroep verzamelen | `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/kritiek-repliek.md` (tabel: kritiekpunt en van wie, repliek, bron van de repliek) |
+| Zorgen en vragen van de doelgroep verzamelen | `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/kritiek-repliek.md` (sessie en tips; de bron geeft geen kolomkoppen) |
 | Meerdere doelgroepen, afzenders of frames | `bronnen/communicatiekompas/hulpmiddelen/message-house/message-house.md` (koepelverhaal met maximaal zes pijlers) |
 | Woordkeuze en frame | `bronnen/communicatiekompas/hulpmiddelen/framing.md` (vuistregels) |
 | Omstreden onderwerp, uitstel, besluit dat pijn doet | `bronnen/communicatiekompas/hulpmiddelen/dilemmalogica.md` en `bronnen/communicatierijk/actueel/casus-ervaringen-met-dilemmalogica.md` |
@@ -33,7 +33,7 @@ Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md
 
 ## Output: dit lever je op
 
-- Kritiek-replieklijst als tabel: kritiekpunt en van wie, repliek, bron van de repliek (bestand, 'situatie' of 'beleid levert').
+- Kritiek-replieklijst als tabel met de kolommen Kritiek | Repliek. Dat is een eigen weergave: het formulier van Communicatiekompas heeft alleen Datum, Fase en ongelabelde tekstballonnen. Zet per repliek de onderbouwing erbij (bestand, 'situatie' of 'beleid levert').
 - Bij een schurend onderwerp: de drie stappen van dilemmalogica uitgeschreven.
 - Kernboodschap: één kernzin plus kijk-want-dus van elk één of twee zinnen, in de taal van de doelgroep.
 - Frame-check: welke woorden je gebruikt en welke je vermijdt, en waarom.
