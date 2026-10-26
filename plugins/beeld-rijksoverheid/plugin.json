@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "beeld-rijksoverheid",
+  "version": "0.1.0",
+  "description": "Praktische beeldskills voor iedereen bij de Rijksoverheid, gebaseerd op Beeldkompas, communicatierijk.nl en communicatiekompas.nl: advies over beeld (ook ongevraagd meekijken), rechten en privacy checken (inclusief waarschuwing bij foto's met mensen in een AI-tool), beeld toegankelijk maken (alt-tekst, ondertiteling, contrast), informatie visualiseren, beeld controleren op inclusie, stereotypen en echtheid, zelf beeld maken, een beeldmiddel kiezen, een beeldbriefing schrijven, een beeldstijl bepalen en een abstract onderwerp verbeelden.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "beeld",
+    "beeldkompas",
+    "visuele communicatie",
+    "rijksoverheid",
+    "infographic",
+    "datavisualisatie",
+    "alt-tekst",
+    "toegankelijkheid",
+    "ondertiteling",
+    "portretrecht",
+    "avg",
+    "beeldrechten",
+    "ai-beeld",
+    "deepfake",
+    "diversiteit",
+    "stereotypering",
+    "rijkshuisstijl",
+    "briefing",
+    "middelenkiezer",
+    "matchmaker",
+    "video",
+    "fotografie"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'De plugin beeld-rijksoverheid is geinstalleerd: praktische beeldskills voor iedereen bij de Rijksoverheid (beeld-advies, beeld-rechten-checken, beeld-toegankelijk-maken, beeld-informatie-visualiseren, beeld-controleren, beeld-zelf-maken, beeld-middel-kiezen, beeld-briefing-schrijven, beeld-stijl-bepalen, beeld-abstract-onderwerp-verbeelden). Kijk passief mee: werkt de gebruiker aan iets waar beeld bij komt kijken (een foto, video, infographic, grafiek, illustratie, presentatie, social post, rapport, webpagina of campagne), geef dan hooguit een of twee korte tips die er nu toe doen (bijvoorbeeld alt-tekst, toestemming van herkenbare personen, diversiteit, te veel tekst in beeld) en bied in een zin de passende beeld-skill aan. Niet zeuren: noem een tip niet opnieuw als de gebruiker hem al heeft gezien of afgewezen. Altijd melden, ook ongevraagd: uploadt de gebruiker beeld met herkenbare mensen in een AI-tool (ook in dit gesprek) of is de gebruiker dat van plan, herinner er dan kort aan dat portretrecht en de AVG gelden, dat eerdere toestemming niet automatisch geldt voor verwerking door AI, dat het interne AI-beleid van de eigen organisatie bepaalt wat mag en dat een licentie bewerking met AI kan uitsluiten (eventueel eerst afkopen); laat dit intern dubbelchecken. Vul het AI-beleid nooit zelf in en geef geen juridisch oordeel. Noem nooit namen van fotografen of andere makers.'"
+          }
+        ]
+      }
+    ]
+  }
+}

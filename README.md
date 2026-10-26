@@ -109,6 +109,30 @@ In Claude Code meldt deze plugin bij de start van elke sessie (SessionStart-hook
 hulpmiddelen er zijn, zodat de assistent ze uit zichzelf kan aanbieden. De hook voert alleen
 een `echo` uit en verstuurt niets.
 
+### Beeld bij de Rijksoverheid (`beeld-rijksoverheid`, versie 0.1.0)
+
+Praktische beeldskills voor iedereen bij de Rijksoverheid, gebaseerd op Beeldkompas, communicatierijk.nl en communicatiekompas.nl: advies over beeld (ook ongevraagd meekijken), rechten en privacy checken (inclusief waarschuwing bij foto's met mensen in een AI-tool), beeld toegankelijk maken (alt-tekst, ondertiteling, contrast), informatie visualiseren, beeld controleren op inclusie, stereotypen en echtheid, zelf beeld maken, een beeldmiddel kiezen, een beeldbriefing schrijven, een beeldstijl bepalen en een abstract onderwerp verbeelden.
+
+Skills:
+
+- `beeld-abstract-onderwerp-verbeelden`: Abstract onderwerp verbeelden met Design Thinking voor beeld
+- `beeld-advies`: Beeld-advies: beeld inzetten bij de Rijksoverheid
+- `beeld-briefing-schrijven`: Beeldbriefing schrijven voor een beeldmaker
+- `beeld-controleren`: Beeld controleren vóór publicatie
+- `beeld-informatie-visualiseren`: Informatie visualiseren: infographic, datagraphic en visual
+- `beeld-middel-kiezen`: Beeldmiddel kiezen met de Middelenkiezer
+- `beeld-rechten-checken`: Beeldrechten checken: toestemming, licentie en AI
+- `beeld-stijl-bepalen`: Beeldstijl bepalen met de Matchmaker
+- `beeld-toegankelijk-maken`: Beeld toegankelijk maken: alt-tekst, ondertiteling en contrast
+- `beeld-zelf-maken`: Zelf beeld maken: foto, video en vlog
+
+Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
+De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
+
+In Claude Code meldt deze plugin bij de start van elke sessie (SessionStart-hook) welke
+hulpmiddelen er zijn, zodat de assistent ze uit zichzelf kan aanbieden. De hook voert alleen
+een `echo` uit en verstuurt niets.
+
 ## Installeren in de Codex-app (ChatGPT)
 
 Open **Instellingen → Plug-ins → Plug-in-marktplaats toevoegen** en vul in:
@@ -135,6 +159,7 @@ codex plugin marketplace add aigenwijs/communicatiekompas-plugins --ref main
 /plugin install communicatieadvies@communicatiekompas
 /plugin install schrijven-rijksoverheid@communicatiekompas
 /plugin install factorc-hulpmiddelen@communicatiekompas
+/plugin install beeld-rijksoverheid@communicatiekompas
 ```
 
 ## Kosten
@@ -157,6 +182,10 @@ invulformulieren en CASI-publicaties). **Uitzondering op CC0:** de *Handleiding 
 Volgens het colofon mogen delen ervan met vermelding van auteur en bron worden gebruikt voor
 niet-commerciële doeleinden; voor ander gebruik is toestemming nodig van de Dienst Publiek en
 Communicatie (Ministerie van Algemene Zaken). Zie `bronnen/OVERZICHT.md` in die plugin.
+
+De plugin `beeld-rijksoverheid` bevat teksten van beeldkompas.nl. Die tekst is vrijgegeven onder CC0,
+**de beelden van Beeldkompas niet**: die zitten niet in de plugin, en verwijzingen ernaar en
+makersvermeldingen zijn uit de teksten gehaald. Bekijk voorbeeldbeelden op beeldkompas.nl zelf.
 
 Alles in deze repository (skills, manifesten, README) is, met uitzondering van de hierboven genoemde
 Handleiding CASI, vrijgegeven onder

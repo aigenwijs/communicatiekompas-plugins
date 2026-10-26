@@ -1,0 +1,51 @@
+{
+  "name": "beeld-rijksoverheid",
+  "version": "0.1.0",
+  "description": "Praktische beeldskills voor iedereen bij de Rijksoverheid, gebaseerd op Beeldkompas, communicatierijk.nl en communicatiekompas.nl: advies over beeld (ook ongevraagd meekijken), rechten en privacy checken (inclusief waarschuwing bij foto's met mensen in een AI-tool), beeld toegankelijk maken (alt-tekst, ondertiteling, contrast), informatie visualiseren, beeld controleren op inclusie, stereotypen en echtheid, zelf beeld maken, een beeldmiddel kiezen, een beeldbriefing schrijven, een beeldstijl bepalen en een abstract onderwerp verbeelden.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "repository": "https://github.com/aigenwijs/communicatiekompas-plugins",
+  "license": "CC0-1.0",
+  "keywords": [
+    "beeld",
+    "beeldkompas",
+    "visuele communicatie",
+    "rijksoverheid",
+    "infographic",
+    "datavisualisatie",
+    "alt-tekst",
+    "toegankelijkheid",
+    "ondertiteling",
+    "portretrecht",
+    "avg",
+    "beeldrechten",
+    "ai-beeld",
+    "deepfake",
+    "diversiteit",
+    "stereotypering",
+    "rijkshuisstijl",
+    "briefing",
+    "middelenkiezer",
+    "matchmaker",
+    "video",
+    "fotografie"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Beeld bij de Rijksoverheid",
+    "shortDescription": "Praktische hulp bij foto, video, infographic en ander beeld.",
+    "longDescription": "Beeldskills voor iedereen bij de Rijksoverheid, niet alleen voor communicatie: advies over beeld (ook ongevraagd, als de assistent meekijkt), rechten en privacy checken, beeld toegankelijk maken (alt-tekst, ondertiteling, contrast), informatie visualiseren, beeld controleren op inclusie, stereotypen en echtheid, zelf beeld maken, een beeldmiddel kiezen, een beeldbriefing schrijven, een beeldstijl bepalen en een abstract onderwerp verbeelden. Waarschuwt als je beeld met herkenbare mensen in een AI-tool zet en verwijst voor AI-beleid en licenties naar je eigen organisatie. Gebaseerd op de teksten van Beeldkompas, communicatierijk.nl en communicatiekompas.nl.",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Welk beeld past bij deze boodschap en doelgroep? ...",
+      "Schrijf een alt-tekst bij deze afbeelding: ...",
+      "Mag ik deze foto gebruiken in onze nieuwsbrief? ..."
+    ],
+    "developerName": "Aigenwijs",
+    "websiteURL": "https://github.com/aigenwijs/communicatiekompas-plugins"
+  }
+}
