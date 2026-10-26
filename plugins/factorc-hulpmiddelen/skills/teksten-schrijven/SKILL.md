@@ -1,6 +1,6 @@
 ---
 name: teksten-schrijven
-description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor C-hulpmiddel Teksten schrijven van Communicatiekompas wil gebruiken of uitleggen: schrijfproces inrichten, lezer centraal stellen, tekstbijdragen van inhoudsdeskundigen organiseren, taalniveau B1 of A2 kiezen, Taalkompas, praatversie, blik van de buitenstaander, regie over tekstkwaliteit, stukjes laten aanleveren of interviewen. Ook bij 'help me met het schrijfproces van deze webtekst', 'begeleid me bij het schrijven van een tekst voor dit middel', 'hoe pak ik het schrijven aan volgens Factor C' of 'collega's leveren steeds stukjes aan'. Voor het eigenlijke herschrijven op B1 gebruik schrijven-rijksoverheid:b1-begrijpelijk-schrijven; voor opbouw en structuur schrijven-rijksoverheid:tekst-opzetten-en-structureren; voor inclusieve taal schrijven-rijksoverheid:inclusief-schrijven; voor de kernboodschap factorc-hulpmiddelen:kijk-want-dus-formuleren."
+description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor C-hulpmiddel Teksten schrijven van Communicatiekompas wil gebruiken of uitleggen: schrijfproces inrichten, lezer centraal stellen, tekstbijdragen van inhoudsdeskundigen organiseren, taalniveau B1 of A2 kiezen, Taalkompas, praatversie, blik van de buitenstaander, regie over tekstkwaliteit, stukjes laten aanleveren of interviewen. Ook bij 'help me met het schrijfproces van deze webtekst', 'begeleid me bij het schrijven van een tekst voor dit middel', 'hoe pak ik het schrijven aan volgens Factor C' of 'collega's leveren steeds stukjes aan'. Voor het eigenlijke herschrijven op B1 gebruik schrijven-rijksoverheid:tekst-b1; voor opbouw en structuur schrijven-rijksoverheid:tekst-opzetten; voor inclusieve taal schrijven-rijksoverheid:tekst-inclusief; voor de kernboodschap factorc-hulpmiddelen:kijk-want-dus-formuleren."
 ---
 
 # Teksten schrijven
@@ -32,14 +32,14 @@ Doe één stap tegelijk en wacht op antwoord: per beurt hoogstens één vraag of
 5. **Taalniveau.** Vraag: B1 of A2? Geef de bron: B1 begrijpt ruim 90% van de lezers; het Themaonderzoek taalniveaus beveelt A2 aan (`teksten-schrijven.md`); de inclusieve tips zeggen bij voorkeur A2, niet neerbuigend. De professional kiest.
 6. **Inclusie en alternatieven.** Vraag: wie mis je? Denk aan slechtzienden, laaggeletterden, niet digitaal vaardigen, mensen die geen Nederlands beheersen. Suggestie: 'beste bewoner' in plaats van 'beste heer, mevrouw'.
 7. **Blik van buiten en regie.** Vraag: bij wie test je de tekst, en wie mag waarop meelezen? Nudge met de wet van Scholten uit de longread. De professional houdt de eindredactie.
-8. **Doorverwijzen.** Voor het eigenlijke schrijven: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:b1-begrijpelijk-schrijven` (pad `../schrijven-rijksoverheid/skills/b1-begrijpelijk-schrijven/SKILL.md`), voor opbouw `schrijven-rijksoverheid:tekst-opzetten-en-structureren`, voor inclusie `schrijven-rijksoverheid:inclusief-schrijven`.
+8. **Doorverwijzen.** Voor het eigenlijke schrijven: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-b1` (pad `../schrijven-rijksoverheid/skills/tekst-b1/SKILL.md`), voor opbouw `schrijven-rijksoverheid:tekst-opzetten`, voor inclusie `schrijven-rijksoverheid:tekst-inclusief`.
 
 **Vraagt de gebruiker 'schrijf jij het maar'?** Vraag eerst de minimale input: lezer en zijn vraag, de kern, het middel, het taalniveau. Daarna hoogstens een concept, gelabeld als concept dat de professional bij de lezer moet toetsen, met lezer en taalniveau als open vragen.
 
 ## Output: dit lever je op
 - Schrijfaanpak zoals de professional die koos: lezer en vraag, kernzin, procesafspraken (interview of bouwstenen, praatversie, wie tikt af, wie leest waarop mee), taalniveau, inclusie-alternatieven, testmoment bij de lezer.
 - Open vragen en aannames (bv. 'lezersvraag nog niet getoetst').
-- Volgende stap: schrijven met de schrijven-rijksoverheid-skills; testen met `schrijven-rijksoverheid:tekst-testen-en-controleren`.
+- Volgende stap: schrijven met de schrijven-rijksoverheid-skills; testen met `schrijven-rijksoverheid:tekst-testen`.
 - Bronvermelding per onderdeel (bestandsnaam uit de leestabel).
 
 ## Veelgemaakte fouten
