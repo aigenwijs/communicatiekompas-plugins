@@ -1,0 +1,997 @@
+[Tekstversie van de-ontwerpende-aanpak-voor-betekenisvolle-verandering.pdf, omgezet met pdftotext -layout]
+
+De ontwerpende aanpak
+voor betekenisvolle verandering
+Onderzoeks- en ontwerpmethodieken voor complexe
+maatschappelijke vraagstukken
+Laat je inspireren door praktijkvoorbeelden!
+Inhoudsopgave
+
+Een ontwerpende aanpak 3
+Gezamenlijk en iteratief   5
+Werken met gedragsinzichten 7
+Afstemmen op de leefwereld van mensen 9
+Waar vind je mensen? 11
+Job-to-be-Done 13
+Gespreksstarters 15
+Co-creatie met mensen 17
+Research through design 19
+Speculatieve ontwerptechnieken 21
+                                          Colofon
+Gamification 23
+                                          Juli 2026
+Prototyping 25
+                                          Dit document is een initiatief van DPC, Muzus en
+Visualisaties 27                          Perspective. Heb je vragen? Neem dan contact op met
+                                          onderzoekscommunity@minaz.nl
+Een ontwerpende aanpak
+Een ontwerpende aanpak biedt kansen om communicatie,                    1. Begin klein - Start met een concreet, afgebakend vraagstuk. Gebruik een
+dienstverlening en beleid beter te laten aansluiten op de                  pilot als leerervaring en voorbeeld voor anderen.
+leefwereld van mensen en hun behoeften. Door mensgericht te             2. Zoek bondgenoten - Werk samen met collega’s, ontwerpers of externe
+werken, hun belevingswereld te blijven onderzoeken en mensen               partners. Vorm een divers team met beleid, uitvoering en communicatie.
+in het hele proces mee te nemen ontstaan nieuwe inzichten en               Als je een leidinggevende als bondgenoot kan vinden is dat extra fijn.
+handelingsrichtingen. Deze aanpak helpt om nieuwe ideeën en             3. Wees helder over wat je doet, en waarom - Leg uit dat de ontwerpende
+oplossingen te ontwikkelen die echt werken voor mensen.                    aanpak niet vrijblijvend is, maar een gestructureerd proces. Het helpt om
+                                                                           communicatie, dienstverlening en beleid beter te laten aansluiten op de
+Waarom deze aanpak binnen de overheid vaak                                 praktijk van mensen.
+                                                                        4. Betrek mensen vanaf het begin - Ga in gesprek met de mensen om wie
+botst                                                                      het gaat en andere betrokkenen. Gebruik hun ervaringen als uitgangspunt
+Toch is het binnen de overheid vaak lastig om op deze manier te
+                                                                           voor je ontwerp of om het probleem eventueel te herdefiniëren.
+werken. De organisatiecultuur is meestal gericht op controle en het
+                                                                        5. Wees open over onzekerheid over de uitkomst - Bij een ontwerpende
+voorkomen van fouten. In zo’n omgeving is er niet altijd ruimte om
+                                                                           aanpak weet je van tevoren nog niet op welke oplossing je uitkomt, het is
+te experimenteren of te leren van wat misgaat. Een ontwerpende
+                                                                           goed om daar transparant over te zijn.
+aanpak vraagt juist om een andere manier van denken en werken:
+                                                                        6. Maak het tastbaar - Werk met schetsen of prototypes (ongeacht welke
+nieuwsgierig zijn, open staan voor andere perspectieven, inleven
+                                                                           vorm die hebben). Mensen reageren makkelijker op iets dat ze kunnen
+in mensen, kunnen omgaan met onzekerheid en vooraf niet weten
+                                                                           zien, vastpakken of ervaren dan op een tekst of beleidsnota.
+wat eruit komt. Het betekent ook dat je tijdelijk zekerheden moet
+                                                                        7. Deel wat je leert - Leg leerpunten en resultaten vast, het liefst visueel.
+durven loslaten, fouten ziet als leerervaringen, en accepteert dat
+                                                                           Deel deze actief met collega’s en maak leren zichtbaar in je organisatie.
+er niet altijd één juiste oplossing is of dat er iets anders uitkomt
+                                                                        8. Neem ruimte om te doen, vraag niet vooraf om toestemming - Wacht niet
+dan je van tevoren zelf had bedacht. De ontwerpende aanpak is
+                                                                           op perfectie. Begin, betrek anderen en toon wat het oplevert.
+een gestructureerd proces met heldere stappen, maar waarbij de
+                                                                        9. Laat het zien - Een goed voorbeeld zegt meer dan duizend woorden. Laat
+uitkomst nog open is.
+                                                                           betrokkenen in het proces meekijken. Toon wat de ontwerpende aanpak
+                                                                           oplevert: betere aansluiting, meer draagvlak, betekenisvolle oplossingen.
+Daarvoor is het nodig om een brug te slaan tussen twee werelden:
+                                                                       10. Blijf geduldig én vasthoudend - Verandering van houding en cultuur kost
+de systeemwereld van de overheid en de creatieve ontwerpende
+                                                                           tijd. Blijf volhouden en vier ook kleine successen.
+aanpak waarin de leefwereld van mensen centraal staat. Deze tips
+kunnen helpen.
+
+
+
+
+  3   - Een ontwerpende aanpak
+Mindset
+Werken met de ontwerpende aanpak vraagt om een                      Dit document is bedoeld om je een kijkje te geven in wat deze
+ontwerpende mindset. In dit document geven we voorbeelden           aanpak is en hoe het kan bijdragen aan vraagstukken binnen de
+van hoe die mindset tot uiting kan komen in projecten rondom        overheid. Je vindt in dit document uiteenlopende voorbeelden
+maatschappelijke vraagstukken. De mindsets die worden benoemd       van projecten voor verschillende overheidsorganisaties. Laat je
+zijn niet uitputtend, maar geven een goed beeld. Hoofdstukken die   inspireren!
+gaan over een mindset zijn:
+   • Gezamenlijk en iteratief                                       Ontwerpende aanpak binnen de overheid in ontwikkeling
+   • Werken met gedragsinzichten                                    De ontwerpende aanpak wordt steeds meer toegepast bij
+Afstemmen op de leefwereld mensen                                   complexe vraagstukken. Dit zie je in de verscheidenheid aan cases
+                                                                    in dit document, maar ook in de groeiende aandacht voor het
+                                                                    betrekken van burgerperspectief in het ontwikkelen van beleid,
+Werkwijzen                                                          wet- en regelgeving. Om deze beweging te stimuleren en te
+De ontwerpende aanpak kun je toepassen aan de hand van              faciliteren is op initiatief van het ministerie van Onderwijs, Cultuur
+verschillende werkwijzen. In dit document willen we met deze        en Wetenschap het programma de Publieke Ontwerppraktijk
+werkwijzen concreet maken hoe een ontwerpende aanpak kan            (PONT) in het leven geroepen. Dit programma loopt tot eind 2026.
+bijdragen aan het verder brengen van complexe vraagstukken.         PONT ontwikkelt kennis, organisatiecultuur en infrastructuur
+Omdat het kiezen van de juiste werkwijze afhangt van het            om een ontwerpende aanpak beter aan te laten sluiten bij de
+vraagstuk, de mensen en betrokkenen, vind je in dit document        overheid. Vind kennis, tools en meer praktijkvoorbeelden van de
+inspirerende voorbeelden van veel gebruikte werkwijzen aan de       ontwerpende aanpak voor maatschappelijke vraagstukken op
+hand van cases uit de praktijk. Hoofdstukken die gaan over een      depubliekeontwerppraktijk.nl. Daar wordt ook meer duiding
+werkwijze zijn:                                                     gegeven aan de mechanismen die de ontwerpende aanpak
+                                                                    waardevol maken voor het aanpakken van complexe opgaven.
+ • Job-to-be-done
+ • Waar vind je mensen?
+ • Gespreksstarters
+ • Co-creatie met mensen
+ • Research through design
+ • Speculatieve ontwerptechnieken
+ • Prototyping
+ • Gamification
+ • Visualisaties
+
+
+
+                                                                                                                                             Op 9 september 2025 vond de bijeenkomst ‘Aansluiten bij
+                                                                                                                                             de leefwereld van mensen - #Hoedan’ plaats.
+  4   - Een ontwerpende aanpak
+Mindset
+
+Gezamenlijk en iteratief
+Iedereen die onderdeel is van de uitdaging, is onderdeel van de oplossing. Met
+de ontwerpende aanpak werk je co-creatief (samen ontwikkelen) en iteratief
+(stap-voor-stap) aan verbeteringen in dienstverlening, beleid en communicatie.
+In co-creatie met mensen om wie het gaat en met betrokkenen leer en verbeter
+je in kleine stappen. Zo kom je tot oplossingen die breed gedragen zijn en
+aansluiten op de leefwereld en behoeften van alle betrokkenen.
+
+Om te bepalen wie je bij een project betrekt kan je jezelf de vraag stellen: Wie heeft
+te maken met dit vraagstuk, wordt geraakt door dit probleem of krijgt te maken met
+de potentiële oplossing? En wie hebben er invloed op? Dit kunnen interne of externe
+betrokkenen zijn, experts en natuurlijk de mensen om wie het gaat. Denk er bij de
+mensen om wie het gaat - de doelgroep(en) - goed over na wie hiermee te maken                                                                    Perspective
+heeft en betrek ook de minder voor de hand liggende groepen. Zij kunnen vanuit
+hun ervaring goed meedenken over het vraagstuk.
+
+Afhankelijk van je aanpak en de beschikbare ruimte bij alle betrokkenen, maak je
+een keuze wie je wanneer betrekt. Belangrijk hierbij zijn de ‘keuzemomenten’: heb
+je van de verschillende invalshoeken voldoende input om een keuze te maken in
+                                                                                         Reflectievragen
+uitdagingen en oplossing?
+                                                                                          • Denk aan een project dat binnenkort start. Wie, binnen en
+                                                                                            buiten jouw eigen organisatie, zijn nodig om te betrekken
+Door iteratief te werken maak je het makkelijker om ruimte te geven aan input
+                                                                                            om tot de juiste oplossing te komen?
+van betrokkenen. Iteratief wil zeggen in kleine stappen leren en verbeteren. Door
+workshops en gesprekken met betrokkenen leren we steeds meer over de uitdaging
+                                                                                          • Denk aan een lopend project. Hoe zou je dat project in kleine
+en de oplossing en verbeteren we in opeenvolgende rondes op basis van nieuwe
+                                                                                            stappen (iteratief) kunnen aanpakken?
+inzichten.
+
+
+
+
+  5 - Gezamenlijk en iteratief
+ Case                                                          Case
+
+Een Rijksbrede doenvermogentoets                               ​Visie op overheidsbrede online
+Beleid van de overheid moet aansluiten bij de dagelijkse        dienstverlening
+realiteit van mensen, zodat er geen verschil ontstaat
+                                                               ​Hoe kan een overheidsbrede online dienstverlening eruit
+tussen wat de overheid van burgers verwacht en dat
+                                                                zien? En belangrijker, hoe kom je als overheid sámen tot een
+wat zij daadwerkelijk aankunnen. De kwaliteitseis
+                                                                gedeelde visie?
+doenvermogen is daarom onderdeel van het Beleidskompas
+en uitvoeringstoets. Maar hoe ondersteun je                    Met de ontwerpende aanpak is een gezamenlijk beeld
+beleidsmedwerkers bij het meewegen van doenvermogen?           neergezet hoe overheidsbrede online dienstverlening er in de
+                                                               toekomst uitziet.
+Door middel van diepte-interviews op basis van de
+contextmapping methodiek achterhaalden we behoeften en
+                                                               Met een multidisciplinair team vanuit verschillende overheden
+werkwijzen van beleidsmedewerkers en wetgevingsjuristen
+                                                               is tot een gezamenlijk beeld gekomen waarbij vanuit
+met betrekking tot het meenemen van doenvermogen. In een
+                                                               ministeries, uitvoerders en gemeenten diverse input is gegeven.
+tweede ronde reflecteerden ze samen met ons op een eerste
+prototype - een grove indeling die liet zien wat voor soort
+                                                               Behoeften van mensen stonden uiteraard centraal bij
+informatie de doenvermogentoets kon bevatten. Tenslotte
+                                                               de uitwerking in ontwerp en de toekomstrichtingen zijn
+evalueerden we in sessies samen een tweede prototype met
+                                                               in verschillende rondes getest onder mensen: burgers
+meer details. Is het duidelijk hoe het werkt?
+                                                               en ondernemers. Open werken was het uitgangspunt.
+                                                               Professionals binnen en buiten de overheid konden meekijken
+Tegelijkertijd betrokken we middels sessies belangrijke
+                                                               en feedback gegeven.
+stakeholders en experts. Waar moeten we volgens hen rekening
+mee houden?
+                                                               Het resultaat is richtinggevend voor beleid en de
+                                                               doorontwikkeling van overheidsbrede online dienstverlening
+De doenvermogentoets staat inmiddels online en wordt nog
+                                                               met als eerste stap een vernieuwd overheid.nl: een
+steeds geëvalueerd en aangescherpt.
+                                                               betrouwbare wegwijzer naar alle online dienstverlening van de
+                                                               overheid.
+
+Opdrachtgever                      Opdrachtnemer               Opdrachtgever                        Opdrachtnemer
+Ministerie van Jusitie en          Muzus                       Ministerie van Binnenlandse          Perspective
+Veiligheid                                                     Zaken en Koninkrijksrelaties
+
+
+6 - Gezamenlijk en iteratief
+Mindset
+
+Werken met gedragsinzichten
+Als we verbeteringen of oplossingen goed willen laten aansluiten bij de mensen
+om wie het gaat, helpt het om hun gedrag goed te begrijpen. Welk gedrag laten
+mensen zien? En wat zit daarachter? Welke factoren zijn van invloed op het
+gedrag? En welke interventies kunnen we bedenken die hierop inspelen?
+
+Het in kaart brengen van gedrag gebeurt vaak met behulp van (wetenschappelijke)
+modellen. Er bestaan hiervoor verschillende modellen. Denk aan het B=MAP model,
+het COM-B-Model en de Theory of Planned Behaviour.
+
+Ook in de ontwerpende aanpak zijn deze gedragsmodellen relevant. Ze helpen ons
+te bepalen op welke factoren we het best kunnen richten om ons ontwerp zowel
+aantrekkelijk als effectief te laten zijn.
+
+Meer weten over gedrag? Het Behavioural Insights Netwerk Nederland (BIN NL)
+helpt je verder. Of neem eens een kijkje bij Communicatie Activatie Strategie
+Instrument van Dienst Publiek en Communicatie voor meer inspiratie.
+
+
+
+
+  7 - Werken met gedragsinzichten
+ Case
+
+Keuzeproces zorgververzekering
+Waarom stappen mensen wél of juist níet over van
+zorgverzekering? En welke interventies kunnen helpen
+om ervoor te zorgen dat iedereen zich vrij voelt om een
+verzekering te kiezen die echt bij hen past?
+
+In Nederland kan iedereen ieder jaar tussen half november
+en 31 december van zorgverzekeraar wisselen. Toch maakt
+lang niet iedereen gebruik van die mogelijkheid. Dat is niet
+per se een probleem, maar kan het wél zijn wanneer iemand
+verzekerd is met een polis die niet aansluit bij de persoonlijke
+situatie. Bijvoorbeeld omdat de premie te hoog is of de dekking
+onvoldoende aansluit.
+
+Om dit keuzeproces beter te begrijpen, brachten we gedurende
+drie maanden (okt-jan) het gedrag in kaart van mensen die
+(waarschijnlijk) niet zouden overstappen. We spraken hen drie
+keer over het thema keuzes maken, met tussentijds contact
+via WhatsApp. Daarbij werd de zorgverzekering bewust niet
+genoemd, om gedragssturing te vermijden. In het laatste
+gesprek, in januari, keken we wél terug op de keuze voor een
+zorgverzekering. Wat gaf volgens henzelf de doorslag om weer
+niet over te stappen?
+
+Op basis van deze gedragsinzichten en drijfveren bedachten
+we samen met verzekerden en betrokken organisaties
+verschillende interventies.
+
+Opdrachtgever                                Opdrachtnemer
+Ministerie van Volksgezondheid, Welzijn      Perspective
+en Sport, Ministerie van Financiën en NzA
+
+
+8 - Werken met gedragsinzichten
+Werkwijze
+
+Afstemmen op de leefwereld van
+mensen
+Binnen de ontwerpende aanpak werk je veel samen met de mensen om wie
+het gaat. Door goed af te stemmen op hun leefwereld kun je meer halen uit
+de samenwerking. Dit geldt tijdens het hele ontwerpproces: in het vinden
+van mensen, bij het in gesprek gaan met mensen en bij het ontwerpen van
+oplossingen. Empathie is hierin de basis; we verdiepen ons in de mensen om wie
+het gaat en hun leefwereld om zo de juiste aanpak te kiezen.
+
+Het afstemmen op de leefwereld van mensen zit in de manier waarop je hen
+aanspreekt en de taal die je gebruikt. Met mensen die lage basisvaardigheden
+hebben kun je bijvoorbeeld beter telefonisch een afspraak maken dan via de mail.                                                              Muzus
+
+Maar het zit ook in de vorm van het onderzoek en de vorm van de oplossing. Hoe
+zorg je ervoor dat je een zo waardevol mogelijk gesprek hebt met elkaar? Wat is de
+manier waarop de ander jou goed begrijpt en zich goed kan uitdrukken? En hoe zorg
+je ervoor dat de ander mee kan doen? Ook als iemand minder mobiel is of beperkte     Reflectievragen
+(basis)vaardigheden heeft? In de cases hiernaast is de ontwerpende aanpak ingezet
+om het gesprek op een passende manier aan te gaan.                                    • Denk aan een lopend project. Hoe sluit jouw aanpak aan op
+                                                                                        de leefwereld van de mensen om wie het gaat?
+Ongewild vindt er aan de voorkant van een onderzoek of ontwerptraject
+vaak al exclusie plaats, bijvoorbeeld door de keuze voor een bepaalde                 • Denk aan de doelgroep van je project. Wie dreigt onbedoeld
+aanpak, onderzoeksvorm of communicatiekanaal. Door oog te hebben voor                   buiten beeld te blijven?
+ondervertegenwoordigde groepen en het kiezen van de juiste combinatie aan
+methodieken kun je inclusiever te werk gaan.
+
+
+
+
+  9 - Afstemmen op de leefwereld van mensen
+ Case                                                             Case
+
+Expeditie 18 - het spel                                           Reflectietool voor situaties met lastige
+Elke jongere krijgt rond diens 18e verjaardag te maken met        dynamiek
+talloze nieuwe verantwoordelijkheden. Deze overgang naar
+                                                                  ​Samen met Expect Jeugd ontwikkelden we ‘Ken jezelf, Ken
+volwassenheid kan overweldigend, verwarrend en uitdagend
+                                                                   de ander’, een praktische reflectietool voor professionals die
+zijn, vooral voor jongeren zonder financieel en sociaal
+                                                                   werken met ouders met een licht verstandelijke beperking
+vangnet. Dit vergroot het risico op schulden, administratieve
+                                                                   (LVB). De tool helpt spanningsvolle interacties te herkennen,
+problemen en uitsluiting van voorzieningen. Om deze groep
+                                                                   begrijpen én doorbreken.
+te ondersteunen, ontwikkelden we het ‘Levensloopspel’, dat
+inmiddels bekend staat als ‘Expeditie 18: alles wat je (niet)     ​Centraal staat het vermogen tot mentaliseren: stilstaan bij wat
+wilt weten als je 18 wordt’.                                       er in jezelf én in de ander omgaat. Via een spelbord en kaarten
+                                                                   met gevoelens en gedachten worden emoties en overtuigingen
+Voor veel jongeren is het mbo en de middelbare school
+                                                                   zichtbaar gemaakt. Dit helpt om wederzijds begrip te creëren en
+dé plek waar zij zich voorbereiden op de toekomst. Maar
+                                                                   negatieve dynamieken bespreekbaar te maken. Juist door het
+docenten en professionals hebben weinig concrete tools om
+                                                                   speelse en visuele karakter sluit de tool goed aan bij ouders met
+het gesprek over volwassen worden te begeleiden. Tot nu toe
+                                                                   een LVB.
+bestonden deze vaak uit droge lijsten met regelzaken, terwijl
+dit beslissende moment in het leven juist vraagt om een actieve
+                                                                  De reflectietool is in co-creatie met professionals ontwikkeld
+en begrijpelijke aanpak. Expeditie 18 speelt hierop in en maakt
+                                                                  en enkele maanden in de praktijk getest. Samen met ouders
+deze onderwerpen op een toegankelijke en interactieve manier
+                                                                  en hulpverleners zijn inhoud en vorm in meerdere iteraties
+bespreekbaar op een speelse manier.
+                                                                  verbeterd. Zo ontstond een laagdrempelige manier om lastige
+Kijk op de website van Wijzer in Geldzaken voor meer              situaties bespreekbaar te maken en samen nieuwe stappen
+informatie over het spel en hoe je het kunt bestellen.            vooruit te zetten.
+
+
+
+
+Opdrachtgever
+Dienst Publiek en
+Communicatie / Ministerie van        Opdrachtnemer                Opdrachtgever                         Opdrachtnemer
+Algemene Zaken                       Muzus                        Expect Jeugd                          Perspective
+
+
+10 - Afstemmen op de leefwereld van mensen
+Werkwijze
+
+Waar vind je mensen?
+Bij een ontwerpende aanpak willen we met mensen in gesprek om hun
+ervaringen en behoeften te achterhalen. Het liefst in de context: op de plek
+waar zij zelf gebruik maken van producten en diensten van de overheid. Denk
+bijvoorbeeld aan gesprekken bij mensen thuis of op een Stadsloket. Niet alle
+mensen zijn even makkelijk te vinden. Toch zijn mensen om wie het gaat vaak 		
+dichterbij dan je denkt.
+
+Er zijn veel verschillende manieren om mensen te vinden voor een gesprek of
+een samenwerking. Je kunt op zoek in je eigen netwerk, via verenigingen of
+belangenorganisaties, maar ook op plekken waar specifieke groepen mensen vaak
+komen. Als mensen niet uit zichzelf reageren op een onderzoeksoproep, dan moet
+je naar de mensen toe om met ze in contact te komen. Je kunt langs de deuren of
+mensen proactief aanspreken. Soms moet je het aantrekkelijk maken voor mensen                         Perspective                             Muzus
+om met jou in gesprek te gaan. Bijvoorbeeld door ze nieuwsgierig te maken en te
+prikkelen, door eerst een band op te bouwen, of er iets voor terug te geven. Met
+de juiste vraag kun je achterhalen of ze tot de groep mensen behoren behoren die
+gebruik maken van jouw product of dienst.
+                                                                                   Reflectievragen
+
+                                                                                    • Denk aan een lopend project. Waar kun je de mensen vinden
+                                                                                      die het betreft? Naar welke (fysieke) locatie ga je?
+
+
+
+
+  11 - Waar vind je mensen?
+ Case                                                             Case
+
+Bereik laaggeletterde en anderstalige                             Wervingsstrategie Sarphati Cohort
+zwangeren                                                         Het Sarphati Cohort is een onderzoek namens GGD
+                                                                  Amsterdam naar de ontwikkeling en gezondheid van
+Bij Annature geboortezorg in Breda merken zorgverleners dat
+                                                                  Amsterdamse kinderen. Met de huidige wervingsstrategieën
+een groeiende groep kwetsbare zwangeren nauwelijks wordt
+                                                                  bereikt het Cohort al een grote groep Amsterdammers. Maar
+bereikt met de huidige voorlichtingsmaterialen. Dit vergroot
+                                                                  sommige groepen zijn nog ondervertegenwoordigd. Met
+het risico op ongelijke zorg, vertraagde hulp bij complicaties
+                                                                  name mensen met een bi-culturele achtergrond en mensen
+en slechtere gezondheidsuitkomsten voor moeder en kind.
+                                                                  met een praktische opleiding uit de gebieden Amsterdam
+Om dit te verbeteren, wilden we met deze vrouwen in gesprek.      Nieuw-West en Zuidoost.
+Werving via een werving- en selectiebureau was niet haalbaar.
+                                                                  We startten dit onderzoek door in gesprek te gaan met
+Daarom kozen we voor een laagdrempelige aanpak: vrouwen
+                                                                  wijkcentra en sleutelfiguren uit de wijk. Al gauw ontdekten
+persoonlijk aanspreken in de wachtkamer (met toestemming).
+                                                                  we dat we ons moesten richten op het bouwen van
+Hierdoor hadden we meer ruimte om om te gaan met
+                                                                  een vertrouwensband, met diverse organisaties én met
+taalbarrières en konden we goed uitleggen waarom deelname
+                                                                  mogelijke deelnemers van het onderzoek. We ontwierpen
+belangrijk was.
+                                                                  onderzoeksinterventies waarbij we de aandacht trokken
+                                                                  van ouders met jonge kinderen (0-4 jaar) en waarmee we
+Met visueel materiaal, vertaalapps en hulp van familieleden
+                                                                  tegelijkertijd de kinderen bezighielden. Op die manier konden
+voerden we de gesprekken. Dankzij flexibiliteit en persoonlijke
+                                                                  we in gesprek met de ouders. Bijvoorbeeld door middel van
+benadering ontstond vertrouwen en rust, waardoor we
+                                                                  een gethematiseerde polaroidphotobooth. De kinderen
+waardevolle inzichten konden ophalen voor het herontwerpen
+                                                                  verkleedden zich in het thema, gingen op de foto en kregen
+van de informatievoorziening.
+                                                                  de polaroid meteen mee naar huis.
+
+
+
+
+Opdrachtgever                        Opdrachtnemer                Opdrachtgever                        Opdrachtnemer
+Annature                             Perspective                  Sarphati Cohort                      Muzus
+
+
+12 - Waar vind je mensen?
+Werkwijze
+
+Job-to-be-Done
+Waarom doen mensen wat ze doen? Wat beweegt ze? Wat drijft ze? En wat
+willen ze uiteindelijk bereiken?
+
+De Job-to-be-Done is een term die zich moeilijk laat vertalen naar het Nederlands.
+Het beschrijft de dieperliggende reden waarom mensen iets doen. Hoe beter we dit
+begrijpen, hoe beter we onze dienstverlening hierop kunnen laten aansluiten. En
+daarmee voegen we waarde toe aan het leven van mensen.
+
+We komen tot de Job-to-be-Done door waarom te blijven vragen. Waarom doet
+iemand iets? Waarom vindt iemand dat belangrijk? We zijn op zoek naar de vraag
+achter de vraag, de drijfveer achter iemands gedrag.
+                                                                                                                                             Perspective
+Blijven doorvragen op het waarom kan soms ongemakkelijk voelen. Of overbodig,
+omdat we denken het al te weten. Maar hierin doen we vaak veel aannames. De
+echte antwoorden zullen je verrassen.
+
+Een paar voorbeelden:
+• Het gedrag, een paspoort aanvragen
+                                                                                     Reflectievragen
+• De mogelijk Job-to-be-Done, vrijheid, onderdeel voelen van een groep, voldoen
+                                                                                      • Denk aan een lopend project. Wat is het gedrag dat mensen
+  aan wet- en regelgeving.
+                                                                                        laten zien? Of welk gedrag wil je dat ze laten zien? En wat
+  					
+                                                                                        zou een reden kunnen zijn voor hen dat gedrag te tonen?
+• Het gedrag, een uitkering aanvragen
+                                                                                        Waarom doen ze het?
+• De mogelijke Job-to-be-Done, in basisbehoeften kunnen voorzien, voor mijn kind
+  kunnen zorgen.
+
+
+
+
+ 13 - Job-to-be-done
+ Case
+
+Niet zelfstandig bankzaken kunnen of
+willen doen
+Een aanzienlijk aantal mensen in Nederland doet bankzaken
+niet (helemaal) zelfstandig. Om de zelfstandigheid én de
+tevredenheid te vergroten, zette Betaalvereniging Nederland
+en de Nederlandse Vereniging van Banken samen met de vier
+grootste banken het programma Toegankelijk Bankieren op.
+
+Om te begrijpen hoe zelfstandigheid vergroot kan worden,
+moet eerst duidelijk zijn waarom mensen hun bankzaken niet
+volledig zelfstandig doen. Welke behoefte – de Job-to-be-Done
+– schuilt achter dit gedrag?
+
+We onderzochten dit onder een brede groep mensen. In de
+gesprekken kwamen diverse redenen naar voren: van wél
+zelfstandig willen maar te weinig kennis of ondersteuning
+hebben, tot simpelweg ‘overleven’ waardoor er geen ruimte is
+voor andere zaken.
+
+Om het onderwerp bespreekbaar te maken, maakten we
+gebruik van verschillende ondersteunende materialen. We
+stuitten op diepere overtuigingen en aannames over eigen
+kunnen, maar ook op de wens en trots om het wél zelf te doen.
+
+De inzichten uit dit project helpen het programma Toegankelijk
+Bankieren om nieuwe initiatieven te ontwikkelen die mensen
+ondersteunen bij hun bankzaken. Een eerder voorbeeld hiervan
+is de website bankinformatiepunt.nl.
+Opdrachtgever                       Opdrachtnemer
+Betaalvereniging Nederland          Perspective
+
+
+14 - Job-to-be-done
+Label
+Werkwijze
+
+Gespreksstarters
+Een gespreksstarter is een tastbare vorm of interventie die helpt om
+laagdrempelig het gesprek met mensen aan te gaan. Ook over lastige, gevoelige
+of abstracte onderwerpen. Hierdoor kun je gesprekken voeren die anders
+misschien nooit worden gevoerd. Bijvoorbeeld wanneer een gesprek over een
+onderwerp gaat waar een taboe op rust, of wanneer mensen zich minder goed
+kunnen uiten. Een gespreksstarter kan bovendien ook helpen om focus aan te
+brengen of gedachten expliciet te maken.
+
+​Een gespreksstarter kan een (opvallend) object zijn. Je kunt kijken hoe mensen       Muzus
+
+ daarop reageren, wat veel zegt over hoe mensen hierover denken. Of het object
+ helpt je om de eerste vraag te stellen. Mensen staan al meer open voor een gesprek
+ als je hun interesse hebt gewekt. Spelelementen in een gespreksstarter maken een
+ gesprek laagdrempelig. Mensen kunnen dan eerst iets doen en daarna pas met je in
+ gesprek.
+ ​
+ ​Een stelling of dilemma is een goede manier om een gesprek te beginnen. Of om
+  gedachten expliciet te maken. Ben je het ermee eens of oneens? Of zit je in het
+  midden?
+  ​
+  ​Tenslotte kunnen praatplaten ook een gespreksstarter zijn. Of helpen om een
+   gesprek te structureren. Denk aan een plattegrond. Waar kom je vaak? Waar niet?
+   Hoe komt dat?
+
+
+
+
+                                                                                      Muzus   Muzus
+
+
+
+
+ 15 - Gespreksstarters
+ Case
+
+ ​Rookvrij leven voor iedereen
+ Praten over (mee)roken is vaak moeizaam. Terwijl 80% van
+ de mensen die roken, wil stoppen met roken. Binnen dit
+ project hebben we onderzocht hoe je laagdrempelig het
+ gesprek hierover aan kunt gaan.
+
+ Als eerste tastbare gespreksstarter hebben we de Praatpeuk
+ ontworpen, samen met Pharos. De praatpeuk triggert een
+ gesprek over roken. Over de wens om te stoppen. Het
+ uitspreken van die wens is de eerste stap naar daadwerkelijk
+ stoppen. De Praatpeuk is ontwikkeld naar idee van Lot Broos
+ die extra steun zocht tijdens het stoppen. De knuffelpeuk heeft
+ ze samen met haar moeder, ooit ook een verstokt rookster,
+ gemaakt om heerlijk te omarmen in tijden van nood. Later
+ zijn ook de Vraagvape en de Chatminaret ontwikkeld. Om aan
+ te sluiten bij vapende jongeren en het gesprek aan te gaan
+ over onderwerpen waarop een taboe rust binnen de Turkse
+ gemeenschap.
+
+ In het programma Rookvrij Leven voor Iedereen werkt Muzus
+ met een social design aanpak in de wijken Hilversum-Oost
+ en Stadsdennen (Harderwijk). Samen met de wijkbewoners
+ werken we aan een verbeterde toegang tot stoppen met
+ roken-zorg. We doen dit samen met Pharos, de GGD GHOR,
+ professionals uit de sociale sector en de zorg, sleutelpersonen
+ en ervaringsdeskundigen. De leerlessen uit de lokale
+ wijkaanpak vertalen we naar een aanpak voor GGD’en door
+ heel Nederland.
+ Opdrachtgever            Opdrachtnemer
+ Pharos                   Muzus. De Praatpeuk is ontwikkeld
+                          met Emmeke Eijsbouts.
+
+16 - Gespreksstarters                                              Expositiefoto’s rechtsboven en -onder zijn gemaakt door Sas Schilten.
+Label
+Werkwijze
+
+Co-creatie met mensen
+Binnen de ontwerpende aanpak werk je co-creatief aan oplossingen. Bij co-
+creatie werk je samen aan oplossingen of reflecteer je op ideeën. Zo ontstaan
+nieuwe en waardevolle ideeën die aansluiten bij de werkelijke behoeften en
+wensen van mensen. Bovendien zorgt het voor meer wederzijds begrip en geeft
+het veel energie om samen aan de slag te gaan. Een co-creatiesessie met mensen
+om wie het gaat is een goede manier om hen bij het proces te betrekken.
+
+Co-creatie kan in alle fasen van de ontwerpende aanpak. Vaak zetten we het in bij
+het bedenken van ideeën, maar je kunt het ook inzetten voor het evalueren van
+ideeën of het valideren van onderzoeksresultaten. Canvassen (hulpmiddelen op
+papier om bijvoorbeeld een idee uit te werken) en verschillende ideation technieken
+(technieken om tot veel ideeën te komen), kunnen je helpen om samen ideeën te
+                                                                                                                                               Perspective
+bedenken en tastbaar te maken.
+
+Zorg dat er bij co-creatie ook ruimte is om gezamenlijk ervaringen en behoeften te
+delen alvorens er gewerkt wordt aan ideeën. Het gezamenlijk creëren met daarbij
+ruimte voor een aanvullend gesprek zorgt voor extra begrip en vertrouwen.
+                                                                                      Reflectievragen
+Co-creatie kan met de mensen om wie het gaat, met andere betrokkenen, of een           • Bij welk project kun jij met mensen om wie het gaat co-
+mix daarvan. Zet iedereen in op diens expertise en geef ze daarin de juiste rol. De      creëren? Wie zou je dan willen uitnodigen?
+mensen om wie het gaat zijn bijvoorbeeld expert in hun eigen ervaringen. Creëer
+voor hen een rol waarin ze dat goed kunnen inzetten. Bijvoorbeeld als jury op          • Vanuit welke rol kunnen zij het meeste bijdragen?
+bedachte ideeën, zodat ze kunnen reageren vanuit hun eigen context en behoeften.
+
+
+
+
+ 17 - Co-creatie met mensen
+ Case
+
+ Emotioneel herstel toeslagenaffaire
+ ​Naast financieel herstel, is er bij gedupeerde kinderen en
+  ouders van de toeslagenaffaire behoefte aan emotioneel
+  herstel. In een ontwerptraject is samen met gedupeerde
+  kinderen en ouders bedacht hoe het ministerie van Financiën
+  een rol kan spelen in het emotioneel herstel. Onderdeel
+  hiervan was een co-creatie sessie.
+
+ Bij een gevoelig onderwerp als de kinderopvangtoeslagaffaire
+ is het des te belangrijker om samen met die mensen die het is
+ overkomen oplossingen te ontwikkelen. Tegelijkertijd maakt
+ de beladen relatie tussen opdrachtgever en hun dit proces ook
+ complex.
+
+ Daarom betrokken we gedupeerde kinderen en ouders
+ gedurende het hele project op verschillende manieren: als
+ onderdeel van het multidisciplinaire team, via interviews en in
+ co-creatie sessies. Hoewel die sessies voor zowel het ministerie
+ als de gedupeerde ouders en kinderen spannend waren,
+ leverden zij juist waardevolle en genuanceerde ideeën op.
+
+ Vooraf konden gedupeerden aangeven wat zij wel of niet
+ wilden delen. Tijdens de sessie werd eerst stilgestaan bij
+ persoonlijke verhalen in een groepsgesprek. Vervolgens
+ werkten kleine groepjes ideeën uit. Met behulp van ice-
+ breakers en gerichte vragen ontstond een open en veilige sfeer.
+ Dit samenwerken droeg bij aan een eerste stap richting meer
+ vertrouwen.
+
+Opdrachtgever                             Opdrachtnemer
+Ministerie van Financiën                  Perspective
+
+
+18 - Co-creatie met mensen
+Werkwijze
+Label
+
+Research through design
+Bij research through design doe je onderzoek aan de hand van een object of
+experiment waar (een deel van) de (mogelijke) oplossing in verwerkt zit. Een
+tastbaar ontwerp maakt het makkelijker om ergens een gesprek over te voeren,
+omdat je het letterlijk voor je ziet en het samen over hetzelfde hebt. Zeker
+wanneer het ontwerp je helpt om ergens een voorstelling van te maken, of als er
+weerstand leeft rondom een onderwerp.
+
+Het onderzoek en ontwerpproces gaan bij deze methodiek hand in hand. Ontwerp
+en oplossingen worden gebruikt om in context te onderzoeken hoe mensen
+bepaalde situaties of oplossingen ervaren en om te ontdekken wat mensen
+daadwerkelijk doen (dit wijkt vaak af van wat mensen zeggen). Het ontwerp is
+niet meteen de eindoplossing, maar wordt ingezet als tastbaar materiaal om
+                                                                                                                                                 Muzus
+in de context laagdrempelig gesprekken te kunnen voeren over vaak abstracte
+onderwerpen.
+
+Naast de cases die hierna staan, is de case ‘Expeditie 18 - het spel’ (zie p.10) ook
+een goed voorbeeld van research through design. Het spel werd namelijk in eerste
+instantie ontwikkeld om het gesprek met jongeren aan te gaan. Het bleek zo
+                                                                                       Reflectievragen
+succesvol dat het is doorontwikkeld tot een product.                                    • Denk aan een vraag waarop je nog geen antwoord hebt.
+                                                                                          Welk experiment of ontwerp kan je inzetten om meer inzicht
+                                                                                          te krijgen?
+
+
+
+
+ 19 - Research through design
+ Case                                                             Case
+
+ De plantenbingo                                                  Een online wegwijzer voor Caribisch
+ Hoe ga je het gesprek aan over klimaatadaptatie als het          Nederland
+ voor veel mensen niet duidelijk is wat het is? In opdracht
+                                                                  In Nederland wordt gewerkt aan een vernieuwde
+ van Provincie Noord-Brabant en gemeente Breda gingen
+                                                                  overheid.nl een centrale wegwijzer naar alle online
+ we het gesprek aan over vergroening in één van de meest
+                                                                  dienstverlening van de overheid. Het ministerie van
+ versteende volkswijken in Nederland: Fellenoord in Breda.
+                                                                  Binnenlandse Zaken en Koninkrijksrelaties wilde deze
+ Een onderdeel van klimaatadaptatie is vergroenen. In de          voorziening ook ontwikkelen voor Caribisch Nederland,
+ buurt en in eigen tuin. Om te ondekken hoe de inwoners van       afgestemd op de inwoners van Bonaire,
+ Fellenoord hierover dachten, gingen we de buurt in met onze      Sint-Eustatius en Saba.
+ Plantenbingo.
+                                                                  Op de eilanden wordt minder vaak digitaal zaken gedaan
+                                                                  met de overheid. Veel inwoners zijn nog niet gewend aan
+ Het bingorad van het buurthuis bepaalde bij welk huisnummer
+                                                                  digitale dienstverlening, wat soms leidt tot wantrouwen
+ we aanbelden met onze bingokar. De bewoner die open deed
+                                                                  tegenover online informatie. Daarnaast speelt de relatie met
+ boden we een plantje aan, wat ons hielp het gesprek te starten
+                                                                  Europees Nederland een rol in hoe nieuwe oplossingen worden
+ over vergroenen. Vervolgens kon de bewoner zelf aan het rad
+                                                                  ontvangen. Met de online wegwijzer voor Caribisch Nederland
+ draaien om een plantje te geven aan een andere buurtbewoner.
+                                                                  wilden we daarom twee dingen bereiken: duidelijk maken
+ Hoe ze daarop reageerden, liet ons iets zien over de sociale
+                                                                  dat dit een website voor de eilanden is, en het bestaande
+ cohesie in de buurt. Aan het plantje konden ze een wens
+                                                                  wantrouwen wegnemen.
+ voor de buurt toevoegen, zoals: Ik wens jou een bruisende
+ plek - levendig en elkaar kennen. De wens die ze kozen, gaf
+                                                                  Het ontwikkelde tastbare concept was geen blauwdruk van de
+ ons inzicht in hun beeld van de buurt. Dit waren allemaal
+                                                                  uiteindelijke oplossing, maar een hulpmiddel om met mensen
+ aankopingspunten voor mogelijke oplossingsrichtingen.
+                                                                  in gesprek te gaan. Zo ontdekten we wat inwoners belangrijk
+                                                                  vonden en welke oplossingsrichtingen aansloten bij hun
+                                                                  behoeften.
+
+
+
+ Opdrachtgever                                                    Opdrachtgever
+ Provincie Noord-Brabant en          Opdrachtnemer                Ministerie van Binnenlandse        Opdrachtnemer
+ gemeente Breda                      Muzus                        Zaken en Koninkrijksrelaties       Perspective
+
+
+20 - Research through design
+Werkwijze
+Label
+
+Speculatieve ontwerptechnieken
+Met speculatieve ontwerptechnieken maak je een nog niet bestaande toekomst
+tastbaar aan de hand van prototypes, voorwerpen of verhalen. Dit werkt goed
+bij onderwerpen en toekomsten waar mensen zich moeilijk een voorstelling bij
+kunnen maken, of waar ze nog geen ervaring mee hebben. Vanuit het ‘heden’
+laten we mensen inleven in verschillende toekomstscenario’s, waardoor ze
+kunnen reflecteren op hun behoeften nu en in de toekomst.
+
+Door gebruik te maken van verhalende scenario’s, bijvoorbeeld in de vorm
+van audiofragmenten of filmpjes, kun je mensen helpen zich in te leven in een
+(toekomst)scenario. Dat kan een verhalend fragment zijn, waar iemand over een
+situatie in de toekomst vertelt, of een realistisch scenario waar de toekomst wordt
+uitgebeeld. Een scenario kan ook realistisch worden door attributen uit de toekomst
+                                                                                                                Muzus
+voor te leggen (zie ook research through design). Denk aan een toekomstversie van
+een formulier en een klantenservice die je kunt bellen.
+                                                                                      Stadsdialogen over Tech
+
+Als iemand zich heeft ingeleefd in het scenario komt er ruimte om erop te
+reflecteren. Hoe voelde dit? Wat deed het met je? Was alles duidelijk? Wat zou je
+anders doen of willen? En wat heb je daarvoor nodig? Met andere woorden: wat zijn
+je toekomstige behoeften?
+
+
+
+
+                                                                                                                Muzus
+
+
+                                                                                      De mantelzorgsimulator
+
+
+ 21 - Speculatieve ontwerptechnieken
+ Case
+
+ Pensioen tastbaar maken
+ De meeste mensen zijn pas bewust bezig met hun pensioen aan
+ het einde van hun carrière. Want we willen wel oud worden,
+ maar niet oud zijn. Daarnaast is pensioen voor veel mensen
+ lastig, omdat het ingewikkeld is en er veel jargon wordt
+ gebruikt. Nadenken over ons pensioen stellen we dus liever uit.
+ Terwijl je het juist nu goed moet regelen.
+
+ De toekomst is moeilijk in te beelden. Omdat het ver weg is voelen
+ we geen urgentie en is het moeilijk om effecten in te schatten
+ op de lange termijn. Om hierover na te kunnen denken, erover
+ te kunnen praten of een plan te maken, is het nodig om je een
+ voorstelling te kunnen maken van die toekomst. Met speculative
+ design haalden we die toekomst dichterbij.
+
+ De telefoon gaat. Een voicemail uit de toekomst. Het bericht
+ schetst een toekomstscenario, waardoor je wordt meegenomen
+ naar een mogelijke toekomst. Om mensen aan te zetten tot
+ reflectie, bevat het bericht obstakels die hun toekomstige leven of
+ pensioen kunnen beïnvloeden. Het gesprek wordt afgesloten met
+ een reflectieve vraag.
+
+ “Ik vind het knap hoe veerkrachtig je was nadat je thuis kwam te
+ zitten. Zo terugkijkend, is er iets wat je anders had gedaan?”
+
+ https://pensioentastbaarmaken.nl/reizendonderzoek
+
+ Opdrachtgever
+ Consortium met 14 partijen, waarvan binnen            Opdrachtnemer
+ de pensioensector: ABP, APG, Ministerie van           Muzus,
+ SZW, PFZW, PGGM, SVB, Novum, PGB Pensioen-            Think+Do,
+ diensten, Nationale Nederlanden, AZL, BeFrank.        Motivaction
+
+
+22 - Speculatieve ontwerptechnieken
+Werkwijze
+Label
+
+Gamification
+Met gamification maak je gebruik van spel-elementen in je onderzoeksopzet
+of in je oplossing. Door gamification kun je inzichten uit je onderzoek of de
+boodschap die je wilt overbrengen beter inleefbaar maken. Bovendien maakt
+een spel het voor veel mensen een stuk aantrekkelijker om ergens aan mee te
+doen!
+
+De context van een spel zorgt ervoor dat je bepaalde scenario’s in een veilige
+omgeving kunt uitproberen. Als je een fout maakt, dan gebeurt dat in het spel.
+Hierdoor maak je situaties mee, die je anders wellicht zou proberen te omzeilen.
+Lessen die je leert kun je wel weer meenemen in het echte leven.
+
+Daarnaast kunnen spel-elementen verhalen realistischer maken dan wanneer je                                                               Muzus
+ze alleen zou lezen of horen. Bijvoorbeeld door druk toe te voegen met regels of
+tijdsdruk. Dit helpt om je beter te verplaatsen in de situatie van een ander. Meeleven
+is één, maar meemaken en ervaren gaat echt een stap verder!
+
+
+                                                                                         Reflectievragen
+                                                                                         • Over welk onderwerp zou jij jouw collega’s wel eens een spel
+                                                                                           willen laten spelen? Wat wil je dat zij ervaren?
+
+
+
+
+ 23 - Gamification
+ Case
+
+ 1 uur in de bijstand
+ Een deel van de mensen met een uitkering komt in de
+ problemen door de manier waarop de uitkering wordt
+ verrekend met andere inkomsten. Dit zorgt voor grote
+ inkomensonzekerheid. Hoe breng je over wat voor effect
+ sommige keuzes in beleid of uitvoering hebben?
+
+ Hiervoor ontwikkelden we de serious game 1 uur in de bijstand.
+ In dit spel moeten de spelers het huishoudboekje van Tirza,
+ Leon en hun twee kinderen kloppend houden, terwijl ze te
+ maken krijgen met gebeurtenissen die iedereen zouden kunnen
+ overkomen. De spelers krijgen lastige keuzes voorgelegd in hun
+ strijd om rond te kunnen komen terwijl ze werken naast een
+ uitkering. Tegelijkertijd krijgen ze onder tijdsdruk te maken met
+ de complexiteit van het systeem. Hoe krijg je alle gegevens voor
+ een bijstandsaanvraag bij elkaar vóór de deadline? Ervaringen
+ die de spelers opdoen nemen ze mee in hun werk.
+
+ “Ik realiseer me nu pas hoeveel werk ik inwoners eigenlijk
+ mee geef na een gesprek. Ik zit morgen heel anders tegenover
+ inwoners aan tafel nu ik dit heb ervaren.” - Inkomensconsulent
+ gemeente
+
+ Kijk op www.loontwerken.nu voor het achterliggende
+ onderzoek en bij Divosa voor het spel.
+
+
+
+                                       Opdrachtnemer
+ Opdrachtgever                         Muzus in samenwerking
+ UWV subsidieonderzoek                 met Optimalistic
+
+
+24 - Gamification
+Werkwijze
+Label
+
+Prototyping
+Een prototype is een tastbare weergave van een idee. We denken hierbij vaak
+aan een digitale oplossing, maar een prototype kan ook een eenvoudige schets,
+een papieren prototype of een simpel 3D model zijn. Of het spelen van een
+scenario, en het meegeven van een situatie.
+
+Door een idee tastbaar te maken, komt het tot leven. Het helpt om abstracte
+gedachten concreet te maken, en maakt het makkelijker om feedback op te halen,
+samen te werken en keuzes te maken.
+
+Een prototype hoeft niet perfect te zijn: het is juist bedoeld om stap voor stap te
+leren, testen en verbeteren. Zo ontwikkel je ideeën gericht en met de eindgebruiker
+in beeld.
+                                                                                                                                                 Muzus
+
+Je kunt een prototype gebruiken bij kwalitatief of kwantitatief onderzoek. Maar
+je kunt ook gemakkelijk alvast een klein aantal mensen vragen om snel eerste
+inzichten op te doen voor je het met meer mensen gaat uittesten.
+                                                                                      Reflectievragen
+                                                                                      • Denk aan een idee binnen een lopend project. Wat is de
+                                                                                        eenvoudigste vorm waarin je dit kunt testen?
+
+                                                                                      • Wat helpt om het idee tot leven te brengen?
+
+
+
+
+ 25 - Prototyping
+ Case                                                         Case
+
+ Dienstverlening in één klik Gemeente                         Kopkrakers
+ Tilburg                                                      Voor het Kennisplatform Werk en Inkomen zochten we uit
+                                                              hoe we professionals binnen het domein werk en inkomen
+ “Kunnen we ervoor zorgen dat inwoners gemeentelijke
+                                                              meer evidence based konden laten werken. We ontwierpen
+ diensten binnen één klik kunnen regelen?” Met die
+                                                              de app Kopkrakers om dit voor elkaar te krijgen.
+ vraag klopte de gemeente Tilburg bij ons aan. Letterlijk
+ één klik bleek niet haalbaar, maar in samenwerking met       De app Kopkrakers draait om dilemma’s (Kopkrakers) die recht
+ de gemeente ontwikkelden we een digitaal prototype           uit de praktijk komen. Je krijgt een casus voorgeschoteld
+ waarin het aanvraagproces voor de individuele                over iemand die naar werk moet worden begeleid. Er zijn twee
+ inkomenstoeslag sterk werd vereenvoudigd.                    opties met onderbouwde werkwijzen. Achteraf blijkt dat beide
+                                                              opties goed zijn. Je bespreekt met jouw collega’s waarom jij
+ Het prototype liet stap voor stap zien hoe dit
+                                                              voor de ene optie hebt gekozen en jouw collega voor de ander.
+ aanvraagproces er in de toekomst uit zou kunnen zien.
+                                                              Zo versterken wetenschappenlijke kennis en praktijkervaring
+ Daarmee werd concreet gemaakt wat ‘één klik’ voor
+                                                              elkaar.
+ inwoners kan betekenen. Dankzij de uitgebreide uitwerking
+ voelde het realistisch aan tijdens tests met inwoners. Dit
+                                                              Om erachter te komen of het idee van de app zou werken,
+ gaf waardevolle inzichten in zowel de sterke punten als de
+                                                              maakten we papieren prototypes. Professionals konden
+ twijfels.
+                                                              meelezen en kregen een idee van hoe je door de app kunt
+                                                              bewegen. Op deze manier konden ze feedback geven op de
+ Daarnaast bood het prototype houvast binnen de
+                                                              basis van het idee, zonder dat we al heel veel details hadden
+ gemeente zelf. Het maakte het gesprek over uitvoering
+                                                              uitgewerkt.
+ concreter en hielp om de benodigde stappen in kaart te
+ brengen. Door het idee tastbaar te maken, werden kansen
+                                                              Vind meer informatie over Kopkrakers op www.kopkrakers.nl
+ en onzekerheden zichtbaar en konden de eerste stappen
+ richting realisatie worden gezet.
+
+
+
+
+                                                              Opdrachtgever
+ Opdrachtgever                       Opdrachtnemer            Kennisplatform Werk en               Opdrachtnemer
+ Gemeente Tilburg                    Perspective              Inkomen                              Muzus
+
+
+26 - Prototyping
+Werkwijze
+Label
+
+Visualisaties
+Door middel van visualisaties maak je ideeën, concepten, onderzoeksresultaten,
+processen of visies inzichtelijk. Het verbeelden van ideeën maakt het
+mogelijk om het ergens over te hebben, zonder dat je langs elkaar heen praat.
+Visualisaties maken ideeën concreet en maken duidelijk wat het onderscheid is
+tussen verschillende scenario’s.
+
+Visualiseren kan aan de hand van illustraties of schetsen, maar ook met behulp van
+moodboards, foto’s, filmpjes en lego. Bovendien kan ‘reframen’ of het toepassen
+van een metafoor onderdeel zijn van de visualisatie. Dit helpt om een vraagstuk
+vanuit een ander perspectief te bekijken. Op deze manier wakker je meer creativiteit
+aan voor het bedenken van oplossingen of interventies. Een visualisatie is een mooi
+eindresultaat, maar kan ook heel goed tussentijds worden ingezet om ideeën te
+toetsen en aan te scherpen. Bovendien werken visualisaties goed om de juiste focus     Muzus   Perspective
+met elkaar te behouden en te bepalen of je nog op de juiste koers vaart met het
+project.
+
+
+
+
+                                                                                                 Muzus
+
+
+
+
+ 27 - Visualisaties
+  Case                                                         Case
+
+ Op reis naar hulp in gemeente                                 Mentale gezondheid statushouders
+ Hoeksche Waard                                                gemeente Amsterdam
+ Voor de gemeente Hoeksche Waard deden we                      Visualiseren helpt eveneens om complexe processen terug
+ onderzoek naar hoe mensen binnen de gemeente op               te brengen tot de kern. Dat bleek ook in dit project voor
+ zoek gaan naar hulp. De inzichten uit dit onderzoek           de gemeente Amsterdam, waarin we de klantreis rondom
+ verbeelden we in profielen aan de hand van de metafoor        mentale ondersteuning voor statushouders in kaart
+ ‘op reis naar hulp’.                                          brachten.
+
+ De profielen zijn gebaseerd op behoeften en gedragingen       Dit deden we samen met de gemeente, diverse betrokken
+ van inwoners van de gemeente Hoeksche Waard. Ieder            organisaties, OpenEmbassy en de statushouders zelf. Het
+ profiel gaat op een andere manier op zoek naar hulp           bijeenbrengen van al deze verschillende perspectieven en het
+ en heeft andere ondersteuning nodig. De start van             gezamenlijk in kaart brengen van het proces leverde direct
+ de reis is daarom voor elk profiel anders. We hebben          nieuwe inzichten op.
+ reiskoffers gebruikt om de verschillen te visualiseren.
+ Zo is de ‘Afwachtende Regelaar’ een zware hutkoffer die       Het visualiseren van de klantreis en het sociale netwerk, dwong
+ wacht met actie ondernemen tot het écht moet en is de         ons terug te gaan naar de basis: wat zijn de belangrijkste
+ ‘Bedachtzame Planner’ goed voorbereid en ruim van             stappen, welke rol speelt ieder, en hoe ervaren statushouders
+ tevoren ingepakt.                                             dit? Een uitdagend, maar waardevol proces – waarin inzicht de
+                                                               eerste stap vormt naar verbetering.
+ De visualisaties hielpen de gemeente om duidelijk
+ onderscheid te maken tussen de profielen, zonder
+ stereotypering op basis van uiterlijk in de hand te werken.
+
+
+
+
+ Opdrachtgever                         Opdrachtnemer           Opdrachtgever                        Opdrachtnemer
+ Gemeente Hoeksche Waard               Muzus                   Gemeente Amsterdam                   Perspective
+
+
+28 - Visualisaties
+De ontwerpende aanpak voor
+betekenisvolle verandering
+Dit document is een initiatief van DPC, Muzus en Perspective.
+Heb je vragen? Neem dan contact op met onderzoekscommunity@minaz.nl
+

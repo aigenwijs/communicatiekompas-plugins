@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt dit een verhaal over samenwerkingsvormen (co-creatie, design thinking, multi- versus interdisciplinair, kick-offs) dat Factor C niet geeft. Zoals de Rijksoverheid het afspreekt, gaat dit hulpmiddel over het samenstellen van een team: welke communicatiedisciplines breng je samen, met welke kern, en wie schuift in welke fase aan; het hoort in de Factor C-fase Intake en opdrachtformulering (Organisatie van de communicatie). Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Factor C een hulpmiddel Interdisciplinair werken heeft (communicatiekompas.nl/hulpmiddelen/interdisciplinair-werken). Het helpt een team samen te stellen dat een vraagstuk vanuit verschillende perspectieven bekijkt, zodat oplossingen beter aansluiten op de leefwereld van de mensen op wie het beleid impact heeft. Er is geen invulformulier (PDF). Erna: `factorc-hulpmiddelen:projectorganisatie-inrichten` om rollen en tijd vast te leggen; het team kan daarna bijvoorbeeld de SWOT maken (`factorc-hulpmiddelen:swot-analyse-maken`).

@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt 'teksten schrijven' een lijstje B1-regels en begint de adviseur meteen te typen. Zoals de Rijksoverheid het afspreekt, is Teksten schrijven een tipsblad in de Factor C-fase Realisatie (onderdeel Kernboodschap): het gaat vooral over de lezer centraal stellen en het schrijfproces slim inrichten, met de Taalkompas als schrijfhulp. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft het hulpmiddel Teksten schrijven (communicatiekompas.nl). Het levert een aanpak op voor lezer, schrijfproces en taalniveau, vóór je gaat formuleren. Er is geen invulformulier (PDF); de bron is een tipspagina. Ervoor komt de kernboodschap (`factorc-hulpmiddelen:kijk-want-dus-formuleren`, pad `skills/kijk-want-dus-formuleren/SKILL.md`); erna het schrijfwerk zelf in de plugin schrijven-rijksoverheid.
@@ -18,7 +20,6 @@ Meld proactief: Factor C heeft het hulpmiddel Teksten schrijven (communicatiekom
 | De tips zelf: lezer centraal, schrijfproces, begrijpelijke taal | `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` |
 | Plaats in de fase Realisatie | `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` |
 | Eisen aan teksten van de Rijksoverheid, testen bij de lezer | `bronnen/communicatierijk/vakkennis/taalkompas.md` |
-| Stukjes, veel meelezers, praatversie, vijf tips voor de organisatie | `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` |
 | A2, laaggeletterden, inclusief taalgebruik | `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-taalgebruik.md` |
 
 ## Coachroute: zo begeleid je de professional
@@ -28,7 +29,7 @@ Doe één stap tegelijk en wacht op antwoord: per beurt hoogstens één vraag of
 1. **Lezer.** Vraag: wie leest dit en welke concrete vraag heeft die lezer? Nudge: weet je dat echt, of moet je eerst een paar lezers bellen? De professional beslist wie de ijkpersoon is.
 2. **Kern eerst.** Vraag: wat is het antwoord op die vraag in één zin? Spiegel of de tekst begint met de conclusie (schrijf als een journalist). De professional formuleert de kern.
 3. **Proces.** Vraag: hoe komt de inhoud binnen? Leg opties voor: collega's leveren stukjes aan, of jij interviewt ze telefonisch en schrijft zelf; of je vraagt alleen inhoudelijke bouwstenen. Noem de verdeling uit de bron: 40% voorbereiding, 20% schrijven, 40% redigeren en afwerken (`teksten-schrijven.md`). De professional kiest.
-4. **Praatversie.** Vraag of er eerst een versie met bullets komt die inhoudelijk wordt afgetikt. Nudge: als er eenmaal tekst ligt, wijzig je die lastig. De professional bepaalt wie aftikt.
+4. **Praatversie** (vakpraktijk, geen voorschrift uit de bronnen). Vraag of er eerst een versie met bullets komt die inhoudelijk wordt afgetikt. Nudge: als er eenmaal tekst ligt, wijzig je die lastig. De professional bepaalt wie aftikt.
 5. **Taalniveau.** Vraag: B1 of A2? Geef de bron: B1 begrijpt ruim 90% van de lezers; het Themaonderzoek taalniveaus beveelt A2 aan (`teksten-schrijven.md`); de inclusieve tips zeggen bij voorkeur A2, niet neerbuigend. De professional kiest.
 6. **Inclusie en alternatieven.** Vraag: wie mis je? Denk aan slechtzienden, laaggeletterden, niet digitaal vaardigen, mensen die geen Nederlands beheersen. Suggestie: 'beste bewoner' in plaats van 'beste heer, mevrouw'.
 7. **Blik van buiten en regie.** Vraag: bij wie test je de tekst, en wie mag waarop meelezen? Nudge met de wet van Scholten uit de longread. De professional houdt de eindredactie.

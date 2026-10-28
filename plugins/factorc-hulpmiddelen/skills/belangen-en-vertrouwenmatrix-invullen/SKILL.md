@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de belangen
 
 Zonder deze skill krijgen de kwadranten zelfbedachte namen (partners, opponenten, bondgenoten met voorbehoud) en verzonnen aanpakken als 'monitoren' of 'onderhandelen'. Zoals de Rijksoverheid het afspreekt, zet de matrix Vertrouwen/relatie (Wel of Geen) af tegen Belangen/inhoud (Tegengestelde of Gelijkgerichte), met 4 vaste rollen: Vrienden, Coalitiegenoten, Tegenspelers en Tegenstanders. Het hulpmiddel hoort in de Factor C-fase onderzoek en analyse (omgevingsanalyse) en helpt doelgroepen en samenwerkingspartners te bepalen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft de belangen- en vertrouwenmatrix, als invulbare tool op communicatiekompas.nl/hulpmiddelen/matrix-belangen-en-vertrouwen en als blanco formulier in deze plugin (`bronnen/communicatiekompas/hulpmiddelen/matrix-belangen-en-vertrouwen/3clxr7z64qjf-belangen-en-vertrouwenmatrix.pdf`; de .txt ernaast is de tekstversie). Let op: de online tool kan niet tussentijds opslaan. Ervoor komt de actoren-inventarisatie; verwant zijn de omgevingsscan en de beweegredenen-matrix.

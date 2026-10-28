@@ -11,10 +11,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/vakmanschap/communicatie-in-beleidsfases.md` — Communicatie in beleidsfases
 - `bronnen/communicatiekompas/hulpmiddelen/inrichten-projectorganisatie.md` — Inrichten projectorganisatie
 - `bronnen/communicatiekompas/hulpmiddelen/interdisciplinair-werken.md` — Interdisciplinair werken
-- `bronnen/communicatierijk/documenten/intakeformulier/intakeformulier.md` — Intakeformulier voor communicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/intakeformulier/Intakeformulier_communicatie.txt` — Intakeformulier_communicatie.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/afwegingskader/afwegingskader.md` — Afwegingskader voor de inzet van communicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/afwegingskader/Afwegingskader_communicatieinzet.txt` — Afwegingskader_communicatieinzet.pdf (tekstversie)
 
 ## omgevingsanalyse-maken
 
@@ -28,11 +24,9 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/beweegredenen-matrix/beweegredenen-matrix.md` — Beweegredenen-matrix
 - `bronnen/communicatiekompas/hulpmiddelen/swot-analyse/swot-analyse.md` — SWOT-analyse
 - `bronnen/communicatiekompas/hulpmiddelen/media-analyse-en-omgevingsonderzoek.md` — Media-analyse en omgevingsonderzoek
-- `bronnen/communicatierijk/documenten/omgevingskennis/omgevingskennis.md` — Omgevingskennis in beleid en communicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/omgevingskennis/Omgevingskennis_in_beleid_en_communicatie.txt` — Omgevingskennis_in_beleid_en_communicatie.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/netwerkende-overheid.md` — Netwerkende overheid | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/netwerkende-overheid/succesfactoren-voor-communicatie-in-de-netwerkaanpak.md` — Succesfactoren voor communicatie in de netwerkaanpak | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/signaturen-voor-samenwerking-in-een-netwerkomgeving/signaturen-voor-samenwerking-in-een-netwerkomgeving.md` — Signaturen voor samenwerking in een netwerkomgeving | CommunicatieRijk
+- `bronnen/communicatiekompas/vakmanschap/communicatie-in-beleidsfases.md` — Communicatie in beleidsfases
 
 ## publieksonderzoek-opzetten
 
@@ -43,8 +37,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/communicatieonderzoek1.md` — Communicatieonderzoek: waarom en hoe | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/gebruiker-centraal.md` — Gebruiker centraal | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/gebruiker-centraal/leer-de-gebruiker-kennen.md` — Leer de gebruiker kennen | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/communicatieonderzoek/gebruiker-centraal/pas-inzichten-toe.md` — Pas inzichten toe | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/communicatieonderzoek/gebruiker-centraal/houd-de-aanpak-vast.md` — Houd de aanpak vast | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/inclusief-onderzoek.md` — Inclusief onderzoek | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/inclusief-onderzoek/probleemverkenning.md` — Fase 1 Inclusief onderzoek: Probleemverkenning | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/inclusief-onderzoek/probleemverkenning/aansluiten-bij-de-leefwereld.md` — Aansluiten bij de leefwereld | CommunicatieRijk
@@ -62,12 +54,11 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/ontwerpende-aanpak/het-public-design-wiel.md` — Het Public Design Wiel | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-public-design/handreiking-public-design.md` — Handreiking Public Design (PDF) | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-public-design/Handreiking-Public-Design.txt` — Handreiking+Public+Design.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/casus-public-design-bij-informatiemarkt-gaswinning.md` — Casus Public Design: informatiemarkt over gaswinning | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/in-gesprek-met-de-unusual-suspects.md` — In gesprek met de unusual suspects | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt.md` — Wie bereikt de (Rijks)overheid niet? | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt/DEFINITIEF-LOK_rapport_Wie-bereikt-de-Rijksoverheid-niet-Update.txt` — DEFINITIEF+LOK_rapport_Wie+bereikt+de+(Rijks)overheid+niet+(Update).pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/monitor-beleving-publiekscommunicatie/monitor-beleving-publiekscommunicatie.md` — Monitor Beleving Publiekscommunicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/monitor-beleving-publiekscommunicatie/Rapportage_monitor_publiekscommunicatie_pdf.txt` — Rapportage_monitor_publiekscommunicatie_pdf.pdf (tekstversie)
+- `bronnen/communicatierijk/documenten/de-ontwerpende-aanpak-voor-betekenisvolle-verandering/de-ontwerpende-aanpak-voor-betekenisvolle-verandering.md` — De ontwerpende aanpak voor betekenisvolle verandering (PDF) | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/de-ontwerpende-aanpak-voor-betekenisvolle-verandering/de-ontwerpende-aanpak-voor-betekenisvolle-verandering.txt` — de-ontwerpende-aanpak-voor-betekenisvolle-verandering.pdf (tekstversie)
+- `bronnen/communicatierijk/campagnekeuken/onderzoekstechnieken-voor-campagnes.md` — Onderzoekstechnieken voor campagnes | CommunicatieRijk
 
 ## communicatiestrategie-bepalen
 
@@ -86,13 +77,14 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/grenzen-aan-gedragsverandering-wat-mag-wel-en-niet.md` — De ethiek van gedragsverandering | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/tien-snelle-tips-voor-gedragsverandering.md` — Tien snelle tips voor gedragsverandering | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/emoties-en-overheidscommunicatie.md` — Emoties en overheidscommunicatie | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/gedragswetenschappen-bij-de-overheid.md` — Inzet van gedragsinzichten in overheidscommunicatie: meer dan een trucje | CommunicatieRijk
 - `bronnen/communicatiekompas/themas/participatie.md` — Participatie: in gesprek met de samenleving
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/dialoog.md` — Dialoog | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/leidraad-dialoog/leidraad-dialoog.md` — Dialoog leidraad | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/leidraad-dialoog/Leidraad-dialoog-interactief_nov-2017.txt` — Leidraad+dialoog+interactief_nov+2017.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/uitgangspunten-overheidscommunicatie.md` — Uitgangspunten overheidscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/UitgangspuntenOverheidscom-8.txt` — UitgangspuntenOverheidscom+(8).pdf (tekstversie)
+- `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie.md` — Gedrag en CASI | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/gedragsteam.md` — Ondersteuning door het gedragsteam | CommunicatieRijk
 
 ## kernboodschap-ontwikkelen
 
@@ -103,9 +95,9 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/message-house/message-house.md` — Message house
 - `bronnen/communicatiekompas/hulpmiddelen/framing.md` — Framing
 - `bronnen/communicatiekompas/hulpmiddelen/dilemmalogica.md` — Dilemmalogica
-- `bronnen/communicatierijk/actueel/casus-ervaringen-met-dilemmalogica.md` — Ervaringen met dilemmalogica | CommunicatieRijk
 - `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` — Teksten schrijven
 - `bronnen/communicatiekompas/themas/breng-je-boodschap-over-met-beeld.md` — Breng je boodschap over met beeld
+- `bronnen/communicatierijk/documenten/dilemmalogica-koepelrapportage/dilemmalogica-koepelrapportage.md` — Dilemmalogica - Koepelrapportage van 4 kwalitatieve deelonderzoeken | CommunicatieRijk
 
 ## communicatieplan-schrijven
 
@@ -118,6 +110,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/inrichten-projectorganisatie.md` — Inrichten projectorganisatie
 - `bronnen/communicatiekompas/hulpmiddelen/interdisciplinair-werken.md` — Interdisciplinair werken
 - `bronnen/communicatiekompas/themas/zo-ontwikkel-je-een-sterke-overheidscampagne.md` — Zo ontwikkel je een sterke overheidscampagne
+- `bronnen/communicatierijk/vakkennis/afspraken-campagnes.md` — De 6 belangrijkste afspraken over Rijksoverheidscampagnes | CommunicatieRijk
 - `bronnen/communicatiekompas/themas/inclusieve-communicatie-zo-kun-je-bijdragen.md` — Inclusieve communicatie, zo kun je bijdragen
 - `bronnen/communicatiekompas/themas/digitale-toegankelijkheid.md` — Digitale toegankelijkheid: iedereen doet mee
 
@@ -127,11 +120,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/media-analyse-en-omgevingsonderzoek.md` — Media-analyse en omgevingsonderzoek
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/inclusief-onderzoek/evaluatie.md` — Fase 8 Inclusief onderzoek: Evaluatie | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/accountability.md` — Accountability | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/leidraad-accountability/leidraad-accountability.md` — Leidraad Accountability | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/leidraad-accountability/leidraad-accountability-versie-21-jan-2016.txt` — leidraad-accountability-versie-21-jan-2016.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/accountabel-zijn-hoe-doe-je-dat/accountabel-zijn-hoe-doe-je-dat.md` — Accountabel zijn, hoe doe je dat? | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/accountabel-zijn-hoe-doe-je-dat/artikel-accountabel-zijn-hoe-doe-je-dat.txt` — artikel-accountabel-zijn-hoe-doe-je-dat.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/dialoogsessie-accountability/dialoogsessie-accountability.md` — Dialoogtafel Accountability | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/afspraken-campagnes.md` — De 6 belangrijkste afspraken over Rijksoverheidscampagnes | CommunicatieRijk
 
 ## communicatieadvies-geven
 
@@ -139,19 +128,14 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/vakmanschap/communicatie-in-beleidsfases.md` — Communicatie in beleidsfases
 - `bronnen/communicatiekompas/vakmanschap/rollen-van-de-overheid.md` — Rollen van de overheid
 - `bronnen/communicatiekompas/vakmanschap/ambtelijk-vakmanschap.md` — Ambtelijk vakmanschap
-- `bronnen/communicatierijk/documenten/afwegingskader/afwegingskader.md` — Afwegingskader voor de inzet van communicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/afwegingskader/Afwegingskader_communicatieinzet.txt` — Afwegingskader_communicatieinzet.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/overheidscommunicatie.md` — Afspraken en richtlijnen communicatiebeleid | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/openbaarheid-en-transparantie.md` — Openbaarheid en transparantie | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/uitgangspunten-overheidscommunicatie.md` — Uitgangspunten overheidscommunicatie | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/dilemmalogica-in-kamerbrieven.md` — Dilemmalogica in Kamerbrieven | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/gelijk-hebben-is-niet-altijd-gelijk-krijgen/gelijk-hebben-is-niet-altijd-gelijk-krijgen.md` — Gelijk hebben is niet altijd gelijk krijgen | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/gelijk-hebben-is-niet-altijd-gelijk-krijgen/Gelijk-hebben-is-niet-altijd-gelijk-krijgen.txt` — Gelijk-hebben-is-niet-altijd-gelijk-krijgen.pdf (tekstversie)
-- `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/aanbod-academie-voor-overheidscommunicatie/communicatie-in-een-politiek-bestuurlijke-omgeving.md` — Communicatie in een politiek-bestuurlijke omgeving | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/aanbod-academie-voor-overheidscommunicatie/leerroute-strategisch-adviseren.md` — Leerroute strategisch adviseren | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen.md` — Omgaan met polarisatie en onbehagen | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-dilemmagesprekken/handreiking-dilemmagesprekken.md` — Handreiking 'Dilemmagesprekken: als openbaarheid schuurt' | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` — Af en toe een punt zetten mag best | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/dilemmalogica-koepelrapportage/dilemmalogica-koepelrapportage.md` — Dilemmalogica - Koepelrapportage van 4 kwalitatieve deelonderzoeken | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/startadvies-kabinetsbrede-communicatie-2026/startadvies-kabinetsbrede-communicatie-2026.md` — Startadvies kabinetsbrede communicatie 2026 | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/startadvies-kabinetsbrede-communicatie-2026/startadvies-kabinetsbrede-communicatie-2026.txt` — startadvies-kabinetsbrede-communicatie-2026.pdf (tekstversie)
 
 ## achtergrond
 
@@ -160,20 +144,12 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/competenties.md` — Competentieprofielen | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/competentiegids-voor-communicatieprofessionals-2025/competentiegids-voor-communicatieprofessionals-2025.md` — Competentiegids voor communicatieprofessionals 2025 | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/competentiegids-voor-communicatieprofessionals-2025/competentiegids-voor-communicatieprofessionals-2025.txt` — competentiegids-voor-communicatieprofessionals-2025.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/nieuw-competentieprofiel-en-vernieuwde-gids-voor-communicatieprofessionals.md` — Nieuw competentieprofiel en vernieuwde gids voor communicatieprofessionals | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/in-de-genen-van-een-communicatieadviseur.md` — In de genen van een communicatieadviseur | CommunicatieRijk
 - `bronnen/communicatiekompas/themas/factor-c-strategisch-en-gestructureerd-aan-de-slag-met-communicatie.md` — Factor C: Strategisch en gestructureerd aan de slag met communicatie
-- `bronnen/communicatierijk/vakkennis/factor-c.md` — Factor C | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/aanbod-academie-voor-overheidscommunicatie/faciliteren-met-factor-c.md` — Krachtig faciliteren: van intake tot uitvoering | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/aanbod-academie-voor-overheidscommunicatie/vaktraining-voor-communicatieadviseurs.md` — Vaktraining voor communicatieadviseurs | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/academie-voor-overheidscommunicatie/aanbod-academie-voor-overheidscommunicatie/training-strategische-stakeholdercommunicatie.md` — Strategisch stakeholdermanagement | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/stand-van-overheidscommunicatie.md` — Stand van Overheidscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/stand-van-overheidscommunicatie/zes-aandachtspunten-leren-en-ontwikkelen.md` — Zes aandachtspunten voor leren en ontwikkelen | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/stand-van-overheidscommunicatie/stand-van-overheidscommunicatie.md` — Stand van Overheidscommunicatie. De oogst van zes dialoogtafels | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/stand-van-overheidscommunicatie/Stand-van-Overheidscommunicatie-De-oogst-van-zes-dialoogtafels.txt` — Stand+van+Overheidscommunicatie+De+oogst+van+zes+dialoogtafels.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/trends-voor-overheidscommunicatie.md` — Trends voor overheidscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/trends-voor-overheidscommunicatie/actueel-trendoverzicht.md` — Actueel trendoverzicht | CommunicatieRijk
-- `bronnen/communicatierijk/vakkennis/trends-en-themas/trends-voor-overheidscommunicatie/organiseer-een-trendsessie.md` — Organiseer een trendsessie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/advies-uitgangspunten-kabinetsbrede-communicatie/advies-uitgangspunten-kabinetsbrede-communicatie.md` — Uitgangspunten kabinetsbrede communicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/advies-uitgangspunten-kabinetsbrede-communicatie/Uitgangspunten-kabinetsbrede-communicatie.txt` — Uitgangspunten+kabinetsbrede+communicatie.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/dialoogsessie-ethiek.md` — Dialoogtafel Ethiek | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/organisatie-van-overheidscommunicatie.md` — Organisatie van overheidscommunicatie | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/vora-koersbrief-2026---2029/vora-koersbrief-2026---2029.md` — VoRa-koersbrief 2026 - 2029 | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/startadvies-kabinetsbrede-communicatie-2026/startadvies-kabinetsbrede-communicatie-2026.md` — Startadvies kabinetsbrede communicatie 2026 | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/startadvies-kabinetsbrede-communicatie-2026/startadvies-kabinetsbrede-communicatie-2026.txt` — startadvies-kabinetsbrede-communicatie-2026.pdf (tekstversie)
+- `bronnen/communicatierijk/vakkennis/trends-en-themas/trends-voor-overheidscommunicatie/raadpleeg-het-trendteam.md` — Raadpleeg het trendteam | CommunicatieRijk

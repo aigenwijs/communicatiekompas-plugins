@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt een briefing een eigen lijstje met termen als SMART, toon en rebriefing, en vergeet de adviseur het eigen organisatieformat en de Rijkshuisstijl. Zoals de Rijksoverheid het afspreekt, hoort de briefing bij de Factor C-fase Realisatie (onderdeel Communicatiemiddelen): een opdrachtbeschrijving met acht leidraadpunten, tenzij je organisatie een vast format heeft. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft het hulpmiddel Briefing communicatiemiddelen (communicatiekompas.nl). Het levert een opdrachtbeschrijving op waarmee het bureau precies begrijpt wat de opdracht omvat. Er is geen invulformulier (PDF); de bron is een tipspagina met een leidraad van acht punten. Ervoor komt de middelenkeuze (`factorc-hulpmiddelen:middelenkeuze-maken`, pad `skills/middelenkeuze-maken/SKILL.md`) en de kernboodschap; erna de communicatiekalender (`factorc-hulpmiddelen:communicatiekalender-maken`).

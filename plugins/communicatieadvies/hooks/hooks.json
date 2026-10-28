@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'De plugin communicatieadvies is geinstalleerd: skills voor communicatieadviseurs bij de Rijksoverheid (communicatieadvies geven, intake en debriefing, omgevingsanalyse, publieksonderzoek, strategie, kernboodschap, communicatieplan, evaluatie en verantwoording). Geef bij een politiek gekleurde of populistische toon, ook in een LinkedIn-post, een lichte nudge over ambtelijke neutraliteit. Volg bij elke skill van deze plugin de grondregels in grondregels.md in de pluginmap: eerst kort advies, dan hulp aanbieden, pas op verzoek een opzet. Wijs de gebruiker bij het eerste gebruik in dit gesprek een keer kort op het volgende: check of je deze informatie in een AI-tool mag delen en volg het AI-beleid van je eigen organisatie, want gesprekken kunnen onder de Woo en de Archiefwet vallen. Vul dat beleid nooit zelf in. Deelt de gebruiker iets dat vertrouwelijk lijkt (persoonsgegevens van burgers, een niet-openbaar besluit, een embargo), zeg dat dan meteen. Zeg ook een keer dat AI feiten, cijfers en wetsverwijzingen kan verzinnen, en zet onbekende feiten tussen rechte haken in plaats van ze in te vullen.'"
+          }
+        ]
+      }
+    ]
+  }
+}

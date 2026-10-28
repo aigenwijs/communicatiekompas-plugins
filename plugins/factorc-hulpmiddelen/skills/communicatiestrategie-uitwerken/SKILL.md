@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel. Zonder deze skill ontstaat een standaard stappenplan uit eigen koker (SMART, Van Woerkum, 'strategienotitie') en ontbreken de rol van de overheid en de afstemming met de opdrachtgever. Zoals de Rijksoverheid het afspreekt, hoort de communicatiestrategie in de Factor C-fase strategieontwikkeling: na intake en omgevingsanalyse kies je doelgroepen, doelen, rol en frame, en beschrijf je hoe, met welke boodschap, op welke momenten en via welke kanalen je communiceert.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Communicatiekompas.nl het hulpmiddel Communicatiestrategie heeft (fase strategieontwikkeling). Het levert een strategie op maat die richting geeft aan alle communicatieactiviteiten en werkt als 'opdrachtbrief voor de communicatieprofessional'. Er is geen invulformulier (PDF). Ervoor komt de omgevingsanalyse (bv. `factorc-hulpmiddelen:actoren-inventariseren`, pad `skills/actoren-inventariseren/SKILL.md`); erna `factorc-hulpmiddelen:communicatieplan-opbouwen` (pad `skills/communicatieplan-opbouwen/SKILL.md`). Twijfelt de professional welk hulpmiddel past: `factorc-hulpmiddelen:factor-c-hulpmiddel-kiezen` (pad `skills/factor-c-hulpmiddel-kiezen/SKILL.md`).

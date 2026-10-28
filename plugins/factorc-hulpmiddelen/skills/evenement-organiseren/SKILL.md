@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill krijgt de adviseur een algemene checklist met verzonnen termijnen (uitnodigen zes weken vooraf, save-the-date) en ontbreken draaiboekopbouw, nazorg en het protocol rond een bewindspersoon. Zoals de Rijksoverheid het afspreekt, hoort dit hulpmiddel bij de Factor C-fase Realisatie (onderdeel Evenementen) en loopt het langs acht aandachtspunten: doelstellingen en doelgroep, budget, locatie en datum, opbouw van de dag, randvoorwaarden, draaiboek, evaluatie, nazorg. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft het hulpmiddel Evenementen en congressen (communicatiekompas.nl). Het levert de aandachtspunten en een draaiboekopbouw op voor een geslaagd evenement. Er is geen invulformulier (PDF); de bron is een tipspagina. Ervoor komt de middelenkeuze (`factorc-hulpmiddelen:middelenkeuze-maken`, pad `skills/middelenkeuze-maken/SKILL.md`); erna de communicatiekalender (`factorc-hulpmiddelen:communicatiekalender-maken`). Begin op tijd.

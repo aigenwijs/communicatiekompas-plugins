@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid beeld wil controleren vóór 
 
 Zonder deze skill gaat beeld online met alleen witte mannen in de leidende rol, een foto die zwaar is bewerkt, informatie die blinden missen of een herkenbaar persoon zonder toestemming. Zoals de Rijksoverheid het afspreekt (Beeldkompas en CommunicatieRijk), laat rijksbeeld diversiteit zien zonder stereotypen, is het realistisch en geloofwaardig volgens de rijkshuisstijl, toegankelijk en rechtmatig gebruikt. Bij twijfel over echtheid stel je controlevragen. Jij bent coach: je benoemt wat je ziet als observatie en stelt vragen; het oordeel en de keuze zijn aan de gebruiker.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
 Meld proactief: er zijn drie tips om stereotypering te voorkomen (Beeldkompas), tips voor inclusief beeldgebruik (CommunicatieRijk), onderzoek naar diversiteit in beeld (DPC) en een mini-cursus representatie in de media. Voor echtheid: het artikel over deepfakes en de site isdatechtzo.nl (externe site, niet in deze map).
@@ -20,9 +22,7 @@ Meld proactief: er zijn drie tips om stereotypering te voorkomen (Beeldkompas), 
 | Drie tips: diversiteit tonen, counterstereotypen, machtsrelaties omdraaien | `bronnen/beeldkompas/kennisbank/stereotypering-voorkomen-3-tips.md` |
 | Tips voor inclusief beeldgebruik (herkenbaar, contrast, beeld voor de tekst) | `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-beeldgebruik.md` |
 | Representatie in de media | `bronnen/beeldkompas/cursussen/representatie-in-de-media.md` |
-| Waarom divers beeld | `bronnen/communicatierijk/actueel/inclusieve-overheidscommunicatie-kan-niet-zonder-divers-beeld.md` |
 | Onderzoek diversiteit in beeld (DPC, 2024) | `bronnen/communicatierijk/documenten/diversiteit-in-beeld/diversiteit-in-beeld.md` en `bronnen/communicatierijk/documenten/diversiteit-in-beeld/DPC_Diversiteit_in_beeld_Een_verkenning_van_inzichten_2024.txt` |
-| Goede voorbeelden inclusief beeld | `bronnen/communicatierijk/documenten/goed-voorbeeld-doet-goed-volgen/goed-voorbeeld-doet-goed-volgen.md` en `bronnen/communicatierijk/documenten/goed-voorbeeld-doet-goed-volgen/Goed-voorbeeld-doet-goed-volgen.txt` |
 | Rijkshuisstijl: geloofwaardig, helder, krachtig, Nederlands; terughoudend met bewerken | `bronnen/beeldkompas/cursussen/beeld-maken-vanuit-het-rijk.md` |
 | Verplichte basiselementen online | `bronnen/communicatierijk/vakkennis/rijkswebsites/verplichte-richtlijnen/rijkshuisstijl-online.md` |
 | Toegankelijkheid van beeld | `bronnen/communicatierijk/vakkennis/visuele-communicatie/toegankelijkheid-van-beeld.md` |

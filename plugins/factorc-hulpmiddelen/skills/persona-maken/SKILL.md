@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid een persona
 
 Zonder begeleiding worden persona's een marketingportret uit eigen kennis: drie tot vijf figuren met foto, inkomen en een pakkende bijnaam, gebaseerd op aannames. Zoals de Rijksoverheid het afspreekt, is een persona (of ijkpersoon) een fictieve beschrijving van de behoeften, motivatie en verwachtingen van de mensen voor wie een communicatiemiddel bedoeld is, bij voorkeur op basis van onderzoek en getoetst bij de doelgroep. Het hulpmiddel hoort in de Factor C-fase onderzoek en analyse (doelgroepen uitwerken). Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: persona's zijn een Factor C-hulpmiddel om concreet te maken voor wie je een middel ontwikkelt en om in het team één beeld van de doelgroep te krijgen. Er is geen invulformulier (PDF); de bron is een Kennis & tips-pagina, ook te vinden op communicatiekompas.nl (externe site, niet in deze map). Verwante hulpmiddelen: de klantreis (`factorc-hulpmiddelen:klantreis-maken`, pad `skills/klantreis-maken/SKILL.md`) en daarna de middelenkeuze (`factorc-hulpmiddelen:middelenkeuze-maken`, pad `skills/middelenkeuze-maken/SKILL.md`).

@@ -9,7 +9,7 @@ Zonder bron noemt een assistent generieke modellen (Mendelow, een algemene stake
 
 Jij bent coach: de professional kiest het hulpmiddel en vult het in, jij stelt vragen, geeft nudges en legt opties voor.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat de hulpmiddelen bestaan
 
@@ -19,7 +19,7 @@ Meld in één of twee zinnen dat deze plugin de Factor C-hulpmiddelen van commun
 
 | Situatie | Lees eerst |
 |---|---|
-| Wat Factor C is, perspectief, samenhang van de fasen | `bronnen/communicatiekompas/themas/factor-c-strategisch-en-gestructureerd-aan-de-slag-met-communicatie.md`, `bronnen/communicatierijk/vakkennis/factor-c.md` |
+| Wat Factor C is, perspectief, samenhang van de fasen | `bronnen/communicatiekompas/themas/factor-c-strategisch-en-gestructureerd-aan-de-slag-met-communicatie.md` |
 | Nieuwe opdracht, opgave nog onscherp, organisatie van de communicatie | `bronnen/communicatiekompas/hulpmiddelen/toelichting-intake-en-opdrachtformulering.md` |
 | Wie zijn de spelers, wat vinden ze, wie heeft invloed (keuze tussen zes analysetools) | `bronnen/communicatiekompas/hulpmiddelen/toelichting-onderzoek-en-analyse.md` |
 | Doelgroep, doel, rol, frame, gedrag, plan | `bronnen/communicatiekompas/hulpmiddelen/toelichting-strategieontwikkeling.md` |

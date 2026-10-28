@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de message 
 
 Zonder deze skill wordt de message box vaak verward met het politieke 2x2-schema (wat wij en zij over onszelf en elkaar zeggen). Zoals de Rijksoverheid het afspreekt, komt de message box uit de wetenschapscommunicatie en is hij omgewerkt voor overheidscommunicatie door Carola de Vree. Hij hoort in de Factor C-fase realisatie: je formuleert de kernboodschap vanuit het probleem zoals de doelgroep het ervaart en toetst of jouw boodschap daarop aansluit, in vijf stappen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: de message box is een Factor C-hulpmiddel op communicatiekompas.nl. Hij levert bouwstenen op voor een boodschap voor één specifieke doelgroep, mogelijk op een specifiek moment, en een toets of die boodschap relevant is. Er is geen invulformulier (PDF) en de bron toont geen schema van de vakken; de vijf stappen zijn de vorm. Ervoor helpt een persona of kritiek-repliek; erna kun je meerdere boxen samenbrengen in een message house.

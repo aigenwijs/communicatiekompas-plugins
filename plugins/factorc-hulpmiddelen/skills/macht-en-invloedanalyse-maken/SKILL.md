@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de macht- e
 
 Zonder deze skill wordt dit een Mendelow-matrix (macht tegen belang, met 'key players' en 'keep satisfied'), met een score 1 tot 5 en zelfbedachte soorten macht. Zoals de Rijksoverheid het afspreekt, bepaal je per actor maar 2 dingen: hoeveel macht (invloed) en wat de houding op dit moment is, in drie kolommen (Veel macht, Redelijk machtig, Weinig macht) en vier kleuren. Het hulpmiddel hoort in de Factor C-fase onderzoek en analyse (omgevingsanalyse) en laat zien wie de invloedrijke spelers zijn en welke houding je kunt verwachten. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft de macht- en invloedanalyse, als invulbare tool op communicatiekompas.nl/hulpmiddelen/macht-en-invloed-analyse en als blanco formulier in deze plugin (`bronnen/communicatiekompas/hulpmiddelen/macht-en-invloed-analyse/5pwc9kcm4c3p-macht-en-invloedanalyse.pdf`; de .txt ernaast is de tekstversie). De online tool kan niet tussentijds opslaan. Ervoor komt de actoren-inventarisatie; de bron verwijst daarna naar de ringen van invloed.

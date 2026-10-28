@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de Ringen v
 
 Zonder begeleiding wordt dit model vaak getekend als cirkels van 'veel' naar 'weinig invloed', met zelfbedachte ringnamen, pijlen tussen partijen en feitelijke en gewenste rollen door elkaar. Zoals de Rijksoverheid het afspreekt, combineert het model vier rollen (kwadranten) met vier niveaus van betrokkenheid (ringen), steeds vanuit één expliciet perspectief. Het hoort in de Factor C-fase onderzoek en analyse en is de stap van verkenning naar strategie. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: de Ringen van invloed is een Factor C-hulpmiddel dat laat zien welke rol partijen hebben en hoe sterk ze betrokken zijn of zouden moeten zijn. Er is een blanco invulformulier: `bronnen/communicatiekompas/hulpmiddelen/ringen-van-invloed/4ds9q9d5wosy-ringen-van-invloed.pdf` (tekstversie ernaast als .txt), en een invulbare tool op communicatiekompas.nl (externe site, niet in deze map). Ervoor komt de actoren-inventarisatie (`factorc-hulpmiddelen:actoren-inventariseren`, pad `skills/actoren-inventariseren/SKILL.md`); erna de strategie.

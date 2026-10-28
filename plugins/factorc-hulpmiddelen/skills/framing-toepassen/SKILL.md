@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel. Zonder deze skill komt er een theoriekader uit eigen kennis (Entman, framefuncties) en een zelfbedacht frame-overzicht, terwijl de vaste vuistregels en de integriteitsvraag ontbreken. Zoals de Rijksoverheid het afspreekt, hoort framing in de Factor C-fase strategieontwikkeling: je gaat na welk frame bij de doelgroep leeft en kiest een frame dat recht doet aan de feiten; daarna draagt het frame de boodschap.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Communicatiekompas.nl het hulpmiddel Framing heeft (fase strategieontwikkeling, 'Kennis & tips'). Het levert een bewust gekozen, integer frame met kernwoorden, getoetst aan drie vuistregels. Er is geen invulformulier (PDF). Ervoor komt `factorc-hulpmiddelen:communicatiestrategie-uitwerken` (pad `skills/communicatiestrategie-uitwerken/SKILL.md`); erna `factorc-hulpmiddelen:kijk-want-dus-formuleren` (pad `skills/kijk-want-dus-formuleren/SKILL.md`) of `factorc-hulpmiddelen:message-house-bouwen` (pad `skills/message-house-bouwen/SKILL.md`).

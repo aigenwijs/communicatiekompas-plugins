@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid na een inta
 
 Zonder deze skill wordt een debriefing een mini-communicatieplan met voorlopige kernboodschap, kennis-houding-gedragdoelen en een paginalimiet die nergens vandaan komen, terwijl aanvrager, oplevering en effecten ontbreken. Zoals de Rijksoverheid het afspreekt, is de debriefing een gestructureerd en beknopt verslag van de interpretatie van de vraag, met acht vaste onderdelen, dat je afstemt met de opdrachtgever; het hoort in de Factor C-fase Intake en opdrachtformulering (Opgave in kaart brengen), direct na de intake. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Factor C een checklist voor de debriefing heeft (communicatiekompas.nl/hulpmiddelen/debriefing). Die levert een document op waarmee je toetst of iedereen hetzelfde beeld heeft van doelen en resultaten, en dat bij akkoord je goedkeuring zwart-op-wit is. Er is geen invulformulier (PDF); de checklist staat hier als `debriefing.md`. Ervoor: de intake (`factorc-hulpmiddelen:intake-voeren`). Erna: de projectorganisatie (`factorc-hulpmiddelen:projectorganisatie-inrichten`).

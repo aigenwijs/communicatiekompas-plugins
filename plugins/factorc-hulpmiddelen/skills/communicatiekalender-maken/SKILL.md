@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt de kalender een Excel met verzonnen kolommen (status, kleurcodes) en een niet-bestaande rijksbrede kalender als afstemmingspunt. Zoals de Rijksoverheid het afspreekt, hoort de communicatiekalender bij de Factor C-fase Realisatie (onderdeel Planning) en kies je tussen twee vormen: de mijlpalenkalender en de contentkalender. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft het hulpmiddel Communicatiekalender (communicatiekompas.nl). Het levert overzicht op van mijlpalen, middelen, boodschappen en wie waarvoor aan de lat staat. Er is geen invulformulier (PDF) en geen vast sjabloon; de bron is een tipspagina. Ervoor komt de middelenkeuze (`factorc-hulpmiddelen:middelenkeuze-maken`, pad `skills/middelenkeuze-maken/SKILL.md`); bij een evenement ook `factorc-hulpmiddelen:evenement-organiseren`.

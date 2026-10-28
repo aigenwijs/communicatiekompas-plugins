@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid een message
 
 Zonder deze skill krijgt het message house vaak een verzonnen bouwtekening: dak, drie pilaren, fundament, deur, schoorsteen. Zoals de Rijksoverheid het afspreekt, brengt een message house verschillende boodschappen samen onder één dak: een koepelverhaal met daaronder pijlers (maximaal zes in de tool), die je naar eigen inzicht indeelt, met optionele onderbouwing. Het hoort in de Factor C-fase realisatie en levert een gedragen koepelverhaal dat verschillende betrokkenen kunnen uitdragen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: het message house is een Factor C-hulpmiddel op communicatiekompas.nl, met een invulbare tool (niet tussentijds op te slaan; export als pdf, visual of print) en een blanco formulier in de plugin: `bronnen/communicatiekompas/hulpmiddelen/message-house/6zrzubbw0wjw-message-house.pdf` (tekstversie: de .txt ernaast). Het formulier heeft een titelregel, kopvelden **Datum**, **Fase** en **Hoofddoelgroep**, één dakvak en zes ongelabelde vakken (twee rijen van drie); print op A3. Ervoor komen kritiek-repliek en kijk-want-dus of de message box; framing helpt bij het koepelverhaal.

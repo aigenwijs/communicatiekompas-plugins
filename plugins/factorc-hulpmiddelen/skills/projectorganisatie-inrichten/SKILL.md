@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt het een algemene projectmanagementinrichting met stuurgroep, RACI-matrix, GOTIK en projectfasen, die Factor C niet voorschrijft. Zoals de Rijksoverheid het afspreekt, is een projectorganisatie voor communicatie eenvoudiger: alle taken en producten op een rij, daaruit de benodigde expertises, en per partij rol, bijdrage en tijd vastleggen, zo vroeg mogelijk; het hoort in de Factor C-fase Intake en opdrachtformulering (Organisatie van de communicatie). Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Factor C een hulpmiddel Inrichten projectorganisatie heeft (communicatiekompas.nl/hulpmiddelen/inrichten-projectorganisatie). Het levert tijdbesparing, duidelijkheid, snelle bijsturing en eenvoudige verantwoording op. Er is geen invulformulier (PDF) en de bron geeft geen sjabloon. Ervoor: de debriefing (`factorc-hulpmiddelen:debriefing-maken`). Ernaast: `factorc-hulpmiddelen:interdisciplinair-werken` als je organisatie in interdisciplinaire teams werkt.

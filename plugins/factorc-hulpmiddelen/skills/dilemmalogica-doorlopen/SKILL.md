@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de methode 
 
 Zonder deze skill wordt dilemmalogica vaak een stappenplan om een genomen besluit achteraf uit te leggen (dilemma benoemen, keuze maken, uitleggen waarom). Zoals de Rijksoverheid het afspreekt, is dilemmalogica (bedenker Guido Rijnja) een methode om contact te maken over het probleem in plaats van pas bij de oplossing: de eigen oplossing opschorten en in drie stappen de zorgen erkennen, de zienswijzen ordenen en perspectief bieden. Het staat in Factor C bij realisatie (kernboodschap), maar komt vooral in het begin van een opgave van pas. Deze skill begeleidt de methode en werksessie; de tekst voor media hoort bij `woordvoering:dilemmalogica-toepassen`. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: dilemmalogica is een Factor C-hulpmiddel op communicatiekompas.nl, met toelichting op CommunicatieRijk. Het levert per stap een resultaat op: een schets van het speelveld, gedeelde waarden en opvattingen, en afspraken over hoe we verder komen. Er is geen invulformulier in deze plugin; de hulpmiddelen uit de *Leidraad Dilemmalogica* (pagina 7, 8-9 en 11) staan op communicatierijk.nl (externe site, niet in deze map). Ervoor helpt een actoren- of omgevingsanalyse; in stap 3 sluit kijk-want-dus aan.

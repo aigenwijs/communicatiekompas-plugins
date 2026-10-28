@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill wordt een intake een eigen vragenlijstje (vijf W's, kennis-houding-gedrag, SMART) dat beleidsfase, urgentie en rolverwachting overslaat. Zoals de Rijksoverheid het afspreekt, is de intake-checklist een geheugensteun in drie vaste delen: Verkenning, Verdieping en Uitvoering, in de Factor C-fase Intake en opdrachtformulering (Opgave in kaart brengen). Doel: wederzijdse ambities verwoorden en afspraken maken over inzet, resultaten en verwachtingen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Factor C een intake-checklist heeft (communicatiekompas.nl/hulpmiddelen/intake) die helpt de communicatievraag boven tafel te krijgen. Er is geen invulformulier (PDF); de checklist is een webpagina, hier als `intake.md`. Ervoor: eventueel de toelichting op de fase. Erna: de debriefing (`factorc-hulpmiddelen:debriefing-maken`) en, voor een diepere verkenning, de SWOT (`factorc-hulpmiddelen:swot-analyse-maken`).

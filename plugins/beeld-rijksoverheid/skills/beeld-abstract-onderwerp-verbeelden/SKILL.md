@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid een abstract, complex of moei
 
 Zonder deze skill krijgt een abstract onderwerp een stockfoto met een handdruk, een stapel papier of een wazig Binnenhof, en vertelt het beeld niets. Zoals Beeldkompas het aanpakt, begin je bij het vraagstuk en de doelgroep, niet bij het plaatje. Design Thinking voor beeld kent zeven posities (Vraagstuk, Omgeving, Doelgroep, Inzichten, Ideeën, Kiezen, Realiseren) zonder vaste volgorde. Abstractie helpt om alleen de kern te verbeelden, als de doelgroep die abstractie aankan. Soms is de conclusie dat beeld niet geschikt is. Jij bent coach: de gebruiker brengt het vraagstuk en kiest, jij stelt de vragen per positie en houdt de focus op de kern.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
 Meld proactief: Beeldkompas heeft 'Design Thinking voor beeld' (uitleg en een werkwijze met vragen per positie), een artikel over abstractie in beeld en voorbeelden van moeilijke onderwerpen die eenvoudig zijn verbeeld. Gaat het om cijfers of een proces met stappen, dan past `beeld-rijksoverheid:beeld-informatie-visualiseren` (pad `skills/beeld-informatie-visualiseren/SKILL.md`) vaak beter.

@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill komt er een SWOT uit het leerboek: in de onderzoeksfase geplaatst, met DESTEP, een confrontatiematrix en vier strategieën die Factor C niet geeft. Zoals de Rijksoverheid het afspreekt, hoort de SWOT in de Factor C-fase Intake en opdrachtformulering (Opgave in kaart brengen), om een onderwerp diepgaander te leren kennen: vier kwadranten, verdeeld over interne kenmerken en externe factoren, als basis voor langetermijnstrategie en keuzes in de communicatieaanpak. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Factor C een SWOT-analyse heeft: in kaart brengen welke interne en externe factoren effect kunnen hebben op het project. Er is een blanco invulformulier in deze plugin: `bronnen/communicatiekompas/hulpmiddelen/swot-analyse/4txtglle9ahy-swot-analyse.pdf` (tekstversie: dezelfde naam met .txt), en een invulbare tool op communicatiekompas.nl/hulpmiddelen/swot-analyse (slaat tussendoor niet op; laatste stap: pdf, visual of print). Ervoor: de intake (`factorc-hulpmiddelen:intake-voeren`). Erna: de omgevingsscan (`factorc-hulpmiddelen:omgevingsscan-maken`, pad `skills/omgevingsscan-maken/SKILL.md`) of de strategie (`factorc-hulpmiddelen:communicatiestrategie-uitwerken`, pad `skills/communicatiestrategie-uitwerken/SKILL.md`).

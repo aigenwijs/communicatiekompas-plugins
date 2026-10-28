@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de omgeving
 
 Zonder deze skill wordt 'omgevingsscan' opgevat als een DESTEP- of PESTEL-scan met trends, issues en peilingen. Zoals de Rijksoverheid het afspreekt, is de omgevingsscan een hulpmiddel in de Factor C-fase onderzoek en analyse (omgevingsanalyse) dat stakeholders rond een maatschappelijk vraagstuk op 4 variabelen beoordeelt: houding, opstelling, invloed en relatie, samen in een sessie met mensen die het krachtenveld kennen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft de omgevingsscan, als invulbare tool op communicatiekompas.nl/hulpmiddelen/omgevingsscan en als blanco formulier in deze plugin (`bronnen/communicatiekompas/hulpmiddelen/omgevingsscan/4jea1lnihgx4-omgevingsscan.pdf`; de .txt ernaast is de tekstversie). Hij levert een eindplaat van het krachtenveld en gedeelde kennis in het team. Ervoor komt de actoren-inventarisatie; verwant is de macht- en invloedanalyse.

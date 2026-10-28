@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid informatie, cijfers of een pr
 
 Zonder deze skill wordt een rapport 'opgeleukt' met een infographic die de tekst herhaalt, of wordt elke grafiek een taartdiagram vol cijfers. Zoals Beeldkompas het uitlegt, begint visualiseren bij het verminderen van complexiteit vanuit de doelgroep: wat wil en wat heeft de doelgroep nodig, welk idee wil je overbrengen, wat kun je en wat moet je laten zien? Een infographic past bij veel of complexe informatie en stapsgewijze processen, niet bij een paar feiten (dan een visual) en niet om tekst te illustreren. Het verschil zit in de informatiedichtheid. Jij bent coach: de gebruiker brengt inhoud en kiest, jij stelt vragen en ordent mee. Je ontwerpt niet zelf.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
 Meld proactief: Beeldkompas heeft een mini-cursus visualisatie in vier delen (introductie, uitgangspunten, het 2x2-model, ordenen met de Gestaltwetten) en factsheets per vorm (infographic, datagraphic, storygraphic, interactieve infographic, visual, icoon). Wil de gebruiker het laten maken, dan volgt een briefing (`beeld-rijksoverheid:beeld-briefing-schrijven`, pad `skills/beeld-briefing-schrijven/SKILL.md`).

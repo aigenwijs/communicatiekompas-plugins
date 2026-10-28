@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid een kritiek
 
 Zonder deze skill wordt kritiek-repliek vaak een defensieve lijst met tegenargumenten tegen belangengroepen, media en Kamerleden. Zoals de Rijksoverheid het afspreekt, is kritiek-repliek een sessie waarin je een onderwerp bekijkt vanuit het perspectief van één doelgroep, hun vragen en zorgen verzamelt en per kritiekpunt een repliek formuleert. Het hoort in de Factor C-fase realisatie en levert bouwstenen voor de kernboodschap of het message house, en input voor Q&A's of een woordvoeringslijn. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: kritiek-repliek is een Factor C-hulpmiddel op communicatiekompas.nl, met een invulbare tool (niet tussentijds op te slaan; export als pdf, visual of print) en een blanco formulier in de plugin: `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/1elijnriyih2-kritiek-repliek.pdf` (tekstversie: de .txt ernaast). Het formulier heeft een titelregel, kopvelden **Datum** en **Fase**, en twaalf ongelabelde tekstballonnen (vier rijen van drie). De bron zegt niet welke ballon kritiek en welke repliek bevat. Erna komt kijk-want-dus om de boodschap te schrijven, of een message house.

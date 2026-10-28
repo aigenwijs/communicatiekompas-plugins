@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het kijk-wa
 
 Zonder deze skill wordt 'kijk' vaak een los feit en 'dus' een oproep aan de burger, en komen er verzonnen regels bij zoals 'één zin per deel'. Zoals de Rijksoverheid het afspreekt, bevat een kernboodschap drie componenten: het standpunt (kijk), de onderbouwing (want) en de actie (dus). Het model hoort in de Factor C-fase realisatie en helpt een gestructureerde boodschap te schrijven die in balans is en de brug slaat tussen de beleving van de doelgroep en je eigen doelstellingen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Woordvoering, Kamerbrief of beslisnota?** Komt de uitkomst in een persreactie, woordvoeringslijn, Q&A, Kamerbrief of beslisnota terecht, dan schrijf je die tekst niet, ook geen concept. Je coacht, geeft feedback en doet hooguit een voorstel voor een zin. Zie `grondregels.md`, regel 2.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: het kijk-want-dus-model is een Factor C-hulpmiddel op communicatiekompas.nl (pagina 'Kernboodschap'). Het levert een kernachtige tekst op die collega's kunnen gebruiken in Kamerbrieven, sociale media en andere uitingen. Er is geen invulformulier (PDF) voor dit model; de bron geeft ook geen voorbeeld en geen lengte-eis. Ervoor komt kritiek-repliek (bouwstenen verzamelen), erna eventueel een message house.

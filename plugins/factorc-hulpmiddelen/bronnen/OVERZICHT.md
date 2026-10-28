@@ -183,7 +183,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` — Realisatie - toelichting
 - `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` — Teksten schrijven
 - `bronnen/communicatierijk/vakkennis/taalkompas.md` — Taalkompas | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` — Af en toe een punt zetten mag best | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-taalgebruik.md` — Tips voor inclusief taalgebruik | CommunicatieRijk
 
 ## middelenkeuze-maken
@@ -215,6 +214,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` — Realisatie - toelichting
 - `bronnen/communicatiekompas/hulpmiddelen/media-analyse-en-omgevingsonderzoek.md` — Media-analyse en omgevingsonderzoek
 - `bronnen/communicatiekompas/themas/verdiep-je-in-jouw-publiek-met-communicatieonderzoek.md` — Verdiep je in jouw publiek met communicatieonderzoek
+- `bronnen/communicatierijk/vakkennis/afspraken-campagnes.md` — De 6 belangrijkste afspraken over Rijksoverheidscampagnes | CommunicatieRijk
 
 ## factor-c-hulpmiddel-kiezen
 
@@ -224,12 +224,10 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/toelichting-realisatie.md` — Realisatie - toelichting
 - `bronnen/communicatiekompas/hulpmiddelen/evaluatie.md` — Evaluatie - toelichting
 - `bronnen/communicatiekompas/themas/factor-c-strategisch-en-gestructureerd-aan-de-slag-met-communicatie.md` — Factor C: Strategisch en gestructureerd aan de slag met communicatie
-- `bronnen/communicatierijk/vakkennis/factor-c.md` — Factor C | CommunicatieRijk
 
 ## achtergrond
 
 - `bronnen/communicatiekompas/themas/factor-c-strategisch-en-gestructureerd-aan-de-slag-met-communicatie.md` — Factor C: Strategisch en gestructureerd aan de slag met communicatie
-- `bronnen/communicatierijk/vakkennis/factor-c.md` — Factor C | CommunicatieRijk
 - `bronnen/communicatiekompas/vakmanschap/rollen-van-de-overheid.md` — Rollen van de overheid
 - `bronnen/communicatiekompas/vakmanschap/communicatie-in-beleidsfases.md` — Communicatie in beleidsfases
 

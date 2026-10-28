@@ -11,12 +11,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/dilemmalogica.md` — Dilemmalogica
 - `bronnen/communicatierijk/documenten/hulpmiddelen-dilemmalogica/hulpmiddelen-dilemmalogica.md` — Leidraad dilemmalogica (pdf) | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/hulpmiddelen-dilemmalogica/Handreiking-dilemmalogica-06102023.txt` — Handreiking+dilemmalogica+06102023.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/artikel-leg-het-probleem-op-tafel---over-dilemmalogica/artikel-leg-het-probleem-op-tafel---over-dilemmalogica.md` — Leg het probleem op tafel - artikel over dilemmalogica | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/artikel-leg-het-probleem-op-tafel---over-dilemmalogica/Dilemmalogica-voor-C-juni-2018-3.txt` — Dilemmalogica+voor+C+juni+2018+(3).pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/artikel-erken-mij---over-dilemmalogica/artikel-erken-mij---over-dilemmalogica.md` — Erken mij - artikel over dilemmalogica | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/artikel-erken-mij---over-dilemmalogica/Erken-mij-voor-C-augustus-2019.txt` — Erken+mij+voor+C+augustus+2019.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/complexiteit-spant-de-kroon---artikel-over-dilemmalogica/complexiteit-spant-de-kroon---artikel-over-dilemmalogica.md` — Complexiteit spant de kroon - artikel over omgaan met spanningen in coronatijd | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/complexiteit-spant-de-kroon---artikel-over-dilemmalogica/Complexiteit-spant-de-kroon-in-C-010620.txt` — Complexiteit-spant-de-kroon-in-C+010620.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/dilemmalogica-koepelrapportage/dilemmalogica-koepelrapportage.md` — Dilemmalogica - Koepelrapportage van 4 kwalitatieve deelonderzoeken | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/dilemmalogica-koepelrapportage/Rapport_koepel_dilemmalogica_MARE.txt` — Rapport_koepel_dilemmalogica_MARE.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/leidraad---dilemmalogica-en-de-omgevingswet/leidraad---dilemmalogica-en-de-omgevingswet.md` — Leidraad dilemmalogica en de Omgevingswet | CommunicatieRijk
@@ -24,10 +18,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/documenten/handreiking-dilemmagesprekken/handreiking-dilemmagesprekken.md` — Handreiking 'Dilemmagesprekken: als openbaarheid schuurt' | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-dilemmagesprekken/Handleiding_Dilemmagesprek_als_openbaarheid_schuurt.txt` — Handleiding_Dilemmagesprek_als_openbaarheid_schuurt.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/handreiking-dilemmagesprekken/Werkblad_Dilemmagesprek.txt` — Werkblad_Dilemmagesprek.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/casus-ervaringen-met-dilemmalogica.md` — Ervaringen met dilemmalogica | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/dilemmalogica-in-kamerbrieven.md` — Dilemmalogica in Kamerbrieven | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/dilemmalogica-in-speeches/dilemmalogica-in-speeches.md` — Dilemmalogica in speeches | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/corona-aanpak-en-dilemmalogica.md` — Corona-aanpak en dilemmalogica | CommunicatieRijk
 
 ## persvraag-beantwoorden
 
@@ -38,7 +28,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/framing.md` — Framing
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/uitgangspunten-overheidscommunicatie.md` — Uitgangspunten overheidscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/UitgangspuntenOverheidscom-8.txt` — UitgangspuntenOverheidscom+(8).pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/dialoogsessie-woordvoering.md` — Woordvoering in tijden van wantrouwen | CommunicatieRijk
 
 ## reageren-op-kritiek-en-frames
 
@@ -46,11 +35,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/kritiek-repliek.md` — Kritiek-repliek
 - `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen/take-a-break.md` — Op zoek naar de behoeften achter emoties | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/emoties-en-overheidscommunicatie.md` — Emoties en overheidscommunicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/moet-dat-nou-zo/moet-dat-nou-zo.md` — Moet dat nou zo?! Communicatie in tijden van onbehagen | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/genieten-van-weerstand/genieten-van-weerstand.md` — Genieten van weerstand | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/genieten-van-weerstand/artikel-genieten-van-weerstand.txt` — artikel-genieten-van-weerstand.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/canards-broodje-aap-verhalen-en-nepnieuws/canards-broodje-aap-verhalen-en-nepnieuws.md` — Canards, broodje aap-verhalen en nepnieuws | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/dialoogsessie-woordvoering.md` — Woordvoering in tijden van wantrouwen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen.md` — Omgaan met polarisatie en onbehagen | CommunicatieRijk
 
 ## crisiscommunicatie
 
@@ -58,11 +43,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/crisiscommunicatie.md` — Crisiscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-risico--en-crisiscommunicatie-specifieke-doelgroepen/handreiking-risico--en-crisiscommunicatie-specifieke-doelgroepen.md` — Handreiking risico- en crisiscommunicatie specifieke doelgroepen | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-risico--en-crisiscommunicatie-specifieke-doelgroepen/Handreiking-risico-en-crisiscommunicatie-specifieke-doelgroepen.txt` — Handreiking-risico-en-crisiscommunicatie-specifieke-doelgroepen.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/handreiking-communicatieaanpak-coronabestrijding/handreiking-communicatieaanpak-coronabestrijding.md` — Handreiking communicatieaanpak coronavirus | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/handreiking-communicatieaanpak-coronabestrijding/Handreiking-communicatieaanpak-coronavirus-maart-2021.txt` — Handreiking+communicatieaanpak+coronavirus+maart+2021.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/dialoogsessie-crisis-en-conflict.md` — Dialoogtafel Crisis en conflict | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/gedrag-ondersteunen-met-communicatie.md` — Gedrag ondersteunen met communicatie: lessen uit de coronapandemie | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/corona-aanpak-en-dilemmalogica.md` — Corona-aanpak en dilemmalogica | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/tien-snelle-tips-voor-gedragsverandering.md` — Tien snelle tips voor gedragsverandering | CommunicatieRijk
 
 ## persregels-checken
 
@@ -92,8 +73,6 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/documenten/uitvoeringsrichtlijn-openbare-agendas/Handleiding_Openbare_agendas_bewindslieden.txt` — Handleiding_Openbare_agenda's_bewindslieden.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/handreiking-alles-begint-bij-contact/handreiking-alles-begint-bij-contact.md` — Handreiking voor de start van nieuwe bewindspersonen: Alles begint bij contact | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/handreiking-alles-begint-bij-contact/Rijksoverheid-Alles-begint-bij-contact2.txt` — Rijksoverheid+-+Alles+begint+bij+contact2.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/dialoogsessie-woordvoering.md` — Woordvoering in tijden van wantrouwen | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/dilemmalogica-in-speeches/dilemmalogica-in-speeches.md` — Dilemmalogica in speeches | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/overheidscommunicatie/richtlijn-communicatieve-ondersteuning-bij-privekwesties.md` — Richtlijn communicatieve ondersteuning bij privékwesties bewindspersonen | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/uitgangspunten-overheidscommunicatie.md` — Uitgangspunten overheidscommunicatie | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/uitgangspunten-overheidscommunicatie/UitgangspuntenOverheidscom-8.txt` — UitgangspuntenOverheidscom+(8).pdf (tekstversie)
@@ -103,16 +82,10 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/media-analyse-en-omgevingsonderzoek.md` — Media-analyse en omgevingsonderzoek
 - `bronnen/communicatiekompas/hulpmiddelen/omgevingsscan/omgevingsscan.md` — Omgevingsscan
 - `bronnen/communicatierijk/documenten/monitor-ontwikkeling-mediagebruik-2025/monitor-ontwikkeling-mediagebruik-2025.md` — Monitor Ontwikkeling Mediagebruik 2025 | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/monitor-ontwikkeling-mediagebruik-2023/monitor-ontwikkeling-mediagebruik-2023.md` — Monitor Ontwikkeling Mediagebruik 2023 | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/monitor-ontwikkeling-mediagebruik-2023/Monitor-Ontwikkeling-Mediagebruik-Najaar-2023.txt` — Monitor+Ontwikkeling+Mediagebruik+Najaar+2023.PDF (tekstversie)
 - `bronnen/communicatierijk/actueel/bijna-iedere-nederlander-krijgt-nieuws-mee-over-de-overheid.md` — Bijna iedere Nederlander krijgt nieuws mee over de overheid | CommunicatieRijk
-- `bronnen/communicatierijk/actueel/vernieuwde-mom-biedt-beter-inzicht-in-nieuwsconsumptie-nederlanders.md` — Vernieuwde MOM biedt beter inzicht in nieuwsconsumptie Nederlanders | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/rijksoverheid-op-sociale-media-een-verkenning-van-de-impact/rijksoverheid-op-sociale-media-een-verkenning-van-de-impact.md` — Rijksoverheid op sociale media - Een verkenning van de impact | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/rijksoverheid-op-sociale-media-een-verkenning-van-de-impact/rijksoverheid-op-sociale-media-een-verkenning-van-de-impact.txt` — rijksoverheid-op-sociale-media-een-verkenning-van-de-impact.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/communicatieonderzoek/rijksoverheid-op-sociale-media.md` — Rijksoverheid op sociale media | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/monitor-beleving-publiekscommunicatie/monitor-beleving-publiekscommunicatie.md` — Monitor Beleving Publiekscommunicatie | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/monitor-beleving-publiekscommunicatie/Rapportage_monitor_publiekscommunicatie_pdf.txt` — Rapportage_monitor_publiekscommunicatie_pdf.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/factsheet-beleving-van-digitale-berichten-van-de-overheid/factsheet-beleving-van-digitale-berichten-van-de-overheid.md` — Factsheet: Digitale berichtgeving van de overheid | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt.md` — Wie bereikt de (Rijks)overheid niet? | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt/Wie-bereikt-de-overheid-niet-factsheet.txt` — Wie+bereikt+de overheid+niet+-+factsheet.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/update-literatuurstudie-mensen-de-rijksoverheid-niet-bereikt/DEFINITIEF-LOK_rapport_Wie-bereikt-de-Rijksoverheid-niet-Update.txt` — DEFINITIEF+LOK_rapport_Wie+bereikt+de+(Rijks)overheid+niet+(Update).pdf (tekstversie)
@@ -122,7 +95,5 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 
 ## achtergrond
 
-- `bronnen/communicatierijk/documenten/competentieprofiel-woordvoerder-van-de-toekomst/competentieprofiel-woordvoerder-van-de-toekomst.md` — Competentieprofiel woordvoerder van de toekomst | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/competentieprofiel-woordvoerder-van-de-toekomst/Profiel_Woordvoerder-vd-Toekomst_DEF_zonder-afloop.txt` — Profiel_Woordvoerder+vd+Toekomst_DEF_zonder+afloop.pdf (tekstversie)
-- `bronnen/communicatierijk/documenten/ik-heb-maar-een-paar-minuten-nodig/ik-heb-maar-een-paar-minuten-nodig.md` — Ik heb maar een paar minuten nodig | CommunicatieRijk
-- `bronnen/communicatierijk/documenten/ik-heb-maar-een-paar-minuten-nodig/Ik-heb-maar-een-paar-minuten-nodig.txt` — Ik-heb-maar-een-paar-minuten-nodig.pdf (tekstversie)
+- `bronnen/communicatierijk/documenten/competentiegids-voor-communicatieprofessionals-2025/competentiegids-voor-communicatieprofessionals-2025.md` — Competentiegids voor communicatieprofessionals 2025 | CommunicatieRijk
+- `bronnen/communicatierijk/documenten/competentiegids-voor-communicatieprofessionals-2025/competentiegids-voor-communicatieprofessionals-2025.txt` — competentiegids-voor-communicatieprofessionals-2025.pdf (tekstversie)

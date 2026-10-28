@@ -1,58 +1,97 @@
 ---
 name: reageren-op-kritiek-en-frames
-description: "Use when a Dutch government organisation (Rijksoverheid, ministerie, uitvoeringsorganisatie, gemeente) must react to kritiek, verwijten, beschuldigingen or a tegenframe that already exists: in media, a column or opiniestuk, a tweet of a Kamerlid, or on sociale media (X, TikTok, Facebook, Instagram); to boze reacties, a shitstorm bij webcare, een virale post of video, nepnieuws, desinformatie, broodje-aapverhalen, complottheorieën, betwiste cijfers or vermoedelijke trollen; to polarisatie, wij-zij-denken, maatschappelijk onbehagen, bewonersprotest or weerstand tegen beleid (copingstijlen: weg-, mee- of tegenbewegen); or when a woordvoerder or webcare must decide whether, where and how to react (reageren of negeren, factcheck of rectificatie, toon, kanaal) without repeating or feeding the frame. Reactive skill: for proactively announcing a besluit with nadelen use dilemmalogica-toepassen."
+description: "Use when a Dutch government organisation (Rijksoverheid, ministerie, uitvoeringsorganisatie, gemeente) must react to kritiek, verwijten, beschuldigingen or a tegenframe that already exists: in media, a column or opiniestuk, a tweet of a Kamerlid, or on sociale media (X, TikTok, Facebook, Instagram); to boze reacties, a shitstorm bij webcare, een virale post of video, nepnieuws, desinformatie, broodje-aapverhalen, complottheorieën, betwiste cijfers or vermoedelijke trollen; to polarisatie, wij-zij-denken, maatschappelijk onbehagen, bewonersprotest or weerstand tegen beleid; or when a woordvoerder or webcare must decide whether, where and how to react (reageren of negeren, factcheck of rectificatie, toon, kanaal) without repeating or feeding the frame. Coaching skill: it advises and gives feedback, it never writes the reactie, lijn or webcare-tekst itself. Reactive skill: for proactively announcing a besluit with nadelen use dilemmalogica-toepassen."
 ---
 
 # Reageren op kritiek en frames
 
-Wat het Rijk hier anders doet dan generiek reputatiemanagement: je verdedigt geen imago maar herstelt feiten en erkent de behoefte achter de emotie. Je beslist **of** je reageert met vaste criteria, je richt je op de twijfelende middengroep en niet op de aanvaller, en je formuleert in je eigen frame omdat **ontkennen erkennen is**. Weerstand is "geen muur maar een wand aan mogelijkheden" (Rijnja): de effectieve ambtenaar beweegt mee en zoekt wat wél kan.
+Wat het Rijk hier anders doet dan generiek reputatiemanagement: je verdedigt geen imago maar herstelt feiten en erkent de behoefte achter de emotie. Je richt je op de grote middengroep en niet op de aanvaller, en je formuleert in je eigen frame omdat **ontkennen erkennen is**.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). De bundel *Moet dat nou zo?!* zit niet als tekst in de plugin (zie de noot onder de leestabel).
+**Deze skill is een coach.** De gebruiker schrijft de reactie, de lijn en de webcare-tekst zelf. Jij helpt beslissen of en waar er gereageerd wordt, stelt vragen en geeft feedback op wat de gebruiker schrijft. Je mag een voorstel doen voor één zin of alinea uit diens tekst. Een volledige reactie, lijn of Q&A schrijf je nooit, ook niet als "opzet" of op direct verzoek. Zie `grondregels.md`, regel 2.
+
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Leestabel: welke bron bij welke situatie
 
 | Situatie | Lees eerst |
 |---|---|
-| Een frame, verwijt of beschuldiging weerleggen zonder het te herhalen | `bronnen/communicatiekompas/hulpmiddelen/framing.md` (vuistregels) |
-| Wel of niet reageren op nepnieuws, desinformatie, viral bericht | `bronnen/communicatierijk/actueel/canards-broodje-aap-verhalen-en-nepnieuws/canards-broodje-aap-verhalen-en-nepnieuws.md`, sectie "Wat te doen?" (lessen RIVM en Voedingscentrum) |
-| Nepnieuws of nepaccounts herkennen; omgaan met trollen | *Moet dat nou zo?!* (PDF, niet in de plugin; zie noot onder de tabel), sectie "Zo herken je nepnieuws en 'trollen'" (rond regel 2690) |
-| Boze, bange of gefrustreerde reacties: wat zit erachter | `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen/take-a-break.md` (drie lagen, drie behoeften) en `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/emoties-en-overheidscommunicatie.md` (vijf basisbehoeften) |
-| Gepolariseerd debat, wij-zij, "de overheid tegen ons" | *Moet dat nou zo?!* (PDF), sectie "Een denkkader over polarisatie" (Brandsma, rond regel 2060) en "Verbindend communiceren in zeven stappen" (rond regel 3020) |
-| Weerstand tegen een project of besluit productief maken | `bronnen/communicatierijk/documenten/genieten-van-weerstand/artikel-genieten-van-weerstand.txt` (copingstijlen Rijnja) |
-| Toon en woordkeus in een gevoelig debat | *Moet dat nou zo?!* (PDF), interview Tiemeijer "Pas op met grote woorden" (rond regel 1300) en interview Teijssen "Horen wat er gezegd wordt" (rond regel 2795) |
-| Hoe woordvoerders omgaan met laag vertrouwen en boze monitoring | `bronnen/communicatierijk/actueel/dialoogsessie-woordvoering.md` |
-| Scherpste kritiek vooraf verzamelen (optioneel; stap 7 beschrijft de methode al) | `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/kritiek-repliek.md` |
+| Een frame, verwijt of beschuldiging weerleggen zonder het te herhalen | `bronnen/communicatiekompas/hulpmiddelen/framing.md` (vuistregels, onder meer 'Ontkennen is erkennen', r40) |
+| Boze, bange of gefrustreerde reacties: wat zit erachter | `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen/take-a-break.md` (drie lagen, drie behoeften, 'take a break', winst op het proces) en `bronnen/communicatierijk/vakkennis/gedrag/gedragskennis-en-communicatie/emoties-en-overheidscommunicatie.md` (vijf basisbehoeften) |
+| Gepolariseerd debat, wij-zij, "de overheid tegen ons" | `bronnen/communicatierijk/vakkennis/trends-en-themas/omgaan-met-polarisatie-en-onbehagen.md` (korte inleiding) en de take-a-break-pagina hierboven |
+| Scherpste kritiek vooraf verzamelen | `bronnen/communicatiekompas/hulpmiddelen/kritiek-repliek/kritiek-repliek.md` |
 
-**Moet dat nou zo?! niet als tekst in de plugin.** Het colofon van deze bundel staat overname alleen toe voor niet-commerciële doeleinden met bronvermelding; daarom bevat de plugin alleen de publicatiepagina `bronnen/communicatierijk/documenten/moet-dat-nou-zo/moet-dat-nou-zo.md` (downloadlink r12, 50 pagina's, met inhoudsopgave). Haal de PDF op en zet hem om met `pdftotext` zonder `-layout` (meerkoloms opmaak, leesvolgorde per kolom). De regelnummers hierboven tellen twee kopregels mee die in die uitvoer ontbreken: trek er 2 van af. Kun je de PDF niet ophalen, dan staat de kern al in het recept hieronder (Brandsma: richt je op het midden en doe geen uitspraak over wie de ander is; Tiemeijer: geen grote woorden; Teijssen: responsief, niet "ik voel uw pijn"); wat je niet kunt nalezen markeer je als `[te verifiëren]`.
+Niet in deze map:
 
-## Recept: zo kom je tot je reactie
+- de webcare-afspraken, de woordvoeringsafspraken en de afstemroute van de eigen organisatie (wie beslist of er gereageerd wordt, wie keurt goed);
+- eerdere reacties en feitenpagina's van de organisatie over hetzelfde onderwerp;
+- een actuele bron over wel of niet reageren op nepnieuws en desinformatie (criteria, lessen van uitvoeringsorganisaties), over het herkennen van trollen, over verbindend communiceren bij polarisatie, over copingstijlen bij weerstand en over het kanaal van een correctie op sociale media. Vul daar zelf geen criteria of vuistregels in.
 
-1. **Take a break: oordeel en reactie even uitstellen.** Stel eerst vast wat feitelijk klopt, wat aantoonbaar fout is en wat je niet weet. Wat je niet weet markeer je als `[te verifiëren]`; je verzint geen cijfers en je zegt niet "dat klopt niet" over iets dat je niet kunt aantonen.
-2. **Beslis of je reageert, met de vier criteria van het Voedingscentrum:** is de inhoud schadelijk (veiligheid, gezondheid, rechten van mensen), wordt de organisatie in diskrediet gebracht, is het bereik groot, en ligt het onderwerp maatschappelijk gevoelig? Je weegt ze; ze hoeven niet alle vier te gelden, één zwaarwegend criterium (schade, of groot bereik onder twijfelaars) is genoeg. Check bereik én plek (RIVM): bereikt het de twijfelaars die zich hier oriënteren, of blijft het in kringen die je toch niet overtuigt? In dat laatste geval doe je niets. Reageren is in het algemeen beter dan negeren (SWOCC), maar nooit door inhoudelijk in discussie te gaan onder de post van een vermoedelijke trol.
-3. **Kies je doelgroep: het midden, niet de polen.** Je schrijft voor de twijfelaars en de kritische middengroep, niet voor de pusher die de post plaatste. Je doet geen enkele uitspraak over wie de aanvaller is of wat voor mensen dat zijn: elke uitspraak over de identiteit van de ander is brandstof voor polarisatie (Brandsma). Benoem waar het midden mee zit (lokale, praktische kwesties), niet het landelijke debat.
-4. **Benoem de behoefte achter de emotie.** Kies de dominante behoefte: erkenning (gehoord worden), regie (zelf kunnen kiezen, weten wat je kunt doen), veiligheid en zekerheid (kun ik hierop vertrouwen), rechtvaardigheid, verbondenheid. Je reactie bedient die behoefte: bij regie geef je handelingsperspectief, bij zekerheid ben je betrouwbaar en concreet over wat er gebeurt, bij erkenning laat je zien dat je het gehoord hebt en noem je je eigen dilemma. Niet "ik voel uw pijn" (Teijssen), wel responsief: horen wat er gezegd wordt en daarop reageren.
-5. **Formuleer in je eigen frame.** Schrijf eerst op welke woorden van het tegenframe je niet overneemt (ook niet met "niet" ervoor). Zeg dan positief wat er wél is, wat je wél doet en wat wél kan, in de taal van de doelgroep, zonder grote woorden, zonder belerend "moeten". Als er een kern van waarheid in de kritiek zit, zeg je dat zelf, als eerste, voordat de ander het doet. Zit je fout, geef het toe. De citeerbare persreactie bouw je als kijk, want (met beleidsfase) en dus: **REQUIRED SUB-SKILL:** woordvoering:persvraag-beantwoorden voor die drie zinnen; die skill verwijst niet terug naar hier.
-6. **Kies kanaal en vorm.** Aantoonbaar fout nieuws corrigeer je via een eigen nieuwsbericht of feitenpagina en een verwijzing daarnaar; webcare verwijst, discussieert niet. Op sociale media reageer je als eigen bericht met die verwijzing, niet als reply of quote op de virale post: dat vergroot het bereik van de post en maakt er een duel met de afzender van. Een echte foto of video in een verkeerde context corrigeer je op dezelfde manier: toon eigen, geverifieerd beeld op je eigen pagina, leg de herkomst van het valse beeld intern vast en herhaal dat beeld niet. Reageer snel, want afstemmen kost in een ambtelijke organisatie de meeste tijd. Vraag je af wie geloofwaardiger is dan jij (deskundige, intermediair, regio) en of er een andere contactweg is voor de groep die het aangaat, bijvoorbeeld rechtstreeks met een actiegroep of belangenclub.
-7. **Kritiek-repliek.** Verzamel vanuit de doelgroep de drie tot vijf scherpste vervolgvragen en schrijf per vraag een repliek in dezelfde lijn.
+Noem ze als actiepunt.
+
+## Stap 1: kort advies
+
+Lees de kritiek of het frame en geef kort advies. Houd het echt kort: drie tot vijf zinnen in lopende tekst, geen lange lijst en geen extra kopjes. De rest komt pas in stap 3. Kies uit:
+
+- wat er feitelijk beweerd wordt, en welk frame erin zit (dat frame herhaal je niet, ook niet om het te ontkennen);
+- wat de gebruiker nodig heeft om te beslissen of er gereageerd wordt, en wie dat volgens de eigen afspraken beslist;
+- welke behoefte achter de emotie lijkt te zitten (erkenning, regie, veiligheid en zekerheid);
+- de grootste valkuil, bijvoorbeeld het frame herhalen om het te ontkennen, of feiten noemen die nog niet vaststaan.
+
+Noem de bron. Weet je niet wat feitelijk klopt, zeg dat en vul het niet in: zie `grondregels.md`, regel 4. Heeft de kritiek een politieke lading (een Kamerlid, een partij, verkiezingstijd), blijf dan feitelijk en neutraal: regel 7. Gaat het om een crisis of acuut incident: regel 6.
+
+## Stap 2: hulp aanbieden
+
+Bied daarna in één of twee zinnen aan om verder te helpen, bijvoorbeeld:
+
+> Wil je dat we samen beslissen of en waar je reageert? Ik stel steeds één vraag. Jij schrijft de reactie, ik geef feedback en let erop dat het frame er niet in terugkomt.
+
+Vraagt de gebruiker direct "schrijf een reactie" of "maak een lijn voor webcare": leg in één zin uit dat je een reactie op kritiek of een frame niet schrijft, omdat het politiek te gevoelig is en de verantwoordelijkheid bij de gebruiker en de lijn hoort. Bied daarna dezelfde hulp aan. Niet belerend: één zin, dan door.
+
+## Stap 3: samen doorlopen (op verzoek)
+
+Stel één vraag per beurt en wacht op het antwoord. Geef na elk antwoord kort feedback: wat sterk is, wat ontbreekt, welke bron het zegt. Feiten die je niet kunt controleren, worden `[te verifiëren]`.
+
+1. **Take a break: oordeel en reactie even uitstellen.** Laat de gebruiker vaststellen wat feitelijk klopt, wat aantoonbaar fout is en wat die niet weet. Wat niet bekend is, wordt `[te verifiëren]`. Niemand verzint cijfers, en "dat klopt niet" zeg je alleen over iets dat je kunt aantonen.
+2. **Beslis of je reageert.** Er staan in deze map geen actuele criteria voor wel of niet reageren. Vraag naar de webcare- en woordvoeringsafspraken van de eigen organisatie en wie beslist. Ontbreken die, dan is dat een actiepunt. Vraag de gebruiker welke overwegingen die zelf ziet en help die te ordenen; vul zelf geen criteria in. De gebruiker en de organisatie beslissen.
+3. **Kies de doelgroep: de grote middengroep.** Richt de reactie op de grote middengroep, niet op wie de post plaatste. Voorkom stigmatisering en onnodige tegenstellingen: geen uitspraak over wie de aanvaller is of wat voor mensen dat zijn (`emoties-en-overheidscommunicatie.md`). Laat de gebruiker benoemen waar het midden mee zit (lokale, praktische kwesties), niet het landelijke debat.
+4. **Benoem de behoefte achter de emotie.** Laat de gebruiker de dominante behoefte kiezen: erkenning (gehoord worden), regie (zelf kunnen kiezen, weten wat je kunt doen), veiligheid en zekerheid (kun ik hierop vertrouwen), rechtvaardigheid, verbondenheid. De reactie bedient die behoefte: bij regie handelingsperspectief, bij zekerheid betrouwbaar en concreet over wat er gebeurt, bij erkenning laten zien dat het gehoord is en het eigen dilemma noemen (take-a-break-pagina). Niet "ik voel uw pijn", wel responsief: horen wat er gezegd wordt en daarop reageren. Tegemoetkomen aan een behoefte betekent niet dat een besluit wordt teruggedraaid; op het proces is veel te winnen.
+5. **Formuleer in het eigen frame.** Vraag de gebruiker eerst op te schrijven welke woorden van het tegenframe die niet overneemt (ook niet met "niet" ervoor). Laat die dan positief zeggen wat er wél is, wat de organisatie wél doet en wat wél kan, in de taal van de doelgroep, zonder grote woorden, zonder belerend "moeten". Zit er een kern van waarheid in de kritiek, dan zegt de organisatie dat zelf, als eerste. Zit de organisatie fout, dan geeft die dat toe. Voor de opbouw van een citeerbare persreactie (kijk, want met beleidsfase, dus): **REQUIRED SUB-SKILL:** woordvoering:persvraag-beantwoorden; die skill verwijst niet terug naar hier. Ook daar schrijft de gebruiker en geef jij feedback.
+6. **Kies kanaal en vorm.** Aantoonbaar fout nieuws corrigeer je via een eigen nieuwsbericht of feitenpagina en een verwijzing daarnaar; webcare verwijst, discussieert niet. Een echte foto of video in een verkeerde context corrigeer je op dezelfde manier: toon eigen, geverifieerd beeld op de eigen pagina, leg de herkomst van het valse beeld intern vast en herhaal dat beeld niet. Vraag de gebruiker wie geloofwaardiger is dan de organisatie zelf (deskundige, intermediair, regio) en of er een andere contactweg is voor de groep die het aangaat, bijvoorbeeld rechtstreeks met een actiegroep of belangenclub.
+7. **Kritiek-repliek.** Vraag de gebruiker de drie tot vijf scherpste vervolgvragen vanuit de doelgroep te verzamelen en per vraag een repliek in dezelfde lijn te schrijven. Mist er een voor de hand liggende vraag, noem dan het thema, maar formuleer de repliek niet.
+
+Wil de gebruiker weten wat een criticus eerder publiek zei, dan mag je openbare uitspraken opzoeken. Maak geen profiel van een privépersoon en verzamel geen gegevens over iemand uit verschillende bronnen: zie `grondregels.md`, regel 8.
+
+## Wat je wel en niet doet met de tekst van de gebruiker
+
+| Wel | Niet |
+|---|---|
+| Feedback per zin: waar het frame terugkomt, wat schuurt, welke behoefte onbediend blijft | Een eigen reactie of webcare-tekst ernaast zetten |
+| Een voorstel voor één zin of alinea, als voorstel benoemd, met de reden | De hele reactie herschrijven of "verbeteren" |
+| Woorden van het tegenframe in de tekst aanwijzen | De positieve formulering zelf invullen voor de hele tekst |
+| Een ontbrekende vervolgvraag of kanaal benoemen | De lijn, Q&A of webcare-regels voor collega's opstellen |
+| `[te verifiëren]` zetten bij feiten die je niet kunt controleren | Feiten, cijfers of eerdere uitspraken aanvullen |
 
 ## Output: dit lever je op
 
-- **Reageerbesluit**: de vier criteria beantwoord, bereik en plek, wel of niet reageren en waar.
-- **Doelgroep en dominante behoefte**: voor wie je schrijft en welke behoefte je bedient.
-- **Woorden die je niet overneemt** en de positieve formulering ervoor in de plaats.
-- **Reactie(s)** per kanaal, in eigen frame, met `[te verifiëren]` waar nodig.
-- **Woordvoeringslijn** (5 tot 8 regels) inclusief webcare-regels: verwijzen naar de eigen bron, niet in discussie onder de post, verdachte accounts noteren of melden.
-- **Kritiek-repliek** met de scherpste vervolgvragen.
+- Na stap 1: het korte advies met bron, en het aanbod.
+- Tijdens stap 3: per beurt één vraag en feedback op het antwoord, hooguit een voorstel voor één zin of alinea.
+- Aan het eind een **toetsregel** over het werk van de gebruiker:
+  - **reageerbesluit**: de overwegingen van de gebruiker, wie beslist, wel of niet reageren en waar;
+  - **doelgroep en dominante behoefte**: voor wie de reactie is en welke behoefte die bedient;
+  - **woorden die niet terugkomen**, en of de tekst van de gebruiker ze vermijdt;
+  - welke feiten nog `[te verifiëren]` zijn, en welke vervolgvragen nog een repliek missen.
+- Een herinnering in één zin: laat de reactie langs de afstemroute van de eigen organisatie gaan voordat die naar buiten gaat.
 
 ## Veelgemaakte fouten
 
 | Fout | Herstel |
 |---|---|
-| Het frame ontkennen ("het budget is niet gehalveerd") | Zeg wat het wél is ("het budget is de afgelopen jaren gestegen"). |
-| Reageren op de post en de poster | Reageer op de claim, voor het midden; geen woord over wie de aanvaller is. |
-| De dialoog of discussie aangaan met de polen | Dialoog werkt alleen met het midden; een podium voor pushers houdt het conflict in stand. |
-| Alleen gedrag en emotie beantwoorden | Benoem de behoefte eronder en bedien die (regie, zekerheid, erkenning). |
-| Nog een keer uitleggen en overtuigen (tegenbewegen) | Erken dat het moeilijk is en zoek wat wél kan (meebewegen). |
-| Van de kook raken van boze monitoring | De boze flank is zichtbaar maar klein; de middengroep is kritisch, niet wantrouwend. Blijf stoïcijns. |
-| Quoten of replyen op de virale post | Eigen bericht met verwijzing naar je feitenpagina; de post zelf laat je met rust. |
-| Grote woorden, stereotypen, "wakker worden"-toon terug | Gewone woorden, concrete feiten, de taal van de doelgroep. |
+| Het frame ontkennen ("het budget is niet gehalveerd") | Vraag de gebruiker te zeggen wat het wél is ("het budget is de afgelopen jaren gestegen") |
+| Reageren op de post en de poster | Reageer op de claim, voor de middengroep; geen woord over wie de aanvaller is |
+| Zelf criteria verzinnen voor wel of niet reageren | Vraag naar de eigen afspraken; de gebruiker weegt |
+| Alleen gedrag en emotie beantwoorden | Benoem de behoefte eronder en bedien die (regie, zekerheid, erkenning) |
+| Grote woorden, stereotypen, "wakker worden"-toon terug | Gewone woorden, concrete feiten, de taal van de doelgroep |
+| Meteen het recept doorlopen zonder eerst advies | Eerst drie tot vijf zinnen advies, dan het aanbod |
+| Op "schrijf een reactie" toch een reactie leveren, ook "als opzet" | In één zin uitleggen waarom niet, dan samen doorlopen |
+| Een herschreven versie van de hele tekst als "feedback" | Feedback per zin; hooguit een voorstel voor één zin of alinea |
+| Een profiel maken van de criticus | Alleen openbare uitspraken opzoeken; geen gegevens van privépersonen bundelen |

@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de Beweegre
 
 Zonder begeleiding wordt dit een tabel met zelfbedachte kolommen als belang, motief, houding en kennis, voor alle partijen tegelijk. Zoals de Rijksoverheid het afspreekt, kijk je per sleutelactor (maximaal 4 per keer) naar vier vaste vakken: Ervaren probleem, Oplossing of opties, Standpunten, Belangen en drijfveren. Het hulpmiddel hoort in de Factor C-fase onderzoek en analyse en levert bouwstenen voor een kernboodschap die raakt. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: de Beweegredenen-matrix is een Factor C-hulpmiddel dat laat zien wat voor partijen belangrijk is en welke houding je kunt verwachten. Er is een blanco invulformulier: `bronnen/communicatiekompas/hulpmiddelen/beweegredenen-matrix/2dk7k98wpgmf-beweegredenen-matrix.pdf` (tekstversie ernaast als .txt), en een invulbare tool op communicatiekompas.nl (externe site, niet in deze map). Ervoor komt de actoren-inventarisatie (`factorc-hulpmiddelen:actoren-inventariseren`, pad `skills/actoren-inventariseren/SKILL.md`); erna de kernboodschap.

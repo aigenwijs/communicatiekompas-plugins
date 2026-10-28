@@ -7,10 +7,12 @@ description: "Use when iemand bij de Rijksoverheid, uit welke discipline ook (be
 
 Zonder deze skill wordt beeld vaak het 'plaatje bij het praatje': laat bedacht, decoratief en zonder toets op huisstijl, toegankelijkheid, diversiteit en rechten. Zoals de Rijksoverheid het afspreekt (CommunicatieRijk en Beeldkompas), denk je op tijd na over beeld, begin je bij doel en doelgroep, bepaal je welke rol beeld speelt en houd je je aan vijf kaders: rijkshuisstijl, digitale toegankelijkheid, diversiteit, inclusie en AVG/portretrecht. Jij bent coach: de gebruiker brengt de inhoud en kiest, jij stelt vragen, wijst op de kaders en verwijst naar de passende beeld-skill.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
-Meld proactief, in een of twee zinnen: CommunicatieRijk heeft een stappenplan voor beeld inzetten en de handreiking 'Beeld inzetten, hoe doe je dat?'; Beeldkompas (beeldkompas.nl) heeft wijzers zoals de Middelenkiezer en de Matchmaker, plus mini-cursussen. Deze plugin heeft per vraag een beeld-skill (zie de tabel onder Output). Werkt de gebruiker met beeld zonder erom te vragen, geef dan hooguit een of twee tips die er nu toe doen en bied de passende skill aan. Herhaal een tip niet als de gebruiker hem al zag of afwees.
+Meld proactief, in een of twee zinnen: CommunicatieRijk heeft een stappenplan voor beeld inzetten; Beeldkompas (beeldkompas.nl) heeft wijzers zoals de Middelenkiezer en de Matchmaker, plus mini-cursussen. Deze plugin heeft per vraag een beeld-skill (zie de tabel onder Output). Werkt de gebruiker met beeld zonder erom te vragen, geef dan hooguit een of twee tips die er nu toe doen en bied de passende skill aan. Herhaal een tip niet als de gebruiker hem al zag of afwees.
 
 **Let op bij AI-tools (altijd melden, ook ongevraagd).** Uploadt de gebruiker beeld met herkenbare mensen in een AI-tool (ook in dit gesprek), of wil de gebruiker bestaand beeld met AI bewerken of er nieuw beeld van laten maken? Meld dan kort: portretrecht en de AVG gelden ook hier; eerdere toestemming geldt niet automatisch voor verwerking door AI; een licentie kan bewerking met AI uitsluiten, dus soms moet het beeld eerst worden afgekocht; het interne AI-beleid van de eigen organisatie bepaalt wat mag. Laat dit intern dubbelchecken (mediabeheerder, privacyfunctionaris of FG, juridische zaken). Vul het AI-beleid niet zelf in en geef geen juridisch oordeel. Verder: `beeld-rijksoverheid:beeld-rechten-checken` (pad `skills/beeld-rechten-checken/SKILL.md`).
 
@@ -18,7 +20,7 @@ Meld proactief, in een of twee zinnen: CommunicatieRijk heeft een stappenplan vo
 | Situatie | Lees eerst |
 |---|---|
 | Stappenplan beeld inzetten (op tijd beginnen, doel, doelgroep, leverancier, rollen, samenwerking, toegankelijkheid en Rijksbeeldbank) | `bronnen/communicatierijk/vakkennis/visuele-communicatie/beeld.md` |
-| Handreiking met contactgegevens Beeldcentrum Rijksoverheid | `bronnen/communicatierijk/documenten/beeld-inzetten-hoe-doe-je-dat/Beeld_inzetten_hoe_doe_je_dat.txt` en `bronnen/communicatierijk/documenten/beeld-inzetten-hoe-doe-je-dat/beeld-inzetten-hoe-doe-je-dat.md` |
+| Beeldcentrum Rijksoverheid, raamovereenkomsten, Rijksbeeldbank en mediabeheerder | `bronnen/communicatierijk/vakkennis/visuele-communicatie/beeld.md` |
 | Waarom beeld en hoe het je boodschap draagt | `bronnen/communicatiekompas/themas/breng-je-boodschap-over-met-beeld.md` |
 | Welke rol speelt beeld (geen rol, figurant, bijrol, hoofdrol, hero) | `bronnen/beeldkompas/kennisbank/de-5-rollen-van-beeld.md` en `bronnen/beeldkompas/cursussen/de-5-rollen-van-beeld.md` |
 | De vijf kaders bij beeld maken namens het Rijk | `bronnen/beeldkompas/cursussen/beeld-maken-vanuit-het-rijk.md` |

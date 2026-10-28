@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid alle actore
 
 Zonder deze skill springt een adviseur meteen naar een macht-belangmatrix met eigen kwadranten en scoort hij standpunten, terwijl de inventarisatie zelf nog onvolledig is. Zoals de Rijksoverheid het afspreekt, is de actoren-inventarisatie het startpunt van alle omgevings- en krachtenveldanalyses in de Factor C-fase onderzoek en analyse: in 4 stappen breng je personen, partijen en organisaties in beeld, inclusief blinde vlekken, en toets je de lijst aan 6 groepen. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft hiervoor de actoren-inventarisatie (communicatiekompas.nl/hulpmiddelen/actoren-inventarisatie). Die levert een overzicht van partijen die het proces kunnen beïnvloeden, een rol spelen bij de uitvoering of impact van de uitkomst merken. Er is geen invulformulier (PDF) voor. Daarna volgt meestal de omgevingsscan, de belangen- en vertrouwenmatrix, de macht- en invloedanalyse of de ringen van invloed.

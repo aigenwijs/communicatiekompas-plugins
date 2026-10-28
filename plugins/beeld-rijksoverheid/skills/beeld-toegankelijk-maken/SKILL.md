@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid beeld toegankelijk wil maken 
 
 Zonder deze skill krijgt beeld een alt-tekst als 'afbeelding' of 'foto van vergadering', ontbreekt ondertiteling en staat belangrijke informatie alleen in kleur of in het plaatje. Zoals de Rijksoverheid het afspreekt, gelden voor websites, apps, intranetten, extranetten en cloudapplicaties van de overheid de eisen van digitale toegankelijkheid: WCAG 2.1 niveau A en AA, vastgelegd in het Besluit digitale toegankelijkheid overheid (Bdto) met de Wet digitale overheid (Wdo) als wettelijke basis. Er wordt gewerkt aan de invoering van WCAG 2.2; tot die is ingevoerd, geldt WCAG 2.1. Foto's en infographics krijgen een tekstalternatief met alle essentiële informatie; video krijgt ondertiteling van alle essentiële stemmen en geluiden, waar nodig audiobeschrijving, en een tekstalternatief. Jij bent coach: je vraagt naar functie en context, maakt op basis daarvan een concept en de gebruiker controleert en kiest.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
 Meld proactief: CommunicatieRijk heeft een pagina over toegankelijkheid van beeld en de verplichte richtlijn digitale toegankelijkheid; de mini-cursus 'Beeld maken vanuit het Rijk' op Beeldkompas zet de eisen voor foto, infographic en video op een rij. De actuele eisen en de stand van de invoering van WCAG 2.2 staan op digitoegankelijk.nl; het kabinetsbeleid staat op digitaleoverheid.nl onder Digitale inclusie, Digitaal toegankelijk, Beleid (externe sites, niet in deze map).
@@ -22,7 +24,6 @@ Let op: de bronnen in deze map noemen nog de oude naam 'Tijdelijk besluit digita
 | Verplichte richtlijn digitale toegankelijkheid | `bronnen/communicatierijk/vakkennis/rijkswebsites/verplichte-richtlijnen/digitale-toegankelijkheid.md` en `bronnen/communicatiekompas/themas/digitale-toegankelijkheid.md` |
 | Toegankelijke communicatie in het algemeen | `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/toegankelijke-communicatie.md` |
 | Afbeeldingen bij tekst (Taalkompas: onderschrift, witruimte, eenvoudige grafieken) | `bronnen/communicatierijk/vakkennis/taalkompas/structuur/afbeeldingen.md` |
-| Videotraining toegankelijk beeld | `bronnen/communicatierijk/documenten/video-training-redactie-pro-over-toegankelijk-beeld/video-training-redactie-pro-over-toegankelijk-beeld.md` |
 | Kleur en contrast | `bronnen/beeldkompas/kennisbank/kleurgebruik.md` |
 | Hoeveel tekst in beeld | `bronnen/beeldkompas/kennisbank/tekst-in-visuals-wat-is-de-juiste-verhouding-tussen-beeld-en-tekst.md` |
 

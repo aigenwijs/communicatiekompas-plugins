@@ -7,7 +7,9 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid de onderlin
 
 Zonder deze skill zet een adviseur het eigen ministerie in het midden en tekent hij bollen naar invloed, pijlen en centraliteitsmaten met software. Zoals de Rijksoverheid het afspreekt, is de netwerkanalyse juist nuttig als je jezelf niet in het midden wilt plaatsen en wilt dat partijen met elkaar communiceren. Het hulpmiddel hoort in de Factor C-fase onderzoek en analyse (omgevingsanalyse) en laat in 4 stappen zien wie met elkaar in gesprek zou moeten gaan. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Mensen in kaart brengen.** Openbare informatie over organisaties, functionarissen en journalisten opzoeken mag. Maak geen profiel van een privépersoon en verzamel geen informatie over privépersonen uit verschillende bronnen. Zie `grondregels.md`, regel 8.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft de netwerkanalyse of het sociogram (communicatiekompas.nl, pagina 'Netwerkanalyse of sociogram'). Die brengt onderlinge verbanden in kaart en levert op met wie je het gesprek aangaat, welke partijen je aan elkaar koppelt en wie als intermediair kan dienen. Er is geen invulformulier (PDF); je werkt met geeltjes op een groot veld. Ervoor komt de actoren-inventarisatie; daarna vaak de omgevingsscan of de belangen- en vertrouwenmatrix.

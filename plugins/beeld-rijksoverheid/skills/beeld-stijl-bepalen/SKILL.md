@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid de beeldstijl, toon of uitstr
 
 Zonder deze skill blijft de gewenste stijl hangen in 'iets moois', 'niet te saai' of 'zoals de vorige keer', en weet niemand waar in de beeldbank te zoeken of wat in de briefing te zetten. Zoals Beeldkompas het aanpakt, helpt de Matchmaker: vijftien keuzes tussen twee kenmerken (zakelijk of maatschappelijk, geposeerd of spontaan, en zo verder) leveren de beeldstijlen op die passen bij het vraagstuk. Die termen gebruik je in een gesprek met een beeldmaker, in een briefing of bij het zoeken in een beeldbank. Altijd binnen de rijkshuisstijl: geloofwaardig en realistisch, helder, krachtig en Nederlands. Jij bent coach: je legt de keuzes één voor één voor, de gebruiker kiest, jij vat samen.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Beeldkompas heeft de Matchmaker (onder Wijzers op beeldkompas.nl; vijftien keuzes, ongeveer twee minuten). Online kies je tussen twee voorbeeldbeelden en zie je voorbeeldbeeld per stijl; hier doe je dezelfde keuzes in woorden. Ken je doel en doelgroep nog niet, dan eerst `beeld-rijksoverheid:beeld-advies` (pad `skills/beeld-advies/SKILL.md`).

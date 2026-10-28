@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid wil kiezen welk beeldmiddel p
 
 Zonder deze skill begint de keuze bij het middel ('doe maar een filmpje') of bij wat de laatste keer werd gemaakt. Zoals Beeldkompas het aanpakt, kies je het beeldmiddel met de Middelenkiezer: tien vragen over planning, budget, maakroute, informatiesoort, kanaal, rol van beeld, interesse van de doelgroep, doelstelling, complexiteit en toon. De uitkomst is een rangorde van beeldmiddelen. Jij bent coach: de gebruiker beantwoordt de vragen en kiest, jij stelt ze één voor één, bewaakt de vorm en legt de factsheets ernaast.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Beeldkompas heeft de Middelenkiezer (onder Wijzers op beeldkompas.nl; de interactieve versie staat online, de vragen en antwoordopties staan in deze map). Ervoor: doel en doelgroep, zie `beeld-rijksoverheid:beeld-advies` (pad `skills/beeld-advies/SKILL.md`). Weet de gebruiker de toon nog niet, dan eerst of tussendoor de Matchmaker: `beeld-rijksoverheid:beeld-stijl-bepalen`. Erna: de briefing, `beeld-rijksoverheid:beeld-briefing-schrijven`.

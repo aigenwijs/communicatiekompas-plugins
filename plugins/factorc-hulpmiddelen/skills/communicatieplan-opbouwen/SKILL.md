@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel. Zonder deze skill komt er een eigen planindeling uit (aanleiding, SMART-doelen, KPI's, een maximale paginalengte) waarin planning en organisatie uit elkaar vallen en de toetsvragen van de bron ontbreken ('Is het écht een probleem?', communicatie- of organisatievraagstuk?). Zoals de Rijksoverheid het afspreekt, werk je in de Factor C-fase strategieontwikkeling de strategie uit in een praktisch communicatieplan: een overzichtelijk document met de belangrijkste kaders en uitgangspunten, opgebouwd uit tien bouwstenen.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief dat Communicatiekompas.nl het hulpmiddel Bouwstenen van een communicatieplan heeft (fase strategieontwikkeling, 'Kennis & tips'). Het is een checklist van tien bouwstenen, zodat je 'vanuit gewoonte' niets over het hoofd ziet. Er is geen invulformulier (PDF) en geen sjabloon. Ervoor komt `factorc-hulpmiddelen:communicatiestrategie-uitwerken` (pad `skills/communicatiestrategie-uitwerken/SKILL.md`); erna `factorc-hulpmiddelen:middelenkeuze-maken` (pad `skills/middelenkeuze-maken/SKILL.md`) en `factorc-hulpmiddelen:communicatiekalender-maken` (pad `skills/communicatiekalender-maken/SKILL.md`).

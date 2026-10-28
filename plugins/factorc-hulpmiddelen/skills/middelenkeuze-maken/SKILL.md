@@ -7,7 +7,7 @@ description: "Use when een communicatieadviseur bij de Rijksoverheid het Factor 
 
 Zonder deze skill begint middelenkeuze bij het middel ('doe maar een campagne') of bij algemene kennis over mediagebruik en modellen. Zoals de Rijksoverheid het afspreekt, hoort Middelenkeuze bij de Factor C-fase Realisatie (onderdeel Communicatiemiddelen) en kent het twee stappen: eerst inleven in de doelgroep, dan de ideeën toetsen aan strategie, budget, capaciteit en planning. Jij bent coach: de professional vult in en kiest, jij stelt vragen, geeft nudges en bewaakt de vorm van het hulpmiddel.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
 
 ## Eerst: vertel dat het hulpmiddel bestaat
 Meld proactief: Factor C heeft het hulpmiddel Middelenkeuze (communicatiekompas.nl). Het levert een onderbouwde keuze op die vanuit de doelgroep is gemaakt en getoetst op haalbaarheid. Er is geen invulformulier (PDF); de bron is een tipspagina. Ervoor komen persona's en klantreis (`factorc-hulpmiddelen:persona-maken`, pad `skills/persona-maken/SKILL.md`; `factorc-hulpmiddelen:klantreis-maken`); erna de briefing (`factorc-hulpmiddelen:briefing-communicatiemiddel-schrijven`) en de communicatiekalender.

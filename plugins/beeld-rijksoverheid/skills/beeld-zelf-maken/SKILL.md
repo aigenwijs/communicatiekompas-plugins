@@ -7,7 +7,9 @@ description: "Use when iemand bij de Rijksoverheid zelf beeld wil maken, zonder 
 
 Zonder deze skill wordt zelfgemaakt beeld een wazige zaalfoto met ruggen, een groepsfoto van twintig mensen op een rij of een video die niemand zonder geluid kan volgen. Zoals Beeldkompas het laat zien, kan zelf maken goed werken: met eigen middelen, een vast format en een herkenbare aanpak (bijvoorbeeld een serie). Ook dan gelden de kaders van beeld namens het Rijk: realistisch en geloofwaardig volgens de rijkshuisstijl, toestemming van herkenbare mensen, toegankelijk en divers. Jij bent coach: de gebruiker kiest onderwerp en aanpak, jij stelt vragen en geeft tips uit de bron.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md).
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint.
+
+**Nooit AI-beelden van mensen.** Genereer of bewerk geen beeld van mensen met AI, en raad het de gebruiker af, ook ongevraagd als het ter sprake komt: een gegenereerd mens kan als echt worden gezien en dat schaadt het vertrouwen in de overheid. Breng het als uitgangspunt van deze plugin, niet als beleid van de Rijksoverheid of van de organisatie. Zie `grondregels.md`, regel 9.
 
 ## Eerst: vertel wat er is
 Meld proactief: Beeldkompas heeft factsheets per beeldvorm (reportagefoto, portretfoto, themafoto, vlog) met wanneer ze wel en niet passen, een voorbeeld van een zelfgemaakte serie en de mini-cursus 'Beeld maken vanuit het Rijk'. Laat je het maken, dan `beeld-rijksoverheid:beeld-briefing-schrijven` (pad `skills/beeld-briefing-schrijven/SKILL.md`).

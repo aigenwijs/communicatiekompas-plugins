@@ -1,13 +1,15 @@
 ---
 name: persregels-checken
-description: "Use when someone at the Rijksoverheid (ministerie, uitvoeringsorganisatie, directie Communicatie) asks whether a media- or persactiviteit is toegestaan under the rijksbrede afspraken, or which regel applies: autorisatie or inzage of an interview, citaatcheck, inhuur of a journalist as dagvoorzitter, mediatrainer or tekstschrijver, Wikipedia-aanpassingen by ambtenaren or the ministerie, contentsamenwerking with podcasts, influencers, branded content or sponsoring, bijdragen aan tv- of radioprogramma's, social-mediagedrag of ambtenaren, the regel on ondersteuning bij privekwesties (the casus: bewindspersoon-in-de-media), opiniestuk or gastcolumn of a bewindspersoon over niet-aanvaard beleid, persuitingen over nog niet door de Kamer aanvaard beleid (strategisch of en hoe: communicatieadvies:communicatieadvies-geven), embargo, off the record, wederhoor, rectificatie. Compliance skill: mag-dit-wel-of-niet, regel with bron, escalatieroute; the persreactie itself: persvraag-beantwoorden."
+description: "Use when someone at the Rijksoverheid asks whether a media- or persactiviteit is toegestaan under the rijksbrede afspraken, or which regel applies: autorisatie or inzage of an interview, citaatcheck, inhuur of a journalist as dagvoorzitter, mediatrainer or tekstschrijver, Wikipedia-aanpassingen by ambtenaren or the ministerie, contentsamenwerking with podcasts, influencers, branded content or sponsoring, bijdragen aan tv- of radioprogramma's, social-mediagedrag of ambtenaren, the regel on ondersteuning bij privekwesties (the casus: bewindspersoon-in-de-media), opiniestuk or gastcolumn of a bewindspersoon over niet-aanvaard beleid, persuitingen over nog niet door de Kamer aanvaard beleid (strategisch of en hoe: communicatieadvies:communicatieadvies-geven), embargo, off the record, wederhoor, rectificatie. Compliance skill (regel with bron, escalatieroute); the persreactie itself is persvraag-beantwoorden. Coachende skill: eerst advies, dan hulp aanbieden, pas op verzoek een uitgewerkte check."
 ---
 
 # Persregels checken
 
 Bij het Rijk zijn de persregels geen huisregels van één afdeling maar **rijksbrede afspraken van de Voorlichtingsraad (VoRa)** en interdepartementale richtlijnen, allemaal geworteld in de **Uitgangspunten overheidscommunicatie** (geen imagebuilding, feitelijk en zakelijk bij nog niet aanvaard beleid, geen vermenging met partijpolitiek). Het verschil met generiek PR-vakwerk: het antwoord op "mag dit?" komt niet uit journalistieke codes, de Mediawet of aanbestedingsregels, maar uit een concreet benoemde Rijksrichtlijn met vaststellend orgaan en datum. Als die richtlijn niet in de bronnen van deze plugin zit, zeg je dát, in plaats van er een te verzinnen.
 
-Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). `.txt`-bestanden zijn tekstversies van de originele PDF's; regelnummers verwijzen naar die `.txt`.
+**Deze skill is een coach.** Jij geeft eerst kort advies: welke regel speelt en wat die zegt. Daarna bied je aan de casus samen per handeling te toetsen. Een uitgewerkte check met oordeel, regel, advies en verificatielijst maak je als de gebruiker daarom vraagt. Het besluit ligt bij de functionaris die de bron noemt, niet bij jou. Een tekst voor de journalist schrijf je niet: dat is woordvoering. Zie `grondregels.md`, regel 1 en regel 2.
+
+Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md). Lees `grondregels.md` in de pluginmap voordat je begint. `.txt`-bestanden zijn tekstversies van de originele PDF's; regelnummers verwijzen naar die `.txt`.
 
 ## Leestabel: welke bron bij welke vraag
 
@@ -24,24 +26,66 @@ Paden hieronder zijn relatief aan de pluginmap (twee niveaus boven deze SKILL.md
 
 **Leemten in de bronnen.** Voor **embargo**, **off the record**, **wederhoor**, **rectificatie** en de **Aanwijzingen externe contacten rijksambtenaren** (de 'Oekaze-Kok', in VoRa-jaarprogramma's genoemd als te versoepelen) bevat deze plugin geen rijksbrede regel. Dat is een vaststelling, geen vrijbrief: behandel zulke vragen als vakpraktijk, zeg expliciet dat er in de bronnen geen Rijksrichtlijn staat, en zet de regel die je wel vermoedt in de verificatielijst met `[te verifiëren]`.
 
-## Recept: van vraag naar oordeel
+Niet in deze map:
+
+- de eigen pers- en woordvoeringsafspraken van de organisatie, en de afstemroute (wie beslist, wanneer gaat het langs de SG of het kabinet van de bewindspersoon);
+- het integriteitsbeleid en de social-mediarichtlijn van de eigen organisatie;
+- de Wet open overheid zelf en de interne Woo-procedure;
+- eerdere besluiten over vergelijkbare casussen.
+
+Noem ze als actiepunt.
+
+## Stap 1: kort advies
+
+Lees de vraag en geef kort advies. Houd het echt kort: drie tot vijf zinnen in lopende tekst, geen lange lijst en geen extra kopjes. De rest komt pas in stap 3. Kies uit:
+
+- welke richtlijn hier speelt en wat die in de kern zegt (of dat er geen Rijksregel in de bronnen staat);
+- of de casus eigenlijk uit meer handelingen bestaat, die je apart moet toetsen;
+- wie volgens de bron beslist;
+- de toets aan de Uitgangspunten die het oordeel kan kantelen (beleid of persoon, aanvaard of niet-aanvaard beleid, partijpolitiek).
+
+Noem de bron. Wetten, artikelen en richtlijnen die niet in de bronnen staan vul je niet in: zie `grondregels.md`, regel 4. Raakt de vraag aan partijpolitiek of verkiezingstijd: regel 7, licht. Gaat het om een embargo, een lopend onderzoek of een niet-openbaar besluit: regel 3. Zoek je iets op over een journalist (bijvoorbeeld bij inhuur): alleen wat openbaar en in diens rol gepubliceerd is, geen profiel (regel 8).
+
+## Stap 2: hulp aanbieden
+
+Bied daarna in één of twee zinnen aan om verder te helpen, bijvoorbeeld:
+
+> Wil je dat we de casus samen per handeling toetsen? Ik stel steeds één vraag, en aan het eind heb je per handeling het oordeel, de regel met bron, wie beslist en wat je nog moet navragen.
+
+**Vraagt de gebruiker direct om het oordeel** ("mag dit, ja of nee?"):
+
+1. Zeg kort hoe je het aanpakt: per handeling de regel, de toets aan de Uitgangspunten en de beslisser.
+2. Zeg dat de skill bedoeld is als coach, maar dat je de check kunt uitwerken. Het besluit blijft bij de functionaris uit de bron.
+3. Werk daarna de check uit (stap 3).
+
+Licht, één keer, geen preek. Vraagt de gebruiker ook om de reactie aan de journalist: leg in één zin uit dat je woordvoering niet schrijft, omdat die politiek en bestuurlijk te gevoelig is, en verwijs naar woordvoering:persvraag-beantwoorden.
+
+## Stap 3: samen toetsen of uitgewerkte check (op verzoek)
+
+Toets je samen, stel dan één vraag per beurt (bijvoorbeeld: wie is de afzender, wordt er betaald, is het beleid al aanvaard?) en geef kort feedback. Werk je de check uit, volg dan dezelfde stappen. Feiten die je niet hebt, worden plaatshouders tussen rechte haken, zoals `[bedrag]` of `[datum aanvaarding]`.
+
 
 1. **Ontleed de casus** in losse handelingen. "Podcast betalen met de staatssecretaris als gast" zijn twee vragen (bijdrage aan content; optreden bewindspersoon). "Journalist belt over een Wikipedia-edit" is ook twee vragen (mocht de edit; wat zeg ik).
 2. **Zoek per handeling de rij in de leestabel** en lees het aangewezen bestand op de genoemde regels. Bepaal het oordeel in één van vier woorden: **toegestaan**, **niet toegestaan**, **professionele afweging** (regel bestaat, uitkomst hangt af van afwegingsvragen) of **geen Rijksregel in de bronnen**. Gebruikt de bron een zachte formulering ('zouden moeten', 'afgeraden', 'terughoudend'), houd dan het woord uit deze vier en citeer de modaliteit van de bron in de regel-regel; verzin geen vijfde label.
 3. **Leg de Uitgangspunten eronder.** Vraag bij elke handeling: gaat het over beleid of over de persoon van de bewindspersoon? Is het beleid al door het parlement aanvaard? Is er een partijpolitiek element? Een handeling die onder een specifieke richtlijn mag, kan hierop alsnog stranden (bijvoorbeeld: contentsamenwerking is een professionele afweging, maar over niet-aanvaard beleid mag er geen bijdrage).
 4. **Benoem de beslisser en de route.** Wie beslist volgens de bron: directeur Communicatie, SG, VoRa, bewindspersoon, beheerder van het organisatieaccount, AGFA. Noemt de bron geen beslisser (autorisatie interviews en inhuur journalisten spreken alleen van 'de voorlichter' of 'departementen'), zeg dat expliciet en adviseer de directeur Communicatie als escalatiepunt met `[te verifiëren]` in de verificatielijst. Een woordvoerder adviseert, hij neemt het besluit niet alleen.
 5. **Schrijf de bronvermelding uit** zoals het document zichzelf noemt: titel, vaststellend orgaan, datum (bijvoorbeeld "Richtlijn autorisatie interviews, VoRa, 16 november 2017"). Alleen bronnen die je daadwerkelijk hebt gelezen; alles wat je uit algemene kennis toevoegt (aanbestedingsregels, Wikimedia-voorwaarden, Raad voor de Journalistiek, Woo-artikelen) staat buiten de bronnen en gaat met `[te verifiëren]` naar de verificatielijst.
-6. **Moet er ook een tekst voor de journalist komen?** Dan **REQUIRED SUB-SKILL:** woordvoering:persvraag-beantwoorden voor de reactie zelf; jouw oordeel en de genoemde regel zijn de feitelijke input voor die skill. In citeerbare tekst nooit `[te verifiëren]` zetten; gebruik een terugvalformulering ("daar komen we op terug") en zet de twijfel in de verificatielijst.
+6. **Moet er ook een tekst voor de journalist komen?** Dan **REQUIRED SUB-SKILL:** woordvoering:persvraag-beantwoorden. Die skill coacht de woordvoerder; de reactie zelf schrijf je niet (regel 2). Jouw oordeel en de genoemde regel zijn de feitelijke input. Zet in citeerbare tekst nooit `[te verifiëren]`; die twijfel hoort in de verificatielijst.
 
 ## Output: dit lever je op
 
-Per handeling, in deze volgorde:
+**Na stap 1 en 2:** het korte advies met bron, en het aanbod.
+
+**Bij samen toetsen:** per beurt één vraag en feedback, met de bron. Heeft de gebruiker zelf al een oordeel of advies geschreven, geef dan feedback per onderdeel en doe hooguit een voorstel voor een zin of alinea.
+
+**Bij een uitgewerkte check op verzoek,** per handeling, in deze volgorde:
 
 - **Oordeel** in één van de vier woorden uit stap 2.
 - **Regel en bron**: wat de richtlijn letterlijk bepaalt (kort parafraseren, met regelnummer als het een `.txt` is) en de bronvermelding (titel, orgaan, datum). Bij "geen Rijksregel in de bronnen": die zin letterlijk.
 - **Advies** in 2–4 zinnen aan de vragensteller, met de uitgangspunten-toets uit stap 3 verwerkt.
 - **Wie beslist / escalatie**: de functionaris uit de bron.
 - Afsluitend één **verificatielijst** voor de hele casus: elke `[te verifiëren]`-claim op één regel, met waar je het zou nakijken (eigen directie Communicatie, Rijksoverheid.nl, DPC campagneonderzoek, CAR bij AZ).
+- **Eén zin om af te sluiten:** lees de check zeer goed na en leg hem voor aan wie beslist, vooral de regel, de datum van de bron en de beslisser. AI kan dingen verzinnen.
 
 ## Veelgemaakte fouten
 
@@ -53,3 +97,9 @@ Per handeling, in deze volgorde:
 - **Contentsamenwerking plat verbieden of plat toestaan.** Eerst classificeren (afzender, bijdrage, kanaal), dan de voorwaarden: aanvaard beleid, herkenbaar afzenderschap, geen bewindspersoon in de content, akkoord directeur Communicatie.
 - **Privékwestie met een plat "nee" afdoen.** De richtlijn kent twee uitzonderingen en legt het besluit bij de SG; het departement mag meedenken en informeren. Anders adviseer je de politiek assistent verkeerd.
 - **Een leemte opvullen met vakpraktijk zonder dat te zeggen.** Bij embargo of off the record is "er is geen rijksbrede regel in de bronnen" het eerlijke antwoord, gevolgd door praktijkadvies met `[te verifiëren]`.
+- **Meteen het hele recept doorlopen zonder eerst advies.** Eerst drie tot vijf zinnen advies, dan het aanbod.
+- **Op een direct verzoek een oordeel geven zonder aanpak, zonder beslisser of zonder naleesoproep.** Zeg kort hoe je toetst, noem wie beslist en sluit af met de naleesoproep.
+- **Toch de reactie aan de journalist schrijven, ook "als opzet".** Woordvoering schrijf je niet; verwijs naar persvraag-beantwoorden.
+- **Bij meekijken het hele advies van de gebruiker herschrijven.** Feedback per onderdeel; hooguit een voorstel voor een zin of alinea.
+- **Meerdere vragen tegelijk stellen.** Eén vraag per beurt.
+- **Een journalist doorlichten bij een inhuurvraag.** Kijk alleen naar wat openbaar en in diens rol is gepubliceerd; geen profiel (regel 8).

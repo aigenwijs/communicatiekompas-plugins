@@ -12,7 +12,7 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### Woordvoering bij de Rijksoverheid (`woordvoering`, versie 0.2.2)
+### Woordvoering bij de Rijksoverheid (`woordvoering`, versie 0.3.0)
 
 Woordvoering zoals de Rijksoverheid het afspreekt: dilemmalogica, kernboodschap (kijk-want-dus), uitgangspunten overheidscommunicatie en persreacties, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -29,7 +29,11 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### Communicatieadvies bij de Rijksoverheid (`communicatieadvies`, versie 0.1.2)
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
+een `echo` uit en verstuurt niets.
+
+### Communicatieadvies bij de Rijksoverheid (`communicatieadvies`, versie 0.2.0)
 
 Communicatieadvies zoals de Rijksoverheid het afspreekt (Factor C): intake en debriefing, omgevingsanalyse, publieksonderzoek, communicatiestrategie, kernboodschap, communicatieplan, evaluatie en verantwoording, en de adviesrol in een politiek-bestuurlijke omgeving, gebaseerd op communicatiekompas.nl en communicatierijk.nl.
 
@@ -47,7 +51,11 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.3.1)
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
+een `echo` uit en verstuurt niets.
+
+### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.4.0)
 
 Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.
 
@@ -65,7 +73,11 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-### Factor C-hulpmiddelen bij de Rijksoverheid (`factorc-hulpmiddelen`, versie 0.2.0)
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
+een `echo` uit en verstuurt niets.
+
+### Factor C-hulpmiddelen bij de Rijksoverheid (`factorc-hulpmiddelen`, versie 0.3.0)
 
 De hulpmiddelen van Factor C, de werkwijze voor communicatie van de Rijksoverheid, als losse skills: per tool van communicatiekompas.nl/hulpmiddelen (intake, debriefing, SWOT, actoren-inventarisatie, omgevingsscan, belangen- en vertrouwenmatrix, macht- en invloedanalyse, ringen van invloed, beweegredenen-matrix, persona, klantreis, communicatiestrategie, framing, CASI, communicatieplan, kijk-want-dus, message box, message house, kritiek-repliek, dilemmalogica, teksten, middelenkeuze, briefing, evenementen, communicatiekalender, media-analyse) een eigen skill, plus een skill die per fase het passende hulpmiddel kiest.
 
@@ -105,11 +117,11 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-In Claude Code meldt deze plugin bij de start van elke sessie (SessionStart-hook) welke
-hulpmiddelen er zijn, zodat de assistent ze uit zichzelf kan aanbieden. De hook voert alleen
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
 een `echo` uit en verstuurt niets.
 
-### Beeld bij de Rijksoverheid (`beeld-rijksoverheid`, versie 0.1.0)
+### Beeld bij de Rijksoverheid (`beeld-rijksoverheid`, versie 0.2.0)
 
 Praktische beeldskills voor iedereen bij de Rijksoverheid, gebaseerd op Beeldkompas, communicatierijk.nl en communicatiekompas.nl: advies over beeld (ook ongevraagd meekijken), rechten en privacy checken (inclusief waarschuwing bij foto's met mensen in een AI-tool), beeld toegankelijk maken (alt-tekst, ondertiteling, contrast), informatie visualiseren, beeld controleren op inclusie, stereotypen en echtheid, zelf beeld maken, een beeldmiddel kiezen, een beeldbriefing schrijven, een beeldstijl bepalen en een abstract onderwerp verbeelden.
 
@@ -129,8 +141,8 @@ Skills:
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
 
-In Claude Code meldt deze plugin bij de start van elke sessie (SessionStart-hook) welke
-hulpmiddelen er zijn, zodat de assistent ze uit zichzelf kan aanbieden. De hook voert alleen
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
 een `echo` uit en verstuurt niets.
 
 ## Installeren in de Codex-app (ChatGPT)
